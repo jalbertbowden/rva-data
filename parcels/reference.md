@@ -1,0 +1,2 @@
+Parcels in Richmond, Virginia as of 2018-06-15; scraped from: [Parcels - ESRI ArcGIS REST Feature Server](http://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services/Parcels/FeatureServer/0).  
+Further reference at [Richmond Parcel Mapper](http://cor.maps.arcgis.com/apps/webappviewer/index.html?id=c3ed34c0fb38441fb95cd2d2d6a22d48/).
