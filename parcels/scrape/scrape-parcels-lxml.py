@@ -54,8 +54,13 @@ for headerLabel,headerValue in zip(propAddressHeaderLabels,propAddressHeaderDeta
 	propAddressHeaderOutput.append(headerRow)
 	#print headerLabel, headerValue
 
-print propAddressHeaderOutput
+#print propAddressHeaderOutput
 
+"""
+parcel property section headers
+"""
+
+# parcel property section headers values
 tabHeadings = tree.xpath('//fieldset[@class="detailSet"]/legend/text()')
 
 tabHeaders = []
@@ -64,6 +69,12 @@ for tabHeader in tabHeadings:
 #print "fieldset legend headers"
 #print tabHeaders
 
-#column_labels_list = soup.find(class_="columnLabel")
-#field_values_list = soup.find(class_="fieldValue")
+# labels span[@class="columnLabel")
+# values span[@class="fieldValue")
 
+res_dict = {"parcel": propAddressHeaderOutput + tabHeaders }
+to_json = json.dumps(res_dict)
+
+
+with open('test-output.json', 'w') as outfile:
+	json.dump(to_json, outfile)
