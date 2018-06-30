@@ -1,0 +1,240 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "Imported at Fri Jan 19 08:54:28 PST 2018 from Master_East_End_Gravestones.xlsx.",
+  "exportable": true,
+  "dc:title": "Master_East_End_Gravestones",
+  "dc:modified": "2018-01-19T16:54:31Z",
+  "dc:identifier": "1CZ_qMUGzh3F2mcbiEaJFyI-9huXhm8206RaeeHos",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false
+    },
+    {
+      "datatype": "location",
+      "name": "col1",
+      "validateData": false,
+      "title": "lat",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col1",
+        "longitudeColumn": "col2"
+      }
+    },
+    {
+      "datatype": "double",
+      "name": "col2",
+      "validateData": false,
+      "title": "long",
+      "latitudeLongitudeColumns": {
+        "latitudeColumn": "col1",
+        "longitudeColumn": "col2"
+      }
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "GIS_ID"
+    },
+    {
+      "datatype": "double",
+      "name": "col4",
+      "validateData": false,
+      "title": "FindGrave_ID"
+    },
+    {
+      "datatype": "string",
+      "formatPattern": "<a href='%1$s'>%1$s<\/a>",
+      "name": "col5",
+      "validateData": false,
+      "title": "URL"
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false,
+      "title": "Prefix"
+    },
+    {
+      "datatype": "string",
+      "name": "col7",
+      "validateData": false,
+      "title": "Last_Name"
+    },
+    {
+      "datatype": "string",
+      "name": "col8",
+      "validateData": false,
+      "title": "First_Name"
+    },
+    {
+      "datatype": "string",
+      "name": "col9",
+      "validateData": false,
+      "title": "Middle_Name"
+    },
+    {
+      "datatype": "string",
+      "name": "col10",
+      "validateData": false,
+      "title": "Suffix"
+    },
+    {
+      "datatype": "string",
+      "name": "col11",
+      "validateData": false,
+      "title": "Maiden_Name"
+    },
+    {
+      "datatype": "string",
+      "name": "col12",
+      "validateData": false,
+      "title": "Nickname"
+    },
+    {
+      "datatype": "double",
+      "name": "col13",
+      "validateData": false,
+      "title": "Birth_Month"
+    },
+    {
+      "datatype": "double",
+      "name": "col14",
+      "validateData": false,
+      "title": "Birth_Day"
+    },
+    {
+      "datatype": "double",
+      "name": "col15",
+      "validateData": false,
+      "title": "Birth_Year"
+    },
+    {
+      "datatype": "double",
+      "name": "col16",
+      "validateData": false,
+      "title": "Death_Month"
+    },
+    {
+      "datatype": "double",
+      "name": "col17",
+      "validateData": false,
+      "title": "Death_Day"
+    },
+    {
+      "datatype": "double",
+      "name": "col18",
+      "validateData": false,
+      "title": "Death_Year"
+    },
+    {
+      "datatype": "string",
+      "name": "col19",
+      "validateData": false,
+      "title": "Death_Primary"
+    },
+    {
+      "datatype": "string",
+      "name": "col20",
+      "validateData": false,
+      "title": "Death_Secondary"
+    },
+    {
+      "datatype": "string",
+      "name": "col21",
+      "validateData": false,
+      "title": "Codes"
+    },
+    {
+      "datatype": "double",
+      "name": "col22",
+      "validateData": false,
+      "title": "Age_death"
+    },
+    {
+      "datatype": "string",
+      "name": "col23",
+      "validateData": false,
+      "title": "Occupation"
+    },
+    {
+      "datatype": "string",
+      "name": "col24",
+      "validateData": false,
+      "title": "Marital_Status"
+    },
+    {
+      "datatype": "string",
+      "name": "col25",
+      "validateData": false,
+      "title": "Address"
+    },
+    {
+      "datatype": "string",
+      "name": "col26",
+      "validateData": false,
+      "title": "PDF_Certificate"
+    },
+    {
+      "datatype": "string",
+      "name": "col27",
+      "validateData": false,
+      "title": "Military_Service"
+    },
+    {
+      "datatype": "string",
+      "name": "col28",
+      "validateData": false,
+      "title": "Service _Information"
+    },
+    {
+      "datatype": "string",
+      "name": "col29",
+      "validateData": false,
+      "title": "Marker_Count"
+    },
+    {
+      "datatype": "string",
+      "name": "col30",
+      "validateData": false,
+      "title": "Stone_Broken"
+    },
+    {
+      "datatype": "string",
+      "name": "col31",
+      "validateData": false,
+      "title": "Fraternal_Organization"
+    },
+    {
+      "datatype": "string",
+      "name": "col32",
+      "validateData": false,
+      "title": "Notes"
+    },
+    {
+      "datatype": "string",
+      "name": "col33",
+      "validateData": false,
+      "title": "Marker_Transcription"
+    },
+    {
+      "datatype": "string",
+      "name": "col34",
+      "validateData": false,
+      "title": "Collected_By"
+    },
+    {
+      "datatype": "string",
+      "name": "col35",
+      "validateData": false,
+      "title": "Collection_Date"
+    },
+    {
+      "datatype": "string",
+      "name": "col36",
+      "validateData": false,
+      "title": "CollectedBy"
+    }
+  ]}
+}
