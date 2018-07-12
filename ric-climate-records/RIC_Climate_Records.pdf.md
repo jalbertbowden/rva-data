@@ -1,0 +1,1 @@
+[https://www.weather.gov/media/akq/climateRECORDS/RIC_Climate_Records.pdf](https://www.weather.gov/media/akq/climateRECORDS/RIC_Climate_Records.pdf)
