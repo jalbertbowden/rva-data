@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "block-2010-id-0203002039",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "0203002039", "Name": "2039", "STFID": "517600203002039", "AdoptionDa": "2011\/01\/01", "EditBy": null, "EditDate": null, "GlobalID": "{0A3A9296-B510-40B2-BA87-AC98E553C1E3}", "Shape_Leng": 451.36534827700001, "Shape_Area": 8639.2833373800004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 11796992.999650359153748, 3721747.000127106904984 ], [ 11796877.409002274274826, 3721744.482743680477142 ], [ 11796985.256883695721626, 3721896.312164440751076 ], [ 11796992.999650359153748, 3721747.000127106904984 ] ] ] } }
+]
+}
