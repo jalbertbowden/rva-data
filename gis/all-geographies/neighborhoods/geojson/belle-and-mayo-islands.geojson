@@ -1,0 +1,873 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4562911441087,
+        37.5269844677396,
+        -77.4332586005631,
+        37.5329533373003
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "0 Lee Bridge",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "240812-101000092276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507833019508,
+                    37.5297578009772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "0 Vauxhall Island",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "101000051077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4348915446735,
+                    37.5313989157719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000019731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000052611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050683",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050692",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000050696",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000051081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000052626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000060506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000069005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000085475",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911441087,
+                    37.5277351672791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000088200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 B Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000098616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562911440706,
+                    37.5277351700254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000113513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4516766074966,
+                    37.5289702908674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "251702-101000101463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4506529975173,
+                    37.5294028072595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 C Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000052618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549529882759,
+                    37.5269844677396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 C Belle Isle",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "101000098617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549529882759,
+                    37.5269844677396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "226351-101000078643",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4332586005631,
+                    37.5315033009723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "251703-101000101462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4491471471836,
+                    37.5329533373003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "211408-101000066545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338030011814,
+                    37.5300172032173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "240643-101000091993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338030011814,
+                    37.5300172032173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Old South-1"
+            },
+            "id": "216482-101000070277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507833019508,
+                    37.5297578009772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "199292-101000057010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4428522890504,
+                    37.5318588031014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "204808-101000061381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4428522890504,
+                    37.5318588031014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Belle and Mayo Islands",
+                "PRECINCT": true,
+                "NSA": "Downtown-2"
+            },
+            "id": "204809-101000061382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4428522890504,
+                    37.5318588031014
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.481825430029,
+        37.5321225973734,
+        -77.4746595203037,
+        37.5384673084777
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Hampton St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000107064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4782411178502,
+                    37.5344194153654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 Hampton St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "246173-101000096599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4747930844335,
+                    37.5336095240129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Hampton St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000052359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746595203037,
+                    37.5333532603316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Hampton St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000053843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746595203037,
+                    37.5333532603316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Shields Lake Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000048960",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4754057160936,
+                    37.5383286787584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Shields Lake Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "263608-101000108297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4754057160936,
+                    37.5383286787584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2350-2362 Park Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "201814-101000059143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481825430029,
+                    37.534798521846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "N Bank Trail",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "230362-101000082204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4770377559766,
+                    37.5321225973734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Shields Lake Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000122550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4749193279886,
+                    37.5384673084777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Shields Lake Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Maymont Park",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000122551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4749193279886,
+                    37.5384673084777
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

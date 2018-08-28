@@ -1,0 +1,3297 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4437087658794,
+        37.5495623644793,
+        -77.4292961779009,
+        37.5552242680994
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 W Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000101956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345873859174,
+                    37.5536494487088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 1/2 E Baker St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000114359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355223381515,
+                    37.5505699125399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 E Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000052625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318603395126,
+                    37.5548692445629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 E Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000097038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318603395126,
+                    37.5548692445629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "101 E Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "255540-101000103624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435132616491,
+                    37.5513229334806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000035689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353283803127,
+                    37.5514282422523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000100899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353283802738,
+                    37.5514282449985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000043990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353283802738,
+                    37.5514282449985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000106209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353283803127,
+                    37.5514282422523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000101868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334169146353,
+                    37.550487592693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000036485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334169146353,
+                    37.550487592693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000049129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324360075768,
+                    37.5499353549844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 St John St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000110705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43733016868,
+                    37.5521887267058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000112939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4383837873648,
+                    37.5523652710778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000009706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349167848286,
+                    37.5513192288393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1008 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "259898-101000106388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4351245922629,
+                    37.5516263177027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1014 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000049362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404522929686,
+                    37.5529511845743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1014 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000013913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433938509053,
+                    37.5513971294156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1014 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000076661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433938509053,
+                    37.5513971294156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1018 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000112798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4385698428977,
+                    37.5526186697242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1023 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "255539-101000103623",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345027641803,
+                    37.5520335034184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1026 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000033174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406432241356,
+                    37.5530012299748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1028 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "280640-101000118305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306444832119,
+                    37.5504377996927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "104 W Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000013423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4368780990738,
+                    37.5529236354785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1058 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000088852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4386021202517,
+                    37.5529126974218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1060 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4386600635839,
+                    37.5529063139991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1062 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000025718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437849473937,
+                    37.5529251066003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "108 W Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000059856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372314340856,
+                    37.5530256653445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 W Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000025716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373021309346,
+                    37.553044456482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 W Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373021309346,
+                    37.553044456482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 W Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373021309346,
+                    37.553044456482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1104 St John St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000117449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4365729743637,
+                    37.5532374125388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000048185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334159890747,
+                    37.5520016170196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000075943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376407778821,
+                    37.5531850387247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1102 St James St Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000109045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354018080474,
+                    37.5528127659286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1103 St Paul St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000014099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370789975113,
+                    37.5532517770231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1105 St James St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000106819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349681525659,
+                    37.5526434655286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1105 St James St Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000053399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349681525659,
+                    37.5526434655286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1106 St John St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000052652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367473953018,
+                    37.553349715179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1125 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000046698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394910661463,
+                    37.5531326692928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1160 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000049208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372645250011,
+                    37.5535960372899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1160 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000080069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372645250011,
+                    37.5535960372899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1168 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000117005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4374484674067,
+                    37.5536547949476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "120 E Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000101965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316803848422,
+                    37.5547072133824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "120 E Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000106238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316803848422,
+                    37.5547072133824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200-1298 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "243825-101000094813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4419489857137,
+                    37.5535567619086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "218039-101000071505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418390471325,
+                    37.5533602096204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000046473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334625276676,
+                    37.5527818715577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 N 1st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000116510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334625276676,
+                    37.5527818715577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1202 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000076418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336899220889,
+                    37.5532474369134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1202 St Paul St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000064833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4369416184653,
+                    37.5540425068269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1206 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "214854-101000068990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320383969738,
+                    37.5531838025312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1206 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000068445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355098279949,
+                    37.5532190452665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1206 St John St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000080741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436402857744,
+                    37.5537351338592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1206A N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "226882-101000079191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320907698473,
+                    37.5531349185813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207A N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "253041-101000102417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331476741205,
+                    37.5534325084349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1212 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000095096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349890364738,
+                    37.5532000645421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1225 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000055060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4395298111511,
+                    37.5533744573418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000104279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43429146616,
+                    37.5540162947482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 St Peter St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000066366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388407476648,
+                    37.5533937036526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 Valley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "246402-101000096966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322278840664,
+                    37.5552242680994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301-1499 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "218577-101000071968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317412632452,
+                    37.5537930618841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301-1499 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "223815-101000076317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4315784225151,
+                    37.5542765379954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1302 N 1st St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000050110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331986815798,
+                    37.5537981579653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1307 St John St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000055798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43454995434,
+                    37.5546520946533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000031423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319020480781,
+                    37.5540997957959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000097281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319020480781,
+                    37.5540997957959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000052301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319020480781,
+                    37.5540997957959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "246279-101000096830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319020480781,
+                    37.5540997957959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "226887-101000079192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316786611283,
+                    37.5541343729604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "250267-101000100101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4315693732226,
+                    37.5544495802519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 St James St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000051510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333369989452,
+                    37.5544438024522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 St James St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000054352",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333369989452,
+                    37.5544438024522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1414 St Peter St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000058457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4383734281015,
+                    37.5536383749075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000097780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339585199276,
+                    37.5549186604583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339585199276,
+                    37.5549186604583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 St James St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339585199276,
+                    37.5549186604583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15 W Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000020502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4369363565346,
+                    37.5517146150341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1821 N Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "233877-101000085163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434255260429,
+                    37.5528073995902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1st St @ Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000069491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433163531936,
+                    37.5534721960604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "261324-101000107187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320259739076,
+                    37.553378281569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000027961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316627218171,
+                    37.5534160812172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000107505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316627218171,
+                    37.5534160812172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000033969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316627218171,
+                    37.5534160812172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "261076-101000106882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319989531459,
+                    37.5535633896904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "254355-101000103040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318908250401,
+                    37.5537316037031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000102294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384047403861,
+                    37.5523545905536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000050018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384047403861,
+                    37.5523545905536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000020635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364041919535,
+                    37.5545671849542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000073274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364041919146,
+                    37.5545671877004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "236234-101000087575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364041919146,
+                    37.5545671877004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "202 W Coutts St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "254539-101000103231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373931981434,
+                    37.5540161145286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "203 W Hill St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000076123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372151926716,
+                    37.5542059074515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "205 W Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "277288-101000115547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4374437464692,
+                    37.5543376426954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "206 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000092593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.431233573657,
+                    37.5535560455535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 B Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000054408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304855240603,
+                    37.5533006132919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 B Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000082593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304855240603,
+                    37.5533006132919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000084456",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308315236106,
+                    37.5529890357284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000089399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308315236106,
+                    37.5529890357284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 Hospital St Apt G2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000081957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308315236106,
+                    37.5529890357284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000111285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320734636427,
+                    37.553165645017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000102953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320734636427,
+                    37.553165645017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000024681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320734636427,
+                    37.553165645017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000060197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381573171428,
+                    37.5540006880579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "277289-101000115549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.438140298213,
+                    37.5540258946007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 W Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000038895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4393965414741,
+                    37.5525386225427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "305 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000099197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389265590387,
+                    37.5536810280466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "311 Bates St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000112967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325428408342,
+                    37.5502586065069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "316 E Baker St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000081481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330676931757,
+                    37.5495623644793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "407 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000025917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404498940186,
+                    37.5535862794657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "407 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000066282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404498940186,
+                    37.5535862794657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "413 Calhoun St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000073626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406318631869,
+                    37.5535771636207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000100968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292961779009,
+                    37.5515415263213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000044371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292961779009,
+                    37.5515415263213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000065468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292961779009,
+                    37.5515415263213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000101421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292961779009,
+                    37.5515415263213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6 E Federal St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000015824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347127205387,
+                    37.552274189495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6 E Federal St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000015825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347127205387,
+                    37.552274189495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8 W Charity St Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000100782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366955581761,
+                    37.5519613104625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8 W Charity St Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000042049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366955581761,
+                    37.5519613104625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000046356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359073488735,
+                    37.5509263480212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000081466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406960271307,
+                    37.5523364473704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "904 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000063782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357367838231,
+                    37.5509734312336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "904 St Paul St Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000061484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4390160801308,
+                    37.5517995286865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "912 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000003972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327523600386,
+                    37.549637712802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "912 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000114315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327523600776,
+                    37.5496377100558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "913 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000014700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352540048494,
+                    37.5509557787355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "913 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000014746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352540048494,
+                    37.5509557787355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "913 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000016993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352540048494,
+                    37.5509557787355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "913 N 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000026855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352540048494,
+                    37.5509557787355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "914 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "236300-101000087691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433606586036,
+                    37.5502633997046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "914 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000068068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327156837146,
+                    37.5496746095416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "916 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "261674-101000107318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345092794448,
+                    37.5507392872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Baker St @ Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000094992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409337505155,
+                    37.5520059931985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Baker St @ Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000039003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409337505155,
+                    37.5520059931985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000095002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000045903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000102639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brook Road @ Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000102047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4411227415879,
+                    37.5526857564302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brook Road @ Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000040583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4411227415879,
+                    37.5526857564302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brook Road @ Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000104617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4411227415879,
+                    37.5526857564302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Charirty St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "198597-101000056296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4393119885374,
+                    37.5523992007762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Charity St @ St John St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "198253-101000056206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373002121214,
+                    37.5519188011857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Charity St @ St Peters St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000113802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4392635034824,
+                    37.5524027550328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Federal St @ 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000075724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43449135945,
+                    37.5520373834411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Federal St @ St Pauls St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000095088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376486642717,
+                    37.5529590347912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Federal St @ St Pauls St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000025518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376486642717,
+                    37.5529590347912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hill St @ 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000111113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320734636427,
+                    37.553165645017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hill St @ St Peters St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000077606",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373476117171,
+                    37.5543879550045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000029476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320734636427,
+                    37.553165645017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000066042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292961779009,
+                    37.5515415263213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St James St @ Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000070257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355619707147,
+                    37.5523386016583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St James St @ Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000070258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355619706758,
+                    37.5523386044046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St James St @ Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000073768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355619706758,
+                    37.5523386044046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St John St @ Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000076078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435314777926,
+                    37.5540614429088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St Pauls St @ Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000070251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376486642717,
+                    37.5529590347912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St Pauls St @ Federal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000070254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376486642717,
+                    37.5529590347912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St Pauls St @ Hill St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000070256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363718064016,
+                    37.5543520505646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St Peters St @ Coutts St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000025515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378697541053,
+                    37.553914070628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "St Peters St @ Charity St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000120442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4392635034824,
+                    37.5524027550328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 Hospital St Apt 306",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000122060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308315236106,
+                    37.5529890357284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "308 Preston St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000123858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327238146753,
+                    37.5502437865415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1008 St James St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000120848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362758514004,
+                    37.5524153064218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1302 N 1st St Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Gilpin",
+                "PRECINCT": "4",
+                "NSA": "North-6"
+            },
+            "id": "101000120225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331987160739,
+                    37.5537981582756
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

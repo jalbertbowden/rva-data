@@ -1,0 +1,716 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.404444874321,
+        37.5240159727341,
+        -77.388361333457,
+        37.543296523511
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 Stony Run Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000019408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3896398919343,
+                    37.5355705223256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705-1747 Stoney Run Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "199015-101000056752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3902762629188,
+                    37.5358024345728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Jennie Scher Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000061122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3921213991435,
+                    37.5291650617917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2309 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "240467-101000091753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3958410167669,
+                    37.5337940988595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000099823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3988299063032,
+                    37.5420207483256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3511 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000100699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948927077534,
+                    37.5333991004713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3511 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000100703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948927077534,
+                    37.5333991004713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3511 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000100704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948927077534,
+                    37.5333991004713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3511 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000100705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948927077534,
+                    37.5333991004713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3511 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000100706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948927077534,
+                    37.5333991004713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000104317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.388361333457,
+                    37.5328675782387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000104695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.388361333457,
+                    37.5328675782387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000013700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3936036697974,
+                    37.5315690267788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 East Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000030391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3936036697974,
+                    37.5315690267788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "39th St @ Crestview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000110384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.404444874321,
+                    37.5256985542303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "39th St @ M St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000094767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028199969231,
+                    37.5273939597167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "39th St @ M St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000044477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028199969231,
+                    37.5273939597167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "39th St @ M St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000110391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028199969231,
+                    37.5273939597167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4800 Stony Run Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "197671-101000055627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3920232059924,
+                    37.5332186014009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4800 Stony Run Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "197672-101000055629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3920232059924,
+                    37.5332186014009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crestview Road @ 39th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000112207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.404444874321,
+                    37.5256985542303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crestview Road @ Government Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-3"
+            },
+            "id": "101000113781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4036810324033,
+                    37.5240159727341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crestview Road @ Government Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000113781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4036810324033,
+                    37.5240159727341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "E Richmond Road @ 35th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000085944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3958561145272,
+                    37.5338064260774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jennie Scher Road @ E Richmond Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "233721-101000084986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3916535838327,
+                    37.530783500692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "M St @ 39th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000112193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028199969231,
+                    37.5273939597167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Melton Ave @ Canepa St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000023142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3996937599862,
+                    37.5348192062989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966652891106,
+                    37.543296523511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000006098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966652891106,
+                    37.543296523511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stoney Run Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000061896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3896507636248,
+                    37.5370271180513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ Canepa St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000029846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999236929539,
+                    37.5356048051563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ Canepa St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000103762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999236929539,
+                    37.5356048051563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ Canepa St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000034468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999236929539,
+                    37.5356048051563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000124705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3987435189467,
+                    37.5352931268193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021-3029 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Oakwood Cemetery",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "285576-101000122702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3998034855694,
+                    37.5419447231836
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

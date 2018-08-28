@@ -1,0 +1,4777 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5185334661323,
+        37.5338503188766,
+        -77.5078259802038,
+        37.5459616063278
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124621201273,
+                    37.5362611321241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124621201273,
+                    37.5362611321241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2729 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000030794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5112588266995,
+                    37.5363374120548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2729 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000030795",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5112588266995,
+                    37.5363374120548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2740 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000102627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116332979486,
+                    37.5370001886748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2740 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113642",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116332979486,
+                    37.5370001886748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2800 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000006499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147235961272,
+                    37.5370061797367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2800 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147235961272,
+                    37.5370061797367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000077607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514359629303,
+                    37.5368212341076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000089168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514359629303,
+                    37.5368212341076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000103349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514359629303,
+                    37.5368212341076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "238996-101000090311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111870129834,
+                    37.5373106001101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5146013620795,
+                    37.5373403352943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000039964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160572568255,
+                    37.5372207563506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000087798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108676291557,
+                    37.5366606192413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000090056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158189137609,
+                    37.5375669020212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000119537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158189137609,
+                    37.5375669020212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194917-101000053320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.515883601842,
+                    37.5375865989254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2819 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000100936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114608717459,
+                    37.5376407993864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2820 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510634683798,
+                    37.5373103779671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2820 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000057361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510634683798,
+                    37.5373103779671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2820 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106346837619,
+                    37.5373103807133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2820 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000077035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106346837619,
+                    37.5373103807133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2820 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000091943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106346837619,
+                    37.5373103807133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2825 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5151710129422,
+                    37.5375821972864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122010838605,
+                    37.5376796644377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122010838605,
+                    37.5376796644377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122010838605,
+                    37.5376796644377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2832-2840 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "206026-101000062273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135345518988,
+                    37.5382194528571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2833 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5133324079519,
+                    37.537879882718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2848 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134128726577,
+                    37.5386816006285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2848 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134128726577,
+                    37.5386816006285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2848 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000110914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134128726577,
+                    37.5386816006285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2850 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5103169749221,
+                    37.5382180430638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2860 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100338694191,
+                    37.5385011549255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2860 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100338694191,
+                    37.5385011549255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2861 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000071791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095005749949,
+                    37.5381890984385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2870 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5096882442583,
+                    37.5387595550553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2870 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000100879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5096882442583,
+                    37.5387595550553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2880 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000012114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5092944594233,
+                    37.5390106606472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2880 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000025100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5092944593871,
+                    37.5390106633935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2881 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5086505718644,
+                    37.5386473347051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2881 Braidwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5086505718644,
+                    37.5386473347051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2901 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125199824611,
+                    37.5388535238342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2901 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125199824611,
+                    37.5388535238342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2905 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000100208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149436133479,
+                    37.5377929534539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2905 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149436133479,
+                    37.5377929534539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2905 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149436133479,
+                    37.5377929534539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2905 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149436133479,
+                    37.5377929534539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2911 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000086163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5110719365763,
+                    37.538211069365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147280173814,
+                    37.5380582822004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2921 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510896338126,
+                    37.5385286125816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2924 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "195114-101000053544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124704853043,
+                    37.5400194002345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2930 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000115424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5112940558722,
+                    37.5391002503258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2932 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000105269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121899899281,
+                    37.5402798524326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2932 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121899899281,
+                    37.5402798524326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2940 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5118944806838,
+                    37.5405855104924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2940 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5118944806838,
+                    37.5405855104924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2949 Skipton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111335167184,
+                    37.5405225647974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2950 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108477312215,
+                    37.5396328004507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2950 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000100503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108477312215,
+                    37.5396328004507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2951 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "196795-101000054615",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5102879842334,
+                    37.539306599244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2960 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106346475907,
+                    37.5398734595989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2970 Westchester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5103749637441,
+                    37.5402163209442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3002 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154181752171,
+                    37.5391962778975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3002 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000039966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154181752171,
+                    37.5391962778975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3002 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "245744-101000096267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154181752171,
+                    37.5391962778975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3002 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "255838-101000103749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154181752171,
+                    37.5391962778975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3005 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164002454894,
+                    37.5393995554348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3005 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000096697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164002454894,
+                    37.5393995554348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169925498146,
+                    37.5396515333212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3011 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134837693441,
+                    37.5396737333172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3011 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000085228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134837693441,
+                    37.5396737333172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3012 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000030377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154054355842,
+                    37.5395105796061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3012 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154054355842,
+                    37.5395105796061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168288763755,
+                    37.5399028742077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168288764114,
+                    37.5399028714614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168288763755,
+                    37.5399028742077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000115476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168288764114,
+                    37.5399028714614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "206751-101000063047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5140341149701,
+                    37.5398449004685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "214886-101000069039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.516092298874,
+                    37.5398770018962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "218714-101000072071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.516092298874,
+                    37.5398770018962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "226486-101000078668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5161437935552,
+                    37.5398902913147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160762530836,
+                    37.5399091680366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "220646-101000073525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5161895885319,
+                    37.5399780278214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3022 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.513882477009,
+                    37.540116650875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3029 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "233799-101000085025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159195441462,
+                    37.5401551795207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3029 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "234685-101000085965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159195441462,
+                    37.5401551795207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3029 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "235138-101000086466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159195441462,
+                    37.5401551795207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3030 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137087112613,
+                    37.5403686918304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3031 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5131756622005,
+                    37.5401198659262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3031 Marlboro Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "224839-101000077122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5131419084203,
+                    37.5401556003442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3035 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5146403210734,
+                    37.5401385334309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3038 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135279700167,
+                    37.5405923494097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3038 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135279700167,
+                    37.5405923494097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3038 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135279700167,
+                    37.5405923494097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3038 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5150616003112,
+                    37.5403626171465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3039 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129863887585,
+                    37.5403496670996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3043 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000049633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514462063442,
+                    37.5404071547032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3046 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000004325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5148778851984,
+                    37.5406792773602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000030683",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000033482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816338,
+                    37.5413131503537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514488816302,
+                    37.5413131531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "206388-101000062544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5145351880188,
+                    37.5413384002531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5141313133818,
+                    37.5408915447877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3110 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000089914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5131835098383,
+                    37.5410538402508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3110 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "241356-101000092644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5131996124483,
+                    37.5410883994248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3111 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5156934032091,
+                    37.5406802972478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3112 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000089074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162321792735,
+                    37.5408746074523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.513852963632,
+                    37.541385644889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124706229763,
+                    37.5411037440037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124706229763,
+                    37.5411037440037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136839621566,
+                    37.5416344982079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153693165948,
+                    37.5411884129584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153693165948,
+                    37.5411884129584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000037676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153693165948,
+                    37.5411884129584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045456",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000115893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158733660214,
+                    37.5413507714691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3129 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000054997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123266684865,
+                    37.5413256270541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3129 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123266685226,
+                    37.5413256243078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3129 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194138-101000052919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123574120983,
+                    37.5413458010912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3134 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5140287615577,
+                    37.5421621476551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3142 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000068575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137385531812,
+                    37.5424239673142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3200 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000084556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125841613097,
+                    37.5424147948963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3210 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124186192577,
+                    37.5428750324342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115619804349,
+                    37.5424791041711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115619804349,
+                    37.5424791041711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115619804349,
+                    37.5424791041711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000049551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115619804349,
+                    37.5424791041711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3214 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154440740023,
+                    37.5419722123054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3214 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154440740023,
+                    37.5419722123054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3215 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514957410709,
+                    37.5418252562528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000091307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120908377854,
+                    37.5430372394477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3240 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149485737934,
+                    37.5427338423589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3246 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147234003941,
+                    37.5429314138822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3246 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147234003581,
+                    37.5429314166284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3246 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147234003581,
+                    37.5429314166284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3309 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129895355648,
+                    37.5433988333759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3310 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000022674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5144708215877,
+                    37.5434669934072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3311 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5138882198038,
+                    37.5436122445181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3318 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000076688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5143923333799,
+                    37.5437838654974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3431 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5131422770739,
+                    37.5447357356511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3447 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128017538748,
+                    37.5452897942639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3450 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132907106791,
+                    37.5455288281995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3464 Northview Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128457069358,
+                    37.5459616063278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6200 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000119393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099855115181,
+                    37.5356152430736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6400 Westchester Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000024473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5083186077037,
+                    37.5401600868834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6402 Westchester Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5087765548364,
+                    37.5398698774181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6405 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000114051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098816519593,
+                    37.5406097528393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6408 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5093195974165,
+                    37.5411283861337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6408 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000119570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5093195974165,
+                    37.5411283861337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6416 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000062156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095914710529,
+                    37.5414185831703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6416 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207217-101000063396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.509613210162,
+                    37.5414310006227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6422 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "205363-101000061948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137649089366,
+                    37.5362405025356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6422 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135232398074,
+                    37.536350674266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6422 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135232398074,
+                    37.536350674266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6426 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100148867107,
+                    37.5416265337815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6531 Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000030842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511792761025,
+                    37.5416194301407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6606-6698 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "257311-101000104716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5157327322137,
+                    37.5367890057356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6606-6698 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "258521-101000105647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5155246960469,
+                    37.5369594699717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165248636871,
+                    37.5372983977471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6717 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000010634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159872721083,
+                    37.53880193615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6717 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159872721083,
+                    37.53880193615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6717 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159872721083,
+                    37.53880193615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6717 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159872721083,
+                    37.53880193615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168717291506,
+                    37.5374122571464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168717291506,
+                    37.5374122571464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158790685478,
+                    37.539460924599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158790685478,
+                    37.539460924599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094923",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158790685478,
+                    37.539460924599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158790685478,
+                    37.539460924599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6724 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000114526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158790685478,
+                    37.539460924599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6725 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "239911-101000091200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.516345900152,
+                    37.5388292028188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6725 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5163116525531,
+                    37.5388580264844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6733 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169034641559,
+                    37.537976363303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6733 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169034641559,
+                    37.537976363303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6743 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000068190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5172562212029,
+                    37.5381252887858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6744 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169760815199,
+                    37.5384895991348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6744 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169760815559,
+                    37.5384895963885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6744 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169760815199,
+                    37.5384895991348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6744 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000098874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169760815199,
+                    37.5384895991348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6744 Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000102073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169760815199,
+                    37.5384895991348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6750-6770 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "246885-101000097415",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5185334661323,
+                    37.5377413625215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "257963-101000105345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130301164225,
+                    37.5360551998559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550475,
+                    37.534975999852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160627144603,
+                    37.5368591315001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160627144962,
+                    37.5368591287539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glyndon Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glyndon Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550475,
+                    37.534975999852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marlboro Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000024341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.513682207437,
+                    37.5392762186335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000083060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rettig Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000081338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122784244097,
+                    37.5358622509645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sequoyah Road @ Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168022695747,
+                    37.5393712364616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sequoyah Road @ Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000098097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipton Road @ Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5107543523095,
+                    37.5414708280795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipton Road @ Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5107543523095,
+                    37.5414708280795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipton Road @ Eppington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129678060871,
+                    37.5387834481852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Westchester Road @ Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095291313781,
+                    37.5406079973737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Westchester Road @ Eppington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000022067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116891676499,
+                    37.5381102523764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Buckhill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132690367287,
+                    37.5424343946222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514958051729,
+                    37.5390389513626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6200 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121372",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099855115181,
+                    37.5356152430736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6606-6698 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "285901-101000122999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5157016041134,
+                    37.5368377812973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6740-6750 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "285902-101000123000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5181048574464,
+                    37.5376034551803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Windsorview Dr @ Monitor Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153682521318,
+                    37.5377411850819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2905 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5149436133479,
+                    37.5377929534539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2918 Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.515321431243,
+                    37.5383270207836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6605 Sequoyah Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000123287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5139146085361,
+                    37.538955625605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5141224224899,
+                    37.5395260226476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "286247-101000123364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160760138243,
+                    37.5399090012584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3029 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "283452-101000121174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159195093705,
+                    37.5401552012043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3215 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514957410709,
+                    37.5418252562528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Buckhill Road @ Marlboro Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124429677392,
+                    37.5419774243378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3200 Marlboro Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125841613097,
+                    37.5424147948963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3330 Landria Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Willow Oaks",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000125243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5126710329712,
+                    37.5442542165584
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

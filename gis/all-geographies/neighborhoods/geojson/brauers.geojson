@@ -1,0 +1,5497 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4166320762953,
+        37.543957818222,
+        -77.40946603563,
+        37.5489444497334
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Block Of Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "205154-101000061686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157248930035,
+                    37.5449454000907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139630240013,
+                    37.5439829649044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139630240013,
+                    37.5439829649044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000094308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139630240013,
+                    37.5439829649044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139630240013,
+                    37.5439829649044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138913049068,
+                    37.5440526091097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1405 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138316788004,
+                    37.5441208561972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1405 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138316788004,
+                    37.5441208561972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1406 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156498519792,
+                    37.5453099195728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1406 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156498519792,
+                    37.5453099195728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156056896918,
+                    37.5453822832469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41620984387,
+                    37.5457305409482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137746331862,
+                    37.5441847763301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137167814747,
+                    37.5442495706987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137167814747,
+                    37.5442495706987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137167814747,
+                    37.5442495706987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100683",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137167814747,
+                    37.5442495706987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1414 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130921761184,
+                    37.5440648712529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1414 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130921761184,
+                    37.5440648712529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1415 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4152030238504,
+                    37.5454666023802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1415 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4152030238504,
+                    37.5454666023802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000101489",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4159973615408,
+                    37.5460673875964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000037775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 N 21st St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000053133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128969338234,
+                    37.5441105913069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4153801380866,
+                    37.5457426187976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128461544476,
+                    37.5441633404781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4158769702729,
+                    37.5462231021017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4150136700215,
+                    37.5457279332891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4150136700215,
+                    37.5457279332891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144140778489,
+                    37.545465431643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144140778092,
+                    37.5454654343892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144140778092,
+                    37.5454654343892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144140778092,
+                    37.5454654343892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144140778092,
+                    37.5454654343892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4153114029851,
+                    37.5458444946556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4153114029851,
+                    37.5458444946556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4153114029851,
+                    37.5458444946556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1423 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000117632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133889671704,
+                    37.5445847545543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1423 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4149606726035,
+                    37.545814882547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1423 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4149606726035,
+                    37.545814882547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000060444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143530458768,
+                    37.5455688743756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143530458768,
+                    37.5455688743756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143530458768,
+                    37.5455688743756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4152551667483,
+                    37.5459216448637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133196261651,
+                    37.5446473038471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133196261651,
+                    37.5446473038471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133196261651,
+                    37.5446473038471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4149147532812,
+                    37.5458894161529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1426 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142874800066,
+                    37.545632752425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1426 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142874800066,
+                    37.545632752425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1426 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142874800066,
+                    37.545632752425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1426 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4152003442802,
+                    37.54601555381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1428 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097786",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4151461531531,
+                    37.5461039506509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "194720-101000053155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156519987102,
+                    37.5465024993045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000014793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157229605465,
+                    37.5465212646656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157229605465,
+                    37.5465212646656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000120126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157229605465,
+                    37.5465212646656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000007744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148306374003,
+                    37.5460387490032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1429 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148306374003,
+                    37.5460387490032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1430 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141762751821,
+                    37.5457803563544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1430 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4150985061828,
+                    37.5461786854934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1432 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141132914396,
+                    37.5458469441006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1433 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000081959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156190372085,
+                    37.5466807220209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1433 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4147388415125,
+                    37.5461848117386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1435 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136357064421,
+                    37.5458352410526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1439 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000094245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4146037471013,
+                    37.5464006198877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1440 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148720706478,
+                    37.5465330107167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1441 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "205022-101000061618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134279011529,
+                    37.5460433998449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1441 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000082289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134988556693,
+                    37.5460697634916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1445 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134127855418,
+                    37.5462085141433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1445 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134127855418,
+                    37.5462085141433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1447 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000058170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413363385854,
+                    37.5462850587081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1447 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133633858143,
+                    37.5462850614543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1447 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133633858143,
+                    37.5462850614543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148803515647,
+                    37.5468363158998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1504 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4131775764034,
+                    37.545344048007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1504 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4131775764034,
+                    37.545344048007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1504 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "200789-101000058152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132119085878,
+                    37.5453528990653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "200791-101000058154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4131321948141,
+                    37.54544570001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133848132851,
+                    37.5469217257598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133848132851,
+                    37.5469217257598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133848133248,
+                    37.5469217230136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004558",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130112520809,
+                    37.5455151698207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4145448314313,
+                    37.5470931798098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412921045542,
+                    37.5456059957679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412921045542,
+                    37.5456059957679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1511 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.414175879635,
+                    37.5471353587065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1512 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132929430723,
+                    37.5470726591141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1512 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128173086609,
+                    37.5457426971229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1512 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128173086609,
+                    37.5457426971229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1514 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413253105073,
+                    37.5471391674129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1514 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000017511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413253105073,
+                    37.5471391674129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1514 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000017512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413253105073,
+                    37.5471391674129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1514 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413253105073,
+                    37.5471391674129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132054188339,
+                    37.5472164417166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132054188339,
+                    37.5472164417166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126857565503,
+                    37.5459326849211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126857565503,
+                    37.5459326849211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126857565503,
+                    37.5459326849211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143233882625,
+                    37.5474645069794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127874252761,
+                    37.5472005354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127874252761,
+                    37.5472005354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "204887-101000061464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4124976950642,
+                    37.5453839998827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "213959-101000068519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4124976950642,
+                    37.5453839998827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000060559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125462947388,
+                    37.5454033036156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125462947388,
+                    37.5454033036156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4146929699319,
+                    37.5477084873044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127048169341,
+                    37.5473144142295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127048169341,
+                    37.5473144142295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1521 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4147426911984,
+                    37.5478891612308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1521 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4147426911984,
+                    37.5478891612308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1522 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130896042669,
+                    37.5474845162945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141871264307,
+                    37.5476987993227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000037402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141871264307,
+                    37.5476987993227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1525 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138450704909,
+                    37.5476531850338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1526 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141394655539,
+                    37.5477743603607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1527 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4124790634997,
+                    37.5476396495277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1527 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000107508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4124790635394,
+                    37.5476396467816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128617959356,
+                    37.5478517339838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128617959356,
+                    37.5478517339838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1529 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000017850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121349708509,
+                    37.5459926244054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000014234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127858671297,
+                    37.5479736006049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127858671297,
+                    37.5479736006049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139758369604,
+                    37.5480284709827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139758369604,
+                    37.5480284709827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139758369604,
+                    37.5480284709827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139758370001,
+                    37.5480284682365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1531 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120824904221,
+                    37.5460936588105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1534 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126255712633,
+                    37.5482354413362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1534 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126255712633,
+                    37.5482354413362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1534 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126255712633,
+                    37.5482354413362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1534 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138386815394,
+                    37.5482050987787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1537 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "199368-101000057054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144187627273,
+                    37.5485325070093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1540 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000045373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136943038891,
+                    37.5484302854783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1541 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143600342312,
+                    37.548684079662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1541 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134823963583,
+                    37.5482511873569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1541 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134823963583,
+                    37.5482511873569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1541 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040642",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134823963583,
+                    37.5482511873569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1543 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134399483179,
+                    37.5483240163581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1545 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000008416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133923358023,
+                    37.5483961525688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115722486145,
+                    37.5454808850293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114654864228,
+                    37.5455881389387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1614 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113268389413,
+                    37.5457104944924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112787542261,
+                    37.5457985336984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000014551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112787542261,
+                    37.5457985336984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112787542261,
+                    37.5457985336984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "213963-101000068526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123119939365,
+                    37.5465388438906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123119939365,
+                    37.5465388438906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "280606-101000118247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107791953007,
+                    37.5463225006538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "236450-101000087796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107717858341,
+                    37.5463243991258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "234619-101000085899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118453955064,
+                    37.5464661013183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118588784893,
+                    37.5464735693931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000018255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4122187827471,
+                    37.5466750590067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1704 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106780001456,
+                    37.5464310546895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "213965-101000068525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118697862028,
+                    37.5468971987469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "223018-101000075416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105523048763,
+                    37.5465235165745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105523048763,
+                    37.5465235165745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105523048763,
+                    37.5465235165745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119754285041,
+                    37.5470199072051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119754285041,
+                    37.5470199072051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "204655-101000061222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.41201101146,
+                    37.5470400996781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "198899-101000056673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106020060333,
+                    37.5466619993932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "205459-101000062006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106020060333,
+                    37.5466619993932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000101262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105091488481,
+                    37.5467616678396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 N 20th St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119033364353,
+                    37.5471769398642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 N 20th St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119033364353,
+                    37.5471769398642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118627009968,
+                    37.5472436381404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118627009968,
+                    37.5472436381404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000081437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102968527413,
+                    37.5468076966117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102968527413,
+                    37.5468076966117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113019124677,
+                    37.5474099720067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.411704137414,
+                    37.5474643444865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000037236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111313251898,
+                    37.5477318716405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111313251898,
+                    37.5477318716405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111313251898,
+                    37.5477318716405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1724 1/2 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115844184542,
+                    37.5477014938791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114762325523,
+                    37.5478544348626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410026509749,
+                    37.5471433033022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410026509749,
+                    37.5471433033022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410026509749,
+                    37.5471433033022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410026509749,
+                    37.5471433033022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "242899-101000093877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113581918573,
+                    37.5476803007421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099162711154,
+                    37.5472473378374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099162711154,
+                    37.5472473378374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 21st St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095509552363,
+                    37.5476830093762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095509552363,
+                    37.5476830093762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095509552363,
+                    37.5476830093762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1814 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40946603563,
+                    37.5478440644296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1814 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000119515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.40946603563,
+                    37.5478440644296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1828 N 21st St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000106555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102108252535,
+                    37.5477329063393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1828 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102108252535,
+                    37.5477329063393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1830 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103254466634,
+                    37.5477120449804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1832 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105418844376,
+                    37.5476803198816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1832 N 21st St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105418844376,
+                    37.5476803198816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1834 N 21st St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105405651023,
+                    37.5477713400484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 U St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100759",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148356672825,
+                    37.5453988691805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 U St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100760",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4148356672825,
+                    37.5453988691805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19th St @ Brauers Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000082654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134242465522,
+                    37.5465061852244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19th St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121808860624,
+                    37.5485308094977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 U St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128906567161,
+                    37.5447807161636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000114332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107713521577,
+                    37.5480634130658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4108602168612,
+                    37.5472252404438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2004 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107916401842,
+                    37.5475013355571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2004 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107916401842,
+                    37.5475013355571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2005 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107772389747,
+                    37.5471835075743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2005 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107772389747,
+                    37.5471835075743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Fairfield Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107344574807,
+                    37.5478338070069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2010 Brauers Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "204884-101000061461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111670116816,
+                    37.546670999148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2010 X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103971078675,
+                    37.5473470445603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2011 Fairfield Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000018094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107430756222,
+                    37.5476771092717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2013 Fairfield Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105284887156,
+                    37.5480190382767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103254615025,
+                    37.548003684075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2019 Fairfield Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000014335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102240701083,
+                    37.5479875801193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2021 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4101182652163,
+                    37.5479832375133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2023 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100189289563,
+                    37.5479705250604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2023 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000012107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100189289563,
+                    37.5479705250604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2023 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000013727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100189289563,
+                    37.5479705250604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2023 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100189289563,
+                    37.5479705250604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2025 Fairfield Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099089651151,
+                    37.5479627684988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2025 Fairfield Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000007567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099089651151,
+                    37.5479627684988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "20th St @ T St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000094477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234031944,
+                    37.5439578209683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "20th St @ T St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234031944,
+                    37.5439578209683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21st St @ Brauers Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4108166834218,
+                    37.5460112192148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21st St @ X St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "271027-101000112495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099901157369,
+                    37.5468722255898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brauers Lane @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "212071-101000067057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4122137882246,
+                    37.5463503988908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144925919848,
+                    37.5488568192436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144925919848,
+                    37.5488568192436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Redd St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000081499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4166320762953,
+                    37.5453249882504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Redd St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086592",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4166320762953,
+                    37.5453249882504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rogers St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134124761652,
+                    37.548644679061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4151260966157,
+                    37.5445085322852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234031944,
+                    37.5439578209683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234032341,
+                    37.543957818222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234031944,
+                    37.5439578209683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "T St @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000045157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234031944,
+                    37.5439578209683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130119035493,
+                    37.5476096929139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000122420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128617959356,
+                    37.5478517339838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "20th St @ T St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4142234032341,
+                    37.543957818222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133196262048,
+                    37.5446473011009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 U St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128906567161,
+                    37.5447807161636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4143530458768,
+                    37.5455688743756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2010 Brauers Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "286219-101000123308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113061081982,
+                    37.5464511007421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129599362859,
+                    37.54685953229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127874252761,
+                    37.5472005354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127874252761,
+                    37.5472005354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127874252761,
+                    37.5472005354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098046718787,
+                    37.547359539044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1521 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Brauers",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138916776348,
+                    37.5474953931912
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

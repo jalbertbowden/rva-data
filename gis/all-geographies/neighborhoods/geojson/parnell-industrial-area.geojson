@@ -1,0 +1,657 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4595138420905,
+        37.4628985769949,
+        -77.4458806909998,
+        37.4764781573076
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2819 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498550200905,
+                    37.4722152859312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Transport St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4511630207973,
+                    37.4689769055233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Transport St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4511630207973,
+                    37.4689769055233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2948 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000041497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4520863419788,
+                    37.4728802578878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.453466645557,
+                    37.4737380573789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Transport St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4527522286045,
+                    37.4700138933208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Transport St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000037974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4527522286045,
+                    37.4700138933208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3024 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543999963234,
+                    37.4726327443856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3024 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543999963234,
+                    37.4726327443856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3054-3098 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "202330-101000059468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547092965328,
+                    37.4723491552937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3305 Twyman Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080748",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583236757769,
+                    37.4763959869491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Twyman Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585839213011,
+                    37.4763873274369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "250176-101000100090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583384330575,
+                    37.4713127730803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Rosanell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000088533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4594381963989,
+                    37.4761922574476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000034310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565341547742,
+                    37.4764781573076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3609 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560113398835,
+                    37.4752894570007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3610 Rosanell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000079128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595138420905,
+                    37.4764763376196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007958",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561524615716,
+                    37.4735906148058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3810 E Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "225813-101000078198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4552411659908,
+                    37.4722351345714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3901 Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000102647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4464976227724,
+                    37.4711128096821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3901 Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000105934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4464976228108,
+                    37.4711128069358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3903 Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000003916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479971059791,
+                    37.4710385735063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3920 Industry Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4527161175441,
+                    37.4713777994179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3920 Industry Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4527161175441,
+                    37.4713777994179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3920 Industry Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "193883-101000052729",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4529267911001,
+                    37.4713816011776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4050 Transport Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507150628664,
+                    37.4680516449023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bells Road @ Industry Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523220043258,
+                    37.4724336362229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ernest Road @ Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000113190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4462594447459,
+                    37.4628985769949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lancelot Ave @ Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000023954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446152478265,
+                    37.4661077235294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Willamar St @ Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000023433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4462373951823,
+                    37.4634889012085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801-3805 Castlewood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "284997-101000122384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458806909998,
+                    37.4726466151242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3609 E Belt Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Parnell Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "284999-101000122386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562708511751,
+                    37.4750800885734
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

@@ -1,0 +1,915 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.47033182229,
+        37.4865760033708,
+        -77.4623070074592,
+        37.4988178827015
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687776506379,
+                    37.4977559143151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000078552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687776506379,
+                    37.4977559143151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687776506379,
+                    37.4977559143151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 Hopkins Road Apt 20",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4647097202248,
+                    37.4911636361481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 Hopkins Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4647097202248,
+                    37.4911636361481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000075643",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4676877889029,
+                    37.489777282848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 A Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659991530072,
+                    37.4897598592957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646923065319,
+                    37.4900922525233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646923065319,
+                    37.4900922525233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4672823421597,
+                    37.4885914266035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Chalfont Dr Apt 49",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4648033529552,
+                    37.4903386522967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Chalfont Dr Apt 52",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4648033529552,
+                    37.4903386522967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210 Chalfont Dr Apt 30",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4656094242435,
+                    37.4909947467839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210 Chalfont Dr Apt 32",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000085771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4656094242435,
+                    37.4909947467839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 Chalfont Dr Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664721977959,
+                    37.4909595123354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 Chalfont Dr Apt 32",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000092527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664721977959,
+                    37.4909595123354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 Chalfont Dr Apt 5",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000076169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664721977959,
+                    37.4909595123354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2221 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664464479067,
+                    37.4873296610739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2230 Chalfont Dr Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000110862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673608926348,
+                    37.4909719008517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2230 Chalfont Dr Apt 9",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673608926348,
+                    37.4909719008517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3701 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662168184359,
+                    37.4894518067183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3705 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000034379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4663041784553,
+                    37.4894506381589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3715 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4665638568019,
+                    37.4894413048619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3723 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4667579804884,
+                    37.4894391309074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3729 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4668987183877,
+                    37.4894364910983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3735 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670395624006,
+                    37.4894261231564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3743 Angela Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000079833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4672312655876,
+                    37.4894219937258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Angela Dr @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681809432696,
+                    37.4894852802304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad Rock Blvd @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000072922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47033182229,
+                    37.4988178827015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad Rock Blvd @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47033182229,
+                    37.4988178827015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad Rock Blvd @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000116039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47033182229,
+                    37.4988178827015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad Rock Blvd @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.47033182229,
+                    37.4988178827015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chalfont Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680705226746,
+                    37.4934035699256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "McGuire Veterans Hospital",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4623070074592,
+                    37.4960915014896
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

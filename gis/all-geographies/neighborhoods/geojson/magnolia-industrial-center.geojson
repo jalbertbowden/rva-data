@@ -1,0 +1,1197 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4174557523608,
+        37.5575940259511,
+        -77.4090413735079,
+        37.564521000624
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000099878",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4156971785429,
+                    37.5632651043751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1831 Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "236044-101000087294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4145469981734,
+                    37.564521000624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "254751-101000103288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157214359358,
+                    37.562062199109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2100 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000063995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4140628530331,
+                    37.560702798325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2100 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "194600-101000053011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4138674884517,
+                    37.5607039012086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "197526-101000055428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4137019847355,
+                    37.5598088000181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210-2482 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "270623-101000112046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4145063902455,
+                    37.5598488586095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000105133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121240425958,
+                    37.5578014290293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000107111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121240425958,
+                    37.5578014290293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2308 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000066322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125638821375,
+                    37.5594350480029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2308 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000081438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125638821375,
+                    37.5594350480029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2311 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000104174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125512886168,
+                    37.5587078984609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000100195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123306075116,
+                    37.5585324702819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000026017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123306075116,
+                    37.5585324702819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000117082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123306075116,
+                    37.5585324702819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Magnolia Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000003356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4174557523608,
+                    37.5598260335872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000064832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4117623041479,
+                    37.5588641631598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Magnolia Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "262613-101000107756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116269990018,
+                    37.5579345997953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Anniston St @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000062665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098786712558,
+                    37.558321117258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Anniston St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000113831",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4101072662738,
+                    37.557967085491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia Ct @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000106290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4146045386071,
+                    37.561294593078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia Ct @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000113238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4146045386071,
+                    37.561294593078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000062574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090413735079,
+                    37.5575940259511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000111236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090413735079,
+                    37.5575940259511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000101411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000101411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000023390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000023390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000101414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000101414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000023419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000023419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000087972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000087972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000105100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000105100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000106180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000106180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000106516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000106516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000033762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000033762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000092687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000092687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000121559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090413735079,
+                    37.5575940259511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000120581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090413735079,
+                    37.5575940259511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000123461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4096150919938,
+                    37.5581233774801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000123741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4157214359358,
+                    37.562062199109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "284933-101000122374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4158038458523,
+                    37.5628859532879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000122047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000122047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000123026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000123026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000121716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000121716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000123689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rady St @ Magnolia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000123689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-4"
+            },
+            "id": "101000124970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Magnolia St @ Rady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Magnolia Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000124970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4163061095294,
+                    37.5631485778836
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

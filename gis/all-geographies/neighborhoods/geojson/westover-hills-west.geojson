@@ -1,0 +1,3957 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5078259802038,
+        37.5262758730279,
+        -77.4970114815385,
+        37.5347918683964
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000002911",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979422092483,
+                    37.5266891598542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1719 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000075618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4973961497644,
+                    37.5270753767479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000096742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980158209502,
+                    37.5272958147069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000010221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4975152900475,
+                    37.527451039094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1734 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000005567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980491263521,
+                    37.5274905000427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1743 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000050015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4976242972292,
+                    37.5278108311459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1752 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000064987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982054402043,
+                    37.5280322934986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1758 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000089911",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982713318645,
+                    37.5282117690754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1758 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000108636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982713318645,
+                    37.5282117690754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1761 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000059251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4977818499509,
+                    37.528352643859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1781 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000059006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980355948459,
+                    37.5290595929264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000038083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4984792919248,
+                    37.5289231833962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "262480-101000107699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034239946172,
+                    37.5310599007985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000087559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503428070333,
+                    37.5310672408863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000112968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503428070333,
+                    37.5310672408863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2223 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "200746-101000058082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051808947298,
+                    37.5308155630281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2223 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "200745-101000058081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5043890073407,
+                    37.5312830017429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2308 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000063886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5021636538578,
+                    37.5320488414725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2315 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000064212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501416346306,
+                    37.5319774413854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2315 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000115487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501416346306,
+                    37.5319774413854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2315 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000044593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037120727234,
+                    37.5317676005693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2316 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5019294661387,
+                    37.532262825548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2316 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5019294661752,
+                    37.5322628228018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2324 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000013636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017634001568,
+                    37.5324787671123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2325 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "216756-101000070538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010983147885,
+                    37.5323056990402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2327 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000022959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5033253126433,
+                    37.5320962010498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2327 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000022960",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5033253126433,
+                    37.5320962010498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2406 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000021581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032531153861,
+                    37.5328879787808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2407 Breckenridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000014716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4975501266756,
+                    37.5323673707095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2407 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000032304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5027960663956,
+                    37.5325998559668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 Breckenridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000027576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4978561455084,
+                    37.5327810509218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 Breckenridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "230411-101000082315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4978878103375,
+                    37.5327858998633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2424 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000001281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026950555244,
+                    37.5333819427989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2425 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000019088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5022375987167,
+                    37.5331010927931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2425 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000026432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5022375986803,
+                    37.5331010955393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2430 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000087257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5025319749568,
+                    37.5335314220652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2436 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000106512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5023228197589,
+                    37.5337196379146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5407 Langdon Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000047311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008657300702,
+                    37.5288073167516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5407 Langdon Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000048257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008657300702,
+                    37.5288073167516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5414 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982598696672,
+                    37.5268124846006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5414 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982598696672,
+                    37.5268124846006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5424 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000058452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4986073496746,
+                    37.5270014174045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5500 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991358284045,
+                    37.5285207752455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5501 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000110603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.499258697425,
+                    37.5283347394952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5506 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991681210157,
+                    37.5287892075471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5507 Woodburn Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000026051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4994352422275,
+                    37.5293187951829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5510 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000092031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992282071324,
+                    37.5275293356376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5513 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000029144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4998225318428,
+                    37.5286032416903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5518 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000095183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996728255459,
+                    37.5290879148251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5519 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000008982",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5000706481451,
+                    37.5287417919939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5519 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000090148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5000706481451,
+                    37.5287417919939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5525 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "219977-101000073023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002606967852,
+                    37.5289264884677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5530 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000055138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001743030579,
+                    37.5293909981496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5530 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "195379-101000053706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001399969951,
+                    37.529450001327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5530 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000023816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4998262196135,
+                    37.5279060879684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5540 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000007889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002211038938,
+                    37.5280967836956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "251789-101000101651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005734859882,
+                    37.5290281009572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000043400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005333230608,
+                    37.5290477846709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000068082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005333230608,
+                    37.5290477846709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005333230608,
+                    37.5290477846709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005333230608,
+                    37.5290477846709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5570 New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000028501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.49756779779,
+                    37.5320172195875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5601 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000111306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981447961854,
+                    37.5297623122204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5601 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000115736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981447961854,
+                    37.5297623122204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5603 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000118616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4976187660255,
+                    37.5338152924163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5606 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500637653838,
+                    37.5296075628385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5606 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000069527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500637653838,
+                    37.5296075628385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5606 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000066178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4973027909109,
+                    37.5343443740622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5606 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000093681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4973027909475,
+                    37.5343443713159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5607 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000042398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500980527858,
+                    37.5293036551249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5607 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000047105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500980527858,
+                    37.5293036551249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5607 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000043139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500244685294,
+                    37.5299671563532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5609 New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000085581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981164230361,
+                    37.5314954484678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5612 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000001280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981994350036,
+                    37.5309079953864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5613 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000004360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985958762599,
+                    37.5305736045897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5614 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "225639-101000077962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016182078011,
+                    37.5291492006052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5615 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "234591-101000085810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5012264850833,
+                    37.5294804524505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5615 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000113480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980861270383,
+                    37.5338980832304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5615 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000030785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004721403296,
+                    37.5301400775831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5615 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000068229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004721403296,
+                    37.5301400775831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5617 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000053846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007496306635,
+                    37.5314162645503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5618 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000073549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002579005598,
+                    37.5305190526542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000099727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981913854462,
+                    37.5344572693978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000108112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4981913854462,
+                    37.5344572693978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000010029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009603978153,
+                    37.5316515637796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000010037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009603978153,
+                    37.5316515637796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000024705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009603978153,
+                    37.5316515637796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000117320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009603978153,
+                    37.5316515637796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4983158674571,
+                    37.5321865045028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4983158674571,
+                    37.5321865045028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5622 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000019316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5018641646508,
+                    37.5293105142938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5622 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000031421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5018641646508,
+                    37.5293105142938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5624 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000002670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4986352907597,
+                    37.5317675858509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5628 Langdon Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000028214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5003277811183,
+                    37.5318359290447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5628 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000025241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988280080889,
+                    37.5320577882754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5630 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "234392-101000085481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5020925065393,
+                    37.529489498784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5630 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000057482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4986558603759,
+                    37.5345292203612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5631 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000057571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017078075122,
+                    37.5298268509883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5632 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000037753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4990256837885,
+                    37.5323849623384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5636 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "261743-101000107326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5025482036865,
+                    37.5295295723255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5637 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000008313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.499375087683,
+                    37.5320790380405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5649 St James Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000108365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997383706532,
+                    37.5331896392971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5650-5708 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "219968-101000073013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502585715043,
+                    37.5295745578765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000067688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999084820798,
+                    37.5329008934336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000108605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999084820798,
+                    37.5329008934336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000093562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000093897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000114040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701-5899 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "207167-101000063326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010528636833,
+                    37.5340728768323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701-5899 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "207168-101000063327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4995193507336,
+                    37.5342559815782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701-5899 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "207171-101000063329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4998702987516,
+                    37.5342674243936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5708 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000110620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002384160948,
+                    37.5335272750797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5712 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000117557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999885224548,
+                    37.5337129872243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5713 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000014370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5006824642403,
+                    37.5329224692188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5713 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5006824642403,
+                    37.5329224692188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5716 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015639383767,
+                    37.5314775601731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5716 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000101309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015639383767,
+                    37.5314775601731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5717 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000032187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016805863943,
+                    37.5309989538277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5721 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000055864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008410064937,
+                    37.5334286186403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5721 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000059689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008410064937,
+                    37.5334286186403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5721 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008410064937,
+                    37.5334286186403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5725 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000062452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026709539461,
+                    37.5305140322817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5725 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000074206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026709539461,
+                    37.5305140322817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5725 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000114744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026709539825,
+                    37.5305140295355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5725 Woodburn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000117944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5019252043837,
+                    37.5311706599273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5733 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000119997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5029292065801,
+                    37.5306744775771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5733 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "237380-101000088595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5029982995005,
+                    37.5306890002272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5733 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000059166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004667969289,
+                    37.5340982859264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5800 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "267722-101000110757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039095856311,
+                    37.5301460003257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "220444-101000073373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503812895337,
+                    37.5304548008311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "226641-101000080219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503812895337,
+                    37.5304548008311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000055144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501141071289,
+                    37.5345931901547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "195738-101000054035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5011921962935,
+                    37.5345949008274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "206681-101000062924",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5011921962935,
+                    37.5345949008274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "234496-101000085671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5011921962935,
+                    37.5345949008274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804-5820 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "204801-101000061378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5012768208842,
+                    37.5343050702349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804-5820 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "207166-101000063325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5012435912085,
+                    37.5343322749736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804-5820 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "207164-101000063324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5011138839573,
+                    37.5344200136738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5805 New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000012866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498172238825,
+                    37.5333448045072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5820 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "195743-101000054041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5014688964768,
+                    37.534447501119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5832 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000009659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5048190193179,
+                    37.5310107191348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5832 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000099761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5048190193179,
+                    37.5310107191348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000109400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051940342307,
+                    37.5313446586326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000042577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051940342307,
+                    37.5313446586326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051940342307,
+                    37.5313446586326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000008458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055336907175,
+                    37.5314135384664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000035131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055336907175,
+                    37.5314135384664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5926 Fairlee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000071350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039543510135,
+                    37.533332049185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5929 Osoge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000046551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052828907852,
+                    37.5321306288169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5938 Osoge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000085480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050393777867,
+                    37.532705895805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5944 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000016210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5060873936397,
+                    37.5320578810587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5944 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000016238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5060873936397,
+                    37.5320578810587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5951 Fairlee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000099634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051677679332,
+                    37.5330376769806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000049059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063093684905,
+                    37.5322972552964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952-5960 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "210921-101000066476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065568475856,
+                    37.5323866643603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5953 Osoge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000029003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058667091053,
+                    37.5329546405031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5953 Osoge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "237356-101000088556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059260877744,
+                    37.5329710986599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5960 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000079826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.506491676546,
+                    37.5325162468413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5960 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "237655-101000088982",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.506501900391,
+                    37.5325177003113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5966 Fairlee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000040187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058226133186,
+                    37.5334124909349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5968 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "220608-101000073486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067000957079,
+                    37.5327690004736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5972 Fairlee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000026342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5060922285233,
+                    37.5333982231407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5986 Fairlee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000084072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.506730142232,
+                    37.5332200513009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Devonshire Ct @ Langdon Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000040410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500534250084,
+                    37.5294034901343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bliley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000081531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026804336976,
+                    37.5295290672437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bliley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "261136-101000106989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026804336612,
+                    37.5295290699899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000081361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980963159065,
+                    37.5262758730279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Westower Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000097278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991859725859,
+                    37.5270596068454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Westower Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000052294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991859725859,
+                    37.5270596068454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Westower Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991859725859,
+                    37.5270596068454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Willow Oaks Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000106376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059699959683,
+                    37.531358844901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leicester Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000017195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980963158699,
+                    37.5262758757742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Pineway Dr @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000042360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051860180676,
+                    37.5307776267446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000083060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Riverside Dr @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000070368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5038665964764,
+                    37.5301161218904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Riverside Dr @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000076101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5038665964764,
+                    37.5301161218904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Riverside Dr @ New Kent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000046577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992920838333,
+                    37.5343738814258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Westower Dr @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000057286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991859725859,
+                    37.5270596068454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Westower Dr @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000064401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991859725859,
+                    37.5270596068454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2419 Pineway Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000120521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5024331074983,
+                    37.532896335132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5712 Regent Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000123147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999885224548,
+                    37.5337129872243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5571 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000121882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4970114815385,
+                    37.5337327001737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5824 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "285243-101000122632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017768832624,
+                    37.5338606995457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5630 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000122187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4986558603759,
+                    37.5345292203612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000124214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001872810541,
+                    37.5347918683964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000122328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979422092117,
+                    37.5266891626004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5540 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000122273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002211038938,
+                    37.5280967836956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1781 Leicester Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000122587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4980355948459,
+                    37.5290595929264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5524 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "287319-101000124270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999300088176,
+                    37.5291075393217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5563 Devonshire Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "285732-101000122869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004916688054,
+                    37.5291303545738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5708 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000121677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5026470058413,
+                    37.5298053746135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5733 Boynton Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000122070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5029292065801,
+                    37.5306744775771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Westover Hills West",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000123875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5030680967012,
+                    37.5312095695546
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

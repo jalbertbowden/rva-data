@@ -1,0 +1,737 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4781472434774,
+        37.5838922641978,
+        -77.466369357425,
+        37.5988962375215
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2100 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000012012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4719834689058,
+                    37.5843586774932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2104 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000112002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4719270145752,
+                    37.5847994395801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2104 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000039560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4719270145752,
+                    37.5847994395801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2108 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000116781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4723684077262,
+                    37.5853384549301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2112 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000092131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4727669079414,
+                    37.5847744606235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2112 W Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "279797-101000117745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741136608295,
+                    37.5853401664941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2116 W Laburnum Ave Ste S",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000000438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.472656938329,
+                    37.5843362668686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2116 W Laburnum Ave Ste S",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000007424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.472656938329,
+                    37.5843362668686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317-2399 Bryan Park Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "256411-101000104192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4728469766679,
+                    37.5983772280139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000028965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467210096416,
+                    37.5969311222729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000033095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467210096416,
+                    37.5969311222729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000107946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467210096416,
+                    37.5969311222729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000108097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467210096416,
+                    37.5969311222729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000027247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000101819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000101820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000033314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000070312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000099710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671411514728,
+                    37.5973461995186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4380-4550 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "229566-101000081743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670847607617,
+                    37.597177135479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4552-4598 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "218259-101000071699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4668911192663,
+                    37.597457788865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4807 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000021550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466369357425,
+                    37.5980961220345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4807 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000027908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466369357425,
+                    37.5980961220345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryan Park",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "256866-101000104538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4725325938716,
+                    37.5963271996115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryan Park Ave @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000095024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781472434774,
+                    37.5988962375215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryan Park Ave @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000030897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781472434774,
+                    37.5988962375215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryan Park Ave @ Mowbray Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000034274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4743815181345,
+                    37.5984826819229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laburnum Ave @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000101344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699882081093,
+                    37.583938258487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laburnum Ave @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000010284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699882081093,
+                    37.583938258487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laburnum Ave @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000101345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699882081093,
+                    37.583938258487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laburnum Ave @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000010287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699882081093,
+                    37.583938258487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laburnum Ave @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000059128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699882081093,
+                    37.583938258487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Saunders Ave @ Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000064529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716813820814,
+                    37.5838922641978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Saunders Ave @ Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000088541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716813820814,
+                    37.5838922641978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Saunders Ave @ Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000101101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716813820814,
+                    37.5838922641978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Saunders Ave @ Laburnum Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Bryan Park",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000114166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716813820814,
+                    37.5838922641978
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

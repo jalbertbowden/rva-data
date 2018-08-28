@@ -1,0 +1,3937 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5084678011806,
+        37.4684801613593,
+        -77.5016952314642,
+        37.4803463756888
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2120 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039568410729,
+                    37.4803463756888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2120 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000085881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039568411093,
+                    37.4803463729426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2122 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000046972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503931221444,
+                    37.4802484067705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037724299699,
+                    37.4795779800065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037724299699,
+                    37.4795779800065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037724299699,
+                    37.4795779800065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000074931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037724299699,
+                    37.4795779800065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050919346528,
+                    37.477909297844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2409 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051375442337,
+                    37.4777023113972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2409 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051375442337,
+                    37.4777023113972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000082067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037711423367,
+                    37.4770492094182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2413 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023795",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051071291856,
+                    37.477430067609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2450 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040200061076,
+                    37.4767545451875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.504032484959,
+                    37.4764627297641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2504 Geneva Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068958842763,
+                    37.476922481139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2504 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000015541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057126177742,
+                    37.4768011998414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2504 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000019386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057126177742,
+                    37.4768011998414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 Geneva Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000015226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5064004660216,
+                    37.4768739554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505192095451,
+                    37.4769363720733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505192095451,
+                    37.4769363720733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505192095451,
+                    37.4769363720733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5036076338546,
+                    37.4761734984801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2512 Geneva Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070151222825,
+                    37.4764893179212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2512 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000029437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057549562682,
+                    37.4762887054988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2512 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057549562319,
+                    37.476288708245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2512 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054792",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057549562682,
+                    37.4762887054988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2513 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000053317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051880136174,
+                    37.4765100904725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2513 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000103828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051880136174,
+                    37.4765100904725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2513 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051880136174,
+                    37.4765100904725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2520 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035697997897,
+                    37.4758920346487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2530 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000082240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035029627803,
+                    37.4757265950797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000040541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035165212033,
+                    37.4755277385345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2601 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5073459514303,
+                    37.4770884310417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2601- Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "238039-101000089396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5077768054415,
+                    37.4769291990394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041176349245,
+                    37.4755728942226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041176349245,
+                    37.4755728942226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041176349245,
+                    37.4755728942226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041176349245,
+                    37.4755728942226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041176349245,
+                    37.4755728942226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2611 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041678253722,
+                    37.4751292708708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2612 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.504618004109,
+                    37.4750302613176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035365372628,
+                    37.475132731488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058389255987,
+                    37.4750641633225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505838925635,
+                    37.4750641605763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077831",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.507742380929,
+                    37.4767041827735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000113382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.507742380929,
+                    37.4767041827735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2625 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000115066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078089923092,
+                    37.4765033642849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2627 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058210483449,
+                    37.4745341015953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2627 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041623",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058210483449,
+                    37.4745341015953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2627 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058210483449,
+                    37.4745341015953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2627 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104861",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058210483086,
+                    37.4745341043416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2630 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508221801722,
+                    37.4767401214587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2630 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508221801722,
+                    37.4767401214587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000028528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062305819226,
+                    37.474754067825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000035475",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062305819226,
+                    37.474754067825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000035541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062305819226,
+                    37.474754067825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000055972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062305819226,
+                    37.474754067825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2633 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078728103419,
+                    37.4762948209464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2639 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000018762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062774838852,
+                    37.474352312378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2645 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065402457236,
+                    37.4742877389578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2645 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000019009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065402457236,
+                    37.4742877389578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2645 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000019015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065402457236,
+                    37.4742877389578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2645 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065402457236,
+                    37.4742877389578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2645 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065402457236,
+                    37.4742877389578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035063652482,
+                    37.4747099572101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046488657365,
+                    37.4746225324315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Susten Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070093278634,
+                    37.4750405278013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Susten Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000080853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070093278996,
+                    37.4750405250551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078479425363,
+                    37.4754888539282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078479425363,
+                    37.4754888539282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000055404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078479425725,
+                    37.475488851182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000057143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078479425725,
+                    37.475488851182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078479425363,
+                    37.4754888539282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2703 St Moritz Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000013227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040043887878,
+                    37.4739461248039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2703 St Moritz Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000015970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040043887878,
+                    37.4739461248039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2704 Susten Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5071114154455,
+                    37.4748751797586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2705 Susten Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065529685386,
+                    37.4749866967846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047878967912,
+                    37.4743506877099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034929749117,
+                    37.4745214647231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034929749117,
+                    37.4745214647231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "245395-101000096011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503514009557,
+                    37.4745360996995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "245397-101000096012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503514009557,
+                    37.4745360996995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2713 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000070802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078627204612,
+                    37.475026780402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2717 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5075584709947,
+                    37.474166059568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2717 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5075584709947,
+                    37.474166059568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2717 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5075584709947,
+                    37.474166059568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2717 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000057192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5075584709947,
+                    37.474166059568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2719 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078817386012,
+                    37.4748206962132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2719 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000114912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078817386374,
+                    37.4748206934669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2728 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000060627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5083343401518,
+                    37.4746837626012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2729 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078895147123,
+                    37.4745916498177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2729 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078895147123,
+                    37.4745916498177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2730 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000030523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034986477223,
+                    37.474134796403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2740 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5084678011806,
+                    37.4742321280444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508093282767,
+                    37.4738810251551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2804 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5084507109635,
+                    37.4736775656233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5079408851631,
+                    37.4736386346763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5079408851631,
+                    37.4736386346763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508324935672,
+                    37.4735069469443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2826 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000069589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032735074394,
+                    37.472974799885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2920 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5023763128519,
+                    37.4712516531391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2926 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5022478947266,
+                    37.4710711782337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2926 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5022478947266,
+                    37.4710711782337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2934 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.502044462515,
+                    37.4706486985265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5025912778257,
+                    37.4706978487892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5810 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000110019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032654236257,
+                    37.4717563089657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5810 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032654236257,
+                    37.4717563089657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5819 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503363296593,
+                    37.4712902599958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5854 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042888271326,
+                    37.4699860863425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5854 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042888271326,
+                    37.4699860863425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5854 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000009382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042888271326,
+                    37.4699860863425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000066119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041651615395,
+                    37.4785095368118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040522651041,
+                    37.471552976394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040522651041,
+                    37.471552976394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5905 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050448623217,
+                    37.4738411116216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5905 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050448623217,
+                    37.4738411116216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5907 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045826743033,
+                    37.478088655628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000017944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046721719144,
+                    37.4785396105737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046721719144,
+                    37.4785396105737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5043260607197,
+                    37.4714456622308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505517279303,
+                    37.4740404489478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000066836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505517279303,
+                    37.4740404489478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000071562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505517279303,
+                    37.4740404489478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5909 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052600885456,
+                    37.4737644550147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5916 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041657",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051933720598,
+                    37.4785625943099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5916 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001489",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059782342799,
+                    37.4738555045559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5916 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059782343162,
+                    37.4738555018096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000105940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505438080675,
+                    37.4786082649039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052422120142,
+                    37.4758280725175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052422120142,
+                    37.4758280725175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052422120142,
+                    37.4758280725175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5920 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102395",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052422120142,
+                    37.4758280725175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5921 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059904571554,
+                    37.4734937669362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5921 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023807",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059904571554,
+                    37.4734937669362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5924 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000118357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057033061447,
+                    37.4786792054529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5928 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052403538393,
+                    37.4692414107904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5932 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5061631134205,
+                    37.4786745663146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5932 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052332709384,
+                    37.4710751356492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5933 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059689425066,
+                    37.4783356598324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5933 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5049416607332,
+                    37.470684868442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5933 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000086284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066209275554,
+                    37.4732379690036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5936 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000099996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5064679077287,
+                    37.4783929346765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5936 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5071740079363,
+                    37.4734250700481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5936 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000099024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5071740079363,
+                    37.4734250700481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5940 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000080670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066058630551,
+                    37.4782051957387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5940 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505531525515,
+                    37.4709472901854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5941 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000039276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063192376113,
+                    37.4778445524971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5941 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000039363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505205638236,
+                    37.4705665658391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5941 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104880",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5052056727285,
+                    37.4705665633823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5941 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5071590615726,
+                    37.4730743875393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5942 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056299143178,
+                    37.4689261359667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5942 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056299143178,
+                    37.4689261359667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5942 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056299143178,
+                    37.4689261359667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5942 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056299143178,
+                    37.4689261359667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5942 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000091054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056299143178,
+                    37.4689261359667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5948 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058278425946,
+                    37.47081995231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5948 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000119060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058278425946,
+                    37.47081995231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5949 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5076724524609,
+                    37.4730935296796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000014251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000050761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5950 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070285407373,
+                    37.4779244908146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062103438133,
+                    37.4684801613593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062103438133,
+                    37.4684801613593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000055346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062103438133,
+                    37.4684801613593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5952 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000055351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062103438133,
+                    37.4684801613593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6000 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000116630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056693807342,
+                    37.4758457876584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6001 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "194776-101000053225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5061916892074,
+                    37.4754991004356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6001 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5061977165242,
+                    37.4755045892368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6008 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5062852571378,
+                    37.4758798199774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6009 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067058981437,
+                    37.4755306076028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6013 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069499660973,
+                    37.475532752981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6013 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069499660973,
+                    37.475532752981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6016 Zurich Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068940867838,
+                    37.475878584339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6024 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070111199,
+                    37.4703484191814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6025 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070180438137,
+                    37.469844668655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6025 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000090889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070180438137,
+                    37.469844668655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6300 A Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070980289387,
+                    37.478333703862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Adler Road @ Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503269244634,
+                    37.4776381029622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Blendwel Road @ Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032207265561,
+                    37.474003832653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Adler Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098714",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503269244634,
+                    37.4776381029622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Adler Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.503269244634,
+                    37.4776381029622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016952314642,
+                    37.4705405859382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Susten Lane @ Susten Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000018315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066821936677,
+                    37.4744417272792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5949 Pocosham Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055128806302,
+                    37.4704520783958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5917 St Moritz Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057102265951,
+                    37.4735843481869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Blendwel Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5032207265924,
+                    37.4740038299067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Susten Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5073392455487,
+                    37.4745067431286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Geneva Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5083018651087,
+                    37.4754899279219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5908 Nestle Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046721719144,
+                    37.4785396105737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Snead Road @ Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121292",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5033039465617,
+                    37.4786476258876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2517 Geneva Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067649137433,
+                    37.4763490561206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2517 Geneva Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067649137433,
+                    37.4763490561206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Snead Road @ Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Fawnbrook",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5033039465617,
+                    37.4786476258876
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

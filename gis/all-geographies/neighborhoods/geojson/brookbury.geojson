@@ -1,0 +1,4776 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4948983439713,
+        37.4575386396157,
+        -77.4829856303551,
+        37.4712983056424
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 W Grace St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "223662-101000076046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4899174356492,
+                    37.4589904957483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3323 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490219695432,
+                    37.4693133931382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3329 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000014403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4902259696266,
+                    37.4691077875198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3335 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000073880",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4902409767251,
+                    37.4689036516154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854241650247,
+                    37.4691556055181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3407 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4899462719851,
+                    37.4683010692392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918273698996,
+                    37.4671787124514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000105493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912599155891,
+                    37.467193510472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3508 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "222306-101000074893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918312438567,
+                    37.4668895844368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3509 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "224057-101000076571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912636249082,
+                    37.4669168258562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3510 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000017044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.486839232407,
+                    37.4683578511872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3510 Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "248888-101000099396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4868519971201,
+                    37.4685538005424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3530 Iron Bridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872982902232,
+                    37.4680484929569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918461309865,
+                    37.4660356616635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918461309865,
+                    37.4660356616635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000079377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912829117234,
+                    37.4662338444326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Burgain Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "237724-101000089053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4938472994186,
+                    37.4659515997986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Burgain Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "244111-101000095109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4938472994186,
+                    37.4659515997986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Iron Bridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877127787966,
+                    37.4679601684417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3609 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908091245869,
+                    37.4666543376297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3609 BiRoadwood Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "197607-101000055547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907908874646,
+                    37.4666704008423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3610 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000009699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918428168677,
+                    37.4657686538605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3611 Burgain Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4932998201168,
+                    37.4656897648694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3611 Burgain Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4932998201168,
+                    37.4656897648694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3617 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4904456826659,
+                    37.4666474195899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3620 Burgain Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059397",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4926607743501,
+                    37.465871843528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000006012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918461034041,
+                    37.465212170354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918461033673,
+                    37.4652121731003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "242078-101000093317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4919189950817,
+                    37.4652420008271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "245055-101000095679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4919356095155,
+                    37.4652749997155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "244522-101000095143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.491925603252,
+                    37.4652862991622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901624897454,
+                    37.4657755718662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3704 Peyton Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "224851-101000077126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4891568961579,
+                    37.4666022012948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3716 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901078689734,
+                    37.4652239613608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3716 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901078689365,
+                    37.4652239641071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3716 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901078689365,
+                    37.4652239641071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3716 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901078689365,
+                    37.4652239641071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3732 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4903101164895,
+                    37.4649839720329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3732 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4903101164895,
+                    37.4649839720329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3748 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490937488127,
+                    37.4647884032078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000064347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908885914532,
+                    37.4643542997647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908885914532,
+                    37.4643542997647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 BiRoadwood Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "208155-101000064176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4909362926584,
+                    37.4643096923171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000057183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885327250667,
+                    37.4630207322604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885327250667,
+                    37.4630207322604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885327250298,
+                    37.4630207350067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885327250298,
+                    37.4630207350067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885327250667,
+                    37.4630207322604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4011 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000094163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882751644483,
+                    37.4626950741262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4011 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000094287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882751644483,
+                    37.4626950741262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4011 Barth Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000094603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882751644483,
+                    37.4626950741262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4020 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4904325091173,
+                    37.4616401986918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4100 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000108849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900065226578,
+                    37.461145283193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4100 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000037012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900065226578,
+                    37.461145283193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4100 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900065226578,
+                    37.461145283193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4120 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000017117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897352532495,
+                    37.4606704398015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4120 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000119732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897352532495,
+                    37.4606704398015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4201 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4889024778887,
+                    37.4606539446127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4210 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000064228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488453062434,
+                    37.4602165319573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4231 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880445420565,
+                    37.460440775632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4231 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880445420565,
+                    37.460440775632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4301 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875453999387,
+                    37.4600633019323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4308 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4895382141637,
+                    37.4583858550363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4309 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4891110364337,
+                    37.4585687771837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4309 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4891110364337,
+                    37.4585687771837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878339391752,
+                    37.4597013062775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878339391752,
+                    37.4597013062775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878339391752,
+                    37.4597013062775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000018281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878339391752,
+                    37.4597013062775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4311 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4873542419847,
+                    37.4598533601872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4311 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4873542419847,
+                    37.4598533601872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4894645688351,
+                    37.4582228451332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4894645688351,
+                    37.4582228451332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4317 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890081199134,
+                    37.4584252129551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4321 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872837388655,
+                    37.4595748787324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4321 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872837388286,
+                    37.4595748814787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4324 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000057307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893337016007,
+                    37.4581004029307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4324 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000064137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893337015638,
+                    37.458100405677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4324 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893337015638,
+                    37.458100405677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4324 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893337015638,
+                    37.458100405677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000086636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4889039061467,
+                    37.458301297685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4330 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000022855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.487683540644,
+                    37.4591764042601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4330 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.487683540644,
+                    37.4591764042601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4331 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872104763655,
+                    37.4593452987241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4331 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872104763655,
+                    37.4593452987241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4332 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4892127117378,
+                    37.4580249842085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4333 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4887309194238,
+                    37.4582211415675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4340 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876071907866,
+                    37.4588945331241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4340 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000102906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876071907496,
+                    37.4588945358704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4340 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890417088825,
+                    37.4579305412008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4340 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000061351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890417088825,
+                    37.4579305412008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4341 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885993392158,
+                    37.4581313275063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4348 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000074254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888490981631,
+                    37.4578416345968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4349 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000084336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4884353832246,
+                    37.4580483861255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4356 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886824094696,
+                    37.4576928672686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4357 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000094628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882842022649,
+                    37.4579455282266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4360 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872879811188,
+                    37.4585069424549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4364 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000069566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885462867063,
+                    37.4575386396157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4365 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000072370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4881730362438,
+                    37.4578058176391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4373 Kenmare Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882057130952,
+                    37.4576458796481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4727-4809 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "205908-101000062260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841101999896,
+                    37.4698364722047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4869 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861068990786,
+                    37.4702764744039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4869 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861068991156,
+                    37.4702764716576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4869 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861068991156,
+                    37.4702764716576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4905 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000037274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4867373028495,
+                    37.470407454382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4920 Belmont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883902512419,
+                    37.4681182637001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5000 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000113597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4904378878374,
+                    37.4677189078917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5001 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900579899717,
+                    37.4671739094959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5010 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000086424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489130704616,
+                    37.4641760506134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5010 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489130704616,
+                    37.4641760506134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5010 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000076935",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907959644788,
+                    37.4677459978394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5011 Bathgate Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878466622333,
+                    37.461345205298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5011 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "221027-101000073927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488899687185,
+                    37.4636310991103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5011 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000037255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4889154653985,
+                    37.4636415829805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5011 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000118728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4889154653985,
+                    37.4636415829805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5013 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907684092801,
+                    37.4671670784778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5013 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907684092801,
+                    37.4671670784778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5013 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907684092801,
+                    37.4671670784778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5020 Bathgate Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000009580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885243017253,
+                    37.4618145734229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5020 Bathurst Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897169552103,
+                    37.4627699061386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5021 Bathurst Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4896601767295,
+                    37.462225428772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5021 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4892869506798,
+                    37.4635359971518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5024 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000029404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912399442274,
+                    37.4677218968777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5024 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912399442274,
+                    37.4677218968777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Bathgate Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4884982349981,
+                    37.461426287267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Bathgate Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000074629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4884982349981,
+                    37.461426287267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000039556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489658851868,
+                    37.4634250194048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489658851868,
+                    37.4634250194048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000071311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489658851868,
+                    37.4634250194048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5031 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000099888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489658851868,
+                    37.4634250194048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5040 Bathgate Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000014369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890805024235,
+                    37.4617162951988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5040 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4902234076414,
+                    37.4638346794285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5046 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4923398526655,
+                    37.4677101499261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5049 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000028504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4924111743357,
+                    37.4671291883528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5050 Brookbury Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4906090252822,
+                    37.4637286496585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5100 Beddington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "200776-101000058135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4910024130767,
+                    37.4630405006681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5100 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4895485261658,
+                    37.4603608930475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5100 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4926222685359,
+                    37.4677699451678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5101 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880322323543,
+                    37.4598701010549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5106 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897948902883,
+                    37.4600394680793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5107 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4892598299036,
+                    37.4600270060452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5111 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4924107524754,
+                    37.4651201061536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5113 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4894803247699,
+                    37.4598333961658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5113 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4884793120578,
+                    37.4594582070777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5113 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4884793120578,
+                    37.4594582070777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5119 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077941",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897340337541,
+                    37.4597013375233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5119 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885601182839,
+                    37.4592498758895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5124 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000076004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888650841289,
+                    37.459454593927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5124 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000076005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888650841289,
+                    37.459454593927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5130 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4923334822621,
+                    37.4641590070045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5130 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000009980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4910736292225,
+                    37.4599031493473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5130 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000079919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4889625563705,
+                    37.4592982275312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5131 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000069952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4903646806361,
+                    37.459605171621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5131 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488814698491,
+                    37.4590119316654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5136 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4891264537082,
+                    37.4591959784624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5137 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890414104188,
+                    37.4589119466758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5140 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000116505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4926605067711,
+                    37.4640540760186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5140 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000119290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4926605067711,
+                    37.4640540760186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5142 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893398066399,
+                    37.4591235178528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5143 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4892439570089,
+                    37.4588359415158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5143 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4892439570089,
+                    37.4588359415158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5145 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5148 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000046689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4895248623919,
+                    37.4590594534474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5149 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000021362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4914814258274,
+                    37.4595134837455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5149 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000021363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4914814258274,
+                    37.4595134837455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5149 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4914814258274,
+                    37.4595134837455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5149 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4914814258274,
+                    37.4595134837455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5149 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4914814258274,
+                    37.4595134837455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5150 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "218895-101000072296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4930142126779,
+                    37.4637576699188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5154 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4922913745258,
+                    37.4597773666064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5167 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4924187055037,
+                    37.4594516905399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5167 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4924187055037,
+                    37.4594516905399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5185 Glenbeigh Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4931342275637,
+                    37.4595884812758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5200 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4929794047291,
+                    37.4653621905665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5200 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4929794047291,
+                    37.4653621905665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4934126873291,
+                    37.4631254989441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4926435104592,
+                    37.465045676048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4896592052645,
+                    37.4587358368171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Kenmare Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000105499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4896592052645,
+                    37.4587358368171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5209 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032692",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935367632885,
+                    37.4626259102375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5209 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935367632518,
+                    37.4626259129838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5209 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "212131-101000067182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935064924101,
+                    37.4626452993431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5209 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4928891342592,
+                    37.4647359500903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5209 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4928891342592,
+                    37.4647359500903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5210 Beddington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4917068482047,
+                    37.4627264729346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5210 Beddington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056789",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4916905015499,
+                    37.4627635390964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5211 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4929513444211,
+                    37.4610505637773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5214 Beddington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088730",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905551826156,
+                    37.4622815659174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5216 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943238371901,
+                    37.4622634328013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5218 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000094404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4939208075711,
+                    37.4648453182063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5225 Bonington Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000073565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935798828414,
+                    37.4645621511476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5229 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4936232054924,
+                    37.4606685524658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5229 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4936232054924,
+                    37.4606685524658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5229 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4936232054924,
+                    37.4606685524658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5229 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4936232054924,
+                    37.4606685524658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5231 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.493490948048,
+                    37.4616049284186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5232 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000114531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4940260450174,
+                    37.4616077941745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5241 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935514843301,
+                    37.4613114558916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5250 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941285320423,
+                    37.4610138104897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5250 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941285320423,
+                    37.4610138104897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5250 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000050755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941285320423,
+                    37.4610138104897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5320 Bemiss Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000034439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948983439713,
+                    37.4609542306857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "264832-101000109084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905066074764,
+                    37.4625942991543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bathgate Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4915471127669,
+                    37.4674285594935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bathgate Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000116783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4915471127669,
+                    37.4674285594935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bathgate Road @ Birdwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000080946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912295841255,
+                    37.4664384561571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000073155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "226404-101000078653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Iron Bridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886688357731,
+                    37.466909379927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4898862393222,
+                    37.4701238833492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Between Bathgate Road Birdwood Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "213061-101000067681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908499309989,
+                    37.4636502797526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad Rock Blvd @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000046794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831248501194,
+                    37.4701047628465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000091332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000082302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.486848332441,
+                    37.4686058747648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5241 Bemiss Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935514843301,
+                    37.4613114558916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5020 Bathurst Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000124483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897169552103,
+                    37.4627699061386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookbury Blvd @ Iron Bridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882782186006,
+                    37.4641157589994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5049 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4924111743357,
+                    37.4671291883528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Bathgate Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918273698996,
+                    37.4671787124514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bathgate Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4915471127669,
+                    37.4674285594935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Iron Bridge Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000123567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877127787966,
+                    37.4679601684417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Broad Rock Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Brookbury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829856303551,
+                    37.4701405915091
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

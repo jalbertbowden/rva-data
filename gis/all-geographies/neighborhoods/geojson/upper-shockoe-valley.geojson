@@ -1,0 +1,5294 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4283723378732,
+        37.5349552565507,
+        -77.422250006243,
+        37.5518913255818
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000099408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4238005294113,
+                    37.542136055329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1010 N 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000100329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4282493193172,
+                    37.5498867790409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1021 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000033366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239111939636,
+                    37.5425617836617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200-1272 N 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "203481-101000060495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4270688141894,
+                    37.5510003798757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1272 N 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "225446-101000077755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4270287035397,
+                    37.5510190395873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000036364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239922700963,
+                    37.5439413074092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1317 W Leigh",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "226370-101000078646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4275420982225,
+                    37.5375720111005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000119230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4245210404363,
+                    37.5463849736647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "195584-101000053900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424238846946,
+                    37.5471000305659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Block Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "233963-101000085262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239467933744,
+                    37.548192603178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1547 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "281820-101000119432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4271428832779,
+                    37.5367369460999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000028476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4261816087705,
+                    37.5376679375275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000085887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4261816087313,
+                    37.5376679402738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000103725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4247569317228,
+                    37.5482913450193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Valley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "246405-101000096976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4249801671362,
+                    37.5518913255818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000002135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4248945864359,
+                    37.5368832939149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 E Marshall St Apt 107",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000024774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4248945864359,
+                    37.5368832939149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000035369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42450446054,
+                    37.5491950394153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000120049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42450446054,
+                    37.5491950394153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Venable St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000036293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233661056304,
+                    37.5385442287634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000100189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233992731928,
+                    37.5477134245636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000025152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233992731928,
+                    37.5477134245636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000070666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4240931230243,
+                    37.5374883266384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 E Clay St Apt 107",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000052115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4240931230243,
+                    37.5374883266384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 E Clay St Apt 107",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000052117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4240931230243,
+                    37.5374883266384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 E Clay St Apt 107",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000055433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4240931230243,
+                    37.5374883266384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "242892-101000093866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257083477137,
+                    37.5360394869718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "248958-101000099427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257083477137,
+                    37.5360394869718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "254217-101000102985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257083477137,
+                    37.5360394869718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 E Broad St Apt 206",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000039883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257083477137,
+                    37.5360394869718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "253240-101000102517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "253240-101000102517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000106899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000106899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000108772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000108772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000112918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000112918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "264784-101000109042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.426050115854,
+                    37.5361261591575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000012797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42481794465,
+                    37.5355451777893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000084472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4248179446107,
+                    37.5355451805355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000085761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4248179446107,
+                    37.5355451805355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000093371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4248179446107,
+                    37.5355451805355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800-1898 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "256284-101000104056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4243086952276,
+                    37.5363962192705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1820 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000108176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4244661746331,
+                    37.5352610947679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000016484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000077190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.423979446659,
+                    37.5359939757255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 140",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000108731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 338",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000078897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 401",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000053624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 403",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000044646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 433",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000104036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 447",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000056298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000091225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000091225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000025398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425144334477,
+                    37.5355058899428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000025398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425144334477,
+                    37.5355058899428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000075520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000075520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000109437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000109437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Coalter St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000094442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4230992346603,
+                    37.543680349875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Coalter St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000030043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4230992346603,
+                    37.543680349875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Venable St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000062638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4228485530488,
+                    37.5383064697401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Venable St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000073991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4228485530488,
+                    37.5383064697401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3 Leigh St Viaduct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "279852-101000117827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233855526586,
+                    37.541203354056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300-320 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "265658-101000109356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260376420379,
+                    37.5361253402805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300-398 Cedar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "268218-101000110940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4238564616772,
+                    37.5354441326621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301-321 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "263239-101000108129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260021195412,
+                    37.5360865334973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301-321 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "261772-101000107329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4259578294949,
+                    37.5360868435837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301-321 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "258278-101000105547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4259603781039,
+                    37.5361257251641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "323-353 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "229152-101000081538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257695539592,
+                    37.5363783752608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "323-353 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "252975-101000102368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257659033979,
+                    37.5363948902705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "325 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000110554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4254320640341,
+                    37.536518352408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "325 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "258240-101000105511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4255406905196,
+                    37.53658481803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "328 N 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000026142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4245995662743,
+                    37.5362916651542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "333 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000073596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4252863114488,
+                    37.5366796748098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "333 Oliver Hill Way Apt 100",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000015448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4252863114488,
+                    37.5366796748098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "333 Oliver Hill Way Apt 201",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000119906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4252863114488,
+                    37.5366796748098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 U S 360",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "234557-101000085920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4249786796284,
+                    37.5373822021077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 N 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000086920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242048828196,
+                    37.536699608315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 N 18th St Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000088812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242048828196,
+                    37.536699608315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 N 18th St Apt 210",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000117910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242048828196,
+                    37.536699608315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 N 18th St Apt 214",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000101399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242048828196,
+                    37.536699608315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 N 18th St Apt 510",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000024442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242048828196,
+                    37.536699608315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "409 N 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "257794-101000105170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4237370861566,
+                    37.5364827994302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "415 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000025304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4245992867806,
+                    37.5373213933642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "415 Oliver Hill Way Apt 1C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000037036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4245992867806,
+                    37.5373213933642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "420 Cedar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000069267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4231970592397,
+                    37.5363870743761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "420 Cedar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "242047-101000093314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4231970592397,
+                    37.5363870743761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "420 N 18th St Apt 104",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000052897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236930123787,
+                    37.5372388435112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "420 N 18th St Apt 207",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000116581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236930123787,
+                    37.5372388435112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "420 N 18th St Apt 305",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000064716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236930123787,
+                    37.5372388435112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "421-499 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "252349-101000101908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4244308413339,
+                    37.5377836483637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "423 N 18th St Apt 315",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000114581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236712409835,
+                    37.5367359216487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "423 N 18th St Apt 401",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000114866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236712064973,
+                    37.5367359213355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "431 N 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000085562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233896709885,
+                    37.5365544805633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "431 N 18th St Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000080902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233896709885,
+                    37.5365544805633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "431 N 18th St Apt 318",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000047342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233896709885,
+                    37.5365544805633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "431 N 18th St Apt 418",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000009179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233896709885,
+                    37.5365544805633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "239414-101000090850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233217134163,
+                    37.5377882027604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "507-699 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "198748-101000056428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4236246973308,
+                    37.5394493004593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "510 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000056547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424640353581,
+                    37.5384361292224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600-682 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "203480-101000060494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4272615980468,
+                    37.5514054760332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "710 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000071090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4255760893836,
+                    37.5511063187939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "710 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000114513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4255760893836,
+                    37.5511063187939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000011694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000076105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000084326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000084327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000084330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000084332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000088424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4258431035183,
+                    37.5506811203509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St Unit 25",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000010007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4262186339284,
+                    37.5503627099355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Hospital St Unit 25",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000018070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4262186339284,
+                    37.5503627099355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "224602-101000076886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.426785809959,
+                    37.5511324989877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000098504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000098504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000098504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000098504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000039959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000039959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000039959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000039959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000098506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000098506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000098506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000098506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000041905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000041905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000041905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000041905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000100633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000100633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000100633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000100633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000041906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000041906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000041906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000041906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000075320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000075320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000075320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000075320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000075521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000075521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000075521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000075521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000077027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000077027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000077027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000077027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000078070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000078070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000078070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000078070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000100314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257017934984,
+                    37.543482577502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000029638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257017934984,
+                    37.543482577502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "809 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "260877-101000106783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4238128832261,
+                    37.5407142633873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "809 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "260878-101000106784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4238128832261,
+                    37.5407142633873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Avery St @ Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000073401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.422250006243,
+                    37.5482793277745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Avery St @ Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000073403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.422250006243,
+                    37.5482793277745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "276512-101000115190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4253371906715,
+                    37.535629800487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000023502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000023502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "249459-101000099505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "249459-101000099505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000106149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000106149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000106545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000106545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000106897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000106897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000117267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 17th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000117267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260584662316,
+                    37.5360703722973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000020409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425144334477,
+                    37.5355058899428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000020409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425144334477,
+                    37.5355058899428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000101394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000101394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000023130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000023130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000103849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000103849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251443344377,
+                    37.535505892689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "234768-101000088762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242416757318,
+                    37.5349552565507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000090150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000090150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000042967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000042967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000043243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000043243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000029876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000029876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000098443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000098443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000037682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000037682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000061996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000061996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000071070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cedar St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000071070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4234048508296,
+                    37.5358293091898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000089822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4244040094501,
+                    37.5378317033592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000026777",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4244040094501,
+                    37.5378317033592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Coalter St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000029562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4230992346996,
+                    37.5436803471288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Coalter St @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000108418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4243071682103,
+                    37.5436350114134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "East Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "261245-101000107121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4253371906715,
+                    37.535629800487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Way @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000101077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Way @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000045483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Way @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000073934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Way @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000095001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Way @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000119333",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000077503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000077503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000077503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000077503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000080004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000080004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000080004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000080004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000080017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000080017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000080017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000080017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000094445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000094445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000094445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000094445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000017810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4243108250023,
+                    37.5363895918933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000017810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4243108250023,
+                    37.5363895918933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000101437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000101437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000023925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000023925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "222055-101000074550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 18th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "222055-101000074550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424310824963,
+                    37.5363895946395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Washington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "203555-101000060536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4251293639215,
+                    37.5427641631635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oliver Hill Way @ Balding St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000117985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4242608781362,
+                    37.5457149644732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oliver Hill Way @ Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000116184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4244040094501,
+                    37.5378317033592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oliver Hill Way @ Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000118669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Venable St @ Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "226548-101000080210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4241660902612,
+                    37.5383088209859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000118751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42450446054,
+                    37.5491950394153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000120080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42450446054,
+                    37.5491950394153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oliver Hill Way @ Fairfield Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000123694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.424023320441,
+                    37.5482517885365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 E Marshall St Apt 425",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-3"
+            },
+            "id": "101000122161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4239794466983,
+                    37.5359939729793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "431 N 18th St Apt 317",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000120403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4233896709885,
+                    37.5365544805633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "284576-101000122009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268836098671,
+                    37.5368051010357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "284580-101000122010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268836098671,
+                    37.5368051010357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "284578-101000122008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268836098671,
+                    37.5368051010357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "283111-101000120852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4238322052776,
+                    37.5376155469957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18th St @ Venable St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "101000122120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4228485530488,
+                    37.5383064697401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "817 Oliver Hill Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-2"
+            },
+            "id": "283838-101000121463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4241167333781,
+                    37.5398583503848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000122077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42450446054,
+                    37.5491950394153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oliver Hill Way @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000122066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4237963763206,
+                    37.5506220649471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000125022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000125022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000125022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000125022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000125102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000125102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000125102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Hospital St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000125102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "North-5"
+            },
+            "id": "101000125020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "4",
+                "NSA": "East-1"
+            },
+            "id": "101000125020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "North-5"
+            },
+            "id": "101000125020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hospital St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Upper Shockoe Valley",
+                "PRECINCT": "1",
+                "NSA": "East-1"
+            },
+            "id": "101000125020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4268768106133,
+                    37.5511351326325
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

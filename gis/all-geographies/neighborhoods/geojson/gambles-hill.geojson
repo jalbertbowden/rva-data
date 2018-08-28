@@ -1,0 +1,777 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4492303489695,
+        37.5343913282315,
+        -77.4405618261806,
+        37.5418024743066
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Spring St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4464322433097,
+                    37.5379203481999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301-323 S Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "238468-101000089549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490059123363,
+                    37.5417235413522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301-399 S 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "207177-101000063337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4450738087187,
+                    37.5393287817941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 S 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000043679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431602043751,
+                    37.5380138901425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 S 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431602043751,
+                    37.5380138901425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "276424-101000115183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448768388185,
+                    37.5344284330219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 S 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475710820099,
+                    37.5378998371308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 S 1st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475710820099,
+                    37.5378998371308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Spring St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000029117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478021892335,
+                    37.5393130367416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Spring St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478021892335,
+                    37.5393130367416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Spring St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000048979",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478021892335,
+                    37.5393130367416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4452892746822,
+                    37.5351033412035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000085759",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4452892746822,
+                    37.5351033412035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "265802-101000109467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4452892746822,
+                    37.5351033412035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "501 S 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000022889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421805808551,
+                    37.5362029582536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "599 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "232803-101000083922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4417990934647,
+                    37.5352687229291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 S Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485878229693,
+                    37.5379827911711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "273908-101000114080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443256175178,
+                    37.5343913282315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "621 S Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000068115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487634514709,
+                    37.5370973874559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421144167494,
+                    37.5350690302521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028431",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421144167494,
+                    37.5350690302521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421144167494,
+                    37.5350690302521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421144167494,
+                    37.5350690302521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "802 W 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "194636-101000053065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485128001163,
+                    37.5359019995658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "236771-101000088201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439239506942,
+                    37.5345344538279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ Rowe St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000095003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492303489695,
+                    37.5373394451731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ Rowe St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000043986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492303489695,
+                    37.5373394451731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000097386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.449139710356,
+                    37.5418024743066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ Belvidere St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000018902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.449139710356,
+                    37.5418024743066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tredegar St @ 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000096433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434197586405,
+                    37.5353213757212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tredegar St @ 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434197586405,
+                    37.5353213757212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2 So Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Gambles Hill",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "285435-101000122666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4464571042238,
+                    37.5379183993613
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

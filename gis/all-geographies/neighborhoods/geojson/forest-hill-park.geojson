@@ -1,0 +1,2235 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4774296746312,
+        37.5154850785957,
+        -77.4664964645092,
+        37.5233142894103
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 W 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "282122-101000119773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.475319013386,
+                    37.5199505574718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 W 42nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "241956-101000093301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4761797500471,
+                    37.5209853869578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "29th St @ Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000033633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664964645092,
+                    37.5233142894103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000-3198 Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "205081-101000061653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680023192077,
+                    37.5228324219344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "30th St @ Riverside Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000109496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677488356471,
+                    37.5227488722394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3118 Chesterfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "214862-101000069006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4690951042873,
+                    37.5204518703815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3493-3499 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "266158-101000109678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4705282300318,
+                    37.5155927542671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "34th St @ Springhill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000113226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4696752885112,
+                    37.5170667010678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "275342-101000114652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741268940489,
+                    37.5164108986374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000061882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756937067184,
+                    37.5183986417211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000063745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756937067184,
+                    37.5183986417211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "244776-101000095326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756937067184,
+                    37.5183986417211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001-4099 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "207395-101000063524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4745072091865,
+                    37.516593799161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001-4099 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "207388-101000063523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4744644300631,
+                    37.516635893658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000094771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000046946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000058376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000064060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "228108-101000080884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000087715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "271180-101000112634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "258647-101000105663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4771152253664,
+                    37.5181555517396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "41st St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000091418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "41st St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000091418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "41st St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000045681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "41st St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000045681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4211 New Kent Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "215091-101000069216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764717556384,
+                    37.5209295363445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4211 Stonewall Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "212173-101000067215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4754028215933,
+                    37.5183906561329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "42nd St @ New Kent Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000030761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.476598243167,
+                    37.5209369045186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "799 W 33rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "237486-101000088799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4695739835529,
+                    37.5197639467352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bland St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "275329-101000114650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bland St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "275329-101000114650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bland St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "275329-101000114650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bland St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "275329-101000114650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "101000019013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000019013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "101000105440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000105440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000105440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookside Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000105440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735353766919,
+                    37.5161931924803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carson St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "240424-101000091725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4711784397986,
+                    37.5155746868193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carson St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "240424-101000091725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4711784397986,
+                    37.5155746868193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carson St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "240424-101000091725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4711784397986,
+                    37.5155746868193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carson St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "240424-101000091725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4711784397986,
+                    37.5155746868193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chesterfield St @ 32nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "214858-101000068999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46905485916,
+                    37.5205728389034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dundee Ave @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "101000074175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4701900690576,
+                    37.5154850785957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dundee Ave @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000074175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4701900690576,
+                    37.5154850785957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ferncliff Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "280263-101000118187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4686283979836,
+                    37.5221120011038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ferncliff Road @ 32nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000117524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699405752615,
+                    37.5221018656239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000091391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000091391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000044281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000044281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000089697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ 41st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000089697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774296746312,
+                    37.5178658686865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bland St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "101000037139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bland St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000037139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bland St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000037139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Bland St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000037139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4716979390127,
+                    37.5156595327245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Brookside Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000067323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4726562143152,
+                    37.5161855717779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Brookside Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000104459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4726562143152,
+                    37.5161855717779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000101845",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000101845",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000034864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000034864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000056820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000056820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "234537-101000085679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "234537-101000085679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000093268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000093268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000104186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000111205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000111205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000115165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000115165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Park Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "280383-101000118200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4728393422787,
+                    37.5171852123625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Park Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "200749-101000058086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4725882293293,
+                    37.5187032495166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Park Loop",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "234388-101000085477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.472094362957,
+                    37.5194659101341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Riverside Dr @ 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000037143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677488356471,
+                    37.5227488722394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000061401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000061401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000061907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000061907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000062086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000062086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000062584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000062584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "236194-101000087471",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "236194-101000087471",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000089756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000089756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000104080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000114498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000114498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4741257109514,
+                    37.5163939942601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Semmes Ave @ Dundee Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-2"
+            },
+            "id": "277860-101000116032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4702519894499,
+                    37.5156139995248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000045325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4759003872394,
+                    37.5187559707566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "271315-101000112676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4759003872394,
+                    37.5187559707566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000123245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766853539937,
+                    37.5177718809028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "32nd St @ Ferncliff Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000120668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699405752615,
+                    37.5221018656239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "32nd St @ Ferncliff Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000124943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699405752615,
+                    37.5221018656239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "New Kent Ave @ 32nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000124240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685078667763,
+                    37.5196871456825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chesterfield St @ 32nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000123752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46905485916,
+                    37.5205728389034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ferncliff Road @ 31st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000121063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4683903776137,
+                    37.5217535736633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "32nd St @ Ferncliff Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000121126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699405752615,
+                    37.5221018656239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "32nd St @ Ferncliff Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000120666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4699405752615,
+                    37.5221018656239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ferncliff Road @ 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Forest Hill Park",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000120945",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677488356471,
+                    37.5227488722394
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

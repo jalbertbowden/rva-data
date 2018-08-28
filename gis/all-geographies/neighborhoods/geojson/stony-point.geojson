@@ -1,0 +1,4176 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5771636976661,
+        37.5380322869971,
+        -77.5531375668001,
+        37.5567021002542
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127-3199 Stony Point Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "204563-101000061078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.562398306176,
+                    37.5380322869971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Rivanna Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000040722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5568769419419,
+                    37.541167821223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Rivanna Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000042920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5568769419419,
+                    37.541167821223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3317 N Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "231606-101000083258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5544163896111,
+                    37.5436562016484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3328-3442 Va-147",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "198851-101000056628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.553771987793,
+                    37.5442314150685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Stony Point Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000107269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5684337059555,
+                    37.5464590548291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Stony Point Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000107272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5684337059555,
+                    37.5464590548291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3409 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000041658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5563279264096,
+                    37.5431682769553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3417 W Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "210939-101000066480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5556560130303,
+                    37.5441172650107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3424 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000033283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5569587780851,
+                    37.5431099453258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3433 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000063241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5568229879841,
+                    37.5434665809167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3449 Rivanna Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000057424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.557357008438,
+                    37.5428095113514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Avella Springs Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000054774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5577697747867,
+                    37.5432808885017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Avella Springs Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000054776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5577697747867,
+                    37.5432808885017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Avella Springs Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000054856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5577697747867,
+                    37.5432808885017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000018500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5571530426904,
+                    37.5436654509871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3508 Avella Springs Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000026685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5578886824012,
+                    37.5434397284895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3517 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000088585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5574418117262,
+                    37.5438394681634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3525 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000040712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.557579332787,
+                    37.5439223309733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3525 West Point Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000118903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5575793328214,
+                    37.543922328227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8600 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000023300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5558821375636,
+                    37.5430172420215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8600 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000030081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5558821375636,
+                    37.5430172420215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8600-8628 W Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "204931-101000061508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5544339267966,
+                    37.5432656810536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8608 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000088588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5560679078854,
+                    37.5429465535317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8664 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000017458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5567476100585,
+                    37.5421067829547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8672 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000017049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5567995954442,
+                    37.5419689391383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8672 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000051496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5567995954442,
+                    37.5419689391383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8672 Devara Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000058524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5567995609895,
+                    37.5419689361177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8700 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000097939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5625025519507,
+                    37.5521328038952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8700 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000029510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5625025519507,
+                    37.5521328038952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8700 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000033441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5625025519849,
+                    37.5521328011489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8700 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000101536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5625025519849,
+                    37.5521328011489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8720 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000022212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639443154999,
+                    37.5512252424668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8720 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000025190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639443154999,
+                    37.5512252424668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8720 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000029312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639443154999,
+                    37.5512252424668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8720 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000057638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639443154999,
+                    37.5512252424668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8720 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000118036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639443154657,
+                    37.5512252452131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8730 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000011781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5644703085315,
+                    37.5512651370252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8756 W Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000026549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5588303212685,
+                    37.5396567041942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8800 W Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000034079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5600754843482,
+                    37.5391005841186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8800 W Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000035688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5600754843482,
+                    37.5391005841186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9000 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000118028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5656965448067,
+                    37.553067801601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9005-9131 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "264656-101000108938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5613963186725,
+                    37.5551142992867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9020 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000021230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.568978258827,
+                    37.5541461733964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9020 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000031801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.568978258827,
+                    37.5541461733964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9020 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000046912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.568978258827,
+                    37.5541461733964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9020 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000074383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.568978258827,
+                    37.5541461733964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9020 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000085839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.568978258827,
+                    37.5541461733964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9030 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000003884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5686746294453,
+                    37.5533063788871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9030 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000091423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5686746294112,
+                    37.5533063816333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9030 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000046247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5686746294453,
+                    37.5533063788871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9040 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "253220-101000102501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.567494302288,
+                    37.5513814006829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9040 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "280046-101000117988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5670016644857,
+                    37.5516250304459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "907 Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "217481-101000071208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5712717502355,
+                    37.5558778445222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9101 Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000019045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5679529395615,
+                    37.5486300864595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9105 Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000057062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.56524250807,
+                    37.5480873682388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9120 James Riverwatch Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000041666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5619771101805,
+                    37.5544862019766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9120 James Riverwatch Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000064202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5619771102148,
+                    37.5544861992303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9120 James Riverwatch Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000099048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5619771102148,
+                    37.5544861992303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9131 James Riverwatch Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000020515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5625505541891,
+                    37.5538959978504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9161 James Riverwatch Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000045715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5638161818968,
+                    37.554352973772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 612",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000009264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538061,
+                    37.5466685872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 621",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000002281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538061,
+                    37.5466685872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 623",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000010409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538061,
+                    37.5466685872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 627",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000020880",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538399,
+                    37.5466685844923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 627",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000020882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538061,
+                    37.5466685872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 627",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000081513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538399,
+                    37.5466685844923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Crest Cir Apt 637",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000018942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5731225538061,
+                    37.5466685872386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "236640-101000088031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5711025872892,
+                    37.5500092003936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000034354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000057860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000069818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000069822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy Ste 125",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000040422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy Ste 197",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000004047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9200 Stony Point Pkwy Ste 197",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000000545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718139482175,
+                    37.550379481407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9201 Stony Crest Cir Apt 111",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000015848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5730036692709,
+                    37.5470502643874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9201 Stony Crest Cir Apt 125",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000009731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5730036692709,
+                    37.5470502643874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9201 Stony Crest Cir Apt 127",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000025268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5730036693047,
+                    37.5470502616412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9201 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000046446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5750180734593,
+                    37.5524788107645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9210 Stony Crest Cir Apt 513",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000012020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5724926496342,
+                    37.54643637018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9211 Stony Crest Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000058435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5725161259631,
+                    37.5468456753852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9211 Stony Crest Cir Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000011500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5725161259631,
+                    37.5468456753852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9211 Stony Crest Cir Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000018477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5725161259631,
+                    37.5468456753852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9211 Stony Crest Cir Apt 213",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000043446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5725161259631,
+                    37.5468456753852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9211 Stony Crest Cir Apt 222",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000015251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5725161259631,
+                    37.5468456753852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9212 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000018538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5713034239514,
+                    37.55059827575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9220 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000003133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.571080146921,
+                    37.5477610046288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9221 Stony Crest Cir Apt 314",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000007911",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718699783065,
+                    37.5467724338395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9221 Stony Crest Cir Apt 323",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000007036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718699783065,
+                    37.5467724338395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9221 Stony Crest Cir Apt 334",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000000385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5718699783065,
+                    37.5467724338395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9229 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000000769",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5640359469035,
+                    37.5548312815913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231 Stony Crest Cir Apt 418",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000016963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5715881513672,
+                    37.5462087479855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231 Stony Crest Cir Apt 424",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000091111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5715881513672,
+                    37.5462087479855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231 Stony Crest Cir Apt 425",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000002966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5715881513672,
+                    37.5462087479855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231 Stony Crest Cir Apt 425",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000108611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5715881513672,
+                    37.5462087479855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231 Stony Crest Cir Apt 434",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000005941",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5715881513672,
+                    37.5462087479855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9231-9299 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "258213-101000105507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5679739535888,
+                    37.5499342550301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9240 Stony Crest Cir Apt 912",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000021420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.572212577291,
+                    37.5459985368307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9240 Stony Crest Cir Apt 936",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000011765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.572212577291,
+                    37.5459985368307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9241 Stony Crest Cir Apt 1023",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000010919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5727887179889,
+                    37.545574979629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9241 Stony Crest Cir Apt 1023",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000055486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5727887179889,
+                    37.545574979629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9241 Stony Crest Cir Apt 1024",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000095991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5727887179889,
+                    37.545574979629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9250 Stony Crest Cir Apt 811",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000084989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5728874173471,
+                    37.5460606385901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9250 Stony Crest Cir Apt 811",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000084992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5728874173471,
+                    37.5460606385901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9250 Stony Crest Cir Apt 813",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000014090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5728874173471,
+                    37.5460606385901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9250 Stony Crest Cir Apt 823",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000020297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5728874173471,
+                    37.5460606385901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9260 Stony Crest Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000045345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5733550891353,
+                    37.5463294684665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9260 Stony Crest Cir Apt 711",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000088437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5733550891353,
+                    37.5463294684665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9260 Stony Crest Cir Apt 716",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000017027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5733550891353,
+                    37.5463294684665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9260 Stony Crest Cir Apt 725",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000011040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5733550891353,
+                    37.5463294684665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9260 Stony Crest Cir Apt 725",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000022198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5733550891353,
+                    37.5463294684665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9300 Creek'S Crossing Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000112446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5755026663196,
+                    37.5466868298069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9304 Creek'S Crossing Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000047731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5756826772501,
+                    37.5466937895365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9307 Cherokee Road Cott",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000069251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5647970771959,
+                    37.5546101611687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9307 Cherokee Roadu",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "259760-101000106283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5649079847493,
+                    37.554552298846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9311 Creek'S Crossing Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000021585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.57604277977,
+                    37.5469480923352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9314 Creeks Crossing Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "261524-101000107307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.576248003137,
+                    37.5466354018815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9319 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000081162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5660303894895,
+                    37.5547991251508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9319-9501 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "263162-101000108091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5667625726274,
+                    37.5550917087232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9340 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "231993-101000083555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5668123211983,
+                    37.5552193765504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9340 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "264293-101000108719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5666915232904,
+                    37.5552319661294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9340-9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "261681-101000107319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5678097154486,
+                    37.5555888390861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9410 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000040977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.575613231218,
+                    37.5473227418923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9411 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "233045-101000084007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5759353737818,
+                    37.5478057921102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9414 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000014536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5757945504854,
+                    37.5473244163526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9423 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000003416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5753949473047,
+                    37.5477798154588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9428 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000062383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5765025959915,
+                    37.5473298236651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9436 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000033679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5757959317223,
+                    37.5476721637734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9448 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000041599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5764226772578,
+                    37.5476858557149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9450 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000111273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5765096652676,
+                    37.5476893649591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9452 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "261517-101000107306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5766114168555,
+                    37.5476844776632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9477 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "208120-101000064105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5771636976661,
+                    37.54766083182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9501 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000111671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5671731941562,
+                    37.5552123890477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9501 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "261363-101000107244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676360573445,
+                    37.5554963773089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9501 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000042214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5752001334842,
+                    37.5466515890585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9507 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000045711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5751935564189,
+                    37.5464544146063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9511 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000008263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5751879576603,
+                    37.5463066933574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9520 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000002147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5755161232041,
+                    37.5462181534158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9535 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000024162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5759299585557,
+                    37.5460240889116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "263702-101000108314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5763900154822,
+                    37.5459450007841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000085698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5761821030236,
+                    37.5459434413401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000095264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5761821030236,
+                    37.5459434413401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000104104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5761821030236,
+                    37.5459434413401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000103405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5761821030236,
+                    37.5459434413401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9539 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000109316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5761821030236,
+                    37.5459434413401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9540 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "282365-101000119822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5674158044635,
+                    37.5560201003233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9553 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "233044-101000084005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5769805886012,
+                    37.5469818102801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9554 Creek Summit Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "233043-101000084004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5765915006381,
+                    37.5469245917353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9601 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000107379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5688142688365,
+                    37.5556597207784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000087564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5681421365922,
+                    37.555803790556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000106141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5681421365922,
+                    37.555803790556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000107359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5681421365922,
+                    37.555803790556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "280999-101000118641",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676531831885,
+                    37.5567021002542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640-9650 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "258515-101000105646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5686385761201,
+                    37.5561405437939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000091240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000091257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000101986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000039589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000062624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000063876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000067293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000093257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000114152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000065732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676312408968,
+                    37.5504565081632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000117987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676312408968,
+                    37.5504565081632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000020570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000091251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000057904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000059815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000061881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000063893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000065544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000065546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000067547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000099224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000104460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000108922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000109394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000110996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000112839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000112925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000112947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000113417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000113691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000114042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000114821",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000118541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rubimont Road @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000097487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5538746481642,
+                    37.5440225563063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rubimont Road @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000022864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5538746481642,
+                    37.5440225563063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rubimont Road @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000016256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5539345889211,
+                    37.5440451908689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rubimont Road @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000097483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5539345889211,
+                    37.5440451908689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point @ Evansway",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "267302-101000110404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5677543163826,
+                    37.550490500058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Dr @ Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000060295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5687827569253,
+                    37.5486585570217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "222665-101000075251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5669016738442,
+                    37.5516042928888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Pkwy @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000118006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676312408968,
+                    37.5504565081632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Pkwy @ Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000027067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5687827569253,
+                    37.5486585570217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Pkwy @ Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "267300-101000110403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5712000928747,
+                    37.5494940006329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stony Point Pkwy @ Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "215813-101000069966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5711975101483,
+                    37.5497169564719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000036310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5615100554956,
+                    37.5402129250946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Huguenot Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000120673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Huguenot Road @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000124992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5531375668001,
+                    37.5452293071869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9241 Stony Crest Cir Apt 1033",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000122566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5727887179889,
+                    37.545574979629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1752 W Leigh St- Rear",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "287505-101000124390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5639433046451,
+                    37.5470186994338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9101 Stony Point Parkway",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "285086-101000122473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5680171085092,
+                    37.5498479965155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9101 Stony Point Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "283168-101000120903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5677725388501,
+                    37.5500392694688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9131 Stony Point Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "101000123347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5729068548989,
+                    37.5551258676534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9640 Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Stony Point",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-2"
+            },
+            "id": "285909-101000123022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5676531831885,
+                    37.5567021002542
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

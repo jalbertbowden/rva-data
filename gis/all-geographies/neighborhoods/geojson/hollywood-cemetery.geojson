@@ -1,0 +1,1134 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4685478033257,
+        37.5303146005083,
+        -77.4530027569916,
+        37.5427285007267
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000094192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783418465,
+                    37.5419865342138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000094193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783073577,
+                    37.5419865339097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000026443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783073577,
+                    37.5419865339097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000051082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783418465,
+                    37.5419865342138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000060331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783073577,
+                    37.5419865339097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000081320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4543783073577,
+                    37.5419865339097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "203289-101000060243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548609103527,
+                    37.5423280008447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000058323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557672683694,
+                    37.5420163871839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1108 Wallace St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000113787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457197799472,
+                    37.5412129491726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "120 Tredegar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "1",
+                "NSA": "Near West-5"
+            },
+            "id": "101000078779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4540377998635,
+                    37.5337018578928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Grayland Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "263751-101000108324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568588838481,
+                    37.5427285007267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Randolph St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000058770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631418743709,
+                    37.5361414043199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Southampton Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "199703-101000057383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.468356156683,
+                    37.5313072782803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 A Texas Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "272457-101000113291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685478032504,
+                    37.5303146060008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "402 Dobson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000024168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567910661742,
+                    37.5417570096847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "404 Dobson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000024169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456793490849,
+                    37.5416891718196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "405 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000006270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572313295902,
+                    37.5417025296313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "406 Dobson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "265411-101000109246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4566659072613,
+                    37.5416341204105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "406 Dobson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000114869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568047471986,
+                    37.5416361359639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "407 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000027680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572697051861,
+                    37.5416314951259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "408 Dobson St Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000013758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568106625493,
+                    37.5413142886892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "410 Dobson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "265410-101000109245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4566746287863,
+                    37.5410529842996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "412 S Cherry St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000116356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530027569916,
+                    37.5403500978003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511 - 513 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "201168-101000058523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578430163099,
+                    37.5407304002456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000054363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576494242398,
+                    37.5407269377123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000098341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576494242398,
+                    37.5407269377123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511-513 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "197602-101000055544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578430163099,
+                    37.5407304002456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511-513 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "218594-101000071994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578430163099,
+                    37.5407304002456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "793-829 S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "197120-101000054964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599957978563,
+                    37.5394233085458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Claiborne St @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000105017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4600951398161,
+                    37.5393456037321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000024822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568682785259,
+                    37.5427126863166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000087074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568682785259,
+                    37.5427126863166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000087084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568682785259,
+                    37.5427126863166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "277691-101000115908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568466903112,
+                    37.5427222988265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "273971-101000114117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553540465322,
+                    37.5421228397646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harrison St @ Grayland Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000087095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568682785259,
+                    37.5427126863166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harrison St @ Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000114559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572468357515,
+                    37.5420293772709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harrison St @ Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000117596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572468357515,
+                    37.5420293772709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harrison St @ Wallace St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000103380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4577163887995,
+                    37.5412507375074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Idlewood Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000117479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572468357515,
+                    37.5420293772709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Idlewood Ave @ Linden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000081321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541002784992,
+                    37.5418389257853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Idlewood Ave @ Linden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000081321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541002784992,
+                    37.5418389257853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Linden St @ Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-4"
+            },
+            "id": "101000114977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541002784992,
+                    37.5418389257853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Linden St @ Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000114977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541002784992,
+                    37.5418389257853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Bank Trail",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "195204-101000053590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685478033257,
+                    37.5303146005083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Bank Trail",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "195205-101000053591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685478033257,
+                    37.5303146005083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Pennsylvania Ave @ Southampton Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000034655",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679890218442,
+                    37.5340163018479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wallace St @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000018875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4577163887995,
+                    37.5412507375074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000066278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616715008607,
+                    37.536008045528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000088731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616715008607,
+                    37.536008045528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "101000089048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616715008607,
+                    37.536008045528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511-513 S Harrison St.",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "284840-101000122220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576937935582,
+                    37.5406787988848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1090 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "284412-101000121823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550964071353,
+                    37.5419697997006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Idlewood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "4",
+                "NSA": "Near West-5"
+            },
+            "id": "282940-101000120575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4554271242898,
+                    37.5420021462407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Idlewood Ave @ Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "101000120859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572468357515,
+                    37.5420293772709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Grayland Ave @ S Harrison St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Hollywood Cemetery",
+                "PRECINCT": "3",
+                "NSA": "Near West-5"
+            },
+            "id": "285643-101000122723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568466903112,
+                    37.5427222988265
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

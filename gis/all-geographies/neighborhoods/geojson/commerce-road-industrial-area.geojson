@@ -1,0 +1,2197 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4373154628732,
+        37.4521120398135,
+        -77.425639052192,
+        37.4923879416481
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Ruffin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000033925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333690618637,
+                    37.4799002647736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "278334-101000116563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337413486375,
+                    37.4665625699442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318943849584,
+                    37.4641659811926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318943849584,
+                    37.4641659811926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318943849584,
+                    37.4641659811926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Ruffin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000023574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373154628732,
+                    37.4799293766781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000060647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337975874359,
+                    37.4914857579756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204-2298 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "219146-101000072528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329748109234,
+                    37.491761400774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Commerce Road Access",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "277495-101000115751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322685332681,
+                    37.4903569489704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000038111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4315124390636,
+                    37.4898552613649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2401 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000110898",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333068833174,
+                    37.4888575782961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2401 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000113319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333068833174,
+                    37.4888575782961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000034137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336457758881,
+                    37.4877539457734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000011302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311181302433,
+                    37.4889516335902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2702 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000102476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309139539416,
+                    37.4865082798954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2702 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000107233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309139539416,
+                    37.4865082798954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2703 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000054814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333778842934,
+                    37.4861134934995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2703 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000054815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333778842934,
+                    37.4861134934995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3021 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000025462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341144960854,
+                    37.4831160285423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3203 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000046505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318189133746,
+                    37.4811018458372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3203 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000059874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318189133746,
+                    37.4811018458372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3205 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000008259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4332009191475,
+                    37.4807210500709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000002872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301544919582,
+                    37.4832294761922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000111268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301544919582,
+                    37.4832294761922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3240 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "259582-101000106172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4299669661849,
+                    37.4811913642879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000036224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309726336615,
+                    37.4773344583673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000112021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309726336615,
+                    37.4773344583673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3405 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000068771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430555287386,
+                    37.4761994443714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3405 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000113186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4305552874251,
+                    37.4761994416251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3572-3600 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "259580-101000106173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.429000851284,
+                    37.4768376932917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3573-4199 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "277461-101000115703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4276885461157,
+                    37.4706875934661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000024173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283040115632,
+                    37.4748873101715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000035297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283040115632,
+                    37.4748873101715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000081914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283040115632,
+                    37.4748873101715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000082100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283040115632,
+                    37.4748873101715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000091219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000009928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000112794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000051014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000062894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000069332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000109057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300055298124,
+                    37.4731975345028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3900 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000005008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4275245442596,
+                    37.4729749585446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3900 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000101163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4275245442596,
+                    37.4729749585446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3900 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000050595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4275245442596,
+                    37.4729749585446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4200-4298 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "277463-101000115702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283309676339,
+                    37.4680786994285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "273746-101000113969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42743551629,
+                    37.4664127997436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "273742-101000113968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.42743551629,
+                    37.4664127997436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000078925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4276975060067,
+                    37.4665625442918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000102551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4276975060067,
+                    37.4665625442918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4303 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000000524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4285266620036,
+                    37.4661960207788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4303 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000093413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4285266620036,
+                    37.4661960207788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4337-4355 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "276617-101000115262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281457555441,
+                    37.4662785676574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4350 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000057764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4274655156853,
+                    37.4651639593044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4350 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000064436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4274655156853,
+                    37.4651639593044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4350 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000069038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4274655156853,
+                    37.4651639593044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4350 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "277497-101000115752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4279839528055,
+                    37.4667927710829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4400 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000020838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4274799639547,
+                    37.4645612775285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4435 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000060780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4284304355449,
+                    37.4642301997232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5050 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000003408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4260892228336,
+                    37.4542592303344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5066 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000035935",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4261605188082,
+                    37.455067176542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5135 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000041652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4271227424045,
+                    37.4528235236827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5160 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000028379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4257195133301,
+                    37.4525332827251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5190 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000009216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425639052192,
+                    37.4521120398135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5190 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000041684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.425639052192,
+                    37.4521120398135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bells Road @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000060336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bells Road @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000040914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4285101995629,
+                    37.4681651254196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bells Road Access Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "277460-101000115701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4266561775497,
+                    37.4684583170139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "278333-101000116565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4282722974868,
+                    37.4670059990782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000101512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000024209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000101573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000024815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000025401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000036305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000102177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000042860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000101142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000047261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000075324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000103015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000104101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000104872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000108917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000110552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000114071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000114736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000119121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Ruffin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000114128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308656441177,
+                    37.4797703421629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000103014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.427748734654,
+                    37.4638913516384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Deepwater Terminal Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000058442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4266057748638,
+                    37.4684212891027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Frank Road @ Ruffin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000029419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4332101580413,
+                    37.4797049621675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Krouse St @ Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "275592-101000114711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324777040918,
+                    37.4870312000378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mike Road @ Ruffin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000033892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319965104983,
+                    37.4797400313814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Richmond-Petersburg Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "259579-101000106171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4266729795132,
+                    37.4684544812068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Trenton Ave @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000056717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4267878380563,
+                    37.4563817860642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000118939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.427748734654,
+                    37.4638913516384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000122520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.427748734654,
+                    37.4638913516384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4435 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000121054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4284304355449,
+                    37.4642301997232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4276975060067,
+                    37.4665625442918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000122391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Bells Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bells Road @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000124776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4281581397167,
+                    37.4670226623888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4201 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4297838371369,
+                    37.4691348425526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000124423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330036333961,
+                    37.4923879416481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ruffin Road @ Mike Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319965104983,
+                    37.4797400313814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Deepwater Terminal Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Commerce Road Industrial Area",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000124780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312673033126,
+                    37.4871569078209
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

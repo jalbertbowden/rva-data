@@ -1,0 +1,1557 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4882908359737,
+        37.4890269235316,
+        -77.4758586506714,
+        37.4978901394213
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1402 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4758586506714,
+                    37.4962582571811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000080836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4789730631432,
+                    37.4959650731196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000116354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764975506763,
+                    37.4967042496264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1414 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4771185138146,
+                    37.4966446721518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1415 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000030260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792130035438,
+                    37.4959434953413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000008548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.479218022539,
+                    37.4978901394213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1426 Clarkson Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773107843279,
+                    37.4973606865774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1428 Clarkson Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4771708934142,
+                    37.4972239463901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1428 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000105080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.479290263579,
+                    37.4963060829882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1430 Clarkson Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066608",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773975645895,
+                    37.4969717868826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1430 Clarkson Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773975645895,
+                    37.4969717868826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1434 Clarkson Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000034323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4778809629922,
+                    37.4973881946349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1440 Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000068607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781947711313,
+                    37.4969843090704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1448 Clarkson Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000012549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785405237566,
+                    37.4968348196656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1448 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052657",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4793333716142,
+                    37.4966629216458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1451 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000076703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796308648232,
+                    37.4954305843755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1454 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000059721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796329049567,
+                    37.4973994007326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1458 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4797166525521,
+                    37.4973449926526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4799356417851,
+                    37.4971833333301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4783616276721,
+                    37.4959201389968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4783616276721,
+                    37.4959201389968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000023374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4802325901916,
+                    37.4958304235513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4802325901916,
+                    37.4958304235513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1516 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4791492436747,
+                    37.4950713963725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1518 Clarkson Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4790994672336,
+                    37.4948224955164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1526 Clarkson Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000008551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796379030588,
+                    37.4937937200162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 Clarkson Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4800218821653,
+                    37.4939607911312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4803746700261,
+                    37.4940767671157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1530 Clarkson Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4803746700261,
+                    37.4940767671157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1534 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000007494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4807029041149,
+                    37.4970704934748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1543 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000118294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4807187278729,
+                    37.4962437122327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1544 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000043308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4798205134011,
+                    37.4949614128751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1544 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4798205134011,
+                    37.4949614128751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1544 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000056145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4798205134011,
+                    37.4949614128751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1546 Clarkson Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000054108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4795730151503,
+                    37.4951795185842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1546 Clarkson Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4795730151503,
+                    37.4951795185842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1580 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4813564790119,
+                    37.4954327028987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1582 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4813790255734,
+                    37.4954529028146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1582 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000059214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4813790255734,
+                    37.4954529028146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000026138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4807114819991,
+                    37.4967783891919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1609 Treehaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481308759954,
+                    37.4947411877909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1672 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000008079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4814772457752,
+                    37.4964321575962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Clarkson Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4810354068226,
+                    37.4923287529497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823701329896,
+                    37.4961115069993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 Clarkson Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000102173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48199778646,
+                    37.4909323157559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000117482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4822398808905,
+                    37.4959803405223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1736 Tifton Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819603886019,
+                    37.4956438237114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1740 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000074439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826000770678,
+                    37.4902845452171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4602 Southwood Pkwy Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000057353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4799076509913,
+                    37.493762161095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4604 Southwood Pkwy Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4802818568306,
+                    37.4938670278488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4649 Southwood Pkwy Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000057927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4814350393183,
+                    37.4931468549223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4663 Southwood Pkwy Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000016574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824094792626,
+                    37.4925076841594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4667 Southwood Pkwy Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482745547342,
+                    37.4929141112638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4677 Southwood Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826631143769,
+                    37.4923315517716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4689 Southwood Pkwy Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000036699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4840445898832,
+                    37.4923684333318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4689 Southwood Pkwy Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4840445898832,
+                    37.4923684333318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4693 Southwood Pkwy Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4840882825869,
+                    37.4920403419599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4695 Southwood Pkwy Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4838303431106,
+                    37.4919536670529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5102 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000100542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4848936339617,
+                    37.490653710853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5102 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4848936339617,
+                    37.490653710853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000053211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000053211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000060082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000060082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000096757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clarkson Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000096757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826917458355,
+                    37.4890269235316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Southwood Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834622154476,
+                    37.4958501629079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Southwood Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000114203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834622154476,
+                    37.4958501629079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000117751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882908359737,
+                    37.4926849871524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000087299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882908359737,
+                    37.4926849871524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 Clarkson Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4820945563213,
+                    37.4913107936903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Southwood Pkwy @ Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000121433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796066646228,
+                    37.4933852132165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Southwood Pkwy @ Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000121433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796066646228,
+                    37.4933852132165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Southwood Pkwy @ Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796066646601,
+                    37.4933852104702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Southwood Pkwy @ Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000124392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796066646601,
+                    37.4933852104702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Clarkson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4767508050653,
+                    37.4968419642591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1740 Clarkson Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Southwood",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826000770678,
+                    37.4902845452171
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

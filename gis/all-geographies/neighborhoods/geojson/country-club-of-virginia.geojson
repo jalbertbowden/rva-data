@@ -1,0 +1,977 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5383987217495,
+        37.5681513547959,
+        -77.5231641102605,
+        37.5749625986536
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000077695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5281358812717,
+                    37.5733490875118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19 1/2 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000047739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5294033683547,
+                    37.5736289081922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19 1/2 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000086490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5294033683547,
+                    37.5736289081922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000071256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.528844197913,
+                    37.5736835485223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "20 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000076783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5261871855795,
+                    37.5683899781285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000020010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000048696",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000055460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000056127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000114791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000031247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5273743024188,
+                    37.5683382252734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000098119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5273743023833,
+                    37.5683382280196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5900 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000038532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5273743023833,
+                    37.5683382280196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5902 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000057342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290036376759,
+                    37.5683926892112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5902 River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000083775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290036376404,
+                    37.5683926919574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5904 Three Chopt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "282266-101000119798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5238325019546,
+                    37.5719097982473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6107 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000021728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.530349165071,
+                    37.573672502844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6107 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000085502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.530349165071,
+                    37.573672502844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6107 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000089178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.530349165071,
+                    37.573672502844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6107 Robin Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000114317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.530349165071,
+                    37.573672502844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6109 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000079841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5288256072036,
+                    37.5719315750572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6109 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000091038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5288256072036,
+                    37.5719315750572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6109 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000091039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5288256072036,
+                    37.5719315750572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6117 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000064056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5298042224053,
+                    37.5718102565092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6117 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000069871",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5298042223699,
+                    37.5718102592555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6123 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "252648-101000102208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.531100617128,
+                    37.5714229006549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6123 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000047854",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5310674089544,
+                    37.5714453348073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6123 St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000118938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5310674089898,
+                    37.571445332061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bridgeway Road @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000098258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.531193868686,
+                    37.5681513547959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bridgeway Road @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000033163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.531193868686,
+                    37.5681513547959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary Street Road @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000099676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102962,
+                    37.5689877169574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary Street Road @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-3"
+            },
+            "id": "101000099676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102962,
+                    37.5689877169574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000097997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-3"
+            },
+            "id": "101000097997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000030150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-3"
+            },
+            "id": "101000030150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000098000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-3"
+            },
+            "id": "101000098000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000030156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hampton Hills Lane @ River Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-3"
+            },
+            "id": "101000030156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5231641102605,
+                    37.5689877197036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Robin Road @ Tapoan Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000096504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5310606644077,
+                    37.5749625986536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Robin Road @ Tapoan Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000038968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5310606644077,
+                    37.5749625986536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Three Chopt Road @ St Catherines Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000059165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5235714114215,
+                    37.5711010872125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "28 Westhampton Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000123361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383987217495,
+                    37.5738748921491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Three Chopt Road @ St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000123105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5239524943377,
+                    37.5723337660275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Three Chopt Road @ St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000122570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5239524943377,
+                    37.5723337660275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Three Chopt Road @ St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000124026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5239524943377,
+                    37.5723337660275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Three Chopt Road @ St Andrews Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "Country Club of Virginia",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000121840",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5239524943377,
+                    37.5723337660275
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

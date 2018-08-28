@@ -1,0 +1,2096 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4702089006929,
+        37.5567794388133,
+        -77.4603107643709,
+        37.5675394641547
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1103 N Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000089863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4686903088044,
+                    37.5647539556541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1105 N Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000014540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685408189179,
+                    37.5648460076591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1119-1199 N Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "258193-101000105500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684800875026,
+                    37.5655074558354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1128 Hermitage Road Apt 301",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605555588064,
+                    37.5622270153596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1128 Hermitage Road Apt 312",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000071152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605555588064,
+                    37.5622270153596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1198 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "242550-101000095263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603784867229,
+                    37.5626988519003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 N Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "222787-101000075382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4678424740662,
+                    37.5666191781632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 W Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000103385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603780080942,
+                    37.5581720801905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2024 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000004875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4614106307193,
+                    37.5580577734414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "281876-101000119524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4632638085941,
+                    37.5649380004315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000115852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4629711560631,
+                    37.5585197059581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635036652917,
+                    37.5599934830591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.462567881886,
+                    37.5623157999891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2401 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000106360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646153224594,
+                    37.5625931270312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2626 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000073021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4674591860313,
+                    37.5622486230142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000108070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649098154132,
+                    37.5655326870574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000036597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649098154132,
+                    37.5655326870574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "263976-101000108364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.464970436486,
+                    37.5648589899047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "263924-101000108336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653352036012,
+                    37.5652927096667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "258522-101000105649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4654424922488,
+                    37.5654117716298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "261123-101000106957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4655390629872,
+                    37.5654798054117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000039747",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388996154,
+                    37.5622612150575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000066115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000092072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000092073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000094077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693388651174,
+                    37.5622612147577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2738 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000069148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4696188680443,
+                    37.5624234857063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2738 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000094079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4696188680443,
+                    37.5624234857063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2738 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000098546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4696188680443,
+                    37.5624234857063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807-2841 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "222788-101000075383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673814885792,
+                    37.5663537138433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2843-2899 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "196508-101000054470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679902802542,
+                    37.5665520591969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2843-2899 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "206380-101000062540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679902802542,
+                    37.5665520591969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000013448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000023497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000025903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000096487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000099592",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000100589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303292736,
+                    37.5629927694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 108",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000000451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 117",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000060257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 152",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000044810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 162",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000091976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 259",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000022430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 283",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000069149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303292736,
+                    37.5629927694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 304",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000049418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 304",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000082644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 413",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000054432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 413",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000070929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Terminal Pl Apt 413",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000070931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677303293113,
+                    37.5629927667024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000000723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000089825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000026994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000094078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000106364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000113829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4693357723865,
+                    37.5630753559237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "927 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000006135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4689969461436,
+                    37.5634533750058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "929 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000057118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4688693014789,
+                    37.5638042700259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "939-947 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "269775-101000111621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680932235569,
+                    37.5647216532641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "949 Myers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000119983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675225372271,
+                    37.5649879315878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "959 Myers St Ste B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000048739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4663707476883,
+                    37.5656949483438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Boulevard @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4702089006929,
+                    37.5625285411166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Boulevard @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4702089006929,
+                    37.5625285411166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Boulevard @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000070092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685355703671,
+                    37.5655777691791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Boulevard @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000105859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685355703671,
+                    37.5655777691791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Boulevard @ Norfolk St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4674673962723,
+                    37.5675394641547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000105864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4702089006929,
+                    37.5625285411166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000105864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4702089006929,
+                    37.5625285411166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Davis Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000092441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660542000365,
+                    37.5600460436635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Davis Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660542000365,
+                    37.5600460436635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Davis Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000026818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660542000365,
+                    37.5600460436635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Davis Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000031149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660542000365,
+                    37.5600460436635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Meadow St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000115609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Robinson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000026819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670792368444,
+                    37.5606580269775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Robinson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000092625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670792368444,
+                    37.5606580269775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Robinson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000031150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670792368444,
+                    37.5606580269775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Strawberry St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000096760",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640989645072,
+                    37.5588785452645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Terminal Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000103266",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685211682048,
+                    37.561519333839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Davis Ave @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660542000365,
+                    37.5600460436635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dmv Dr @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000016229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465190398702,
+                    37.5595295495137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dmv Dr @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000111117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465190398702,
+                    37.5595295495137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dmv Dr @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000111118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465190398702,
+                    37.5595295495137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dmv Dr @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465190398702,
+                    37.5595295495137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dmv Dr @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000100463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4627835065253,
+                    37.5620843700749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685355703671,
+                    37.5655777691791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603107643709,
+                    37.5609328482776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603107643709,
+                    37.5609328482776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000112599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000050170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Moore St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000095064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679908335487,
+                    37.5665670436337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Moore St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000115472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679908335487,
+                    37.5665670436337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Myers St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000098347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4667345656093,
+                    37.5661508995615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Norfolk St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000057597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4674673962723,
+                    37.5675394641547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Norfolk St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "275052-101000114625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4674673962723,
+                    37.5675394641547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Robinson St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "221567-101000074099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670792368444,
+                    37.5606580269775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Robinson St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670792368444,
+                    37.5606580269775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000112658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4606893253205,
+                    37.5599418021494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Pl @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000121800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685211682048,
+                    37.561519333839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000124431",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000121742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635036652917,
+                    37.5599934830591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Moore St @ Boulevard",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Museums",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000121308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679908335487,
+                    37.5665670436337
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

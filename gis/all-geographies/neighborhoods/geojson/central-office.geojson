@@ -1,0 +1,5476 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4409739083004,
+        37.5331075201872,
+        -77.4337840114101,
+        37.5401457554204
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000075378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350436908414,
+                    37.5357214389811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "203331-101000060301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347428142732,
+                    37.5358103995752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363897193676,
+                    37.535959198225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041333",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363897193676,
+                    37.535959198225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378061872242,
+                    37.5348860542803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000006140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4361665696759,
+                    37.536568331872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000063414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4361665696759,
+                    37.536568331872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353474401843,
+                    37.5374752334571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353474746709,
+                    37.5374752337668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Main St Apt 10A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353474746709,
+                    37.5374752337668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 E Main St Apt 10A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353474401843,
+                    37.5374752334571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377522979527,
+                    37.533500825729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377522979527,
+                    37.533500825729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377522979527,
+                    37.533500825729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000018511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377522979527,
+                    37.533500825729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000018516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377522979527,
+                    37.533500825729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1011 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435024549444,
+                    37.5372843800406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "101-187 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "243359-101000094524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371541142952,
+                    37.5373261679895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1015 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000006137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4374318846167,
+                    37.5346800469434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1015 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4348939619222,
+                    37.5372165805707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1021 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000051596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357312709274,
+                    37.5360977058462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1021 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000068304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357312709274,
+                    37.5360977058462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1021 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357312709274,
+                    37.5360977058462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1051 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000039701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359520651866,
+                    37.5355381712955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000117615",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378442861022,
+                    37.5351114988767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000078247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362238686091,
+                    37.5368210935699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362238686479,
+                    37.5368210908237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362238686091,
+                    37.5368210935699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "203340-101000060312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435806271703,
+                    37.5367736805295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "220328-101000073276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4358784488098,
+                    37.5369913622149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4358784488098,
+                    37.5369913622149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "279983-101000117955",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4360583253081,
+                    37.5371199999937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4368539609689,
+                    37.5343152844239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106978",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 1002",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 1003",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000016997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 1005",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 401",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 501",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000026005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 514",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 514",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 514",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114266",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 610",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000048743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 Haxall Pt Unit 715",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436663003945,
+                    37.5331075201872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1111 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000005399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4342567377108,
+                    37.5367255761491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1111 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4342567377108,
+                    37.5367255761491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "117-131 S 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "218780-101000072157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4382824262747,
+                    37.5375695226913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13 S 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "243362-101000094529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4379086280809,
+                    37.5379590403773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1-7 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "243361-101000094526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371683169362,
+                    37.5387757490059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "18 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367802328734,
+                    37.5393916635544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373312268201,
+                    37.5359280063215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "201-227 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "251340-101000101019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4380612905391,
+                    37.5365499609862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21 N 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373897886255,
+                    37.5398248322708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "251-299 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "242913-101000093896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389187327609,
+                    37.5357479291267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "252-298 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "206690-101000062933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4390066440321,
+                    37.5358875110133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "252-298 Us-60",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "200947-101000058296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389190525018,
+                    37.5360527048011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "26 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000016276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43665397606,
+                    37.5395220751471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "26 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43665397606,
+                    37.5395220751471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "261 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "194315-101000052939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363380040495,
+                    37.5340369794941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 S 11th St Apt 3208",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372162874785,
+                    37.5344899193255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 S 11th St Apt 3210",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000117578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372162874785,
+                    37.5344899193255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 S 11th St Apt 3215",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372162874785,
+                    37.5344899193255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 S 11th St Apt 3229",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372162874785,
+                    37.5344899193255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300-498 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "193769-101000052678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4383806227356,
+                    37.5345679483262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 S 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370639977702,
+                    37.534381443183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 S 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370639977702,
+                    37.534381443183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 S 11th St Apt 2205",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000002021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370639977702,
+                    37.534381443183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 S 11th St Apt 2302",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000120129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370639977702,
+                    37.534381443183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 S 11th St Apt 2415",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077747",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370639977702,
+                    37.534381443183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "311 S 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371809897217,
+                    37.5342641013388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "312 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "237199-101000088368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378707958262,
+                    37.5343507997145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370555332529,
+                    37.5340141537954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "321 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000054927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4383679668841,
+                    37.534326038113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "321 S 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000019369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373043658729,
+                    37.5340610824723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "321 S 11th St Apt 1302",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373043658729,
+                    37.5340610824723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "321 S 11th St Apt 1303",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373043658729,
+                    37.5340610824723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "324 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "210930-101000066479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389267056985,
+                    37.5341567985153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 S 11th St Apt 4111",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376382222729,
+                    37.5342392978178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "344-452 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "206688-101000062932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4399508022497,
+                    37.5345773198953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "199291-101000057011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404820858745,
+                    37.5341193032974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000049251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000084504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St Apt 1013",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St Apt 1020",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000091081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St Apt 1022",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000047009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 N 8th St Apt V05",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000054415",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43666202854,
+                    37.539118632928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7 S 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000001003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4385394682567,
+                    37.5386114463953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Business Center",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000055166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000002096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000001186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000051533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000074863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377392334141,
+                    37.5392215278821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000055484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404499813607,
+                    37.5358245164132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "244917-101000095444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404499813607,
+                    37.5358245164132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394684711361,
+                    37.5371341106366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027655",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394684711361,
+                    37.5371341106366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388962131398,
+                    37.5377416030239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371911293222,
+                    37.5399238091731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371911293222,
+                    37.5399238091731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371911293222,
+                    37.5399238091731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 E Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000093873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371911293222,
+                    37.5399238091731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "701 Va-147",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "258865-101000105811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384810541941,
+                    37.5381732169077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "703 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000000971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437971733538,
+                    37.5390024273335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "703 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000001006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437971733538,
+                    37.5390024273335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "707 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4375636765426,
+                    37.5387769473597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "707 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4375636765426,
+                    37.5387769473597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "718-898 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "206898-101000063097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4391461211067,
+                    37.535870497369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "718-898 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "220168-101000073117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4391568501943,
+                    37.5359045272195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "730 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000001783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372310136188,
+                    37.5389325165307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "730 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028714",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372310136188,
+                    37.5389325165307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "730 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000084167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372310136188,
+                    37.5389325165307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "78 S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "201975-101000059402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436943355651,
+                    37.5376299683229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000101275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231882131,
+                    37.5384328968885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231881743,
+                    37.5384328996348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000115265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231881743,
+                    37.5384328996348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000055172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372847762722,
+                    37.5401457554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372847762722,
+                    37.5401457554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372847762722,
+                    37.5401457554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381767953559,
+                    37.5368212770449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057878",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381767953559,
+                    37.5368212770449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000072448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381767953171,
+                    37.5368212797911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113395",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381767953171,
+                    37.5368212797911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376401519586,
+                    37.5378172684467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376401519586,
+                    37.5378172684467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4368553961273,
+                    37.5387059818351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4368553961273,
+                    37.5387059818351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 P1 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000019016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4380582257908,
+                    37.5369646706127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000010630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376627383873,
+                    37.5375198858805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "207875-101000063779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4376574875271,
+                    37.5375643991194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370807967517,
+                    37.5384889863712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370807967517,
+                    37.5384889863712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "814 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000012389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366930445315,
+                    37.5385938198974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "814 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366930445315,
+                    37.5385938198974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "814 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000047260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366930445315,
+                    37.5385938198974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000000078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000002913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt 1202",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt 1302",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt 1505",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000117525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt 703",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000013474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt A312",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "830 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000110406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364334028176,
+                    37.5384468455932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "830 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364334028176,
+                    37.5384468455932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "830 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364334028564,
+                    37.538446842847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "830 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364334028564,
+                    37.538446842847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000053330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388712049627,
+                    37.536984307433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388712049627,
+                    37.536984307433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "226095-101000078598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363781925698,
+                    37.5395918028469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437201027076,
+                    37.5387504937071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "280671-101000118341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356679160489,
+                    37.5371351830625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "279356-101000117432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356033031681,
+                    37.5371360036794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9 S 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "280670-101000118342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355892863724,
+                    37.5371515744563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384959272095,
+                    37.5356740047261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367312354122,
+                    37.537298370812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040777",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367312354122,
+                    37.537298370812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367312354122,
+                    37.537298370812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367312354122,
+                    37.537298370812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4367312354122,
+                    37.537298370812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "215800-101000069948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000082918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000093851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4370244598776,
+                    37.5364312313448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "245144-101000095735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4373554923483,
+                    37.5366196007606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901-999 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "242937-101000093934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378423850936,
+                    37.5351313148099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000007645",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008608",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000010149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000032078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000043528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000047756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000099944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957567,
+                    37.5375811477272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957178,
+                    37.5375811504734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "921 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000011016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359072308675,
+                    37.5374750548584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th N Cary",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "204994-101000061587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371130045324,
+                    37.5373673989025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Bank St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109643",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4358182088428,
+                    37.5387298487185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000032219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000032219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000060843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000060843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371206236743,
+                    37.5373627568542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371206236743,
+                    37.5373627568542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Franklin St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000073910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354995049157,
+                    37.5390709947658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437844286141,
+                    37.5351114961305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4360004665954,
+                    37.5343822948801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405618261806,
+                    37.53669867968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.439001929019,
+                    37.5357866011372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000071841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000110864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362238686479,
+                    37.5368210908237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231882131,
+                    37.5384328968885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231881743,
+                    37.5384328996348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231881743,
+                    37.5384328996348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000024824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.438016828375,
+                    37.5378905737903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371206236743,
+                    37.5373627568542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371206236743,
+                    37.5373627568542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Franklin St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "198059-101000056008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4371393028421,
+                    37.5399324988325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Franklin St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000079555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372847762722,
+                    37.5401457554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Franklin St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000116073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372847762722,
+                    37.5401457554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Franklin St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363886365167,
+                    37.539611806404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Franklin St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000091749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354995049157,
+                    37.5390709947658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Haxall Pt @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000026062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388185959659,
+                    37.5340995700538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Haxall Pt @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388185959659,
+                    37.5340995700538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000015436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354088157521,
+                    37.5376811042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000015436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354088157521,
+                    37.5376811042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354088157521,
+                    37.5376811042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354088157521,
+                    37.5376811042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437201027076,
+                    37.5387504937071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "232323-101000083824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4372078927472,
+                    37.5387528019498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363083443014,
+                    37.5382172064669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "259712-101000106276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409739083004,
+                    37.5338986994071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000124446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4388012147949,
+                    37.5350620947379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000125107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1051 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000121774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359520651866,
+                    37.5355381712955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "9th @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "282852-101000120532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4385531959354,
+                    37.5363984000068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "E Canal St @ S 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "283217-101000120905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4380822142037,
+                    37.5365556992344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "919 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000125237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4359394957178,
+                    37.5375811504734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000120309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.438016828375,
+                    37.5378905737903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "823 E Main St Apt A222",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000121874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366159842827,
+                    37.5382236605858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000120347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4389231881743,
+                    37.5384328996348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Central Office",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000121027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.437201027076,
+                    37.5387504937071
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

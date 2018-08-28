@@ -1,0 +1,4637 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5037731350738,
+        37.4827805705444,
+        -77.4882908359737,
+        37.4965045380874
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500065423877,
+                    37.4901966705745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1104 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005682899605,
+                    37.4900489788929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1104 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000110419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005682899605,
+                    37.4900489788929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1102 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000043974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002980276342,
+                    37.4900846342942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1124 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943260471986,
+                    37.4948765648793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1125 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4939106753313,
+                    37.4946209935113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1125 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4939106753313,
+                    37.4946209935113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1130 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4944599207059,
+                    37.4946815408763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1153 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4944652804067,
+                    37.4939119029822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4950312462218,
+                    37.4939899946956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015396518228,
+                    37.4899223017006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000070089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015396518228,
+                    37.4899223017006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1202 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5017782225032,
+                    37.4899032513985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1204 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000103739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4951315365734,
+                    37.4938366499568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1208 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000011097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4952842907933,
+                    37.4936936294821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1212 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000016304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953847466871,
+                    37.4935278219782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1212 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953847466871,
+                    37.4935278219782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957324349553,
+                    37.4922639864691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957324349553,
+                    37.4922639864691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1311 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960278187869,
+                    37.4918499939147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1319 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4963068785517,
+                    37.4915018323028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1322 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4967658837289,
+                    37.4918475725064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1338 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000001095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4970235731577,
+                    37.4913336455168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1338 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000021199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4970235731577,
+                    37.4913336455168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1338 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4970235731577,
+                    37.4913336455168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1440 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "199547-101000057252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5018906122138,
+                    37.4878416992874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982012510377,
+                    37.4883243270934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000005951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985710469295,
+                    37.4881000591109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000078032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985710469295,
+                    37.4881000591109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985710469295,
+                    37.4881000591109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5011660406084,
+                    37.4876927402333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1621 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000804",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4978981868628,
+                    37.4877359218963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1624 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000088778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015113267662,
+                    37.4869147061228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1624 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015113612299,
+                    37.4869147064133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1630 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013613370183,
+                    37.4866593011517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1630 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013613370183,
+                    37.4866593011517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1630 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000072295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013613370183,
+                    37.4866593011517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1630 Brittwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013613370183,
+                    37.4866593011517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1632 Silverwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982982818524,
+                    37.4872939399844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5100-5300 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "201784-101000059125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.491231491404,
+                    37.491214601072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5210 Felton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000060758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4901423778631,
+                    37.4933261353234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5211 Felton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897741967708,
+                    37.4932030754522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5243 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "225118-101000077383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900827095148,
+                    37.4937446003464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5252 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4903055504886,
+                    37.4918786522201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5268 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000019352",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912843279683,
+                    37.4917599058081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5310 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4919659136216,
+                    37.4907068002743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5310 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4919659136216,
+                    37.4907068002743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5316 Hull Street Road Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000076116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4929711141013,
+                    37.491661453797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5316 Hull Street Road Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4929711141013,
+                    37.491661453797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5318 Hull Street Road Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4932626285604,
+                    37.4919032377359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5318 Hull Street Road Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4932626285604,
+                    37.4919032377359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5320 Hull Street Road Apt 13",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000081421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4932133634116,
+                    37.4922617827774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5322 Hull Street Road Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000040879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4938015325452,
+                    37.4923642775034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5324 Hull Street Road Apt 11",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.493763616647,
+                    37.4918720438344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5326 Hull Street Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000060332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4930988654932,
+                    37.4912592598874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5326 Hull Street Road Apt 12",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4930988654932,
+                    37.4912592598874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5326 Hull Street Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4930988654932,
+                    37.4912592598874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5410 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000012185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.493703842425,
+                    37.489406560902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5410 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000073564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4937038424618,
+                    37.4894065581557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5410 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000083315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960445083349,
+                    37.4903774794013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5411 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037759",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4956681030362,
+                    37.4900652992463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5421 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000070934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957111143923,
+                    37.4898901878776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5501 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000019776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957037484005,
+                    37.4897241855493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5511 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4956703913182,
+                    37.4895350756568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5521 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957278250945,
+                    37.4893562715374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5521 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957278250945,
+                    37.4893562715374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5521 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000036301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957278250945,
+                    37.4893562715374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5521 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957278250945,
+                    37.4893562715374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5528 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "270030-101000111831",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948706947676,
+                    37.4879889991697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5529 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000010332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955386287464,
+                    37.4958221391697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5529 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955386287831,
+                    37.4958221364234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5530 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000114187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962178544715,
+                    37.4894062017381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5531 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000026317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4958307010347,
+                    37.4891816675686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5551 Princess Ella Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000004537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4961430750784,
+                    37.4889115661551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5600 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000067052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954674230319,
+                    37.4877218143772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5600 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962376055589,
+                    37.490077753091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5601 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000088913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4961693270311,
+                    37.4898139619654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5601 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000096321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.495471139545,
+                    37.4880397374845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5609 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4975692879865,
+                    37.4965045380874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5610 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000039859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4964518418776,
+                    37.4901673074199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5611 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000033573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4963512585573,
+                    37.4898135945204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968214454341,
+                    37.4885447888465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968214454341,
+                    37.4885447888465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968214454341,
+                    37.4885447888465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5620 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000067048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968214454341,
+                    37.4885447888465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5621 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4965540946189,
+                    37.4898610899093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5631 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000063730",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.49674174507,
+                    37.4899694907544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5640 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000072293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969719784909,
+                    37.490474978168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5641 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000092384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969535869491,
+                    37.4900912906674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5641 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969535869125,
+                    37.4900912934137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5641 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969535869491,
+                    37.4900912906674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5641 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969535869491,
+                    37.4900912906674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5641 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000118628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969535869125,
+                    37.4900912934137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5648 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000103484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4965530259553,
+                    37.4892874831963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5651 Marc Manor Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4971429466916,
+                    37.4902189368549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5654 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000043558",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4967083064307,
+                    37.4894012376711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5688 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000003412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979729892686,
+                    37.4891455893732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5688 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979729892686,
+                    37.4891455893732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5688 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979729892686,
+                    37.4891455893732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5688 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000104121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979729892686,
+                    37.4891455893732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5696 B Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4969583788003,
+                    37.4872581883433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5696 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4971340163227,
+                    37.4868219972692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5696 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000022086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498268223066,
+                    37.4889920751529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5696 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000022087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498268223066,
+                    37.4889920751529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5696 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498268223066,
+                    37.4889920751529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000053030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004194580807,
+                    37.4886946094015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501548917487,
+                    37.4885335084401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000034882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988495247478,
+                    37.4884877491889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988495247478,
+                    37.4884877491889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988495247478,
+                    37.4884877491889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5700 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000118922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988495247478,
+                    37.4884877491889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000032890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007402391275,
+                    37.4887917922711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000104504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4976935596185,
+                    37.4895305092319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5701 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000105314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4976935596185,
+                    37.4895305092319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5704 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000100289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013762661508,
+                    37.4889281422597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5704 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013762661508,
+                    37.4889281422597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5706 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4975534405555,
+                    37.489954963227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5707 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008675152604,
+                    37.4894313372945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5707 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000116733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008675152604,
+                    37.4894313372945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5708 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000074669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5014791568299,
+                    37.48933303066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5708 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000078995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5014791568299,
+                    37.48933303066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5709 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000009952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009188973119,
+                    37.4896319711934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5709 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5009188973119,
+                    37.4896319711934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5709 Lorieville Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000064226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5019945619507,
+                    37.489437255582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5710 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004909955397,
+                    37.4896713814162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5710 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004909955397,
+                    37.4896713814162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5710 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000019080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004909955397,
+                    37.4896713814162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5717 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991257294006,
+                    37.4880180674879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5717 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000118927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991257294006,
+                    37.4880180674879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5718 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988067131438,
+                    37.4872345009504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5718 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988067131438,
+                    37.4872345009504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5718 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988067131438,
+                    37.4872345009504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5718 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988067131438,
+                    37.4872345009504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5718 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4988067131073,
+                    37.4872345036967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5724 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4979114845802,
+                    37.4862978662659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5724 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000011214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4991002199473,
+                    37.4871945437639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5726 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000046700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996324222701,
+                    37.4883229269939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5726 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996324222701,
+                    37.4883229269939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5732 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999051898741,
+                    37.4882876403668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5732 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999051898741,
+                    37.4882876403668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5732 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999051898741,
+                    37.4882876403668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5735 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000117657",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5000251447767,
+                    37.4878982821585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5736 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996924204025,
+                    37.4871133004721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5742 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999504806907,
+                    37.4870769035604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5744 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000058367",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004567036862,
+                    37.4882184257943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5744 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000063260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004567036862,
+                    37.4882184257943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5744 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004567036862,
+                    37.4882184257943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000034580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992493817037,
+                    37.4901621000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992493817037,
+                    37.4901621000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992493817037,
+                    37.4901621000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992493817037,
+                    37.4901621000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999486680273,
+                    37.4867050951987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000054533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999486680273,
+                    37.4867050951987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5745 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "196730-101000054532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999838989018,
+                    37.4867072987287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5747 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005248376676,
+                    37.4878300196238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5752 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000106996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4989895709873,
+                    37.4856539931701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5752 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4994005033832,
+                    37.4905656096411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5756 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4995978347529,
+                    37.4906463088082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5756 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4995978347529,
+                    37.4906463088082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5756 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4995978347529,
+                    37.4906463088082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5756 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010712900445,
+                    37.4881390535903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5756 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501071290081,
+                    37.4881390508439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5757 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000073223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004968883756,
+                    37.486628656682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5757 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5004968883756,
+                    37.486628656682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5762 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997882660591,
+                    37.4909322915143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5762 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997882660591,
+                    37.4909322915143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5763 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000009674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007810464187,
+                    37.4865838703926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5763 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000010964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007810464187,
+                    37.4865838703926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5770 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000060216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999202037847,
+                    37.4911949643361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5775 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001720378964,
+                    37.490463669502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5781 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000026966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005010126544,
+                    37.4910316711246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5783 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000070091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5006107790132,
+                    37.4912198695176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5790 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002312526723,
+                    37.4849504182282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5800 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000020590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010154424301,
+                    37.4903614185465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5800 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000107197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010154424301,
+                    37.4903614185465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5800 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "225702-101000078053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501010203387,
+                    37.4903613990881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5801 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015936354797,
+                    37.4902776717086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5801 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000007433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015936354797,
+                    37.4902776717086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5801 Kristenleaf Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000036314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015936354797,
+                    37.4902776717086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5803 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501113057813,
+                    37.4915451167803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000007310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016755901019,
+                    37.4880529063609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000057599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016755901019,
+                    37.4880529063609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000064676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016755901019,
+                    37.4880529063609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5804 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000068827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016755901019,
+                    37.4880529063609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5805 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000098695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013546645866,
+                    37.491619720829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5805 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013546645866,
+                    37.491619720829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5805 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013546645501,
+                    37.4916197235752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5810 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5020001446262,
+                    37.4880110695303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5944 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000092024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037731350738,
+                    37.4827805705444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5944 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000032772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5037731350738,
+                    37.4827805705444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Berrywood Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5003441362414,
+                    37.4845350254247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Berrywood Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000097139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5003441362414,
+                    37.4845350254247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Berrywood Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5003441362414,
+                    37.4845350254247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryce Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000074172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4964609340605,
+                    37.4867936710577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bryce Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4964609340605,
+                    37.4867936710577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Orcutt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Orcutt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000033938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000117751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882908359737,
+                    37.4926849871524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Linwood Ave @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4938301818366,
+                    37.4889908107166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Orcutt Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000095179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Orcutt Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000114745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Orcutt Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Princess Ella Lane @ Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000073135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4964143460951,
+                    37.4889241559215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roberson Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075055",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501189338826,
+                    37.4840223595248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roberson Lane @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501189338826,
+                    37.4840223595248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Silverwood Dr @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4974983503164,
+                    37.4861822280747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Silverwood Dr @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000116083",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4974983503164,
+                    37.4861822280747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Swanson Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000073920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948837299769,
+                    37.4879059818558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Swanson Road @ Kingsway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000003855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005879544901,
+                    37.4916276035825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Swanson Road @ Kingsway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000108835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005879545266,
+                    37.4916276008363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000087299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882908359737,
+                    37.4926849871524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Rosemont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000098531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941525687714,
+                    37.4959374475546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Rosemont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941525687714,
+                    37.4959374475546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Rosemont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000080980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941525687714,
+                    37.4959374475546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1204 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4951315365734,
+                    37.4938366499568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1204 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4951315365734,
+                    37.4938366499568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Orcutt Lane @ Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000121025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Orcutt Lane @ Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000122712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.50224191467,
+                    37.4834132992602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5790 Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000121886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002312526358,
+                    37.4849504209745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5752 Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000123183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4989895709873,
+                    37.4856539931701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5739 Sweetwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996929671272,
+                    37.4867533744852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Swanson Road @ Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948837299769,
+                    37.4879059818558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5704 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002410764421,
+                    37.4890686626084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5707 Jasonwood Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5008675152604,
+                    37.4894313372945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5779 Swanson Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5003917908468,
+                    37.4908440375137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1138 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4945527733745,
+                    37.4945354860843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1130 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4944599207059,
+                    37.4946815408763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1130 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4944599207059,
+                    37.4946815408763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1124 Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943260471986,
+                    37.4948765648793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hodges Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000124658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4933668524042,
+                    37.4957059015481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rosemont Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Swanson",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000123630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4941525687714,
+                    37.4959374475546
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

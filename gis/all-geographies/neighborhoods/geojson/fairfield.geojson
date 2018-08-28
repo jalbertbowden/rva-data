@@ -1,0 +1,3136 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4087325598803,
+        37.5479545376313,
+        -77.3989243900825,
+        37.5509079176342
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083346370382,
+                    37.5491649008842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "198249-101000056197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084309907315,
+                    37.5492072996573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083346370382,
+                    37.5491649008842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083346370382,
+                    37.5491649008842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083346370382,
+                    37.5491649008842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Newbourne St Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000014385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083346370382,
+                    37.5491649008842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403304415987,
+                    37.5482843809157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104973",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000033116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 6",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 6",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 6",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Phaup St Apt 6",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027447",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072905835402,
+                    37.5506824003149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071047746525,
+                    37.5506947666595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071047746525,
+                    37.5506947666595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071047746525,
+                    37.5506947666595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071047746525,
+                    37.5506947666595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2108 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4078217866008,
+                    37.5493495152434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2111 N 23rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "220396-101000073365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4060512346038,
+                    37.5484690883197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2112 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4076536241204,
+                    37.5492658875851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2112 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4076536241204,
+                    37.5492658875851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2114 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071842775479,
+                    37.549983901952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2114 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071842775479,
+                    37.549983901952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2115 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4067660860315,
+                    37.5505450599098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2115 Phaup St Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4067660860714,
+                    37.5505450571636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2115 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072873295873,
+                    37.5498005075228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2116 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4073472527231,
+                    37.5492284824909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2116 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4073472526832,
+                    37.5492284852371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2117 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "279344-101000117426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072448100688,
+                    37.5497543990062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2117 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000017744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072010489431,
+                    37.5497865699817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2117 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072010489431,
+                    37.5497865699817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "279345-101000117423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071454086743,
+                    37.549731801412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071257521283,
+                    37.5497669356144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4071257521283,
+                    37.5497669356144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2121 Phaup St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4065847113853,
+                    37.5504968825083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2123 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074009701251,
+                    37.5488958213964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2125 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4073347477817,
+                    37.5489093312319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2128 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408336195042,
+                    37.5485517518819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2143 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066898219439,
+                    37.5488203955667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21st St @ Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000055799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087325598803,
+                    37.5489054784492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 N 23rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4065111764068,
+                    37.5492014029313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032991486243,
+                    37.5488155877172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016783138158,
+                    37.5481540547729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016783138158,
+                    37.5481540547729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2202 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "245197-101000095833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.400805916159,
+                    37.5482244010622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2203 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000053546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032932753698,
+                    37.5488587506841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4006869944587,
+                    37.5483149735625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4006869944587,
+                    37.5483149735625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "211749-101000066778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015216119928,
+                    37.5483631991823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015443013886,
+                    37.5483732586037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015443013886,
+                    37.5483732586037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4001570163962,
+                    37.5483890690537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000055693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4037637605347,
+                    37.5489635026202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005988929325,
+                    37.5484233576132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005988929325,
+                    37.5484233576132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005988929325,
+                    37.5484233576132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005988929325,
+                    37.5484233576132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005163094638,
+                    37.5485270988779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005163094638,
+                    37.5485270988779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "211748-101000066774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005699075992,
+                    37.5485394995482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "219123-101000072505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005699075992,
+                    37.5485394995482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2209 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013873288155,
+                    37.5485890690009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004304418203,
+                    37.5486383791795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004304418203,
+                    37.5486383791795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2210 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004304418605,
+                    37.5486383764333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032882009586,
+                    37.5490859412885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000082770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000106830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013250144527,
+                    37.5487056768049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030925363217,
+                    37.5490576433017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012526904405,
+                    37.5488155835626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012526904405,
+                    37.5488155835626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012526904806,
+                    37.5488155808164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2215 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030049962709,
+                    37.5490568333802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2215 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068447",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4011854899029,
+                    37.5489289627334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2215 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4011854899029,
+                    37.5489289627334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2215 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4011854899029,
+                    37.5489289627334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4068355571163,
+                    37.5484559401834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "22nd St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074341809136,
+                    37.5480468908036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.405867353217,
+                    37.5497901698355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.405811793725,
+                    37.5497725707023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2304 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4058580276416,
+                    37.5482198751995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2308 N 23rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4062406667072,
+                    37.5500468753946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2309 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4031561939437,
+                    37.5496288817247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2310 N 23rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4061572587132,
+                    37.5501910945717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2313 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4056139509455,
+                    37.5484579858766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2314 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000117122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4055563351257,
+                    37.548212111138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2316 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4045595686485,
+                    37.5504372462192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089880",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043526101738,
+                    37.5503906582277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043526101738,
+                    37.5503906582277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043526101738,
+                    37.5503906582277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2327 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000058522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.404323772567,
+                    37.5499148945882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2327 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4050807816566,
+                    37.5484530632858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2328 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4050294286451,
+                    37.5482060019149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2328 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4050294286451,
+                    37.5482060019149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2343 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4045226260645,
+                    37.5484441720983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2343 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4045226260645,
+                    37.5484441720983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2344 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043366660695,
+                    37.5482045814769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2349 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4041918676872,
+                    37.5490765676377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2355 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039987315299,
+                    37.5484443098685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2355 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039987315299,
+                    37.5484443098685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23rd St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406009395494,
+                    37.5480303194218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23rd St @ Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4057245857318,
+                    37.5504786614026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2504 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4031021451015,
+                    37.5488199862682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2506 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000119141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030584239645,
+                    37.5481922484155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2506 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000119142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030584239645,
+                    37.5481922484155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2508 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030025602046,
+                    37.5481908938444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014138585022,
+                    37.5497335584456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014138585022,
+                    37.5497335584456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029147865328,
+                    37.5488182527553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029147865328,
+                    37.5488182527553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029147865328,
+                    37.5488182527553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029147865328,
+                    37.5488182527553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2522 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024249581831,
+                    37.5481838672671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2526 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000106807",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4023163793986,
+                    37.5481828648086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2526 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4023163793986,
+                    37.5481828648086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000042782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033191851804,
+                    37.549912959358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035379190601,
+                    37.5486343938106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2607 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000033155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004880963116,
+                    37.549066777581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2609 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000106833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002903258905,
+                    37.5490268648981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "26th St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030955",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997368609943,
+                    37.5489070002529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997368609943,
+                    37.5489070002529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997368609943,
+                    37.5489070002529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997368609943,
+                    37.5489070002529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997368609943,
+                    37.5489070002529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2720 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3992056436566,
+                    37.5485236301542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2720 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3992056436566,
+                    37.5485236301542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 22nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074341809136,
+                    37.5480468908036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 23rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406009395494,
+                    37.5480303194218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105979",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002672766579,
+                    37.5479545376313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kane St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989243900825,
+                    37.5484934456802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084708504232,
+                    37.5493486974453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "262254-101000107556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019778139282,
+                    37.5479860003371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Phaup St @ 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074857328682,
+                    37.5509079176342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Phaup St @ Rosetta St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "202796-101000059882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019599904612,
+                    37.5495908986683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000037926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014138585022,
+                    37.5497335584456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2215 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4011854899029,
+                    37.5489289627334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Fairfield",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033191851804,
+                    37.549912959358
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

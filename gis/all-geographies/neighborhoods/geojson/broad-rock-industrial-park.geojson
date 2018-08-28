@@ -1,0 +1,1397 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4661911964953,
+        37.4816240807081,
+        -77.4449343509827,
+        37.4942072977925
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000057687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463065821485,
+                    37.4933466668786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2025 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000042549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640217954344,
+                    37.4891825664386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646338736154,
+                    37.488217169326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2130 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000094304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4471250062441,
+                    37.491291363733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000062477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459168365527,
+                    37.4903767419053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "253633-101000102610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649353024145,
+                    37.4849128734794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000114323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4456648502982,
+                    37.4874465441736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2720 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498430800564,
+                    37.4942072977925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2720 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498430800564,
+                    37.4942072977925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2734 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4503692514219,
+                    37.4940537735529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2800 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4511265879838,
+                    37.4939097452311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2800 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4511265879838,
+                    37.4939097452311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518433000374,
+                    37.4935466309229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040608",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518433000374,
+                    37.4935466309229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000042610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518433000374,
+                    37.4935466309229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2808 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000075357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518433000374,
+                    37.4935466309229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000044564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4532999419828,
+                    37.4934516477399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Cofer Road Ste A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4532999419828,
+                    37.4934516477399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2828 Cofer Road Ste A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4532999419828,
+                    37.4934516477399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564996676854,
+                    37.4935695686633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564996676854,
+                    37.4935695686633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564996676854,
+                    37.4935695686633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564996676854,
+                    37.4935695686633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3016 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.453536121506,
+                    37.4821471223579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3219 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595893343853,
+                    37.4890674004336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599247647036,
+                    37.4895124804654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599247647036,
+                    37.4895124804654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Formex Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4614602955852,
+                    37.486922675164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3308 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4615271741573,
+                    37.4891988588763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Formex Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.462513716837,
+                    37.487708407073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3403 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4627250043278,
+                    37.4902381059896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3408 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4633202524744,
+                    37.4889700949484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3411 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630146543882,
+                    37.4902302046684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3416 Shaw Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635996059977,
+                    37.4889161077958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3417 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463330089792,
+                    37.4902271260618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3421 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634714650205,
+                    37.4902233807735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3421 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634714650205,
+                    37.4902233807735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3421 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634714649826,
+                    37.4902233835198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3425 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638336347661,
+                    37.4900805953784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3427 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638328771053,
+                    37.4901355973741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3429 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073692",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638355745313,
+                    37.4901900061133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3429 Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638355744934,
+                    37.4901900088595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chalfont Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000100590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000039602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000039602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000053135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000053135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Concord Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000094386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4450326407441,
+                    37.4853499997112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Concord Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000027138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4449343509827,
+                    37.4853566472698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Concord Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000094390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4449343509827,
+                    37.4853566472698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661911964953,
+                    37.4865760033708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Concord Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000094378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4449343509827,
+                    37.4853566472698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Concord Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000094388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4449343509827,
+                    37.4853566472698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Wright Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000111155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Wright Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000111155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Zion St @ Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wright Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000123980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wright Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Industrial Park",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000124775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

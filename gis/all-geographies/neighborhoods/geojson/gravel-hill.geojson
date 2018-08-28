@@ -1,0 +1,5957 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5290202361544,
+        37.5259887409337,
+        -77.5078259802038,
+        37.538103478415
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000075297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.520044275986,
+                    37.5333749370524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.520044275986,
+                    37.5333749370524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2511 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002558",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5200019905344,
+                    37.5338063522649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2515 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5203501377016,
+                    37.5342127108021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2515 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5203501377016,
+                    37.5342127108021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2516 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000062045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208096007013,
+                    37.5340777517042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2516 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000114022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208096007013,
+                    37.5340777517042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2516 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000119085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208096007013,
+                    37.5340777517042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2527 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5204948289735,
+                    37.5349557914681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2527 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000025572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5204948634592,
+                    37.534955791753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5222155728119,
+                    37.5355209123559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000061003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5176744351935,
+                    37.5341415751098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000116697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5139836848247,
+                    37.5348622337446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2601 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063756",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5170391143689,
+                    37.5347242831194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2601 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154238770073,
+                    37.5348714962458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2601-2611 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207724-101000063609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5173263436424,
+                    37.534858704566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2604 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000023201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5206830727445,
+                    37.5365416177785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2606 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5205927267329,
+                    37.5365560982034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000099598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000049989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2608 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000099776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159466941677,
+                    37.5350644645726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2609 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000033865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153211449485,
+                    37.5352207805392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2609 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000039695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153211449485,
+                    37.5352207805392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2611 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5217334692934,
+                    37.5359295476872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2611 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5217334692934,
+                    37.5359295476872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2611 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000072136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5217334692934,
+                    37.5359295476872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2612 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000077157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5203107968955,
+                    37.5366016243139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2613 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5110596277034,
+                    37.5346110962513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2613 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5110596277034,
+                    37.5346110962513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2613 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000054103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5110596277034,
+                    37.5346110962513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2614 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000018370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5202232035228,
+                    37.5366139519462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5193347602757,
+                    37.5341929142302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "241049-101000092307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5179744860161,
+                    37.5346409025997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "195695-101000053971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154792321126,
+                    37.5354561677422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194859-101000053304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5151009974019,
+                    37.5354630012711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "196930-101000054826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5151009974019,
+                    37.5354630012711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "199761-101000057469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5151009974019,
+                    37.5354630012711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2617 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194410-101000052947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154286987449,
+                    37.5354697883708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2621 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000080834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511022438202,
+                    37.5348556679392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2621 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000084362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511022438202,
+                    37.5348556679392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2621 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000086136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511022438202,
+                    37.5348556679392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2621 Heartwood Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000090607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511022438202,
+                    37.5348556679392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2621 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130133447911,
+                    37.5347897466448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2623 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5188633917479,
+                    37.5343281288945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2623 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5188633917479,
+                    37.5343281288945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2623 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000090782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5176162077303,
+                    37.5351162059886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2623 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5176162077303,
+                    37.5351162059886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2625 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000043448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5151000995995,
+                    37.5357500240561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2630 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5197448184507,
+                    37.5360139811506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2631 Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000119011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5216430928671,
+                    37.5365877601481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5196597372684,
+                    37.5345906924046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000072346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5196597372684,
+                    37.5345906924046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5196597372684,
+                    37.5345906924046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2632 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5182832046391,
+                    37.5351238519822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2637 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124353581381,
+                    37.53498501864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2637 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124353581381,
+                    37.53498501864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2638 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000056762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5199895479489,
+                    37.5356788446507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2638 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000056794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5199895479489,
+                    37.5356788446507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2639 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000050455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191414582845,
+                    37.5346917761979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2639 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191414582845,
+                    37.5346917761979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5198705572886,
+                    37.5347715734334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5200911936819,
+                    37.5356361797045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5200911936819,
+                    37.5356361797045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106861",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5200911936819,
+                    37.5356361797045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5184694629662,
+                    37.5353604571802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640-2648 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "202093-101000059428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5182867096123,
+                    37.5354919479053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2655 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5205773800618,
+                    37.5356850541693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2656 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5188508971142,
+                    37.5358086892308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2663 Central Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195985129468,
+                    37.5351623649772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2664 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5209651739443,
+                    37.5356434010356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2665 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000075322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5207530647411,
+                    37.5358496968241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2666 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000116054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5209945093229,
+                    37.5357002000898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2671 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208328505845,
+                    37.5359468418765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2676 Granite Hill Cir Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000087569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5212259675565,
+                    37.5359653124382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2679 Granite Hill Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5209350394209,
+                    37.5360716730188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2684 Granite Hill Cir Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000074510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5212316828524,
+                    37.536363429549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191517178655,
+                    37.5361285195832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191517178655,
+                    37.5361285195832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701-2799 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "203437-101000060483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.518920888073,
+                    37.536434172667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "245906-101000096288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5193491067215,
+                    37.5363319025966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "248138-101000098654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5193491067215,
+                    37.5363319025966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195531248925,
+                    37.5366247262782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195531248925,
+                    37.5366247262782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000098224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195531248925,
+                    37.5366247262782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195531248925,
+                    37.5366247262782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Melbourne Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000044463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5195531248925,
+                    37.5366247262782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "257784-101000105165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080795470961,
+                    37.5340748260562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "235134-101000086464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5086075091518,
+                    37.5342524454366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6209 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000024126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095234295439,
+                    37.5348185296587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6209 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095234295439,
+                    37.5348185296587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6209 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000096661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095234295439,
+                    37.5348185296587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6212 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "222446-101000075048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098295986471,
+                    37.5344855008147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6212 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000086944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5097922700562,
+                    37.5344889682509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6215 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5093838812764,
+                    37.5341854466037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "195396-101000053727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.509901992792,
+                    37.5349463001543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "230571-101000082510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.509901992792,
+                    37.5349463001543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098570515183,
+                    37.5349595037021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000033556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098570515183,
+                    37.5349595037021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000075570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098570515183,
+                    37.5349595037021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "230579-101000082522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098570515183,
+                    37.5349595037021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000096658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5098570515183,
+                    37.5349595037021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000083686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000091372",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000092612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000092726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6227 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000105746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099831282908,
+                    37.533847758103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6246 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108843994487,
+                    37.5342169881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6246 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108843994487,
+                    37.5342169881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6246 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108843994487,
+                    37.5342169881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6246 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108843994487,
+                    37.5342169881633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6301 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000010962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113626828334,
+                    37.5337563532091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6306 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116158846848,
+                    37.5341825285123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6306 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009367",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116158846848,
+                    37.5341825285123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6312 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5118946542277,
+                    37.534206613422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6313 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000074455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5119289832905,
+                    37.5337858267332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6313 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5119289832905,
+                    37.5337858267332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6315 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "255840-101000103751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5118250005219,
+                    37.5354623023298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6324 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124552079205,
+                    37.5342905087201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6330 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.512702837564,
+                    37.5343432369341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6337 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000085378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130395632415,
+                    37.533985392172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6340 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000084216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129918605224,
+                    37.5344559340236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6355 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.51382229143,
+                    37.5342404605743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6355 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000097948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.51382229143,
+                    37.5342404605743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000085473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5141187450716,
+                    37.5343231420663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000079385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5148606655565,
+                    37.534455577016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6421 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000100139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136865913947,
+                    37.5328277118608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6423 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000049516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132933574998,
+                    37.5358308233826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6427 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000035267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154599334989,
+                    37.5343673600076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6427 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154599334989,
+                    37.5343673600076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6431 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135994800896,
+                    37.5359051574347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055786",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162503032198,
+                    37.5346772088392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162503377054,
+                    37.5346772091254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000065107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162503377054,
+                    37.5346772091254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "196896-101000054773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162660139259,
+                    37.5347179990463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6501 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000033581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160584450263,
+                    37.5342472325957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6513 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165957407017,
+                    37.5341215077497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6516 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000054618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167248560832,
+                    37.5346339549907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6516 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000058437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167248560832,
+                    37.5346339549907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6516 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000065392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167248560832,
+                    37.5346339549907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6516-6598 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "195812-101000054117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5169081644271,
+                    37.534275463941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6600 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5156935483639,
+                    37.5357224231017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6600 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5156935483639,
+                    37.5357224231017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6607 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000008067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154926391915,
+                    37.5364075936574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6607 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "218671-101000072062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162459925724,
+                    37.5353097019719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6607 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "198286-101000056219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5161382311152,
+                    37.5355349085515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6615 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5157485498781,
+                    37.536497630045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6615 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5157485498781,
+                    37.536497630045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6616 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5183773967029,
+                    37.5337978457888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6616 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5183773967029,
+                    37.5337978457888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6616 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000088001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164288202104,
+                    37.5359293202867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6616 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000089874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164288202104,
+                    37.5359293202867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6624 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000027567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167484263306,
+                    37.53601725456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6639 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034696",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5175404455077,
+                    37.5356853703402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6647 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000043232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5180302031942,
+                    37.5358172002232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6648 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5176879272792,
+                    37.5362552284025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6656 Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118696",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5180296008174,
+                    37.5363412162271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6700 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194989-101000053412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5189707087748,
+                    37.5335865001617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6700-6714 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "208183-101000064237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165448813204,
+                    37.5369994873819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6707 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164638675311,
+                    37.5366670137561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6707-6715 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "208958-101000064902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164054678265,
+                    37.5369206557672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6715 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167377924898,
+                    37.5367986043117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6723 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000040193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191779343615,
+                    37.5330195294323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6731 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5173954101469,
+                    37.5369787398491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6731 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000035872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5173954101469,
+                    37.5369787398491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5186313418454,
+                    37.537425018743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5186313418454,
+                    37.537425018743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000104607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5186313418454,
+                    37.537425018743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6787 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.519242284972,
+                    37.5375748504475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6787 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.519242284972,
+                    37.5375748504475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6787 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5192422850079,
+                    37.5375748477013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6787 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.519242284972,
+                    37.5375748504475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6787 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000042085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.519242284972,
+                    37.5375748504475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6829 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000046631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.52081212707,
+                    37.5373127506832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6833 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208942368773,
+                    37.537326925381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6833 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5208942368773,
+                    37.537326925381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6909 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5218571193454,
+                    37.5376521957082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6927 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000104058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5225453391561,
+                    37.537695208771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6933-6935 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "256400-101000104181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5230998127035,
+                    37.5379233860555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6935 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5233403610788,
+                    37.5376173684065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6935 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5233403610788,
+                    37.5376173684065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7001 Forest Hill Ave Ste A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000004629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5244073177295,
+                    37.537134624954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7009 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000056980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247002059878,
+                    37.5373556265415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7009 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000082950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247002059521,
+                    37.5373556292877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7011 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000058351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247750734094,
+                    37.5373538584704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7011 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000081945",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247750733738,
+                    37.5373538612166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7011 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000105404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247750733738,
+                    37.5373538612166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7012 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "281674-101000119357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5246640733989,
+                    37.5377772553534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7029 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000025128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5252111676979,
+                    37.5369153128328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7045 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5246128254467,
+                    37.5343265559198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7045 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "194695-101000053144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5246577924438,
+                    37.5343643008428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000097936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5257539498527,
+                    37.5344370757706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5257539498527,
+                    37.5344370757706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7101 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000097937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5257539498883,
+                    37.5344370730243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7101 Forest Hill Ave Unit F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5257539498527,
+                    37.5344370757706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7119 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5262284180949,
+                    37.5371954762354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7119 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5262284180949,
+                    37.5371954762354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7125 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268923259223,
+                    37.5371394576428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7131 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000062040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.527399004736,
+                    37.537125024426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7133-7163 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "205242-101000061841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287399325478,
+                    37.5373725887277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Central Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5185201988203,
+                    37.5335534405713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cherokee Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5240676847514,
+                    37.5378576683344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "261400-101000107300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5286218426382,
+                    37.5322340704801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "252252-101000101896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287821737303,
+                    37.5346637269308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "259488-101000106121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287295557642,
+                    37.534841595676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "219321-101000072633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000072463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000096301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000105463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000110515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "222592-101000075179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5240589965354,
+                    37.5378574018043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000028535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5240676847514,
+                    37.5378576683344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Cherokee Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000065744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5240676847514,
+                    37.5378576683344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000054644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000058582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000065436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000068222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000097277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000098468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000103020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000108939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550475,
+                    37.534975999852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052424",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Hathaway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000059887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5199783911454,
+                    37.538103478415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Hathaway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5199783911454,
+                    37.538103478415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Joe Brooks Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "197661-101000055611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5259341162453,
+                    37.5376661991321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Joe Brooks Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000037048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5259207891681,
+                    37.5377098419873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160627144603,
+                    37.5368591315001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Windsorview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000111705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5160627144962,
+                    37.5368591287539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glyndon Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550113,
+                    37.5349760025982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glyndon Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090649550475,
+                    37.534975999852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glyndon Lane @ Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000110630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514054830509,
+                    37.5345339817824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Granite Hill Cir @ Gravel Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000022012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5217083861455,
+                    37.5370910559774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Gravel Hill Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "259625-101000106225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5214029934983,
+                    37.5380697999647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Gravel Hill Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5214343406646,
+                    37.5380701878165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hathaway Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5199783911454,
+                    37.538103478415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Heartwood Road @ Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000043686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113654603039,
+                    37.5339568934137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Joe Brooks Blvd @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5259207891681,
+                    37.5377098419873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Joe Brooks Blvd @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5259207891681,
+                    37.5377098419873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Melbourne Dr @ Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000026816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.518751676809,
+                    37.5361199410465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Melbourne Dr @ Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000090788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.518751676809,
+                    37.5361199410465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Melbourne Dr @ Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.518751676809,
+                    37.5361199410465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Melbourne Dr @ Wexford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031415",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.518751676809,
+                    37.5361199410465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000083450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000109491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000114950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000060860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000083060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5078259802038,
+                    37.5338503188766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Rettig Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000081338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122784244097,
+                    37.5358622509645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wexford Lane @ Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5155754770298,
+                    37.5354152388055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "282838-101000120498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287158147179,
+                    37.5344342838605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6427 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154599334989,
+                    37.5343673600076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6103-6109 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "282835-101000120494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508368580254,
+                    37.5344659217353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2609 Woodberry Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124792",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5153211449485,
+                    37.5352207805392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2628 Rettig Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128516849866,
+                    37.5352815041092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6241 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108713496459,
+                    37.5352690834159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Powhite Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000122396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5191108104551,
+                    37.531072152112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6700 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5189559787786,
+                    37.5335603218001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6700 Glyndon Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5189559787786,
+                    37.5335603218001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Parkway",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "285899-101000122998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5286621664498,
+                    37.5356127798627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6607 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5154926391915,
+                    37.5364075936574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7001 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5244073177295,
+                    37.537134624954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000125010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000125242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "285662-101000122768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5188972451064,
+                    37.5373815694361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5186313418454,
+                    37.537425018743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6767 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Gravel Hill",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5186313418454,
+                    37.537425018743
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

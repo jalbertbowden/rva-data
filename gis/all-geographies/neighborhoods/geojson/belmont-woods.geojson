@@ -1,0 +1,3357 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5067754804083,
+        37.46418182979,
+        -77.4893347509045,
+        37.4724932052794
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3010 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000013407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.501594404277,
+                    37.4697976581468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3011 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5010627670669,
+                    37.4698802228919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3016 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015089853497,
+                    37.4694829621248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3016 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000069271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5015089853497,
+                    37.4694829621248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000039023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.500979837122,
+                    37.4695754736292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3028 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013937030028,
+                    37.4690816698037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3028 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5013937030028,
+                    37.4690816698037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3035 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007319019452,
+                    37.4690045393568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3037 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000116575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4999584575063,
+                    37.4689634535924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5012571879311,
+                    37.4683434283534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000015128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997452468431,
+                    37.468692111348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3110 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5002315241019,
+                    37.4683038948012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996593616015,
+                    37.4682835700224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "230916-101000082701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5005542889843,
+                    37.4680947005911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "222852-101000075391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5007634959639,
+                    37.4680734110101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996552357188,
+                    37.4680755279067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005924",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996552357188,
+                    37.4680755279067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996552357188,
+                    37.4680755279067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Hey Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5006854604083,
+                    37.4677143230252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3207 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "195394-101000053724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4904210125354,
+                    37.4710106005464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3210 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000072877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908149327059,
+                    37.4710102360448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3210 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908149327059,
+                    37.4710102360448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3210 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908149327059,
+                    37.4710102360448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908082686876,
+                    37.4706284144888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000066989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4908082686876,
+                    37.4706284144888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3232 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4906657246809,
+                    37.4704113399393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3232 Mark Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000076533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4906657246809,
+                    37.4704113399393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3324 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "226402-101000078652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905847076632,
+                    37.4701545987641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3324 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "238864-101000090117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905847076632,
+                    37.4701545987641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935121914737,
+                    37.4687418139271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4935121914737,
+                    37.4687418139271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4951510210916,
+                    37.4680773031352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4952352878197,
+                    37.4687058386749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4952352878197,
+                    37.4687058386749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3402 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000041873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955314048528,
+                    37.4683876560905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3402 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000022159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953629643801,
+                    37.4691390204576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3402 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953629643434,
+                    37.4691390232039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3403 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.49537704573,
+                    37.4678882503172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3403 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953770457667,
+                    37.4678882475709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4958414583876,
+                    37.4684012359451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4958414583876,
+                    37.4684012359451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4958414583876,
+                    37.4684012359451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Skipping Rock Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4958414583876,
+                    37.4684012359451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959942738039,
+                    37.4692154857526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Bowland Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "199380-101000057080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4961727963133,
+                    37.4667807011857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000005072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962706910306,
+                    37.4680052101819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962706910306,
+                    37.4680052101819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962706910306,
+                    37.4680052101819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962706910306,
+                    37.4680052101819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3502 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000053607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4966543608038,
+                    37.4683717990128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3502 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000080151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4963191235843,
+                    37.469243840051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3505 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968133684215,
+                    37.467946911246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3505 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000119478",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968248637078,
+                    37.4689249256548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3506 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4971912025189,
+                    37.4682215041245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3506 Skipping Rock Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4971912025189,
+                    37.4682215041245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3506 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.496933538051,
+                    37.4692565544278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3506 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.496933538051,
+                    37.4692565544278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3507 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4971026345915,
+                    37.4688374317335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3508 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4967002390953,
+                    37.4674404708693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3514 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000037784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4978057864773,
+                    37.4688003832573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3515 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4978425347228,
+                    37.4680748645632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3516 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "213964-101000068527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4961012571302,
+                    37.4663315905674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3516 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960438139952,
+                    37.466334284182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3516 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960438139952,
+                    37.466334284182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3516 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960438139952,
+                    37.466334284182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3518 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498162620484,
+                    37.4684839878672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3518 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498162620484,
+                    37.4684839878672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3520 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4972215841659,
+                    37.4672630868299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3520 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4972215841659,
+                    37.4672630868299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3525 Bowland Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.496931789572,
+                    37.4663272541094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3526 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "239262-101000090626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960888981575,
+                    37.4658581001761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3526 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "213830-101000068476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4963010033349,
+                    37.4658619990881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3526 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "262906-101000107915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960616141092,
+                    37.4658731014774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3527 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955447553927,
+                    37.4658904472215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3529 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4972005974156,
+                    37.4667228227508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3539 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.497481701796,
+                    37.4664982849556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3540 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000063301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498131212168,
+                    37.4672792171977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3540 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065979",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498131212168,
+                    37.4672792171977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3540 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "223147-101000075461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498227999253,
+                    37.4672875011383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3548 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "244027-101000095014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959880296804,
+                    37.4652080996543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3548 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "213949-101000068507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4964500050834,
+                    37.4652879996268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3553 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953378047019,
+                    37.4650308000091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3553 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953378047019,
+                    37.4650308000091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3556 Bowland Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982709835522,
+                    37.4657256657346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3558 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960248388267,
+                    37.4648020125474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3558 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000040643",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960248388267,
+                    37.4648020125474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3558 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "248889-101000099400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960248388267,
+                    37.4648020125474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3560 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4962845629614,
+                    37.4647050319437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3565 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4965258503509,
+                    37.46418182979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3565 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000026731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4965258503509,
+                    37.46418182979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3568 Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000037542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4968368972769,
+                    37.4648148649972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3575 Bowland Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.497338881395,
+                    37.4651400357567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "226399-101000078651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4987637119455,
+                    37.466607499167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "199379-101000057081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.498904911305,
+                    37.4666290010639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3610 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "199378-101000057079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4993319905801,
+                    37.4663099988673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000060653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000071662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000085403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000091472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3628 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000096175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4992243197349,
+                    37.4654775622114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3629 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4987691272878,
+                    37.465286402961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000117024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.49992502149,
+                    37.464621670463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "238863-101000090116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900329781655,
+                    37.4706392357166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489913465138,
+                    37.4707885180937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000021163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489913465138,
+                    37.4707885180937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4899134651011,
+                    37.4707885208399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047343",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4899134651011,
+                    37.4707885208399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489913465138,
+                    37.4707885180937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489913465138,
+                    37.4707885180937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5021 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900161606502,
+                    37.471224618259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5021 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900161606502,
+                    37.471224618259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5021 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900161606502,
+                    37.471224618259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5125 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918914631246,
+                    37.4716872586702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5125 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918914631246,
+                    37.4716872586702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5125 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4918914631246,
+                    37.4716872586702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5138 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000003525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948566388201,
+                    37.4676232989057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5138 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000115743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4948566387834,
+                    37.4676233016519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5145 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5159 S Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000029452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955394160341,
+                    37.4673229266561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5159 W Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "213960-101000068521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4955571272332,
+                    37.4671758295007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5205 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000013859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4922825131633,
+                    37.4718242573614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5205 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000013862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4922825131633,
+                    37.4718242573614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5205 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000033294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4922825131633,
+                    37.4718242573614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5205 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000103205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4922825131633,
+                    37.4718242573614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5501 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000114725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4953308785134,
+                    37.4723265276167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5511 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960022048977,
+                    37.4719576407962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5649 Walmsley",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "198865-101000056664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997438949513,
+                    37.4705693997638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5649 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000105438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4997212850259,
+                    37.4705904481593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5729 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5012987965837,
+                    37.4703256303757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6003 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067754804083,
+                    37.4676128613846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6003 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067754804083,
+                    37.4676128613846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6003 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000050039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067754804083,
+                    37.4676128613846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000073155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "226404-101000078653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4943896618462,
+                    37.4674938376366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959301818814,
+                    37.4674335274211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959301818814,
+                    37.4674335274211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Skipping Rock Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000085954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959301818814,
+                    37.4674335274211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belmont Road @ Skipping Rock Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959301818814,
+                    37.4674335274211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5016952314642,
+                    37.4705405859382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mark Road @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905142758928,
+                    37.4701876743957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Monet Ct @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "198690-101000056314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985511925788,
+                    37.4713181009928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Monet Ct @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000079166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4982554787038,
+                    37.4714611610617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Murchies Hill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "219714-101000072811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4957793912485,
+                    37.4654118992081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipping Rock Lane @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4959301818814,
+                    37.4674335274211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipping Rock Lane @ Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000039830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960121640561,
+                    37.4690368592813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipping Rock Pl @ Skipping Rock Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095471",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960252990226,
+                    37.468207426954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipping Rock Pl @ Skipping Rock Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000040665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960252990226,
+                    37.468207426954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Skipping Rock Way @ Skipping Rock Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4960121640561,
+                    37.4690368592813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "227583-101000080438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4985511925788,
+                    37.4713181009928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000022734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4894359786186,
+                    37.4712636477631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4894359786186,
+                    37.4712636477631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000036044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Belmont Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4893347509045,
+                    37.4712983056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Bertram Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000048325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954181133935,
+                    37.4724932052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Bertram Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954181133935,
+                    37.4724932052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Bertram Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954181133935,
+                    37.4724932052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Bertram Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000095530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954181133935,
+                    37.4724932052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Walmsley Blvd @ Bertram Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4954181133935,
+                    37.4724932052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Amanda Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000121277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4996552357188,
+                    37.4680755279067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Skipping Rock Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4952352878197,
+                    37.4687058386749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clearfield St @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001414120422,
+                    37.4708997647174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clearfield St @ Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5001414120422,
+                    37.4708997647174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5119 Walmsley Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belmont Woods",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4917397487645,
+                    37.471585810195
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

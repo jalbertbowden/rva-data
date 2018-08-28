@@ -1,0 +1,2117 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5171689113352,
+        37.4794634944126,
+        -77.5076553688731,
+        37.4867478093955
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1353 Cargreen Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.516005289929,
+                    37.4863448846943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1355 Armfield Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000076784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164696312774,
+                    37.4856147111591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1355 Cargreen Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000046939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159446749366,
+                    37.4862622284845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1357 Armfield Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165417058145,
+                    37.4853797415344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1394 Cargreen Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159434569318,
+                    37.4849114816063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Gavestone Ct Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5142579332774,
+                    37.4847120826035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1402 Barriedale Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135098830361,
+                    37.4843276221708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 Barriedale Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000064786",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128524939561,
+                    37.4844284795069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1403 Gavestone Ct Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5145207816771,
+                    37.484856231651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1405 Barriedale Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000053917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129943758263,
+                    37.4841643811545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1405 Gavestone Ct Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147485863535,
+                    37.4850234702237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1406 Ivymount Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "237692-101000089040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128446743565,
+                    37.4834195784464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 Armfield Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164721445933,
+                    37.484787159581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 Armfield Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000119642",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5164721445933,
+                    37.484787159581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 Ivymount Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122808723565,
+                    37.4832785443155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Armfield Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5170771153424,
+                    37.4851974952156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Armfield Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5163634394672,
+                    37.484404791022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Barriedale Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000063402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132669713422,
+                    37.4837359013982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1410 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5170564377029,
+                    37.4849493658535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1410 Armfield Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000074908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.517056437667,
+                    37.4849493685998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 Armfield Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000053550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5162406916097,
+                    37.4841844249235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 Barriedale Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000110794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134911115919,
+                    37.4834829959887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1412 Armfield Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5170117462553,
+                    37.4847058107539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Armfield Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000106936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5167123957113,
+                    37.4838021071931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Flynn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000004499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5171689113352,
+                    37.4867478093955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Flynn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000024508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5171689113352,
+                    37.4867478093955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Flynn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000070820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5171689113352,
+                    37.4867478093955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Flynn Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000071068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5171689113352,
+                    37.4867478093955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Armfield Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158933775806,
+                    37.4833464665044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1502 Armfield Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000087511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5163432703958,
+                    37.4829687370577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1502 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5138130503858,
+                    37.4831706747536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1502 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5138130503858,
+                    37.4831706747536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1502 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5138130503858,
+                    37.4831706747536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1503 Armfield Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000054314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158074673572,
+                    37.4831110058703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1503 Armfield Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000065480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158074673572,
+                    37.4831110058703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1503 Armfield Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5158074673572,
+                    37.4831110058703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Eddystone Ct Unit A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5152896306544,
+                    37.48327081018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 Eddystone Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5152612425621,
+                    37.4830856089301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 Ivymount Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000013678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132084519603,
+                    37.4825847722821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135247309621,
+                    37.4828011092887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000085084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135247309621,
+                    37.4828011092887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000085088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135247309621,
+                    37.4828011092887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Eddystone Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000083472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5152671217135,
+                    37.482949801272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Eddystone Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000084864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5152671217135,
+                    37.482949801272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Eddystone Ct Unit A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5152671217135,
+                    37.482949801272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1511 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000012081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135610746106,
+                    37.4827656487916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137306249147,
+                    37.4826120905916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1527 Stowmarket Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5139152559434,
+                    37.4824491160877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1615 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108717242889,
+                    37.4849991361251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1615 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108717242889,
+                    37.4849991361251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1615 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5108717242889,
+                    37.4849991361251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000014635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510994931626,
+                    37.4846617676486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1633 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111184632928,
+                    37.4843704343243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000005214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000018531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000034453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511793192857,
+                    37.4826374776117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000092135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511793192857,
+                    37.4826374776117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117931928931,
+                    37.4826374748654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000069820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124434547211,
+                    37.4825113697385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000093870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124434547211,
+                    37.4825113697385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000114584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124434547211,
+                    37.4825113697385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000078863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121539841063,
+                    37.4819992027529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000093292",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121539841063,
+                    37.4819992027529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1814 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5126983480233,
+                    37.4818952348958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6206 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000046309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5076553688731,
+                    37.481411899499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6300 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "233116-101000084235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508975999535,
+                    37.481037599761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6426 Elkhardt Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000056860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111134660951,
+                    37.4816881944373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6428 Elkhardt Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000062737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5107727434233,
+                    37.4822937161119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6434 Elkhardt Road Apt M",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000012071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115560763296,
+                    37.4818946764834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6436 Elkhardt Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000012065",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114042490757,
+                    37.4822755872432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6436 Elkhardt Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114042490757,
+                    37.4822755872432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6448 Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000069830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.512172201858,
+                    37.4813834872862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6500 Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000023930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128983157942,
+                    37.4813724647976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6501 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000003700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5139256406774,
+                    37.4818382873964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6508 Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000063914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132368194595,
+                    37.4814468608385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6508 Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000104468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132368194595,
+                    37.4814468608385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6513 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000013106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5142418188135,
+                    37.4819096849395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6514 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5145569910262,
+                    37.4823868027536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6515 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000016591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.514291285559,
+                    37.4819221320649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6518 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000011490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5147242765499,
+                    37.4824638376784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6524 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000106839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5148791331023,
+                    37.4824977906073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6528 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5150690050078,
+                    37.4824976501133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6528 Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5150690050078,
+                    37.4824976501133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6542 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137235447799,
+                    37.4809018354789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6544 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000030883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5137799846269,
+                    37.4809107401249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cargreen Road @ Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5165796795891,
+                    37.4865351742576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elkhardt Road @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000042613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127729560115,
+                    37.4811342972402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Flynn Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000119027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5159340692134,
+                    37.4818719630159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000097686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127040685122,
+                    37.4794634944126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127040685122,
+                    37.4794634944126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106483856171,
+                    37.4801216957404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Ivymount Road @ Armfield Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134141652943,
+                    37.4820678994683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Whitehead Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000109209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127729560115,
+                    37.4811342972402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Whitehead Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000109213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127729560115,
+                    37.4811342972402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1416 Armfield Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Elkhardt",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5168050162317,
+                    37.4840412922229
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

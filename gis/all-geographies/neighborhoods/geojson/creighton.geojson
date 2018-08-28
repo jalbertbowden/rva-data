@@ -1,0 +1,3817 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4019890624812,
+        37.54139325602,
+        -77.3939472022831,
+        37.5494168339297
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1820 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4008076019007,
+                    37.5424410080623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1820 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4008076019007,
+                    37.5424410080623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000889987085,
+                    37.5423398280039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000889987085,
+                    37.5423398280039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000889987085,
+                    37.5423398280039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000889987085,
+                    37.5423398280039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000008790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030792",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000033436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999469707351,
+                    37.5426168811812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2005 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4010446284171,
+                    37.5438102089341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2037 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4006351170403,
+                    37.544312449414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2041 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005662738687,
+                    37.5443803380515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2041 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005662738687,
+                    37.5443803380515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2041 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005662738687,
+                    37.5443803380515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2041 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005662738687,
+                    37.5443803380515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2047 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004468596142,
+                    37.5445096928942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2056 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002424425908,
+                    37.5440502174826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2069 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3999458973439,
+                    37.5450400783803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2070 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000058454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4001104937988,
+                    37.5443549069239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2085 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000053172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3991307181057,
+                    37.5442018706045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2095 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989877322368,
+                    37.5443342515747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3986853955571,
+                    37.544524571616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399683056723,
+                    37.5451479224786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3980623980377,
+                    37.5448277669434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3980623980377,
+                    37.5448277669434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2129 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3992930842016,
+                    37.5455066993155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2129 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3992930842016,
+                    37.5455066993155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2137 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976170555804,
+                    37.5448313913938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2151 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3990618025944,
+                    37.5459655231405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2186 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3984454431524,
+                    37.5456102991476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.398109686483,
+                    37.5456774364457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2202 Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000042221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.397402874757,
+                    37.5455394992273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985025131942,
+                    37.5469109065445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985025131942,
+                    37.5469109065445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985025131942,
+                    37.5469109065445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985025131942,
+                    37.5469109065445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3974575771247,
+                    37.5457116029662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3974575771247,
+                    37.5457116029662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399121161907,
+                    37.5475557032857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399121161907,
+                    37.5475557032857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399121161907,
+                    37.5475557032857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399121161907,
+                    37.5475557032857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.399121161907,
+                    37.5475557032857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989537071345,
+                    37.54727633515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "209734-101000065449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3990530097575,
+                    37.5477079996441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.398208750915,
+                    37.5471038099046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3986754256633,
+                    37.5474415002053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.397469521158,
+                    37.5452030510914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2216 Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3969937581259,
+                    37.5455471057246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2217 Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3972082078712,
+                    37.5451312751724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2241 Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963407407262,
+                    37.5454129255372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3978327836257,
+                    37.5472614569007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976704810533,
+                    37.546906348562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976704810533,
+                    37.546906348562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976704810533,
+                    37.546906348562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3972414033362,
+                    37.5465317630973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000013473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976907009892,
+                    37.5473293441493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000013558",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976907009892,
+                    37.5473293441493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976907009892,
+                    37.5473293441493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2302 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976907009892,
+                    37.5473293441493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2304 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3975292573077,
+                    37.547388418715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000058109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962371724694,
+                    37.5478874464133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962371724694,
+                    37.5478874464133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962371724694,
+                    37.5478874464133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2413 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3961663750551,
+                    37.5482476266767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2414 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3963835216757,
+                    37.5486262802885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962094268605,
+                    37.5486187105579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000042795",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962094268605,
+                    37.5486187105579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962094268605,
+                    37.5486187105579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962094268605,
+                    37.5486187105579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073714",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3962094268605,
+                    37.5486187105579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2603 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012250586604,
+                    37.5478009442936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2616 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "223991-101000076479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013536841395,
+                    37.5475537994354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2618 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012539014265,
+                    37.5474183778485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2620 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "223992-101000076477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4010860149945,
+                    37.5473779990624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "26th St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4007538586625,
+                    37.5470924513785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4007538586625,
+                    37.5470924513785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2703 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004052261961,
+                    37.5475206556432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2705 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000060956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002730152231,
+                    37.5474303085831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2705 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000092417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002730152231,
+                    37.5474303085831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036623",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000355655187,
+                    37.5476600429428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2707 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3996753105498,
+                    37.5478001316218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2707 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102748",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3996753105498,
+                    37.5478001316218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4003491832498,
+                    37.5468643311349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4003491832498,
+                    37.5468643311349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4003491832498,
+                    37.5468643311349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4003491832498,
+                    37.5468643311349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000957073703,
+                    37.5473572419258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000957073703,
+                    37.5473572419258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078777",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000957073703,
+                    37.5473572419258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000957073703,
+                    37.5473572419258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2710 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000957073703,
+                    37.5473572419258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2719 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989672839255,
+                    37.548228673411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985721371919,
+                    37.5484331000466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3985721026602,
+                    37.5484331024724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2804 Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3980228840669,
+                    37.5474947134342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2804 Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3980228840669,
+                    37.5474947134342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.397167638211,
+                    37.5490388827689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.397167638211,
+                    37.5490388827689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3971676382513,
+                    37.5490388800227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3971676382513,
+                    37.5490388800227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3971676382513,
+                    37.5490388800227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2811 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000101480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.397167638211,
+                    37.5490388827689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2815 Fairfield Ave Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3967619989975,
+                    37.5490785487719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2815 Fairfield Ave Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3967619989975,
+                    37.5490785487719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2816 Fairfield Ave Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3969282745216,
+                    37.5494168339297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2816 Fairfield Ave Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3969282745216,
+                    37.5494168339297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2902 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953746630279,
+                    37.5485522748467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2902 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953746630279,
+                    37.5485522748467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2902 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953746630279,
+                    37.5485522748467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2902 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953746630279,
+                    37.5485522748467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2902 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953746630279,
+                    37.5485522748467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2903 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3952220974785,
+                    37.5491147578672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2903 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3954451151051,
+                    37.5481642305783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2903 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3954451151051,
+                    37.5481642305783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2903 Ralph Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000058364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3954451151051,
+                    37.5481642305783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2909 Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000081023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3978885188546,
+                    37.546528128894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2923 Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976314373557,
+                    37.5461463105508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2923 Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3976314373557,
+                    37.5461463105508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "29th St @ Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3979389129701,
+                    37.5470059491654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "29th St @ Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3993615693647,
+                    37.5459651670705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3172 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3981380589337,
+                    37.5432337588802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3200 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000004641",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943864775479,
+                    37.54139325602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000116693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3939472022831,
+                    37.5414195768643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3203 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000116690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3941003817813,
+                    37.5414409240797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3206 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000066749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3945526193162,
+                    37.5417059212729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3207 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000047204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.394176380635,
+                    37.541557415027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3207 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000088610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.394176380635,
+                    37.541557415027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000002312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000016625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000016630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000026764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000046190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3213 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000104492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3943177254168,
+                    37.5418486978999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000016264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948216215363,
+                    37.5422508180495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000042789",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3948216215363,
+                    37.5422508180495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3221 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000081898",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3944700531899,
+                    37.5422962259562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3221 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000081912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3944700531899,
+                    37.5422962259562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3230 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3975109118172,
+                    37.5434959036219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3246 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "240399-101000091723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966815015484,
+                    37.5432917992187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3971243124279,
+                    37.5435870454973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966892531655,
+                    37.5436261407075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000045482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966892531655,
+                    37.5436261407075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966892531655,
+                    37.5436261407075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3301 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000076808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3951861222071,
+                    37.543709841019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3301 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "201645-101000059020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3946023134579,
+                    37.5425345987726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3306 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000052895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3951474016772,
+                    37.5427817962685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000008133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.394810193549,
+                    37.5428591526357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3310 Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3972533086722,
+                    37.5437617823608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3310 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000003919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3952270808562,
+                    37.5431198075177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3314 Tuxedo Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000018031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3953498667808,
+                    37.5433506204421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3343 Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3958054966192,
+                    37.5445856443609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3350 Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966421648003,
+                    37.54473320985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3368 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3956223449616,
+                    37.5444227336054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Creighton Road @ Kane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3973348634247,
+                    37.5460912166334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Creighton Road @ Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "255907-101000103823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3978347134131,
+                    37.5456596013047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Creighton Road @ Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3978378872529,
+                    37.5456619324397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Creighton Road @ Walcott Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3978378872126,
+                    37.5456619351859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002672766579,
+                    37.5479545376313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Cool Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3956664675702,
+                    37.5492987927448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kane St @ Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3973348634247,
+                    37.5460912166334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kane St @ Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3973348634247,
+                    37.5460912166334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kane St @ Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3973348634247,
+                    37.5460912166334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kane St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989243900825,
+                    37.5484934456802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3993615693647,
+                    37.5459651670705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966652891106,
+                    37.543296523511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ Bunche Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000006098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3966652891106,
+                    37.543296523511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000080843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3949644743502,
+                    37.5439625285189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4007398264167,
+                    37.5418251328982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tuxedo Blvd @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.395460887963,
+                    37.5438140300776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tuxedo Blvd @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-2"
+            },
+            "id": "101000029295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.395460887963,
+                    37.5438140300776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3232 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000122564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3974895227998,
+                    37.5434608204496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2116 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3993280414851,
+                    37.5448273263015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2126 Creighton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000120321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3989906841278,
+                    37.5449051298888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2305 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Creighton",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000125035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3973704049187,
+                    37.5470262915918
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

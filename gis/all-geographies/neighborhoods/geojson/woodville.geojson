@@ -1,0 +1,4537 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4103992546321,
+        37.5404482202069,
+        -77.3993615693647,
+        37.5480007398924
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088228018053,
+                    37.5408220283259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088228018053,
+                    37.5408220283259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1404 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4086173879396,
+                    37.5410175502062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1406 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4085128602842,
+                    37.5411183374542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408409522659,
+                    37.5412274164882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1410 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000007207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083330279723,
+                    37.5413549578938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1410 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000007787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083330279723,
+                    37.5413549578938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1410 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4083330279723,
+                    37.5413549578938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "273388-101000113846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4080706942721,
+                    37.5416100991497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087170844021,
+                    37.5419646543596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000092265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4077634855659,
+                    37.5414021934893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1503 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4085857962663,
+                    37.542098189912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084708355046,
+                    37.542230862163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084708355046,
+                    37.542230862163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 N 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084708355445,
+                    37.5422308594168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075883685746,
+                    37.5416037056018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075883685746,
+                    37.5416037056018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000021226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075736626139,
+                    37.5421029384101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075736626139,
+                    37.5421029384101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075736626139,
+                    37.5421029384101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075736626139,
+                    37.5421029384101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1508 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4075736626139,
+                    37.5421029384101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074415228441,
+                    37.5422403265471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000008878",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066762011788,
+                    37.5424574848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066762011788,
+                    37.5424574848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066762011788,
+                    37.5424574848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066762011788,
+                    37.5424574848262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "232945-101000083975",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000101099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000114616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1519 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000119706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.406171625137,
+                    37.5416022850708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1522 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000045274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4064848359593,
+                    37.5417198275258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1522 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "207871-101000063767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4065577904874,
+                    37.5417694993161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4062283910353,
+                    37.5420391048868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4061285386518,
+                    37.542145398869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4054437032112,
+                    37.5413333977887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000085467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4054437032112,
+                    37.5413333977887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4054437032112,
+                    37.5413333977887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4058336614009,
+                    37.5419151844443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4060200072716,
+                    37.5422554990818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000060535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496153,
+                    37.5413844368309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4057303717246,
+                    37.5420206251478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "217044-101000070801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4059323964015,
+                    37.5423856994315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.405630546518,
+                    37.5421439587151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1609 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4055220297654,
+                    37.5422530039293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1609 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4055220298054,
+                    37.5422530011831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4054169453302,
+                    37.5423631958438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053251976988,
+                    37.5424623569753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1620 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4049116240779,
+                    37.541844282551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1626 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4047778366344,
+                    37.5420234279486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1626 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4047778366344,
+                    37.5420234279486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1628 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4048293333525,
+                    37.5421561127949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4042455282322,
+                    37.5421566069067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4044651732425,
+                    37.5423512129133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4044651732425,
+                    37.5423512129133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4044651732425,
+                    37.5423512129133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4044651732425,
+                    37.5423512129133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1704 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "242196-101000093334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403762384657,
+                    37.541681001085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043199288358,
+                    37.5424832497894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403524109964,
+                    37.541817939042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403524109964,
+                    37.541817939042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403524109964,
+                    37.541817939042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403524109964,
+                    37.541817939042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403857284485,
+                    37.5423473709478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403857284485,
+                    37.5423473709478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000067401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4034432968792,
+                    37.541895677715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4045652103527,
+                    37.5432004716994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000018820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033285180552,
+                    37.5420294591124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033285180552,
+                    37.5420294591124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033285180552,
+                    37.5420294591124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4040874398066,
+                    37.5427153507216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4040874398066,
+                    37.5427153507216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4040874398066,
+                    37.5427153507216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028222675115,
+                    37.5421094051695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028222675115,
+                    37.5421094051695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1719 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4036626195332,
+                    37.5427388941425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1719 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4026425504658,
+                    37.5422776641622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1720 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032595284946,
+                    37.542299180021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000008072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039586331192,
+                    37.5428341770219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039452990455,
+                    37.542849711967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000079939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039452990455,
+                    37.542849711967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039452990455,
+                    37.542849711967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000117289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403074922938,
+                    37.5422942750632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1724 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039168348261,
+                    37.5428738493728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039023807264,
+                    37.5429661901508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4039023807264,
+                    37.5429661901508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4036639757378,
+                    37.5434145090531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4036639757378,
+                    37.5434145090531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1734 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4033944232965,
+                    37.543692356134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1736 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032823372125,
+                    37.5438092434701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1736 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032823372125,
+                    37.5438092434701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029737776212,
+                    37.5434885578484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1743 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4027837449469,
+                    37.5434653430194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4029261077784,
+                    37.5424462860153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000007165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021198527678,
+                    37.5418799793258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021198527678,
+                    37.5418799793258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021198527678,
+                    37.5418799793258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024262936827,
+                    37.5423545109131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1803 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087867",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4025424494395,
+                    37.5438866286232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024601157762,
+                    37.5425115106583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000101397",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4027554597344,
+                    37.542633599688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4027554597344,
+                    37.542633599688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4026966678316,
+                    37.5442319052184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4026966678316,
+                    37.5442319052184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4026966678316,
+                    37.5442319052184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000052243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022973369902,
+                    37.5426653416246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4040877572868,
+                    37.5442834139454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "239341-101000090738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4040887966634,
+                    37.5442901993501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4026676045011,
+                    37.5429147966023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018475030549,
+                    37.5420470688865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 1/2 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016889770236,
+                    37.5422851759017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024299837114,
+                    37.5430089083419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024299837114,
+                    37.5430089083419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024299837114,
+                    37.5430089083419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4024299837114,
+                    37.5430089083419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1812 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4017530829349,
+                    37.5422178854216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1813 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022054865536,
+                    37.5427806794986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1813 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022054865536,
+                    37.5427806794986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1813 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000045589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022054865536,
+                    37.5427806794986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1813 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022054865536,
+                    37.5427806794986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1814 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4025130610216,
+                    37.5444016056395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "206964-101000063178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021706993948,
+                    37.5442673995598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022085042916,
+                    37.5443005162573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022085043317,
+                    37.5443005135111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022085043317,
+                    37.5443005135111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021376251964,
+                    37.5428523903831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1815 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4021376251964,
+                    37.5428523903831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1816 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022768666966,
+                    37.5431576953732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1816 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022768666966,
+                    37.5431576953732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1816 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022768666966,
+                    37.5431576953732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1818 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014682380934,
+                    37.54245150402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1819 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018600180378,
+                    37.5429446750022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1822 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4023002941748,
+                    37.5446240556545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1823 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018858565217,
+                    37.5431168444394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1823 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018858565217,
+                    37.5431168444394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1823 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "225643-101000077972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018858565217,
+                    37.5431168444394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1823 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000117601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018858565217,
+                    37.5431168444394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1823-1825 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "203551-101000060532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019419910168,
+                    37.5431607987115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1824 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012552480504,
+                    37.5426657900901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018256221324,
+                    37.5431882495098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000085649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4018256221324,
+                    37.5431882495098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1826 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012025209383,
+                    37.5427734148558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1826 N 30th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "225630-101000077951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016287856088,
+                    37.5429980988777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1829 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4017043922403,
+                    37.5432981403006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1829 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4017043922002,
+                    37.5432981430468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1829 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4017043922002,
+                    37.5432981430468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1833 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.401499888892,
+                    37.5434414185555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1835 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000003192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014031881086,
+                    37.543536817424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1835 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014031881086,
+                    37.543536817424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1835 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014031881487,
+                    37.5435368146778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1835 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014031881086,
+                    37.543536817424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1835 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4014031881086,
+                    37.543536817424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1837 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "214984-101000069171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015596086234,
+                    37.5431172992621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1906 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016328445062,
+                    37.5438533924293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1906 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016328445062,
+                    37.5438533924293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1906 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016328445062,
+                    37.5438533924293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030079614649,
+                    37.5448829938881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4030079614649,
+                    37.5448829938881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1908 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015731790586,
+                    37.5439825850741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4016155224952,
+                    37.5448641003771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000009741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015158374309,
+                    37.5449582384628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4015158374309,
+                    37.5449582384628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1913 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4013998463225,
+                    37.5450564029064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4012389738813,
+                    37.5443171163309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4009511198314,
+                    37.5455556085747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4009511198314,
+                    37.5455556085747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2013 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4006263702921,
+                    37.5458821205928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2013 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4006263702921,
+                    37.5458821205928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2015 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005256916256,
+                    37.5459803355366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2015 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4005256916256,
+                    37.5459803355366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000095328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4004074310242,
+                    37.5460848857233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2019 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000059713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4002807094733,
+                    37.5462348680362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4000910481291,
+                    37.5455423315776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2305 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043337740521,
+                    37.5478019129155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2305 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4043337740521,
+                    37.5478019129155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103992546321,
+                    37.5404482202069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103992546321,
+                    37.5404482202069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25th St @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103992546321,
+                    37.5404482202069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2600 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408048059566,
+                    37.5409481421122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2624 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4072236131533,
+                    37.5410076496983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "26th St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4066828811125,
+                    37.5410899694724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000012175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4064871554344,
+                    37.5411217493746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4064871554344,
+                    37.5411217493746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000004790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4063618623434,
+                    37.5411370346011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4063618623434,
+                    37.5411370346011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "207870-101000063768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4063599988827,
+                    37.5412580012765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2708 Nine Mile Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4063618623434,
+                    37.5411370346011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2727 Tate St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.402630479602,
+                    37.5448812253416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3997604714538,
+                    37.5460003837966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2908 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028475938127,
+                    37.5416551115402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2908 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4028475937726,
+                    37.5416551142864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2914 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4025799960853,
+                    37.5416669910697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "29th St @ Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3993615693647,
+                    37.5459651670705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105979",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4035506125335,
+                    37.5480007398924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3993615693647,
+                    37.5459651670705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4019890624812,
+                    37.5479787189795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ 25th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103992546321,
+                    37.5404482202069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Nine Mile Road @ 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403733303236,
+                    37.5413879939315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tate St @ 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088861",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4020471072949,
+                    37.5446593529535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "V St @ 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "205288-101000061927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4065753861076,
+                    37.541432500382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2706 Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000122344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4064871554344,
+                    37.5411217493746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 N 26th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408409522659,
+                    37.5412274164882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 28th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4053722496553,
+                    37.5413844340847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "29th St @ Nine Mile Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403733303236,
+                    37.5413879939315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000122422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4032118601028,
+                    37.5421619788152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1813 N 29th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4022054865536,
+                    37.5427806794986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 N 27th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Woodville",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4045652103527,
+                    37.5432004716994
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

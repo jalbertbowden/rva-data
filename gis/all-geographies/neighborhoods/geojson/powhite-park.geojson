@@ -1,0 +1,1375 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5283043995401,
+        37.5158621183546,
+        -77.5249235069733,
+        37.5259887409337
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1205 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000011528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526291938073,
+                    37.5165547284767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1205 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000011529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526291938073,
+                    37.5165547284767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1205 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000018385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526291938073,
+                    37.5165547284767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1215 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000008429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5264842008912,
+                    37.5169464802627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1223 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000001595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526446079884,
+                    37.5171716781688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1223 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000046683",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526446079884,
+                    37.5171716781688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1224 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000001459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.526776933268,
+                    37.5172724886275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1226 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000106247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267679033632,
+                    37.5173307731826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1228 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000021233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267497462416,
+                    37.5173776010772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1230 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000014549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267767698541,
+                    37.5175248815517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1230 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000106713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267767698541,
+                    37.5175248815517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1230 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000113353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267767698541,
+                    37.5175248815517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1232 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268016251314,
+                    37.5175812800805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1232 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000111697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268016251314,
+                    37.5175812800805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1236 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000001257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268529374394,
+                    37.517671565812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1236 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000017951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268529374394,
+                    37.517671565812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1236 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000041871",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268529374394,
+                    37.517671565812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1236 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000101022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268529374394,
+                    37.517671565812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1238 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000003296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5269077655133,
+                    37.5177619655287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1238 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000097825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5269077655133,
+                    37.5177619655287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1238 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000097826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5269077655489,
+                    37.5177619627825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1240 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000106010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5269455937806,
+                    37.5178284240383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1249 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000007530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267827800574,
+                    37.5182460459267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1249 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000016921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267827800574,
+                    37.5182460459267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1249 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000046514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267827800574,
+                    37.5182460459267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1249 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000055673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267827800574,
+                    37.5182460459267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000034890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268358427594,
+                    37.5183396611087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000093422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268358427594,
+                    37.5183396611087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268358427594,
+                    37.5183396611087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000093572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268358427594,
+                    37.5183396611087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268358427594,
+                    37.5183396611087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1253 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "226775-101000079152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5267866834522,
+                    37.5183574011469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1254 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000039765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5271504502796,
+                    37.5182334092351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1255 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000111712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268736626831,
+                    37.5184014531743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1305 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000077423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5269734647613,
+                    37.5185950721648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1307 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000078430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5270019880966,
+                    37.5186478423452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000013757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5270942368855,
+                    37.5188736244736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1318 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000022199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5274282418397,
+                    37.518990015336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1318 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000042743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5274282418397,
+                    37.518990015336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1319 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000003004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.527078160897,
+                    37.5190314218512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1324 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000003427",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5274355358593,
+                    37.5192285306089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1324 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000094293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5274355358593,
+                    37.5192285306089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000100185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000024813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.524959103578,
+                    37.515919652118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Old Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000075799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5253554607733,
+                    37.5165606507586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Old Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000077197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5253554607733,
+                    37.5165606507586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Old Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000082860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5253554607733,
+                    37.5165606507586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Old Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000095689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5253554607733,
+                    37.5165606507586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hioaks Road @ Old Jahnke Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000116033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5253554607733,
+                    37.5165606507586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000090750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000024828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000095241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000024852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000095262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000045912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000091524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000052600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000054125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000062636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000064388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000104907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5249235069733,
+                    37.5158621183546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jahnke Road @ Hioaks Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000024810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.524959103578,
+                    37.515919652118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000083450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000109491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Powhite Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000114950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5283043995401,
+                    37.5259887409337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000095943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.527719850657,
+                    37.5180838438712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000026454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.527719850657,
+                    37.5180838438712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1232 Boulder Creek Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Powhite Park",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000121853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5268016251314,
+                    37.5175812800805
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

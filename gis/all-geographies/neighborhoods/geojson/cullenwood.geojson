@@ -1,0 +1,3837 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.456524501663,
+        37.4777420480905,
+        -77.4494433067724,
+        37.4823221729036
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498077987091,
+                    37.4818124411733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000026886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498077987091,
+                    37.4818124411733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2829 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000010633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4503490995147,
+                    37.4823221729036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2832 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4504164179501,
+                    37.4818127844272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2833 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4503128240326,
+                    37.4813947026444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2835 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4505638021318,
+                    37.4822814700181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2841 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507693590706,
+                    37.4822465744366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2841 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000026421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507693590323,
+                    37.4822465771829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2841 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049973",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507693590323,
+                    37.4822465771829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2841 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507693590323,
+                    37.4822465771829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2907 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507119557009,
+                    37.4813509122728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2907 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4511608428182,
+                    37.4821929533842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2909 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433067724,
+                    37.4806440840997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4509751978489,
+                    37.4813016764773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4513577660804,
+                    37.4821592602541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2914 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4512012851361,
+                    37.4815862591225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2914 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4512012851361,
+                    37.4815862591225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2914 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4512012851361,
+                    37.4815862591225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2918 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4497538316736,
+                    37.4809060064665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2924 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000071705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499708308532,
+                    37.4808758170338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2928 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4501766376923,
+                    37.4808326382389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2928 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000060418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4501766376923,
+                    37.4808326382389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2928 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4501766376923,
+                    37.4808326382389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2928 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4501766376923,
+                    37.4808326382389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Newhaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500745991009,
+                    37.4795180095649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Newhaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500745991009,
+                    37.4795180095649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Newhaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500745991009,
+                    37.4795180095649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Newhaven Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500745991009,
+                    37.4795180095649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4503597916346,
+                    37.4805184028387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2935 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4521195469959,
+                    37.4820288832662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2940 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4506451094096,
+                    37.4807987626021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2940 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4506451094096,
+                    37.4807987626021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2948 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4512796634484,
+                    37.4809851768524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2952 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4510939176092,
+                    37.4809293281833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2952 Springview Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083543",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4510939176092,
+                    37.4809293281833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000112030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4524146409692,
+                    37.4813828603659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4524146409692,
+                    37.4813828603659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4526583276289,
+                    37.4814459374156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000078929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4526583275906,
+                    37.4814459401619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3015 Ilex Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4528927813553,
+                    37.4784482777999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3015 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4528785639792,
+                    37.4809653050689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3015 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000046282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4528785639792,
+                    37.4809653050689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "201852-101000059244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4536515080961,
+                    37.4817335927499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "209322-101000064972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535978800715,
+                    37.4817335914443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3028 Montecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4533578736083,
+                    37.4810813577171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523826230047,
+                    37.4810314086051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555827061244,
+                    37.4804722776243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555827061244,
+                    37.4804722776243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000042178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555827061244,
+                    37.4804722776243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051080",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555827061244,
+                    37.4804722776243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000112204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555827061244,
+                    37.4804722776243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454137005841,
+                    37.4807455385866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518258494424,
+                    37.4809145292325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551573644469,
+                    37.4805749076818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551573644469,
+                    37.4805749076818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3106 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545324889589,
+                    37.4804653862027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3106 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545324889207,
+                    37.480465388949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3106 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555779960429,
+                    37.4803150457724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3106 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555779960429,
+                    37.4803150457724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3106 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555779960429,
+                    37.4803150457724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551580846781,
+                    37.4803989754558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3108 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001786",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4525400624155,
+                    37.4808232494524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3108 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4525400624155,
+                    37.4808232494524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3109 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518284671771,
+                    37.4806944924576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3109 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518284671771,
+                    37.4806944924576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3109 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518284671771,
+                    37.4806944924576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3110 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545216707013,
+                    37.4809958393322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530313571403,
+                    37.4804494883383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541134553309,
+                    37.4802802745356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541134553309,
+                    37.4802802745356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551568888119,
+                    37.4802369295824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551568888119,
+                    37.4802369295824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551568888119,
+                    37.4802369295824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3116 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454750345295,
+                    37.4809611519004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3116 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454750345295,
+                    37.4809611519004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3116 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454750345295,
+                    37.4809611519004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3116 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "249405-101000099493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547572915802,
+                    37.4809721995702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518312606749,
+                    37.4804816285882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3118 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545300405784,
+                    37.4801455648729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530338349129,
+                    37.4801575307211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000038593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530338349129,
+                    37.4801575307211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530338349129,
+                    37.4801575307211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530338349129,
+                    37.4801575307211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541141174855,
+                    37.4801086951235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551436197136,
+                    37.4800557982415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3119 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551436197136,
+                    37.4800557982415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523864805197,
+                    37.4802816882292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523864805197,
+                    37.4802816882292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523864805197,
+                    37.4802816882292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "216003-101000070067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523864805197,
+                    37.4802816882292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3122 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000085068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534414806837,
+                    37.4800758869774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545289538077,
+                    37.4799757662991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523852978531,
+                    37.4801191232814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523852978531,
+                    37.4801191232814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523852978531,
+                    37.4801191232814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455564553513,
+                    37.479816164964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000029717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455564553513,
+                    37.479816164964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125-3131 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "261253-101000107122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454833985894,
+                    37.4798278815702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3128 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523858433678,
+                    37.479956202822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3130 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555564938426,
+                    37.4796519629109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3131 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541118617175,
+                    37.4797751479657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3131 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551446844902,
+                    37.4797309871346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3133 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518396266704,
+                    37.4797945978375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3135 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530148973553,
+                    37.4796089506864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3135 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530148973553,
+                    37.4796089506864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3135 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530148973553,
+                    37.4796089506864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3135 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530148973553,
+                    37.4796089506864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3135 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530148973553,
+                    37.4796089506864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523656934038,
+                    37.479618772909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523656934038,
+                    37.479618772909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523656934038,
+                    37.479618772909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Lenewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "197804-101000055702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4524346917199,
+                    37.4796311001082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011769",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555734709949,
+                    37.4794940763034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555734709949,
+                    37.4794940763034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555734709949,
+                    37.4794940763034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555734709949,
+                    37.4794940763034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3137 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541106422288,
+                    37.4796149640238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3137 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541106422288,
+                    37.4796149640238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3137 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541106422288,
+                    37.4796149640238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3138 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534259941091,
+                    37.4794375815301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3140 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.452364537104,
+                    37.4794543185139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3141 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518437357334,
+                    37.4794650427184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3141 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050475",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518437357334,
+                    37.4794650427184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3142 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545199287492,
+                    37.479489355353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3142 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545199287492,
+                    37.479489355353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3142 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555671534406,
+                    37.4793285135569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3145 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000044473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518457557914,
+                    37.4793002648456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3145 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518457557914,
+                    37.4793002648456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3148 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545152976615,
+                    37.4793266034485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3148 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000079262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4523638785231,
+                    37.4791303791948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3149 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541083150952,
+                    37.4792865523348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3149 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541083150952,
+                    37.4792865523348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3149 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541083150952,
+                    37.4792865523348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3149 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541083150952,
+                    37.4792865523348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3149 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518478103004,
+                    37.4791354872721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3153 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518498648005,
+                    37.478970709693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3153 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518498648005,
+                    37.478970709693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3154 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534278277692,
+                    37.4789217761288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3154 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545158979422,
+                    37.4791594097753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3155 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530280770957,
+                    37.4789615655372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3156 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534266307501,
+                    37.4788244948705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3156 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534266307501,
+                    37.4788244948705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3156 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534266307501,
+                    37.4788244948705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3156 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534266307501,
+                    37.4788244948705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3157 Lanewood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4518519192533,
+                    37.4788059348547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3160 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45451651486,
+                    37.4789910187277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3160 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545165148981,
+                    37.4789910159815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3160 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545165148981,
+                    37.4789910159815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3160 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555572403578,
+                    37.478841045655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3160 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555572403578,
+                    37.478841045655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3161 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454095392118,
+                    37.4789443745135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3161 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455129986532,
+                    37.478908312776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3166 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545171824464,
+                    37.4788289013452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3166 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000075239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545171824464,
+                    37.4788289013452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3166 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555475697181,
+                    37.4786712510285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3167 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551287981877,
+                    37.4787457313327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3167 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551287981877,
+                    37.4787457313327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3172 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545142912965,
+                    37.4786649480338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3172 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555447109962,
+                    37.478514730329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3173 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541108641976,
+                    37.4786272244273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3173 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541108641594,
+                    37.4786272271735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3173 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541108641594,
+                    37.4786272271735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3178 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000047462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455538510904,
+                    37.4783407173091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3178 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000075899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455538510904,
+                    37.4783407173091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3184 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555330913013,
+                    37.4781104883588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3185 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541104651672,
+                    37.4782840749847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3185 Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105081",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551290463208,
+                    37.4782415053285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3190 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4546615758134,
+                    37.4781426259781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3191 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541511944303,
+                    37.4781135112088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4544393274055,
+                    37.4778593663079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000041379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4544393274055,
+                    37.4778593663079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000066132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4544393618648,
+                    37.4778593666121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Scottdale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507911925289,
+                    37.4784200020862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3206 Vale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557493019296,
+                    37.4807930571513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Scottdale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4508010661397,
+                    37.4780752900253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3211 Scottdale St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000034489",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4508010661397,
+                    37.4780752900253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3231 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555573436757,
+                    37.477743809246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3236 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560337303565,
+                    37.4780866942807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3236 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560337303565,
+                    37.4780866942807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3243 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000038790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560554688853,
+                    37.4777420480905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3255 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564238967354,
+                    37.477937372256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3255 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564238967354,
+                    37.477937372256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3261 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456524501663,
+                    37.4781158588971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Vale St @ Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4532479708775,
+                    37.4804344205066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3179 Cullenwood Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000122346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4541097497987,
+                    37.4784594827447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3161 Bashford Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000122821",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4530271052162,
+                    37.4787837560743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Zion St @ Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cullenwood",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}
