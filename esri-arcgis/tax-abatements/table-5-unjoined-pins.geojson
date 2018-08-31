@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 1, "PIN": "W0000649069", "AnnualTaxCredit": 2340}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 2, "PIN": "E0000333021", "AnnualTaxCredit": 1344}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 3, "PIN": "E0000333032", "AnnualTaxCredit": 1094.4}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 4, "PIN": "E0000333023", "AnnualTaxCredit": 1087.68}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 5, "PIN": "E0000333022", "AnnualTaxCredit": 1080}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 6, "PIN": "E0000333031", "AnnualTaxCredit": 540}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 7, "PIN": "E0000333027", "AnnualTaxCredit": 539.28}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 8, "PIN": "E0000333002", "AnnualTaxCredit": 480}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 9, "PIN": "E0000333001", "AnnualTaxCredit": 444}},
+{"type": "Feature", "geometry": null, "properties": {"OBJECTID": 10, "PIN": "E0000333020", "AnnualTaxCredit": 280.8}}
+]}
