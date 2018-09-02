@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-southhampton-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 99, "ParkName": "Southhampton Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Schools", "Location": null, "CreatedBy": null, "CreatedDat": null, "EditBy": null, "EditDate": null, "Shape__Are": 1.501190516e-06, "Shape__Len": 0.005006896157254 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5314687, 37.5435426 ], [ -77.5314689, 37.543542 ], [ -77.5317181, 37.5429205 ], [ -77.5318213, 37.5426734 ], [ -77.5332001, 37.5431089 ], [ -77.532726, 37.5442086 ], [ -77.5326373, 37.5441365 ], [ -77.5324832, 37.5440487 ], [ -77.5322467, 37.5439259 ], [ -77.5316778, 37.5436418 ], [ -77.5314687, 37.5435426 ] ] ] } }
+]
+}

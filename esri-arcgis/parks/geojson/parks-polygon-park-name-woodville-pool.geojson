@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-woodville-pool",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 106, "ParkName": "Woodville Pool", "ParkType": "pool", "ParkOwner": "Schools", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244369764000.0, "EditBy": "waldrosr", "EditDate": 1244369764000.0, "Shape__Are": 1.92083178e-07, "Shape__Len": 0.0018971191990250001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4041036, 37.5474143 ], [ -77.4044093, 37.5475927 ], [ -77.4044363, 37.5475676 ], [ -77.4045416, 37.5476384 ], [ -77.4044902, 37.5476951 ], [ -77.4045114, 37.5477037 ], [ -77.4044626, 37.5477668 ], [ -77.4044468, 37.547756 ], [ -77.4043469, 37.5478673 ], [ -77.4042599, 37.5478178 ], [ -77.4042166, 37.5478661 ], [ -77.4040545, 37.5478646 ], [ -77.4038121, 37.5477205 ], [ -77.4041036, 37.5474143 ] ] ] } }
+]
+}

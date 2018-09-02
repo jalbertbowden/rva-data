@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-calhoun-community-center-and-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 18, "ParkName": "Calhoun Community Center and Playground", "ParkType": "community center", "ParkOwner": "RRHA\/Parks", "ParkMainta": "Parks\/DPW\/RRHA", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243861344000.0, "EditBy": "waldrosr", "EditDate": 1243861344000.0, "Shape__Are": 2.747151558e-06, "Shape__Len": 0.0095206615091160008 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4389384, 37.5539002 ], [ -77.4394905, 37.5538907 ], [ -77.4398701, 37.5538845 ], [ -77.4400771, 37.5538809 ], [ -77.4411801, 37.553704 ], [ -77.4413746, 37.5543477 ], [ -77.4409047, 37.5543978 ], [ -77.4399015, 37.5545941 ], [ -77.4398993, 37.5545021 ], [ -77.4389735, 37.5545927 ], [ -77.4389807, 37.5548131 ], [ -77.4388634, 37.5548121 ], [ -77.4379462, 37.554784 ], [ -77.4379289, 37.5547831 ], [ -77.4379082, 37.5547829 ], [ -77.4374737, 37.5547694 ], [ -77.4373427, 37.5547655 ], [ -77.437222, 37.5547624 ], [ -77.4378217, 37.5540687 ], [ -77.4378954, 37.5539795 ], [ -77.4379548, 37.5539285 ], [ -77.4389384, 37.5539002 ] ] ] } }
+]
+}

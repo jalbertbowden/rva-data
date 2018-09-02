@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-barton-heights-cemetery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 35, "ParkName": "Barton Heights Cemetery", "ParkType": "cemetery", "ParkOwner": "Parks", "ParkMainta": "Cemeteries", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243852704000.0, "EditBy": "waldrosr", "EditDate": 1243852704000.0, "Shape__Are": 5.191801035e-06, "Shape__Len": 0.0094247266426570001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4333156, 37.5594582 ], [ -77.4314918, 37.5593656 ], [ -77.4315631, 37.5577519 ], [ -77.4314597, 37.5577428 ], [ -77.4314974, 37.5565449 ], [ -77.4334236, 37.5567126 ], [ -77.4333156, 37.5594582 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-shockoe-slip-triangle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 124, "ParkName": "Shockoe Slip Triangle", "ParkType": "open space", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244362752000.0, "EditBy": "waldrosr", "EditDate": 1244362752000.0, "Shape__Are": 7.9369838e-08, "Shape__Len": 0.001483333379814 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4344424, 37.534383 ], [ -77.4344486, 37.5343553 ], [ -77.4340225, 37.5342985 ], [ -77.4340675, 37.5340491 ], [ -77.4340686, 37.5340434 ], [ -77.4341135, 37.5340713 ], [ -77.4342604, 37.5341624 ], [ -77.4345451, 37.5343389 ], [ -77.4345473, 37.5343412 ], [ -77.4345771, 37.5343724 ], [ -77.4345719, 37.5343998 ], [ -77.4345719, 37.5344001 ], [ -77.4344424, 37.534383 ] ] ] } }
+]
+}

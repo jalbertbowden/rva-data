@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-mashore-playground-old-pilkington-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 142, "ParkName": "Mashore Playground (Old Pilkington Playground)", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244371296000.0, "EditBy": "waldrosr", "EditDate": 1244371296000.0, "Shape__Are": 1.71489565e-07, "Shape__Len": 0.0020594178301049999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4531682, 37.5143306 ], [ -77.4531417, 37.5142494 ], [ -77.453102, 37.514133 ], [ -77.4532754, 37.5140576 ], [ -77.453376, 37.5140138 ], [ -77.4534594, 37.5139734 ], [ -77.4533898, 37.5137716 ], [ -77.4534002, 37.5137641 ], [ -77.453723, 37.5141089 ], [ -77.4535038, 37.5142484 ], [ -77.4535138, 37.5142698 ], [ -77.4532079, 37.5144477 ], [ -77.4531682, 37.5143306 ] ] ] } }
+]
+}

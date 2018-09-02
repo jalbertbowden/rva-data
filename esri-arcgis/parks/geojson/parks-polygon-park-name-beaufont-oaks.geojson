@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-beaufont-oaks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 23, "ParkName": "Beaufont Oaks", "ParkType": "open space", "ParkOwner": "Private", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243854871000.0, "EditBy": "waldrosr", "EditDate": 1243854871000.0, "Shape__Are": 1.123908186e-06, "Shape__Len": 0.0046373625121039997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5234277, 37.5088042 ], [ -77.5236952, 37.5081184 ], [ -77.5235873, 37.5079335 ], [ -77.5250163, 37.5083387 ], [ -77.5249881, 37.5083859 ], [ -77.5249633, 37.5084392 ], [ -77.5249384, 37.5084926 ], [ -77.5249239, 37.5085515 ], [ -77.5249162, 37.5086084 ], [ -77.5249249, 37.5090047 ], [ -77.5246733, 37.5089978 ], [ -77.5245182, 37.508991 ], [ -77.524322, 37.5089716 ], [ -77.5241533, 37.5089489 ], [ -77.52394, 37.5089149 ], [ -77.5237439, 37.508881 ], [ -77.5234277, 37.5088042 ] ] ] } }
+]
+}

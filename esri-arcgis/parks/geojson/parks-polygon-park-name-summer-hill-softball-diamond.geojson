@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-summer-hill-softball-diamond",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 119, "ParkName": "Summer Hill Softball Diamond", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244363720000.0, "EditBy": "waldrosr", "EditDate": 1244363720000.0, "Shape__Are": 8.52906121e-07, "Shape__Len": 0.003713334355524 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4465734, 37.4762522 ], [ -77.4455752, 37.4762498 ], [ -77.445764, 37.4753163 ], [ -77.4465894, 37.4753151 ], [ -77.4465734, 37.4762522 ] ] ] } }
+]
+}

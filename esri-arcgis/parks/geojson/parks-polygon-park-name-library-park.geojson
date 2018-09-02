@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-library-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 86, "ParkName": "Library Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Library", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244040087000.0, "EditBy": "waldrosr", "EditDate": 1244040087000.0, "Shape__Are": 1.04933335e-07, "Shape__Len": 0.001378574491201 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.442622, 37.542111 ], [ -77.4430089, 37.5423401 ], [ -77.4428393, 37.5425079 ], [ -77.4424525, 37.5422897 ], [ -77.442622, 37.542111 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-broad-rock-community-center-and-playground-school",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 138, "ParkName": "Broad Rock Community Center and Playground (school)", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244370773000.0, "EditBy": "waldrosr", "EditDate": 1244370773000.0, "Shape__Are": 3.92918093e-06, "Shape__Len": 0.00806521189907 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4788262, 37.4774207 ], [ -77.4782521, 37.4773155 ], [ -77.4782034, 37.4773494 ], [ -77.4781687, 37.4773684 ], [ -77.478141, 37.4773764 ], [ -77.4774912, 37.477263 ], [ -77.4779741, 37.4752003 ], [ -77.4787814, 37.4753886 ], [ -77.4790185, 37.4754428 ], [ -77.4791988, 37.4754772 ], [ -77.4793313, 37.4755025 ], [ -77.47972, 37.4755566 ], [ -77.4798916, 37.4756089 ], [ -77.4796378, 37.4765358 ], [ -77.479486, 37.4770508 ], [ -77.4793305, 37.4775899 ], [ -77.4789111, 37.4775176 ], [ -77.4788262, 37.4774207 ] ] ] } }
+]
+}

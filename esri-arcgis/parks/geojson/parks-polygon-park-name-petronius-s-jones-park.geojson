@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-petronius-s-jones-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 88, "ParkName": "Petronius S Jones Park", "ParkType": "neighborhood park", "ParkOwner": "RRHA", "ParkMainta": "RRHA", "Location": null, "CreatedBy": null, "CreatedDat": null, "EditBy": null, "EditDate": null, "Shape__Are": 2.03694272e-06, "Shape__Len": 0.0068662717134540001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.462333, 37.5443185 ], [ -77.4625169, 37.5439864 ], [ -77.4637905, 37.5444357 ], [ -77.4650366, 37.544875 ], [ -77.4646405, 37.5455829 ], [ -77.4646334, 37.5455973 ], [ -77.4644995, 37.5455467 ], [ -77.4641152, 37.5454019 ], [ -77.4635047, 37.5451507 ], [ -77.4630862, 37.5449788 ], [ -77.4624894, 37.5447346 ], [ -77.4621703, 37.5446103 ], [ -77.4621951, 37.5445632 ], [ -77.462333, 37.5443185 ] ] ] } }
+]
+}

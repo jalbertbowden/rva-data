@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-university-of-richmond-city-stadium",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 100, "ParkName": "University of Richmond (City Stadium)", "ParkType": "facility", "ParkOwner": "Parks", "ParkMainta": "Contract", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244367318000.0, "EditBy": "waldrosr", "EditDate": 1244367318000.0, "Shape__Are": 6.849388196e-06, "Shape__Len": 0.011114425594804999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4873602, 37.5480189 ], [ -77.4884345, 37.5473998 ], [ -77.4884777, 37.5475217 ], [ -77.4885, 37.5476558 ], [ -77.4884655, 37.54868 ], [ -77.4884524, 37.5488907 ], [ -77.4883864, 37.5496928 ], [ -77.4883461, 37.5498634 ], [ -77.4882748, 37.5500379 ], [ -77.4881654, 37.5502196 ], [ -77.4880423, 37.550395 ], [ -77.4875657, 37.5509485 ], [ -77.4848772, 37.5500102 ], [ -77.48572, 37.5491674 ], [ -77.4859612, 37.5489278 ], [ -77.4864239, 37.5486447 ], [ -77.4868208, 37.5483734 ], [ -77.4873602, 37.5480189 ] ] ] } }
+]
+}

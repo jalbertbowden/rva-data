@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-thompson-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 13, "ParkName": "Thompson Playground", "ParkType": "school", "ParkOwner": null, "ParkMainta": null, "Location": null, "CreatedBy": "rosewl", "CreatedDat": 1187029207000.0, "EditBy": "rosewl", "EditDate": 1187029207000.0, "Shape__Are": 8.62880164e-06, "Shape__Len": 0.012237514674127 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5409639, 37.5320171 ], [ -77.5395528, 37.532713 ], [ -77.5394242, 37.5325578 ], [ -77.5389982, 37.5327731 ], [ -77.5390958, 37.5328922 ], [ -77.5383638, 37.5332645 ], [ -77.5380549, 37.5322492 ], [ -77.5373582, 37.5299595 ], [ -77.5373425, 37.529921 ], [ -77.53818, 37.5297301 ], [ -77.53834, 37.5296915 ], [ -77.5383641, 37.5296857 ], [ -77.5394292, 37.5294287 ], [ -77.5398761, 37.5293214 ], [ -77.5398798, 37.5293205 ], [ -77.5398903, 37.5293559 ], [ -77.5408831, 37.5318228 ], [ -77.5409639, 37.5320171 ] ] ] } }
+]
+}

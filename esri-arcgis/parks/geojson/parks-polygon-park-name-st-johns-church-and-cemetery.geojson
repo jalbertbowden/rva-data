@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-st-johns-church-and-cemetery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 114, "ParkName": "St John's Church and Cemetery", "ParkType": "cemetery", "ParkOwner": "Parks", "ParkMainta": "Contract", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244363454000.0, "EditBy": "waldrosr", "EditDate": 1244363454000.0, "Shape__Are": 8.36177496e-07, "Shape__Len": 0.0037116616714080002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4200243, 37.5317116 ], [ -77.4196915, 37.5320718 ], [ -77.4189597, 37.5316339 ], [ -77.4192925, 37.5312758 ], [ -77.4196428, 37.5308999 ], [ -77.4203746, 37.5313344 ], [ -77.4200243, 37.5317116 ] ] ] } }
+]
+}

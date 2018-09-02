@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-thomas-jefferson-tot-lot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 128, "ParkName": "Thomas Jefferson Tot Lot", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244366185000.0, "EditBy": "waldrosr", "EditDate": 1244366185000.0, "Shape__Are": 5.0919057e-08, "Shape__Len": 0.00099825088818000004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4874929, 37.5709943 ], [ -77.4876155, 37.5710673 ], [ -77.4873982, 37.5713457 ], [ -77.4872709, 37.5712709 ], [ -77.4874929, 37.5709943 ] ] ] } }
+]
+}

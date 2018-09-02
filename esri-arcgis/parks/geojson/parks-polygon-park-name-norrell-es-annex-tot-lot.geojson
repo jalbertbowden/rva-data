@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-norrell-es-annex-tot-lot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 155, "ParkName": "Norrell ES - Annex Tot Lot", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244135219000.0, "EditBy": "waldrosr", "EditDate": 1244135219000.0, "Shape__Are": 1.38102043e-07, "Shape__Len": 0.001505111964892 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4353412, 37.5637255 ], [ -77.4353505, 37.5634041 ], [ -77.4357584, 37.5634365 ], [ -77.4358084, 37.5636174 ], [ -77.4358081, 37.5636405 ], [ -77.4357828, 37.5636388 ], [ -77.4357686, 37.5637481 ], [ -77.4353412, 37.5637255 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-little-john-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 87, "ParkName": "Little John Park", "ParkType": "neighborhood park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244041836000.0, "EditBy": "waldrosr", "EditDate": 1244041836000.0, "Shape__Are": 5.19516162e-07, "Shape__Len": 0.0053727443567710004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.457266, 37.5732255 ], [ -77.4571423, 37.5731104 ], [ -77.4572749, 37.5730051 ], [ -77.4574468, 37.5730727 ], [ -77.4582805, 37.5734005 ], [ -77.4594526, 37.5739828 ], [ -77.4595611, 37.5741176 ], [ -77.4581016, 37.5736091 ], [ -77.4576552, 37.5734513 ], [ -77.457566, 37.5734148 ], [ -77.4574528, 37.573361 ], [ -77.4573878, 37.5733206 ], [ -77.4573024, 37.5732594 ], [ -77.457266, 37.5732255 ] ] ] } }
+]
+}

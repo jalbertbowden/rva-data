@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-smith-peters-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 115, "ParkName": "Smith-Peters Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244363088000.0, "EditBy": "waldrosr", "EditDate": 1244363088000.0, "Shape__Are": 3.86879637e-07, "Shape__Len": 0.0032651478937589999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4473704, 37.5528733 ], [ -77.4473774, 37.5528657 ], [ -77.4475701, 37.5526547 ], [ -77.4487059, 37.5533363 ], [ -77.4484923, 37.553561 ], [ -77.4480271, 37.5532774 ], [ -77.4480376, 37.5532665 ], [ -77.4473704, 37.5528733 ] ] ] } }
+]
+}

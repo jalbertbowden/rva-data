@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-dove-st-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 56, "ParkName": "Dove St Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243952524000.0, "EditBy": "waldrosr", "EditDate": 1243952524000.0, "Shape__Are": 2.043794557e-06, "Shape__Len": 0.0069168263556770001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4267013, 37.5628716 ], [ -77.4272458, 37.5624343 ], [ -77.4283068, 37.5615842 ], [ -77.4284185, 37.5614953 ], [ -77.4286089, 37.5609635 ], [ -77.4287883, 37.5614458 ], [ -77.4288899, 37.5620674 ], [ -77.4289181, 37.5625064 ], [ -77.4288773, 37.5627086 ], [ -77.4287282, 37.5630025 ], [ -77.4267013, 37.5628716 ] ] ] } }
+]
+}

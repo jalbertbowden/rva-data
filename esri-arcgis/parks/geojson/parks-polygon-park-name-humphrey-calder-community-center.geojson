@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-humphrey-calder-community-center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 74, "ParkName": "Humphrey Calder Community Center", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244026115000.0, "EditBy": "waldrosr", "EditDate": 1244026115000.0, "Shape__Are": 2.234912849e-06, "Shape__Len": 0.0091411139225929996 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4849666, 37.5620381 ], [ -77.4862422, 37.5608378 ], [ -77.4865222, 37.5607956 ], [ -77.4871268, 37.5609896 ], [ -77.4845167, 37.5634226 ], [ -77.4844243, 37.5633594 ], [ -77.4843564, 37.5632839 ], [ -77.4842511, 37.5631567 ], [ -77.4841902, 37.5630676 ], [ -77.4841367, 37.5629442 ], [ -77.4841102, 37.5628637 ], [ -77.4841069, 37.5628478 ], [ -77.484764, 37.5622286 ], [ -77.4851743, 37.5625006 ], [ -77.4853873, 37.562315 ], [ -77.4849666, 37.5620381 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-mount-olivet-cemetery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 16, "ParkName": "Mount Olivet Cemetery", "ParkType": "cemetery", "ParkOwner": "Parks", "ParkMainta": "Cemeteries", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244112638000.0, "EditBy": "waldrosr", "EditDate": 1244112638000.0, "Shape__Are": 5.041749611e-06, "Shape__Len": 0.010347136851702 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4537314, 37.5033451 ], [ -77.4541662, 37.503314 ], [ -77.4545427, 37.5032589 ], [ -77.4546913, 37.5032376 ], [ -77.4548296, 37.5032038 ], [ -77.4549542, 37.5031699 ], [ -77.4550616, 37.5031324 ], [ -77.4551934, 37.5030793 ], [ -77.4553843, 37.5029807 ], [ -77.4555893, 37.5028706 ], [ -77.4557704, 37.5027369 ], [ -77.4558714, 37.5026609 ], [ -77.4559763, 37.5025575 ], [ -77.4564178, 37.5020443 ], [ -77.457139, 37.5029914 ], [ -77.4573185, 37.503225 ], [ -77.4579381, 37.504038 ], [ -77.4563369, 37.5043947 ], [ -77.4552995, 37.5046197 ], [ -77.4537314, 37.5033451 ] ] ] } }
+]
+}

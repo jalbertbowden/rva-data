@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-jl-francis-community-center-and-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 75, "ParkName": "JL Francis Community Center & Playground", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244035026000.0, "EditBy": "waldrosr", "EditDate": 1244035026000.0, "Shape__Are": 4.735183514e-06, "Shape__Len": 0.0093133222846659997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.489712, 37.4786843 ], [ -77.4894291, 37.4788816 ], [ -77.4891722, 37.4787271 ], [ -77.488641, 37.4782569 ], [ -77.4884857, 37.4780739 ], [ -77.4884197, 37.4779498 ], [ -77.4883539, 37.4778819 ], [ -77.4881968, 37.4776742 ], [ -77.4883163, 37.4765918 ], [ -77.4884219, 37.4760577 ], [ -77.490107, 37.4760652 ], [ -77.4898026, 37.4771736 ], [ -77.4901795, 37.477175 ], [ -77.4906607, 37.4771768 ], [ -77.4906281, 37.477298 ], [ -77.4905555, 37.4775714 ], [ -77.4905192, 37.4777036 ], [ -77.490414, 37.4780989 ], [ -77.4903742, 37.4782373 ], [ -77.490228, 37.4783438 ], [ -77.489712, 37.4786843 ] ] ] } }
+]
+}

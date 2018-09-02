@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-powhatans-hill-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 92, "ParkName": "Powhatan's Hill Park", "ParkType": "neighborhood park", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "rosewl", "CreatedDat": 1187022685000.0, "EditBy": "rosewl", "EditDate": 1187022685000.0, "Shape__Are": 8.72436052e-07, "Shape__Len": 0.0051404410082980002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4042302, 37.5152752 ], [ -77.4042412, 37.5147569 ], [ -77.4049134, 37.5147686 ], [ -77.404906, 37.5152767 ], [ -77.4048988, 37.5160079 ], [ -77.4042851, 37.516005 ], [ -77.4042895, 37.5157015 ], [ -77.4041447, 37.5156995 ], [ -77.4038827, 37.5156957 ], [ -77.403883, 37.5156744 ], [ -77.4041933, 37.5156773 ], [ -77.4041943, 37.5153752 ], [ -77.403884, 37.5153716 ], [ -77.4038854, 37.5152741 ], [ -77.4042302, 37.5152752 ] ] ] } }
+]
+}

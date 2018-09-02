@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-powhatans-hill-community-center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 19, "ParkName": "Powhatan's Hill Community Center", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244209396000.0, "EditBy": "waldrosr", "EditDate": 1244209396000.0, "Shape__Are": 4.188528216e-06, "Shape__Len": 0.0090808150063050007 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4084606, 37.5160188 ], [ -77.405023, 37.5160049 ], [ -77.4050547, 37.5147789 ], [ -77.40612, 37.514786 ], [ -77.4069695, 37.5147004 ], [ -77.4074936, 37.5147018 ], [ -77.4077648, 37.5147833 ], [ -77.4084805, 37.5151195 ], [ -77.4084606, 37.5160188 ] ] ] } }
+]
+}
