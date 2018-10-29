@@ -2,6 +2,8 @@
 
 [ftp://ftp.ci.richmond.va.us/GIS/](ftp://ftp.ci.richmond.va.us/GIS/)  
 pretty cool how github doesn't know about ftp...  
+[https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
+[Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
 
 ## ESRI/ArcGIS  
 ### City of Richmond  
