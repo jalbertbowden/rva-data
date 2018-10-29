@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-hotchkiss-community-center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 72, "ParkName": "Hotchkiss Community Center", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244025476000.0, "EditBy": "waldrosr", "EditDate": 1244025476000.0, "Shape__Are": 4.64827233e-06, "Shape__Len": 0.008915372718954 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4219777, 37.5698558 ], [ -77.422349, 37.5685092 ], [ -77.4250155, 37.569045 ], [ -77.4245331, 37.5706844 ], [ -77.4226337, 37.5703129 ], [ -77.4218723, 37.5702297 ], [ -77.4219777, 37.5698558 ] ] ] } }
+]
+}

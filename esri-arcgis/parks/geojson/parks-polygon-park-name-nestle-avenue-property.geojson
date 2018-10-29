@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-nestle-avenue-property",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 96, "ParkName": "Nestle Avenue Property", "ParkType": "open space", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243957295000.0, "EditBy": "waldrosr", "EditDate": 1243957295000.0, "Shape__Are": 9.3330515e-08, "Shape__Len": 0.001633186941508 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5073288, 37.4780888 ], [ -77.5076509, 37.4777083 ], [ -77.5078745, 37.4777079 ], [ -77.5077835, 37.4778413 ], [ -77.5077937, 37.4778537 ], [ -77.5078034, 37.4779018 ], [ -77.5077273, 37.4779273 ], [ -77.5076922, 37.4779758 ], [ -77.5076661, 37.4779817 ], [ -77.5076368, 37.4779883 ], [ -77.5075502, 37.4780274 ], [ -77.5075391, 37.4780843 ], [ -77.5075647, 37.4780887 ], [ -77.5075941, 37.4780937 ], [ -77.5075939, 37.4781068 ], [ -77.5073288, 37.4780888 ] ] ] } }
+]
+}

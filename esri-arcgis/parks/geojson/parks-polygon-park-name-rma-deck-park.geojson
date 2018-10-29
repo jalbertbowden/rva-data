@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-rma-deck-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 116, "ParkName": "RMA Deck Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244361648000.0, "EditBy": "waldrosr", "EditDate": 1244361648000.0, "Shape__Are": 2.31665058e-07, "Shape__Len": 0.002246463301187 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4379069, 37.5352645 ], [ -77.4381805, 37.5354295 ], [ -77.4383868, 37.535554 ], [ -77.4384699, 37.5355963 ], [ -77.438617, 37.535662 ], [ -77.4384248, 37.5358872 ], [ -77.4376964, 37.5354799 ], [ -77.4379069, 37.5352645 ] ] ] } }
+]
+}

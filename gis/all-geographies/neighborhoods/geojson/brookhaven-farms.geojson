@@ -1,0 +1,3017 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5136490403708,
+        37.4745678466359,
+        -77.5042630806108,
+        37.4822611181068
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2100 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5106167067103,
+                    37.4792940577369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Mandalay Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136490403708,
+                    37.4773525310858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136490403708,
+                    37.4773525310858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 Mandalay Road Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136490403708,
+                    37.4773525310858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2102 Mandalay Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000050607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135187989865,
+                    37.4762332871411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2102 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135187990225,
+                    37.4762332843948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2102 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000056195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5135187989865,
+                    37.4762332871411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 Mandalay Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136155434914,
+                    37.477068552649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 Mandalay Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000010011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136155434914,
+                    37.477068552649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 Mandalay Road Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000013063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5136155434914,
+                    37.477068552649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 Mandalay Road Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000078169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5134504131556,
+                    37.4768859829282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2109 Mandalay Road Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002789",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128771909217,
+                    37.4763423807735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2125 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "199490-101000057211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117753114236,
+                    37.4788773012993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2129 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000049788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130370365371,
+                    37.4781360250908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2129 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000086177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130370365371,
+                    37.4781360250908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2129 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5130370365732,
+                    37.4781360223445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2134 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000091096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132768716673,
+                    37.477644345158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "257862-101000105273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5107473189792,
+                    37.478175390869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113233456088,
+                    37.4781960479515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122074918,
+                    37.4758874110287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122075278,
+                    37.4758874082824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122075278,
+                    37.4758874082824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122075278,
+                    37.4758874082824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122075278,
+                    37.4758874082824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Mandalay Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000054548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5132122074918,
+                    37.4758874110287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000053498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125271217789,
+                    37.4776629234761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125271217429,
+                    37.4776629262224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "250494-101000100287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125231159565,
+                    37.4777108013826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Mandalay Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.512643769585,
+                    37.4761957839557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000021254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.512643769621,
+                    37.4761957812094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 Mandalay Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000072099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.512643769585,
+                    37.4761957839557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2202 Mandalay Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000077732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5129220664797,
+                    37.4755066879923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2203 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000018479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122500676287,
+                    37.4761066681567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2203 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122500676287,
+                    37.4761066681567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125533359574,
+                    37.4753295886077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125533359213,
+                    37.4753295913539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007087",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125533359574,
+                    37.4753295886077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 Mandalay Road Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5125533359574,
+                    37.4753295886077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124203718984,
+                    37.4756321967611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Mandalay Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000019498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124203718984,
+                    37.4756321967611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 Mandalay Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123823414743,
+                    37.4751374295232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000085420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123823414382,
+                    37.4751374322695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2206 Mandalay Road Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000006867",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123823414743,
+                    37.4751374295232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5104951652873,
+                    37.4782790224811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000053493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123227643826,
+                    37.4774705632055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5123227299232,
+                    37.4774705629182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011945",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122612715533,
+                    37.4754449047477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2207 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000018395",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122612715533,
+                    37.4754449047477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.511489371444,
+                    37.4779378408025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000068452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114893714801,
+                    37.4779378380562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114893714801,
+                    37.4779378380562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089878",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114893714801,
+                    37.4779378380562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2208 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114893714801,
+                    37.4779378380562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2209 Mandalay Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117084321703,
+                    37.4757909435365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2209 Mandalay Road Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000021844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117084321703,
+                    37.4757909435365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2209 Mandalay Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5117084321703,
+                    37.4757909435365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 Mandalay Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5119478631815,
+                    37.4752015476291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 Mandalay Road Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000070500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5119478631815,
+                    37.4752015476291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121509966022,
+                    37.4772976015319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510416683766,
+                    37.4777739660049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510416683766,
+                    37.4777739660049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2214 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510416683766,
+                    37.4777739660049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2216 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113882945624,
+                    37.477444469876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2221 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5119873224626,
+                    37.4771460864722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2224 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100430572551,
+                    37.4776018689855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2224 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000081767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100430572912,
+                    37.4776018662392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2224 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000099819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111943558621,
+                    37.4772489261494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2226 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000108068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122539847015,
+                    37.4766824166366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109912512736,
+                    37.477042876799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000028814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109912512736,
+                    37.477042876799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000107963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109912512736,
+                    37.477042876799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000028816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109912512736,
+                    37.477042876799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2232 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000028817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109912512736,
+                    37.477042876799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2233 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000006352",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116535728134,
+                    37.4768110622696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2233 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116535727773,
+                    37.4768110650159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2233 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000038422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116535727773,
+                    37.4768110650159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2233 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5116535728134,
+                    37.4768110622696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2235 Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000022029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094819929536,
+                    37.4778376991499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2239 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5114683799318,
+                    37.4766424067814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2245 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5112829477345,
+                    37.4764789125615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2247 Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000065222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5103463714405,
+                    37.4770121313654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2253 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000057303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111137510866,
+                    37.4762994696197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2261 Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109324837775,
+                    37.4761259983169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6117 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000073245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057434313605,
+                    37.4812027882424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6221 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000014071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080958491351,
+                    37.4805034971151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6300 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080207292609,
+                    37.4786310916104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6300 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000101796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080207292971,
+                    37.4786310888641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6301 Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000119896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090107381046,
+                    37.4773905639879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6305 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000011787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094804902362,
+                    37.480051137262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6305 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094804902362,
+                    37.480051137262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6305 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000098840",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094804902362,
+                    37.480051137262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6305 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000113328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094804902362,
+                    37.480051137262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6307 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5085192919867,
+                    37.4784105901847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6307 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000079330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5085192919867,
+                    37.4784105901847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6310 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000007439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5083988396418,
+                    37.4787114446019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6315 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000116453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5088437261777,
+                    37.4784921376644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6337 Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000108970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099792028313,
+                    37.4761872124471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6337 Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000108971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5099792028313,
+                    37.4761872124471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6345 Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000000618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100702076787,
+                    37.4759784996892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6347 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.509857997242,
+                    37.4787194402165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6349 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510319611494,
+                    37.4799449618822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6357 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101632475955,
+                    37.4790569475613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6400 Shadybrook Lane Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113723565565,
+                    37.4755128383169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000044155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000050007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000090892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000104435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5120102617508,
+                    37.4784749705264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6401-6413 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "217553-101000071279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5113044481021,
+                    37.4798018414592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6402 Shadybrook Lane Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115867717353,
+                    37.4751331581061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "254324-101000103035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122415044531,
+                    37.4780241010508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122450307176,
+                    37.4780258882659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000072379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122450307176,
+                    37.4780258882659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000103388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5122450307176,
+                    37.4780258882659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 Shadybrook Lane Rear",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000001723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109376011771,
+                    37.4749293316866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417-6499 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "235913-101000087112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128803759285,
+                    37.4776361938652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417-6499 Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "280911-101000118501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5124931302866,
+                    37.4780917104522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6441 Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000031800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109261562521,
+                    37.4745678466359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000097687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000106098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109978081943,
+                    37.478266482693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Kirby Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000093013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109978081943,
+                    37.478266482693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookhaven Road @ Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095017621623,
+                    37.4775062260799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bywood Lane @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000111476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bywood Lane @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000025167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bywood Lane @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bywood Lane @ Elk Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000089924",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bywood Lane @ Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5109477706011,
+                    37.4756001890057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000092229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000008556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000067173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000112043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Bywood Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000115448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5128628507548,
+                    37.4776217958243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042630806108,
+                    37.4822611181068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000097686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127040685122,
+                    37.4794634944126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5127040685122,
+                    37.4794634944126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Elkhardt Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.510612478226,
+                    37.4800506000621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6417 A Shadybrook Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5111748509511,
+                    37.4747762241945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6402 Shadybrook Lane Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5115867717353,
+                    37.4751331581061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elk Road @ Brookhaven Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000120869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5121488397265,
+                    37.4787951906984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6324 Elkhardt Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000122465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089102471029,
+                    37.4789180925449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6117 Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Brookhaven Farms",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000124005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5057434313605,
+                    37.4812027882424
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

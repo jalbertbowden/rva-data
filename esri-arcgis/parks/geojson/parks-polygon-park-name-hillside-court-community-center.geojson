@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-hillside-court-community-center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 17, "ParkName": "Hillside Court Community Center", "ParkType": "community center", "ParkOwner": "RRHA", "ParkMainta": "RRHA", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244019280000.0, "EditBy": "waldrosr", "EditDate": 1244019280000.0, "Shape__Are": 7.0480389e-07, "Shape__Len": 0.0037905024274120002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4344949, 37.5039196 ], [ -77.4339449, 37.5039487 ], [ -77.4339192, 37.5036345 ], [ -77.4333742, 37.5036596 ], [ -77.4333359, 37.5031774 ], [ -77.4344309, 37.5031233 ], [ -77.4344949, 37.5039196 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-moore-st-tot-lot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 152, "ParkName": "Moore St Tot Lot", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244117595000.0, "EditBy": "waldrosr", "EditDate": 1244117595000.0, "Shape__Are": 1.42432833e-07, "Shape__Len": 0.0015691879862299999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4580786, 37.5605875 ], [ -77.4582886, 37.5603689 ], [ -77.4586992, 37.560619 ], [ -77.4584926, 37.5608383 ], [ -77.4580786, 37.5605875 ] ] ] } }
+]
+}

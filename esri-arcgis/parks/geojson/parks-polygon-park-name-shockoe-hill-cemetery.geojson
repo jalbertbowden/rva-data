@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-shockoe-hill-cemetery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 98, "ParkName": "Shockoe Hill Cemetery", "ParkType": "cemetery", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": null, "CreatedDat": null, "EditBy": null, "EditDate": null, "Shape__Are": 5.217306792e-06, "Shape__Len": 0.0092219394246200008 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4320366, 37.550164 ], [ -77.4337536, 37.5511998 ], [ -77.4319814, 37.553077 ], [ -77.4302849, 37.5520509 ], [ -77.430241, 37.5519846 ], [ -77.431877, 37.5502265 ], [ -77.4320366, 37.550164 ] ] ] } }
+]
+}

@@ -1,0 +1,5216 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4508758097528,
+        37.552752572379,
+        -77.4364286750603,
+        37.5639315085368
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1104-1198 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204710-101000061307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435577355183,
+                    37.5564804072395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1104-1198 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204709-101000061308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4438400163071,
+                    37.5565414426619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1109 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204705-101000061305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431686429871,
+                    37.5561790461165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1109 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "198119-101000056034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434545760118,
+                    37.5562624005562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1109 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204707-101000061306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4436187754142,
+                    37.5563545217315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1109 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204711-101000061309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437255749263,
+                    37.55637740987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000053273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4432640549887,
+                    37.5544232886045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204703-101000061304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4432067811426,
+                    37.5563201908184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "267557-101000110585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4432988992799,
+                    37.5564989993969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201-1399 Sledd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "217851-101000071458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439254047149,
+                    37.5593327273218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1204 Oak St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204712-101000061310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4430236943024,
+                    37.5569381702928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1205 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000001179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.447327171653,
+                    37.558708982561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1205 W Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000001618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435287655727,
+                    37.5574171959692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 A School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000013201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489222001325,
+                    37.5581025512706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "279806-101000117755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.447877016859,
+                    37.5580035990631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "281332-101000118945",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.447877016859,
+                    37.5580035990631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000117279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475902066406,
+                    37.5582161143039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 School St Ste 5",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000000379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475902066406,
+                    37.5582161143039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1219 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000100491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443308530964,
+                    37.5544546770904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000098455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496173970623,
+                    37.5586692300574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000117637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496173970623,
+                    37.5586692300574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000117653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496173970623,
+                    37.5586692300574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000119929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496173970623,
+                    37.5586692300574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Lombardy Ave (Alley)",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "202752-101000059813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4507642089635,
+                    37.55987429929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4440917815783,
+                    37.5560512993683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000001419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4425430171454,
+                    37.5563368032054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000072652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4447905638454,
+                    37.5561793460353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000107454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4426298610446,
+                    37.5570497506103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003871",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4391703757612,
+                    37.5563780884354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000064610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4412007621916,
+                    37.556604723915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4412007621916,
+                    37.556604723915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Us-301",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204706-101000061302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4424209510554,
+                    37.5569648729766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000077714",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4443169197445,
+                    37.5562972665567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Fendall Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4377307661739,
+                    37.5561102870603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Sledd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000068709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.444709713905,
+                    37.5577824921447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501-1505 High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204713-101000061311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4433596514604,
+                    37.5565800944306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1503 Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000018800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.444363019948,
+                    37.5563727787167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1504 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000078577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4412637425307,
+                    37.556782189031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000049833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445071869515,
+                    37.5564985386063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445071869515,
+                    37.5564985386063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000115049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445071869515,
+                    37.5564985386063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000115101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445071869515,
+                    37.5564985386063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "204704-101000061303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4442367698466,
+                    37.5565261839825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000101054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435866948394,
+                    37.5570070722828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Webster St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000092439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446178301687,
+                    37.55634941922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000002701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421653623321,
+                    37.5570026103948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000007219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421653623321,
+                    37.5570026103948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000021712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421653623321,
+                    37.5570026103948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000064398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421653623321,
+                    37.5570026103948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1509 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000107999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421653623321,
+                    37.5570026103948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1510 Webster St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446559356728,
+                    37.5567451528502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1512 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "226601-101000078691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455995425749,
+                    37.5573375152658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1512 Fendall Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000034832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4380394460974,
+                    37.556807628216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1513 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000049944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387346053634,
+                    37.5568890965712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010793",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421307222863,
+                    37.5571522686471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275641-101000114767",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4386764981324,
+                    37.5569825992834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1521 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000105736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.444931677554,
+                    37.5569772364962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1529 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000051902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4452120135294,
+                    37.5573097809283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1529-1599 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "244061-101000095048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4453009207113,
+                    37.5572826942566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1532 High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "256455-101000104252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4443766104301,
+                    37.5574388998395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1532 High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000063291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4442590184652,
+                    37.5574719431342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1535 High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000007185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4441484126719,
+                    37.5576977493535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000113692",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4430037464919,
+                    37.5577873720786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "261110-101000106933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408979111054,
+                    37.5576338004969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "261114-101000106951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408979111054,
+                    37.5576338004969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275632-101000114764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408979111054,
+                    37.5576338004969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275635-101000114762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408979111054,
+                    37.5576338004969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275636-101000114763",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408979111054,
+                    37.5576338004969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000020984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409014836934,
+                    37.557642239605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409014836934,
+                    37.557642239605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000040633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455134220456,
+                    37.5577290613761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000114386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455134220456,
+                    37.5577290613761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275644-101000114778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4386204924542,
+                    37.5576015008416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Brookfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275661-101000114782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404601852104,
+                    37.5578139997394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000038690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413010187047,
+                    37.5579173508876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Brookfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000082891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4400961109586,
+                    37.5575688790646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275645-101000114777",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4386205148165,
+                    37.557724499958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000096495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4385850233588,
+                    37.5577409417424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Fendall Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000030776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4381366769399,
+                    37.5578519340995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000004510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408810745484,
+                    37.5579838987833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000070594",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4429814619089,
+                    37.5588394708529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000073835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387265737949,
+                    37.5582518234675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "265541-101000109263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4497375844632,
+                    37.5609807985633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000094151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384794269293,
+                    37.5582190421169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Hickory St Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384794269293,
+                    37.5582190421169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Hickory St Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384794269293,
+                    37.5582190421169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000083340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387240369349,
+                    37.5583093108426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "193793-101000052688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459910147824,
+                    37.5594209998156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Hickory St Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000077161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384725532072,
+                    37.558263581864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Hickory St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000042766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384725532072,
+                    37.558263581864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Hickory St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000089267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384725532072,
+                    37.558263581864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "276616-101000115261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469840918608,
+                    37.5590959273292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Hickory St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000001313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384712130204,
+                    37.5583340354403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Hickory St Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000096499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384712130204,
+                    37.5583340354403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1706 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000076801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387222996567,
+                    37.5584323298941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000000138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000001513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000033582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000086151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418269709084,
+                    37.5592016092778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000096912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387083250207,
+                    37.5585155270053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 Hickory St Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000063230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4384598077778,
+                    37.558457577677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000095619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406961443828,
+                    37.558880303654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000074659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387097680484,
+                    37.558562368652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Brookfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000036803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.440334714364,
+                    37.5590099882613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000070157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387136009636,
+                    37.5586574089757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Brookfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000018398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4403454568195,
+                    37.5591583404046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000000068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387068173162,
+                    37.558695577534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000079646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387068173162,
+                    37.558695577534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Hickory St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000091179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4387013522503,
+                    37.5588382587422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000023698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4467581819176,
+                    37.5605162025477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009911",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000011189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000011687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000013304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000013405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000013761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054475,
+                    37.5591400886373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000016529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000016533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000016650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000016850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4499267054859,
+                    37.5591400858911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000002241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243806,
+                    37.5592856585249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000011688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243422,
+                    37.5592856612711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000015208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500582243806,
+                    37.5592856585249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000010127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502095055279,
+                    37.559444103255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502095055279,
+                    37.559444103255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502095055279,
+                    37.559444103255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000013408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502095055279,
+                    37.559444103255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Currie St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502095055279,
+                    37.559444103255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1908 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000009475",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4429489809314,
+                    37.5609818837882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2004 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480039611985,
+                    37.5607158417344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2004 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000014869",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480039611985,
+                    37.5607158417344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2005 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000040061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4425341771947,
+                    37.5615279075217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "211821-101000066859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480921028702,
+                    37.5608176005062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000023721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480291563305,
+                    37.5608261084695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006-2298 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "264680-101000108963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481824931388,
+                    37.5624743620782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000011406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475520795622,
+                    37.5611356821997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000018864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475520795622,
+                    37.5611356821997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000018867",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475520795622,
+                    37.5611356821997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2009 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000000766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406373511297,
+                    37.5614455052281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2009 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000064393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406373511297,
+                    37.5614455052281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2009 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000114273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4406373511297,
+                    37.5614455052281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2011 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000007204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4426690310004,
+                    37.5620806611458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2015 Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "194016-101000052830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405696124653,
+                    37.5618182991181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 Brook Road Apt 108",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000083326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475738483613,
+                    37.5620325520313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 Brook Road Apt 108",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000116078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475738483613,
+                    37.5620325520313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2032 Chamberlayne Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000083102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435147846082,
+                    37.5624732597848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2131 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "267039-101000110125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483337497808,
+                    37.5622452105585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000040980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421602355312,
+                    37.5626266062162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000101349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4420610277886,
+                    37.5631397433981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2211 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000101350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4420610277886,
+                    37.5631397433981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2219 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000075613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421312036506,
+                    37.5635516816295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2219 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "219168-101000072540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4420716000545,
+                    37.5635626991529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000098113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.438490835676,
+                    37.5594557165875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000031212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.438490835676,
+                    37.5594557165875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 W Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275643-101000114776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408009021374,
+                    37.559270999905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500-512 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "225173-101000077504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4400230159792,
+                    37.5594197510579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "501 W Bacon St Apt 5304",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000052273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4392327765371,
+                    37.5558361142778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "501 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4390536185045,
+                    37.558040615024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "501 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4390536185045,
+                    37.558040615024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "502 W Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275639-101000114766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408009021374,
+                    37.559270999905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "504 W Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000035552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394279280039,
+                    37.5564040841081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "505 W Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275637-101000114765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408009021374,
+                    37.559270999905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511 W Bacon St Apt 4302",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000086457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4397344668343,
+                    37.555823847344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "511 W Bacon St Apt 4305",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000041348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4397344668343,
+                    37.555823847344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000072741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4405635212182,
+                    37.5591790313412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "275665-101000114783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408009021374,
+                    37.559270999905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "515 Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "195511-101000053882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408009021374,
+                    37.559270999905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "520 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000032917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408228649772,
+                    37.558547441115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "520 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000032918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408228649772,
+                    37.558547441115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "520 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000058265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408228649772,
+                    37.558547441115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "521 W Bacon St Apt 3110",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000085422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.440160193984,
+                    37.5558748583544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "521 W Bacon St Apt 3305",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000007618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.440160193984,
+                    37.5558748583544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "531 W Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000099200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4407571685933,
+                    37.5560365924777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Wickham St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000112849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4396151085869,
+                    37.5634102677686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Wickham St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "208473-101000064483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394197040589,
+                    37.5634504409227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "602 W Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000053025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4414074794052,
+                    37.5565781399967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "602 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000058754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413428106043,
+                    37.5585606040587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "602 W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "201189-101000058557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.441336613206,
+                    37.5585645998937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "603 W Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000109984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.441453229244,
+                    37.5572735197834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Wickham St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000043026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4401564431247,
+                    37.5634675963673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 W Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000077437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44174654471,
+                    37.5558258230862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 W Bacon St Apt 1308",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000081842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44174654471,
+                    37.5558258230862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Wickham St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000005624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4407009380711,
+                    37.5633962419188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Mitchell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000107827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.440925224406,
+                    37.5552990727769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Wickham St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000107770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413665941243,
+                    37.5636196084691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Dawn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000011201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4410671007013,
+                    37.5621976357423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Dawn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000025307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4410671007013,
+                    37.5621976357423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "708 Dawn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000113214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418974025923,
+                    37.5622071071256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "710 Dawn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000003785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421664914293,
+                    37.5622091617632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "711 Dawn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000028895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4420008339629,
+                    37.5619380001739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "801 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000067422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4429080401452,
+                    37.5542703867994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "252296-101000101897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4436706618328,
+                    37.5530852307465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000035011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000082614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000085951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000086147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000086896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000087542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000087723",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000088425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000091092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000091406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000094209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000095485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000099669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437299317205,
+                    37.554363928334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "950 Sledd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000082774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4466601968129,
+                    37.5572622465594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000095002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000045903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belvidere St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000102639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437087658794,
+                    37.552752572379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brook Road @ Roberts St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000018856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481039720786,
+                    37.5624122884937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brook Road @ School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000092838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469096908942,
+                    37.5597668227874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookfield St @ Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000022085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404698600054,
+                    37.5571693795045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookfield St @ Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000023926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404698600054,
+                    37.5571693795045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookfield St @ Fritz St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000061435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4404698599667,
+                    37.5571693822507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Brookfield St @ W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "227168-101000079490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4402792434407,
+                    37.5583098027818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Mitchell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000073302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4418052591907,
+                    37.5554168908187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000114179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4426534502738,
+                    37.5608683048994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Currie St @ Admiral St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000012929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502839419595,
+                    37.5597243993286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dawn St @ Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000104751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423564860147,
+                    37.5620725539402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fendall Ave @ Bacon St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000029430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4378866762935,
+                    37.5560951521819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "High St @ Sledd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000072495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445773840489,
+                    37.5580100252439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Admiral St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000087349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4508758097528,
+                    37.5598058539643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oak St @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000077881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423418071283,
+                    37.55686935606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roane St @ School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408875126784,
+                    37.5593386081036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roberts St @ Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000073033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480359886224,
+                    37.5624108120339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "School St @ Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000069207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469096908942,
+                    37.5597668227874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "School St @ Roane St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000083454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4408875126784,
+                    37.5593386081036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sledd St @ High St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "233942-101000085259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445773840489,
+                    37.5580100252439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tazewell St @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000063743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44258300186,
+                    37.5608851859828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Tyler St @ W Fells St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000111543",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4394432463755,
+                    37.5582326733187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wickham St @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000074176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4438048101866,
+                    37.5639315085368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Yancey St @ Greenwood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000051215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4364286750603,
+                    37.5599676035221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000064208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4430037464919,
+                    37.5577873720786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Tyler St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000121671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4391810801567,
+                    37.5584548864211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000120457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483435086476,
+                    37.5589666375142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ School St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000122539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.442515022756,
+                    37.5593781048438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1505 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000122915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4445071869515,
+                    37.5564985386063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "School St @ Sledd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000123034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439360930897,
+                    37.5597358541279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2203 Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "284157-101000121503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481577835557,
+                    37.5627336010153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2205 Tazewell St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Chamberlayne Industrial Center",
+                "PRECINCT": "4",
+                "NSA": "North-3"
+            },
+            "id": "101000125229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421602355312,
+                    37.5626266062162
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

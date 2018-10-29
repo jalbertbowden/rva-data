@@ -1,0 +1,3896 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4502464794364,
+        37.5882521000272,
+        -77.4454166311144,
+        37.602272630952
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "17 Ymca Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "197147-101000054998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463622998569,
+                    37.5932250997526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3900 Old Brook Cir Apt 209",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000118735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4468135696846,
+                    37.5885574957262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3901 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000069249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475397107905,
+                    37.588464345548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3905 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000096802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4476952505002,
+                    37.5887562424609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3905 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "281425-101000119096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.447946352023,
+                    37.5887802496182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Chamberlayne Ave Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000106573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477509931541,
+                    37.5890887485528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000005806",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455144856604,
+                    37.588527844576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000056776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.445514485699,
+                    37.5885278418298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000076131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455144856604,
+                    37.588527844576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "198146-101000056064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4454949152267,
+                    37.5885279013202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3915 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000105234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477790211293,
+                    37.5894384904324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3915 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000076529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455139007734,
+                    37.5887563755354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3917 Chamberlayne Ave Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000004414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478371507229,
+                    37.5896006448267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3917 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000022712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455429280888,
+                    37.5888374694754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3919 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000004400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477962585848,
+                    37.5897750273772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3919 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000004401",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477962585848,
+                    37.5897750273772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3919 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000017675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477962585848,
+                    37.5897750273772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3923 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000018739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478961448179,
+                    37.5900904541617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3923 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000030292",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4454166311144,
+                    37.5891699707125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3925 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000000761",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479112338557,
+                    37.5901910670349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3925 Chamberlayne Ave Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000000568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479112338557,
+                    37.5901910670349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3927 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000102994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44542829773,
+                    37.5893223531108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3931 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000007584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479492587159,
+                    37.5906107911177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3931 Chamberlayne Ave Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000019530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479492587159,
+                    37.5906107911177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3933 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000002322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4456254176541,
+                    37.5896637001248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3935 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000002069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479994553673,
+                    37.5909476202157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3935-3941 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "249590-101000099734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4482286668372,
+                    37.5913399728534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3937 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000010583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478815839726,
+                    37.5911300567911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3939 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000005799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478353606749,
+                    37.5912956553077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3939 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000005800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478353606749,
+                    37.5912956553077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3939 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000055499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459086422333,
+                    37.5896492600015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3939 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000071104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459086422333,
+                    37.5896492600015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3939 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000083705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459086422333,
+                    37.5896492600015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3941 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000064350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4460773198461,
+                    37.5894891088588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3943 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000000764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481220094624,
+                    37.5916040013334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3947 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000042659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4460624532928,
+                    37.5893187028413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3949 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000001058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459491284881,
+                    37.5891228488067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000110442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4467424136307,
+                    37.5896175550356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4006 Old Brook Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000039146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4467740387005,
+                    37.5898310462421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4011 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000051224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4457751649196,
+                    37.5899351385626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4012 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000050462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4468222027935,
+                    37.5901548805507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4016 Old Brook Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000056930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4468429258194,
+                    37.5902868238212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4027 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000014650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4454271652291,
+                    37.5901823807847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4100 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000111100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4470223991388,
+                    37.591368149266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4102 Old Brook Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "270566-101000111967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473880397329,
+                    37.591268459703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4103 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000102015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463691353196,
+                    37.5909512924552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4106 Old Brook Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000116286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473456093264,
+                    37.5913997655641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4107 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000053637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4462520130195,
+                    37.5909693240723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4117 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000078807",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.445753135683,
+                    37.5910793313901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4121 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000077074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4455730990324,
+                    37.5910968059659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4137 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000106982",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459222742518,
+                    37.59162203257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4139 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000055387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458589249412,
+                    37.5916524642658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4200 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000104466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4472552038479,
+                    37.5919545367529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4200 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000106476",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4472552038479,
+                    37.5919545367529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4205 Chamberlayne Ave Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000001841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478561389398,
+                    37.5921901753329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4205 Chamberlayne Ave Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000001842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478561389398,
+                    37.5921901753329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4207 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000022446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479528963797,
+                    37.592332468659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4207 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000105152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4468951711355,
+                    37.5922325364206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4207 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "205399-101000061955",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4465298029139,
+                    37.5923074999073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000067577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448337441275,
+                    37.5927860094599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000067579",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448337441275,
+                    37.5927860094599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000085438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448337441275,
+                    37.5927860094599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000090977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448337441275,
+                    37.5927860094599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000120103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483374757871,
+                    37.5927860097658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4215 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000120105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483374757871,
+                    37.5927860097658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4216 Old Brook Road Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000001708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477521094584,
+                    37.5928602460461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4216 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000014278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477521094584,
+                    37.5928602460461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4217 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "225908-101000078301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483031899569,
+                    37.5929717007056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4222 Old Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000019846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477426811491,
+                    37.5934100887493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4222 Old Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000095782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477426811491,
+                    37.5934100887493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4223 Chamberlayne Ave Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000004647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484514306357,
+                    37.5934308170085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4223 Chamberlayne Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000002657",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484514306357,
+                    37.5934308170085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4223 Chamberlayne Ave Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000002658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484514306357,
+                    37.5934308170085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4224 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "269710-101000111615",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475962105455,
+                    37.5936059078156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4224 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000003555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478444488849,
+                    37.5935619515083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4224 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000007507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478444488849,
+                    37.5935619515083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4224 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000007509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478444488849,
+                    37.5935619515083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4224 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000021097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478444488849,
+                    37.5935619515083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4225 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000004563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484801402471,
+                    37.5935990683314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4225 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000111478",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484801402471,
+                    37.5935990683314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4225 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "269773-101000111620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463930166264,
+                    37.5948764999914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4227 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000001926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485089474005,
+                    37.5937603608036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4227 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000016622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485089474005,
+                    37.5937603608036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4227 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000020105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485089474005,
+                    37.5937603608036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4227 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000111101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485089474005,
+                    37.5937603608036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4228 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "269848-101000111690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477922122697,
+                    37.5943907994533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4231 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000098426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485648817309,
+                    37.594079695407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4232 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000082084",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479259536217,
+                    37.5942709131373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4233 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000022659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485920737847,
+                    37.5942331019765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4233 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000022662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485920737847,
+                    37.5942331019765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4233 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000067123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485920737847,
+                    37.5942331019765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4233 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000089727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485920737847,
+                    37.5942331019765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4233 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000080556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485920737847,
+                    37.5942331019765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000108174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4482286344596,
+                    37.5946750842593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4300 Old Brook Road Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000000782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4482286344596,
+                    37.5946750842593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4301 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000100886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485378836668,
+                    37.5946447847692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4302 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000011932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481798223348,
+                    37.5948233292474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4302 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000018274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481798223348,
+                    37.5948233292474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4302 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000018802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481798223348,
+                    37.5948233292474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4305 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000095856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487365972338,
+                    37.5949087951216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4305 Chamberlayne Ave Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000006291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487365971954,
+                    37.5949087978678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4307 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000095860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487585921492,
+                    37.5951918932336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4307 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000100483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487585921492,
+                    37.5951918932336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000009441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483317180228,
+                    37.5956527261069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4310 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000016781",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483317180228,
+                    37.5956527261069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4312 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000003579",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484863960333,
+                    37.5957263692315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4312 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000010729",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484863960333,
+                    37.5957263692315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000086160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484131452774,
+                    37.5961704704267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000086162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484131452774,
+                    37.5961704704267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000110560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484131452774,
+                    37.5961704704267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4316 Old Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000004798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484131452774,
+                    37.5961704704267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4318 Old Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000098810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484222200555,
+                    37.5964493204814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4319 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000098021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4319 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000098026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4319 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000030404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4319 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000102186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4319 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000119635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4320 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000092052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484430872983,
+                    37.5965811491581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4321 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000007646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489888557049,
+                    37.5965266136285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4321 Chamberlayne Ave Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000023062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489888211527,
+                    37.5965266160689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4324 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000117365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4485767770243,
+                    37.5969953235606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4515 North Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "268472-101000111024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446335404344,
+                    37.5883535025575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4800 Old Brook Road Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000024321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4486335884289,
+                    37.5976911455361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4802 Old Brook Road Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000009438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4486795458418,
+                    37.5978825598475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4802 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000007074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4486795458418,
+                    37.5978825598475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4803 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000033041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492124904832,
+                    37.5978175908959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4804 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000091544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.448693166651,
+                    37.5980685268766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4807 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000116648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4493097749856,
+                    37.5982856472577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4809 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000001024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4491785920827,
+                    37.5983851537944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4809 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000023069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4491785920827,
+                    37.5983851537944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4810 Old Brook Road Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000014185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489670848115,
+                    37.5986646314742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4810 Old Brook Road Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000050311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489670848115,
+                    37.5986646314742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4810 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000020933",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489670848115,
+                    37.5986646314742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4811 Chamberlayne Ave Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000003581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492302080129,
+                    37.5986385685569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4812 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000095267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4488359369198,
+                    37.5987615562105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4813 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000087318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.449385037409,
+                    37.598701890299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4815 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000033774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494298044699,
+                    37.5989810561288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4817 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000045814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433912294,
+                    37.5991696044352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4817 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000045815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433912294,
+                    37.5991696044352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4817 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000006782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433912294,
+                    37.5991696044352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4817 Chamberlayne Ave Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000018418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433912294,
+                    37.5991696044352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4817 Chamberlayne Ave Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000019257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494433912294,
+                    37.5991696044352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4818 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000094357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489468781037,
+                    37.5994129983028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4818 Old Brook Road Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000015519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489468780652,
+                    37.599413001049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000074499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490320106707,
+                    37.5999008950557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4900 Old Brook Road Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000033215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490320106707,
+                    37.5999008950557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4901 Chamberlayne Ave Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000082498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494503693608,
+                    37.5999367619415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4904 Old Brook Road Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000021658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490988694955,
+                    37.6002614932786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4905 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000014450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.449494643496,
+                    37.6001994111954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4905 Chamberlayne Ave Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000017600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.449494643496,
+                    37.6001994111954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4907 Chamberlayne Ave Apt 3",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000038283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4495902325498,
+                    37.6004755716979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4915 Chamberlayne Ave Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000020959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4497147553771,
+                    37.6012105036431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4918 Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "225899-101000078278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4493200156831,
+                    37.601242699756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4929 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000075371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4497982376884,
+                    37.601550295255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000094850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500106304714,
+                    37.6022597421592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5201 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000025222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4500106304714,
+                    37.6022597421592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000085488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496738739511,
+                    37.602272630952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000095638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496738739511,
+                    37.602272630952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000096439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496738739511,
+                    37.602272630952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000097690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4496738739511,
+                    37.602272630952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 Watkins St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000090921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490813034437,
+                    37.5995432509604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 Watkins St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000110440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490813034437,
+                    37.5995432509604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 Watkins St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000113672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4490813034437,
+                    37.5995432509604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Azalea Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000044927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Azalea Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000073779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Azalea Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000084835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Azalea Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000105985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000043860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000056964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000064468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000115058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000115598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000119138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4502464794364,
+                    37.6018840478039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Bellevue Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000024224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484806436035,
+                    37.5914598870983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ North Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000032011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ North Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000032016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Watkins St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000024223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4498665690047,
+                    37.5996184770557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Westminster Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000088526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489731050162,
+                    37.5943639500342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Westminster Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000088526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489731050162,
+                    37.5943639500342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Westminster Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000089677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489731050162,
+                    37.5943639500342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chamberlayne Ave @ Westminster Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000089677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4489731050162,
+                    37.5943639500342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000075612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000091660",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000106571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000112914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000113450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4479345933437,
+                    37.5882521000272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000037735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463430505999,
+                    37.5883324908421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North Ave @ Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000037735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463430505999,
+                    37.5883324908421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Old Brook Cir @ Old Brook Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000008091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463819908319,
+                    37.5909673941823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Old Brook Road @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000116889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492163919763,
+                    37.6020145764646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Old Brook Road @ Westbrook Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000027444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483546578076,
+                    37.5974041773752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Old Brook Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000122399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4467424136307,
+                    37.5896175550356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4217 Chamberlayne Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-2"
+            },
+            "id": "101000123570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483634903857,
+                    37.5929322320744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "John Marshall",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000124116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473910216012,
+                    37.5963267553326
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

@@ -1,0 +1,3474 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5101991886853,
+        37.4822611181068,
+        -77.5034725366416,
+        37.4900903908065
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000027010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5044137953452,
+                    37.4889438231543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000093977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101068884825,
+                    37.4871223940551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101068884825,
+                    37.4871223940551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1413 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.506676233067,
+                    37.4889569150421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1413 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.506676233067,
+                    37.4889569150421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1413 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "197633-101000055580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066759906542,
+                    37.4889570008999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067134885187,
+                    37.488745853886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5067134885187,
+                    37.488745853886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000097631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055688715178,
+                    37.4885601877759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000000257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059006991351,
+                    37.4882966264746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1424 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "218072-101000071513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059250965311,
+                    37.4883022996275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000089899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000036127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000060508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068637980689,
+                    37.4885505692681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "197059-101000054905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068635855898,
+                    37.4885509986989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1431 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000018734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053051715082,
+                    37.488134062241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1431 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000021779",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053051715082,
+                    37.488134062241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1435 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039370212053,
+                    37.4879473875415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "210634-101000066343",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047043872969,
+                    37.4873451988802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000088743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047086213374,
+                    37.48734561348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000108646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047086213374,
+                    37.48734561348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000115953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047086213374,
+                    37.48734561348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000067073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080529962088,
+                    37.4869867817164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5080529962088,
+                    37.4869867817164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055232636647,
+                    37.4865296882631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5075908722361,
+                    37.4868758031527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000010259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063640176837,
+                    37.4866998402771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000098892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063640176837,
+                    37.4866998402771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063640176837,
+                    37.4866998402771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000014098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5038399448115,
+                    37.4861812156372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000081463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5038399448115,
+                    37.4861812156372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "199551-101000057255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053182828274,
+                    37.4862666993773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039256228762,
+                    37.4859631163913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5039256228762,
+                    37.4859631163913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000104091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069091494851,
+                    37.4865121978626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000109182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069091494851,
+                    37.4865121978626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055798151602,
+                    37.4862644510851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000016831",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5077735622691,
+                    37.4864463135738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000113629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5077735622691,
+                    37.4864463135738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000010947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065336989648,
+                    37.4862328103588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000011614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065336989648,
+                    37.4862328103588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065336989648,
+                    37.4862328103588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000034243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.507031315477,
+                    37.4861847563279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1618 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045245301065,
+                    37.4856786478607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1618 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045245301065,
+                    37.4856786478607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000007068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066255293505,
+                    37.485997160771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066255293505,
+                    37.485997160771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "198752-101000056434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040602988687,
+                    37.4855560004339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "199549-101000057253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5040602988687,
+                    37.4855560004339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1624 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000054545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505757724841,
+                    37.4857671196465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000070369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041510343007,
+                    37.4853671368825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000026499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000033403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000098464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053029169697,
+                    37.4856380193518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1628 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000072912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046280319175,
+                    37.4854053214216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1628 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000087539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046280319175,
+                    37.4854053214216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1628 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000092755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046280319175,
+                    37.4854053214216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1628 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000107178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046280319175,
+                    37.4854053214216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000032656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508500099768,
+                    37.4859702355476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "199550-101000057254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053701088138,
+                    37.485436100484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053778667377,
+                    37.4854437022238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053778667377,
+                    37.4854437022238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053778667377,
+                    37.4854437022238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053778667377,
+                    37.4854437022238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000050848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053778667377,
+                    37.4854437022238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1632 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000046953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5058523258827,
+                    37.4855201724899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1637 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000049121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042859556798,
+                    37.4849595365568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1640 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000086546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059189837819,
+                    37.4852776846654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1640 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "226969-101000080321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5059489858258,
+                    37.4852843002401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000053526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5043769537144,
+                    37.4847715676646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000015082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055261771005,
+                    37.4850448317161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055261771005,
+                    37.4850448317161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000037468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055261771005,
+                    37.4850448317161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1648 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000017678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5074373129042,
+                    37.4852201861231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1648 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000008739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5049075564924,
+                    37.484681068611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1648 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000014991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5049075564924,
+                    37.484681068611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1648 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000105293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5049075564924,
+                    37.484681068611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1654 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000105690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5049691003015,
+                    37.4845100975971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1665 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000064556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046730409324,
+                    37.4839937946491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1666 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000020755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051437974049,
+                    37.4840706404946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1666 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051437974049,
+                    37.4840706404946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1666 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051437974049,
+                    37.4840706404946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1677 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000054345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5048919402396,
+                    37.4836156365685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1677 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000056817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5048919402396,
+                    37.4836156365685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1677 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5048919402396,
+                    37.4836156365685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1680 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000039613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5054271617063,
+                    37.4837616817443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1680 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5054271617063,
+                    37.4837616817443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5906 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000059150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034725366416,
+                    37.4865133560779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5906 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000061185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5034725366416,
+                    37.4865133560779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5913 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000003348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5035540536743,
+                    37.4872521893762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5925 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000052858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5041371507777,
+                    37.4872802379185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5944 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "240033-101000091282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5038456622183,
+                    37.4826365484436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6000 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045196852114,
+                    37.4825468644319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6000 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045196852114,
+                    37.4825468644319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6000 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000102941",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045196852114,
+                    37.4825468644319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6001 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000046605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.504890536252,
+                    37.482348669968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6003-6099 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "228114-101000080886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.505911677068,
+                    37.4832745811543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000004391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000004679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000033948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000035908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000047661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6008 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000006937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046512455369,
+                    37.4827860954545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6008 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000009512",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046512455369,
+                    37.4827860954545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6012 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000114188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045873395359,
+                    37.4867666107438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6021 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "226971-101000080323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053819915319,
+                    37.4829316001182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6021 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053661762898,
+                    37.482946900343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6028 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000055358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5051945529696,
+                    37.4834304826912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6100 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000081757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053005448469,
+                    37.4869173898172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6100 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000090143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053005448469,
+                    37.4869173898172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6100 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000095108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5053005448469,
+                    37.4869173898172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6101 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5056231294713,
+                    37.4875611704315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6106 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000051843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055498198554,
+                    37.4869638590166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6113 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5061145352822,
+                    37.4876682357583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6118 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000092654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066103481204,
+                    37.4897619956127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6119 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5063672543165,
+                    37.4877151385924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6124 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000077874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066044174085,
+                    37.4881465626011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6124 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000098335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066044173723,
+                    37.4881465653474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6124 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5066044174085,
+                    37.4881465626011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6130 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000056994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5065615300432,
+                    37.4871554945224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6131 Ullswater Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "220450-101000073374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069267929181,
+                    37.4878153012905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6136 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000094467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5068142440439,
+                    37.4872026682886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6142 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000091890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070824294202,
+                    37.4872528248772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6142 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000022143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5070824294202,
+                    37.4872528248772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6144 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000075587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5069060135403,
+                    37.4850187791556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6145 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000014887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5071455957674,
+                    37.4845039670436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5087730041098,
+                    37.4871582043038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6217 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5087730041098,
+                    37.4871582043038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6229 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000112371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508739002751,
+                    37.4849623194023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6229 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000044942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.508739002751,
+                    37.4849623194023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6232 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000063664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5087118110213,
+                    37.4854277049344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6235 Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000002709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5095122473131,
+                    37.4872747227556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6235 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000038937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090019698397,
+                    37.4850365594643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6235 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000067022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090019698397,
+                    37.4850365594643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6308 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000048555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5094349936398,
+                    37.4865034597062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6309 A Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000097703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100326978004,
+                    37.4857067448876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6309 A Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000025715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5100326978004,
+                    37.4857067448876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6309 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5097474234324,
+                    37.4861878756874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bolton Road @ Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000111488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5077717808545,
+                    37.4871693095489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Daytona Dr @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000033906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101991886853,
+                    37.4876256343232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Daytona Dr @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101991886853,
+                    37.4876256343232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Daytona Dr @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000104057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101991886853,
+                    37.4876256343232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "209764-101000065503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.507326604846,
+                    37.4848336997487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hey Road @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000079168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5042630806108,
+                    37.4822611181068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stansbury Ave @ Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000028711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5046287008009,
+                    37.4892255350606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wheaton Road @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000032920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5091913538941,
+                    37.4900903908065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wheaton Road @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000101100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5091913538941,
+                    37.4900903908065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wheaton Road @ Whitehead Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000045960",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5091913538941,
+                    37.4900903908065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Whitehead Road @ Daytona Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000005740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5101991886853,
+                    37.4876256343232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Whitehead Road @ Wheaton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000029074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5091913538941,
+                    37.4900903908065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000021803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000066925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000099770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5089953067369,
+                    37.4887787047674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6000 Derwent Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000122479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5045196852114,
+                    37.4825468644319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1671 Stansbury Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000121975",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5047623531771,
+                    37.4838028284949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Derwent Road @ Bolton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5090869390408,
+                    37.4862368695292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Tennyson Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120874",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050002167877,
+                    37.4864414955167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000120582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055688715178,
+                    37.4885601877759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Bramwell Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000123378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5055688715178,
+                    37.4885601877759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "6006 Coniston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Pocoshock",
+                "PRECINCT": "2",
+                "NSA": "Midlothian-1"
+            },
+            "id": "101000122950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5050370854189,
+                    37.4895199101185
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

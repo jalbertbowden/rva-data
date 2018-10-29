@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4492163919763,
+        37.5953574940661,
+        -77.4421886317708,
+        37.6024270734057
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5102 Crenshaw Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000023491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4475671580973,
+                    37.6024270734057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Forest Lawn Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000099327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421886317708,
+                    37.5953574940661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Forest Lawn Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000099337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421886317708,
+                    37.5953574940661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Forest Lawn Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000099345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421886317708,
+                    37.5953574940661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Forest Lawn Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000104288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421886317708,
+                    37.5953574940661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Forest Lawn Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000108808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421886317708,
+                    37.5953574940661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Old Brook Road @ Azalea Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Pine Camp",
+                "PRECINCT": "4",
+                "NSA": "North-1"
+            },
+            "id": "101000116889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4492163919763,
+                    37.6020145764646
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

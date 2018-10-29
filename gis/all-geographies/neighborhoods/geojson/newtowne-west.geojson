@@ -1,0 +1,4175 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4605873666764,
+        37.5541267558712,
+        -77.4534787237516,
+        37.5621603374681
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000053743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535580069844,
+                    37.5578106074769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535580069844,
+                    37.5578106074769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000105357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535580069844,
+                    37.5578106074769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1012 Dinneen St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "260268-101000106451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457018246539,
+                    37.5596819692502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "107 Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "225961-101000078453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590110037106,
+                    37.5585329996719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000078221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561268557618,
+                    37.554499905836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600-1660 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "256131-101000103925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.453509461545,
+                    37.5570378741823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562360846529,
+                    37.5545541175096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1624 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000037320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567183788766,
+                    37.554770159467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1624 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000044754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567183788766,
+                    37.554770159467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1640 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000007542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565716333779,
+                    37.5555942255578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1642 Us-33",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "265916-101000109560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.458543858156,
+                    37.5556333169367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1642 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "269433-101000111355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580984113266,
+                    37.5557472992843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000020752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454424311393,
+                    37.5585641432282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "228902-101000081323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589233428442,
+                    37.5558853136402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000096981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583718454106,
+                    37.5560290695212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000020522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549107250301,
+                    37.5579843145767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000020528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549107250301,
+                    37.5579843145767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549107250301,
+                    37.5579843145767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549107250683,
+                    37.5579843118305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000103735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549107250301,
+                    37.5579843145767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000005654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4545485301992,
+                    37.5584091741119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000018007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549656896898,
+                    37.5580211193482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000018935",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454965689728,
+                    37.5580211166019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000047148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454965689728,
+                    37.5580211166019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000047996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454965689728,
+                    37.5580211166019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454965689728,
+                    37.5580211166019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547354675843,
+                    37.5575896343677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547354675843,
+                    37.5575896343677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000093676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547354676225,
+                    37.5575896316215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000119336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547354675843,
+                    37.5575896343677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000026491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548884746112,
+                    37.5576839729201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000002434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551052282609,
+                    37.5581016116555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000104332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551052282609,
+                    37.5581016116555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000042017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551052282609,
+                    37.5581016116555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "209706-101000065386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455069610773,
+                    37.558149700212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1709 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000075946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4549595340114,
+                    37.5577368577726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000032451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000033626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000036496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000036498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000097531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000106140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454819482289,
+                    37.5585541084896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "195890-101000054164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550888140759,
+                    37.557761101026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "202021-101000059409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550888140759,
+                    37.557761101026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000027304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000042808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000104477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000042811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000049174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000050062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000054678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000059705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550458200952,
+                    37.5577888797682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553547316798,
+                    37.558258190692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000090584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548946120942,
+                    37.5588849496644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000029709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548946120942,
+                    37.5588849496644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116763",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548946120942,
+                    37.5588849496644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "196062-101000054290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553634841778,
+                    37.5579363009586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553295055061,
+                    37.5579558619022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000054631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553295055443,
+                    37.557955859156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000054635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553295055061,
+                    37.5579558619022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000008337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550275138399,
+                    37.558936690357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000008338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4550275138399,
+                    37.558936690357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000013044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4551371454856,
+                    37.5587216459438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "196056-101000054287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4554907900998,
+                    37.5580207004984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000072460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555881135444,
+                    37.5584403760809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1726 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000088403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555881135444,
+                    37.5584403760809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000022599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556788987668,
+                    37.558471612899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000085210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556788987668,
+                    37.558471612899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1728 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "229057-101000081461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556673860461,
+                    37.5585081010148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000030783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556744296978,
+                    37.5581650917644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000030890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556744296978,
+                    37.5581650917644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1732 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558422866033,
+                    37.5585714083522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1732 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000030574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558422866033,
+                    37.5585714083522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1732 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000051385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558422866033,
+                    37.5585714083522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1732 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000052035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558422866033,
+                    37.5585714083522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1732 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000053609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558422866033,
+                    37.5585714083522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1740 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "248979-101000099438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558334356053,
+                    37.5584411632821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1748 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001655",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562203504621,
+                    37.5587919914603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595958422322,
+                    37.556418289735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000014146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565420313801,
+                    37.5590158454606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553824658498,
+                    37.5591619338394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000038078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553824658498,
+                    37.5591619338394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000051757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4566657923744,
+                    37.5590774820736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000069045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556013197921,
+                    37.5590044410093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "214625-101000068928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557363073353,
+                    37.5590402006326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805-1809 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "200306-101000057939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557363087473,
+                    37.5590400990228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805-1809 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "194400-101000052943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557363073353,
+                    37.5590402006326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000002993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4597977794342,
+                    37.5565420959968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000045470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567887217043,
+                    37.5591766757603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000069049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568848960929,
+                    37.5592771006186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000111450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568848960929,
+                    37.5592771006186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568848960929,
+                    37.5592771006186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "224156-101000076636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557363073353,
+                    37.5590402006326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000020957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455706346341,
+                    37.5590685420707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000069048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455706346341,
+                    37.5590685420707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 Moore St - Rear",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "196501-101000054462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557363087473,
+                    37.5590400990228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 W Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "278609-101000116833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557509972933,
+                    37.5590307994782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1818 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000012169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4556138011188,
+                    37.5592880220852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1822 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000074805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455777598727,
+                    37.5593857612928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4559922402956,
+                    37.5592458744751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1826 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000021840",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558635962213,
+                    37.5594363821184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1826 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "265675-101000109375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558596062054,
+                    37.5594951066121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1829 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45612738921,
+                    37.5593247036707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1833 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000057448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562379339639,
+                    37.5593964607606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1834 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000062066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561165516933,
+                    37.5595982192729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1837 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000002078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4563201052373,
+                    37.5594418923048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1837 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4563201052373,
+                    37.5594418923048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1838 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000095249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562128121354,
+                    37.5596700676082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1838 W Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "199759-101000057467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561916879521,
+                    37.5597254003611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1840 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000058672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599969764375,
+                    37.5566645210774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1840 W Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000088987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599969764375,
+                    37.5566645210774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1843 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000005199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564927256479,
+                    37.5595503400455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1843 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000110977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564927256479,
+                    37.5595503400455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1843 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000116009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564927256479,
+                    37.5595503400455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1850 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000012647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564127545168,
+                    37.5598607376194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567601540854,
+                    37.5600142777139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "274029-101000114161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4573486619557,
+                    37.5597641155728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000085823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579162379298,
+                    37.560050345575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000099953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4569555553338,
+                    37.5598213708551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4569555553338,
+                    37.5598213708551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Botetourt St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000086031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4557534490126,
+                    37.561779180254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570998234081,
+                    37.559919452766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 W Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "260266-101000106452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4571472170103,
+                    37.5599103006063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2010 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000105285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4569750694727,
+                    37.5601106934067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2010 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000052017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4569750694727,
+                    37.5601106934067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000072000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457063990421,
+                    37.5601670628554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2017 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000036820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4573540178894,
+                    37.5600867884678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2018 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000035739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4571500948978,
+                    37.5602225313184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2018 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000072002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4571673236707,
+                    37.5602365391579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2021 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "274038-101000114174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575667629512,
+                    37.559916909097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2021 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000090265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4574658882508,
+                    37.5601327906873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2022 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000006077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572378989572,
+                    37.5602748726137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2022 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000041370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572378989572,
+                    37.5602748726137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2025 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575532343686,
+                    37.5602131781976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2026 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000034156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4573391879066,
+                    37.5603350529529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2027 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000071988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575994675943,
+                    37.5602379437384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2027 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575994675943,
+                    37.5602379437384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2029 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000037771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576456076405,
+                    37.5602694292396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2029 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000037772",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576456076405,
+                    37.5602694292396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2029 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000071991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576456076405,
+                    37.5602694292396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2029 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000071996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576456076024,
+                    37.5602694319858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2036 Botetourt St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000003556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560182701292,
+                    37.5621603374681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2038 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000117344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576036639585,
+                    37.5604975429463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2039 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000001110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579109003874,
+                    37.5604029112158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2039 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000027722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579109003874,
+                    37.5604029112158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2040 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000035066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576434686177,
+                    37.5605380610738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2044 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000031797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4577221723804,
+                    37.560584894833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2045 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000040859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580379759043,
+                    37.5604870147531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2045 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000043519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580379759043,
+                    37.5604870147531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2048 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000047225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578128666169,
+                    37.5606378680807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2050 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578849641235,
+                    37.5606535610118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000090171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455933219908,
+                    37.5545938935267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000045455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455933219908,
+                    37.5545938935267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 N Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000090088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4577901120524,
+                    37.5565816966706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 N Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000035890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4577901120524,
+                    37.5565816966706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 N Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000005027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565496984039,
+                    37.5578126532333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 N Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000088535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4542133001601,
+                    37.5564993771354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000049137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4598937923612,
+                    37.5581972466758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "923 N Meadow St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000040027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582952548323,
+                    37.5589163693906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Allen Ave @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000065325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585282786586,
+                    37.5555501436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Allen Ave @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000065325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585282786586,
+                    37.5555501436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "203033-101000060016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583492983757,
+                    37.555515200962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585282786586,
+                    37.5555501436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Allen Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585282786586,
+                    37.5555501436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ Meadow St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000115609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "201705-101000059112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590110037106,
+                    37.5585329996719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ Meadow St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000102251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590292351552,
+                    37.5585319045497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ Meadow St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000046413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590292351552,
+                    37.5585319045497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dinneen St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000062088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457214347884,
+                    37.5593440175017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elizabeth St @ Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000042947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454368149465,
+                    37.5584050925296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Elizabeth St @ Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000045134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.454368149465,
+                    37.5584050925296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000101503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603107643709,
+                    37.5609328482776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Hermitage Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000024122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603107643709,
+                    37.5609328482776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000057414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237516,
+                    37.5570005986454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000098036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237516,
+                    37.5570005986454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ Lombardy St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000104064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237516,
+                    37.5570005986454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lodge St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000114927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588013889108,
+                    37.5570555988426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000100228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028066",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000100247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000028294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000094704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000102932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000107763",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000015736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237898,
+                    37.5570005958991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000098289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237516,
+                    37.5570005986454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000033673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534787237516,
+                    37.5570005986454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "256265-101000104053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4534812057165,
+                    37.5570056989201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000112599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000050170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Moore St @ Dinneen St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000025784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567449150206,
+                    37.5598445279228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mozelle St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000059366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4544641356742,
+                    37.5575888132879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000111421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535580069461,
+                    37.5578106102232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000015361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4535580069461,
+                    37.5578106102232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Moore St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "282781-101000120365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4571546217818,
+                    37.5596551566346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000123563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561501503927,
+                    37.5541267558712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Meadow St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "3",
+                "NSA": "Near West-1"
+            },
+            "id": "101000124431",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605873666764,
+                    37.5567794388133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lodge St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000125093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588013889108,
+                    37.5570555988426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ Lodge St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000123675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588013889108,
+                    37.5570555988426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lodge St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000124115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588013889108,
+                    37.5570555988426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lodge St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000124501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588013889108,
+                    37.5570555988426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "287512-101000124403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579253879304,
+                    37.5600348997594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 W Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "3",
+                "NEIGHBORHOOD": "Newtowne West",
+                "PRECINCT": "4",
+                "NSA": "Near West-1"
+            },
+            "id": "101000121104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579162379298,
+                    37.560050345575
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

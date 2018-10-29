@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-ethel-bailey-furman-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 59, "ParkName": "Ethel Bailey Furman Park", "ParkType": "neighborhood park", "ParkOwner": "Schools", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243954428000.0, "EditBy": "waldrosr", "EditDate": 1243954428000.0, "Shape__Are": 1.719236824e-06, "Shape__Len": 0.0053381236720160003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4111658, 37.5337475 ], [ -77.4118558, 37.5330205 ], [ -77.4131207, 37.5337915 ], [ -77.4123063, 37.5346517 ], [ -77.4110375, 37.533882 ], [ -77.4111658, 37.5337475 ] ] ] } }
+]
+}

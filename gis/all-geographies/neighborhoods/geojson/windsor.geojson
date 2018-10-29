@@ -1,0 +1,1117 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4449510119383,
+        37.4864073206856,
+        -77.4330508491538,
+        37.4937591068889
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2102 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000087971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330508491538,
+                    37.4937591068889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2114 Bellemeade Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000027915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.436925017495,
+                    37.491387238976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2202 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000064089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4383266514527,
+                    37.4912635384155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2216 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000052521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4433054823474,
+                    37.4910019271124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2216 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000086954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4433054823859,
+                    37.4910019243662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2221 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000048432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443779268368,
+                    37.4908079140535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2221 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000048440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443779268368,
+                    37.4908079140535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2223 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000022170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421015258097,
+                    37.4910608799027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2223 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000106404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421015258097,
+                    37.4910608799027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000088798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413324758102,
+                    37.4903749754501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000118107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4449510119383,
+                    37.4899217052725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Blk Atwell Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "197163-101000055034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4429459919493,
+                    37.4895159995904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "197167-101000055042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4427969908772,
+                    37.4895939009798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000069224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4411902748718,
+                    37.4883582597199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 Atwell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000000402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4419137819321,
+                    37.4899646640957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000007176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443940479439,
+                    37.4889937739681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000020547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.443940479439,
+                    37.4889937739681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000000842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423139180765,
+                    37.4907870156683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000006847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423139180765,
+                    37.4907870156683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000107031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423139180765,
+                    37.4907870156683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000108711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423139180765,
+                    37.4907870156683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2405 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000087581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439310408112,
+                    37.4889221630547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2408 Berwyn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000033437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4421126900465,
+                    37.4880048947409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2409 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000054573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439179575584,
+                    37.4887885317906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000009275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4430072769821,
+                    37.4882797554352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2412 Berwyn St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000015011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4422878202033,
+                    37.4879953018362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2412 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000005983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4433988941882,
+                    37.4890511524517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2412 Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000066171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431015445367,
+                    37.488272639598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2413 Atwell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000005784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4423272392985,
+                    37.4899254405772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2418 Atwell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000018299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431204928864,
+                    37.4894950069456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2418 Atwell Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000019666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431204928864,
+                    37.4894950069456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2420 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000115770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4426445495229,
+                    37.4903407398586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2424 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000064872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.442780543497,
+                    37.4902442023102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2435 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000014270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4430431484287,
+                    37.4907359800196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2436 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000013417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434446443744,
+                    37.4879142318638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2436 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000014129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4434446443744,
+                    37.4879142318638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2437 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000003653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4431268987929,
+                    37.4907367271846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2439 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000002750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4440246448789,
+                    37.4882208501283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2447 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "212269-101000067251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4440109114004,
+                    37.4878167999418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2447 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "230947-101000082742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439894570836,
+                    37.4878497957892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2447 Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "205991-101000062269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4437911631002,
+                    37.487891429694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2447 Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000072686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4429466486154,
+                    37.4892705918681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2469 Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000110611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4432314702413,
+                    37.4886813436899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2469 Drake St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000111094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4432314702413,
+                    37.4886813436899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000065049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4409841816169,
+                    37.4877833845753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000015328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4439276227525,
+                    37.4906828768995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 Lynhaven Ave Apt 4",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000016218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4415788330946,
+                    37.4877828843845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2509 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000006211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4442769147432,
+                    37.4907384417175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2549 Brady St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000003776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4447157331207,
+                    37.4905992978505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bellemeade Road @ Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000077038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435807503335,
+                    37.4914416971214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bellemeade Road @ Columbia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000104614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4435807503335,
+                    37.4914416971214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lynhaven Ave @ Yorktown Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000029038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413255152308,
+                    37.4864073206856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Yorktown Ave @ Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000098227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4413255152308,
+                    37.4864073206856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2321 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000122832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4417489405236,
+                    37.4891372554064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2321 Lynhaven Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Windsor",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000122834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4417489405236,
+                    37.4891372554064
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

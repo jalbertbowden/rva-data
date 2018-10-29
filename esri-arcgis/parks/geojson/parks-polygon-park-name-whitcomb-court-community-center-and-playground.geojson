@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-whitcomb-court-community-center-and-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 129, "ParkName": "Whitcomb Court Community Center and Playground", "ParkType": "community center", "ParkOwner": "RRHA\/Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244369520000.0, "EditBy": "waldrosr", "EditDate": 1244369520000.0, "Shape__Are": 1.850106916e-06, "Shape__Len": 0.0076878873595660003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4194645, 37.5558821 ], [ -77.4191985, 37.5544604 ], [ -77.4198514, 37.5543595 ], [ -77.4202604, 37.5561645 ], [ -77.4198269, 37.5562474 ], [ -77.4198714, 37.556475 ], [ -77.4190782, 37.5565426 ], [ -77.4191065, 37.5566853 ], [ -77.4189926, 37.5566939 ], [ -77.4185636, 37.5565382 ], [ -77.4185302, 37.5563106 ], [ -77.4190193, 37.5562468 ], [ -77.4189585, 37.555941 ], [ -77.4194645, 37.5558821 ] ] ] } }
+]
+}

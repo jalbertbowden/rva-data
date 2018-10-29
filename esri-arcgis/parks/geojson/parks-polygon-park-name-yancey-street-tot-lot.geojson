@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-yancey-street-tot-lot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 109, "ParkName": "Yancey Street Tot Lot", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244370378000.0, "EditBy": "waldrosr", "EditDate": 1244370378000.0, "Shape__Are": 1.81789683e-07, "Shape__Len": 0.001704500727172 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4338461, 37.5602423 ], [ -77.4334361, 37.5602078 ], [ -77.4334371, 37.5601384 ], [ -77.4334431, 37.5599572 ], [ -77.4334492, 37.5597677 ], [ -77.4338627, 37.5598051 ], [ -77.4338565, 37.559998 ], [ -77.4338506, 37.5601689 ], [ -77.4338461, 37.5602423 ] ] ] } }
+]
+}

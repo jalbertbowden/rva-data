@@ -1,0 +1,1477 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.463440006336,
+        37.4805649884331,
+        -77.4555474837318,
+        37.4829983065415
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4625379512901,
+                    37.4817177036524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "194641-101000053073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456007014475,
+                    37.4826320003222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "194938-101000053342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456007014475,
+                    37.4826320003222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132702,
+                    37.4817643176866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132702,
+                    37.4817643176866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132702,
+                    37.4817643176866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132321,
+                    37.4817643204328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132702,
+                    37.4817643176866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000095308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132702,
+                    37.4817643176866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132321,
+                    37.4817643204328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Irvington",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "194598-101000053010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4559829938427,
+                    37.4821600008868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "197236-101000055299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4559575004988,
+                    37.4822486010132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4559528622704,
+                    37.4822574810669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4569830148471,
+                    37.4815606020795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3126 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4571904077307,
+                    37.4823526172205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576014649262,
+                    37.4819457019851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576014649262,
+                    37.4819457019851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3212 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585559021448,
+                    37.4821682268463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585776295259,
+                    37.4829539348945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585776295259,
+                    37.4829539348945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000081916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585776295259,
+                    37.4829539348945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000024559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588192070112,
+                    37.4829983065415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000038766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588192070112,
+                    37.4829983065415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583659993273,
+                    37.481324256886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3220 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "197945-101000055940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583829779568,
+                    37.4813351288832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585680889234,
+                    37.4812904022342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585680889234,
+                    37.4812904022342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585680889234,
+                    37.4812904022342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3222 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585680889234,
+                    37.4812904022342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3224 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015807",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589958792597,
+                    37.4828911986054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3224 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589958792597,
+                    37.4828911986054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011941",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587226209678,
+                    37.4826282112764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587226209678,
+                    37.4826282112764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587226209678,
+                    37.4826282112764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587226209678,
+                    37.4826282112764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587067914053,
+                    37.4817748652945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4591582750081,
+                    37.4820298250311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000096409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4591582750081,
+                    37.4820298250311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3301 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4592223651203,
+                    37.4816647480878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3301 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4592223651583,
+                    37.4816647453415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3312 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459783955771,
+                    37.4819155119562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3312 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459783955733,
+                    37.4819155147024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3321 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4600793646652,
+                    37.4815510566566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3321 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4600793646652,
+                    37.4815510566566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3324 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601374577834,
+                    37.4809861614355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3325 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602814491652,
+                    37.4815175560971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3327 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604946218074,
+                    37.4822928726648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3400 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4607437223257,
+                    37.4817576767478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3401 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4608733295064,
+                    37.4822304776697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4607477175363,
+                    37.4809171146204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3404 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000026511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4607477175363,
+                    37.4809171146204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3405 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111534",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4606457411931,
+                    37.4805649884331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3408 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46114117763,
+                    37.4816976756249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3409 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.461042142003,
+                    37.481309592552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3412 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616323596322,
+                    37.482452999158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3413 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612711233482,
+                    37.4813673482658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3413 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000024706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612711233482,
+                    37.4813673482658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3414 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027376",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613484491109,
+                    37.4816629223453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3414 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043935",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613484491109,
+                    37.4816629223453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3414 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613484491109,
+                    37.4816629223453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3414 Irvington St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613484491109,
+                    37.4816629223453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3500 Delano St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4620224764474,
+                    37.4824154967234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630935656663,
+                    37.4816302144044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613624040257,
+                    37.4816457027259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000119074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613624040257,
+                    37.4816457027259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "193884-101000052730",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463440006336,
+                    37.4823908989778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Zion St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Irvington St @ Berry St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000124246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605239843024,
+                    37.4816445089991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Zion St @ Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121413",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555474837318,
+                    37.4816240807081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cherry Gardens",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000122537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558919132321,
+                    37.4817643204328
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

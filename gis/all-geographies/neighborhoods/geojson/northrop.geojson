@@ -1,0 +1,6235 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4912002970141,
+        37.5096383148749,
+        -77.4746571128016,
+        37.5152130981868
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000117792",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785763821714,
+                    37.5104018998387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000119068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785763821714,
+                    37.5104018998387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000004486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4779598175213,
+                    37.5106141176014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000097116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785704975839,
+                    37.5105736827425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000050880",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785704975839,
+                    37.5105736827425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022681",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4780101821258,
+                    37.5107973993388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000007448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.478557895637,
+                    37.5107475637963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000084247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.478557895637,
+                    37.5107475637963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000059211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781690077272,
+                    37.5109077610846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000103024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781690077272,
+                    37.5109077610846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781690077272,
+                    37.5109077610846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000079265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4754793316232,
+                    37.5123907842897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000092144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755270788531,
+                    37.5126089176158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000038181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755270788157,
+                    37.512608920362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000079577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755270788531,
+                    37.5126089176158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000094983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755270788531,
+                    37.5126089176158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000114940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755270788531,
+                    37.5126089176158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "208 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755884941929,
+                    37.512851336124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "210 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000111917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.475640101547,
+                    37.5130620375718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "213 Norcroft Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823366856145,
+                    37.5115159574747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "216 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000024690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4757054880557,
+                    37.5134179757874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "216 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000097654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4757054880557,
+                    37.5134179757874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "223 Norcroft Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000010985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4818430756898,
+                    37.5117000881381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "231 Norcroft Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000004827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4817314212161,
+                    37.5118842776573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "24 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000000187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753542783136,
+                    37.5119401500918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "24 W Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000106254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753542783136,
+                    37.5119401500918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "277-287 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "279976-101000117951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871924661718,
+                    37.5107233757128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482554853526,
+                    37.5122713103735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482554853526,
+                    37.5122713103735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "305 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000109494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824295052883,
+                    37.512275065323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "312 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000011506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4761321907766,
+                    37.5140954787516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "314 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763176420187,
+                    37.5140638034192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "314 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763176420187,
+                    37.5140638034192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "314 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000016909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763176420187,
+                    37.5140638034192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "314 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000053680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763176420187,
+                    37.5140638034192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "314 W Roanoke St Apt 21",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763176420187,
+                    37.5140638034192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "322 W Roanoke St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766835200064,
+                    37.5145875258263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "322 W Roanoke St Apt 22",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000004605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4766835200064,
+                    37.5145875258263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 W Roanoke St Apt 2",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000078846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4760686938836,
+                    37.5143754179143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "331 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000115473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819474026022,
+                    37.5132489991765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "333 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000014661",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819567684368,
+                    37.5133034149652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "334 W Roanoke St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756916193591,
+                    37.5146740373739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "346 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000008871",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4825594327018,
+                    37.5132019277521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "346 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000018814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4825594327018,
+                    37.5132019277521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "347 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000092247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823720729659,
+                    37.5136068438369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "347 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000049690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823720729659,
+                    37.5136068438369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "357 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000017515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826776810785,
+                    37.5136134914304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "360 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4832581778277,
+                    37.5132823869305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "361 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000085101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834990345371,
+                    37.5135923651814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "363 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000027913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835425354185,
+                    37.5135524873773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "372 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.483224288805,
+                    37.5129862580054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3807 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "224863-101000077141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755463835462,
+                    37.5103466003401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3809 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000063264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4757219419094,
+                    37.5102963697812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3811 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000020342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4759277411076,
+                    37.5102408110323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3817 Midlothian Tpk",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "243271-101000094351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764243023228,
+                    37.5101973987477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3817 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000005738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764191610096,
+                    37.5101824981399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "383 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000057012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.483688897503,
+                    37.5130043332838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3903 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000073804",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4767499398412,
+                    37.5101043667204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3909 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009592",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775593751542,
+                    37.5099935337249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3915 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000025335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.478080285817,
+                    37.5098960661182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "397 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000006522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835773443854,
+                    37.512472077967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "397 Norcroft Cir",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000051216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835773443854,
+                    37.512472077967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000051934",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4881286801815,
+                    37.5111036760896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Dunston",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "204627-101000061201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4761419867126,
+                    37.5144700002544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000032711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4759469963285,
+                    37.5147665680243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000061255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4759469963285,
+                    37.5147665680243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4001 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000061031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785461821331,
+                    37.5098178698708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4002 Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000073818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4761376046667,
+                    37.5147943622654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4003 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000027951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.476758187501,
+                    37.5136486987579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4004 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000068747",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4760923319283,
+                    37.5117430442481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4006 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000109103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4763987394014,
+                    37.5116903863664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4008 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000110861",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4767780205602,
+                    37.5116210453172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4009 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000095583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4760821790519,
+                    37.5122253392506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4009 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000016629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4787240036427,
+                    37.5097860811317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4010 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000042199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4770797921607,
+                    37.5115796065873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4012 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000050390",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773721531956,
+                    37.5115253060971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4012 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000098243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773721531956,
+                    37.5115253060971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4012 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773721531956,
+                    37.5115253060971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4015 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000054029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4767379421872,
+                    37.5121136232894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4016 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000087258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4777897322701,
+                    37.5114412108961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4016 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4770293131703,
+                    37.5131460856311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4016-4018 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "201527-101000058851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4772190635871,
+                    37.5133051265205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4017 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000043507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4768757224268,
+                    37.5120957709448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4017 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000118098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4768757224268,
+                    37.5120957709448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4017 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "279979-101000117952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4768969009249,
+                    37.5121129001206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4017 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000015886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4779135046495,
+                    37.5133594657354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4018 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "279975-101000117953",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4779724029582,
+                    37.5114081000438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4018 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104975",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4779694280734,
+                    37.5114113510441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4018 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "262199-101000107553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4779694280734,
+                    37.5114113510441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4018 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000058916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4771798876727,
+                    37.5131028469687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000040497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4772339314365,
+                    37.5120345493762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000042297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4772339314365,
+                    37.5120345493762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000041578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781498015647,
+                    37.5133183246931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000059754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781498015647,
+                    37.5133183246931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "205485-101000062048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781487890347,
+                    37.5133497009941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4021 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "215036-101000069209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781487890347,
+                    37.5133497009941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4022 Northrop St Apt 1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4774966643311,
+                    37.5130867116924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4023 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000032363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4783590202534,
+                    37.5133084775977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4025 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000088267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4777557458084,
+                    37.5119604477342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4025 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "262200-101000107552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4777557458084,
+                    37.5119604477342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4025 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4777557458084,
+                    37.5119604477342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4025 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "280051-101000118002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4777959954783,
+                    37.512131999548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4026 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000063668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4778744934716,
+                    37.5130003395842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4027 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000036213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.477926971549,
+                    37.5119196659274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4027 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000087981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785587712745,
+                    37.5132925005872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "403 Westover Hills Blvd Apt 104",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000076758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4873235616412,
+                    37.511309067029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4031 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000031223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4782538691401,
+                    37.5118408815805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4033 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000098248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784145111455,
+                    37.5118329556582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4033 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000105568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784145111455,
+                    37.5118329556582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4035 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000069810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785448349561,
+                    37.5117979259775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "406 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "263607-101000108296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4890905279008,
+                    37.512796650295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "409 Westover Hills Blvd Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022898",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875562504149,
+                    37.5117399095616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "410 Westover Hills Blvd Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000024492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4899833274433,
+                    37.5122634862815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "411 Westover Hills Blvd Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000020939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875820341844,
+                    37.5118505115786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "413 Westover Hills Blvd Apt 205",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000018752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876076617661,
+                    37.5119701594401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "416 Westover Hills Blvd Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000049261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897164378369,
+                    37.5125447693939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "418 Westover Hills Blvd Apt 203",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000044484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4898614588332,
+                    37.5125780580455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "419 Westover Hills Blvd Apt 106",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000052582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488094440197,
+                    37.5123593772525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "419 Westover Hills Blvd Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000049094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488094440197,
+                    37.5123593772525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "424 Westover Hills Blvd Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000091510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4903594347847,
+                    37.5126069603787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "426 Westover Hills Blvd Apt 104",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000062991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490398153629,
+                    37.5124889352871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "426 Westover Hills Blvd Apt 12",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000119928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490398153629,
+                    37.5124889352871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "426 Westover Hills Blvd Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000014999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490398153629,
+                    37.5124889352871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4314 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000067128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831013302626,
+                    37.5106587478852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "432 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000028130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907896200124,
+                    37.5126130910816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "432 Westover Hills Blvd Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000117648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907896200124,
+                    37.5126130910816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4322-4344 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "279977-101000117954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858165752807,
+                    37.5106154648296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "197962-101000055967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844739855132,
+                    37.5119022005541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000055963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000055964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000063667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000094187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000109078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St Apt 216",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000063007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4325 Crutchfield St Apt 333",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000053529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844823755709,
+                    37.5111277378083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "434 Westover Hills Blvd Apt 205",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000039309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907476997056,
+                    37.5127384827795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "437 Westover Hills Blvd Apt 203",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000046359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4869100505768,
+                    37.5130959804682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "438 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000074272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4912002970141,
+                    37.5126880917963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4386-4398 Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "206111-101000062351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871275806008,
+                    37.5107743549679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "442 Westover Hills Blvd Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4911074137021,
+                    37.5129190781364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "443 Westover Hills Blvd Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000010060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4869061544045,
+                    37.5125866899762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "448 Westover Hills Blvd Apt 12",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000075344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4909366632007,
+                    37.513418163668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "450 Westover Hills Blvd Apt 205",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000034236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.490894775711,
+                    37.5135410947562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "453 Westover Hills Blvd Apt 12",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000107017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4867643451005,
+                    37.5121820757288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "456 Westover Hills Blvd Apt 106",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000038613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4904746218326,
+                    37.5134808025507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "458 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000074319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4905163444781,
+                    37.5133701995256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "459 Westover Hills Blvd Apt 203",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000076106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4866836310876,
+                    37.5117751217749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "466 Westover Hills Blvd Apt 203",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000048252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4900922943312,
+                    37.5133690529805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "46th St @ Bassett Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000023146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857907140396,
+                    37.5148567569561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "46th St @ Bassett Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000023146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857907140396,
+                    37.5148567569561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "472 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000092737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4896775181684,
+                    37.5133679839828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "472 Westover Hills Blvd Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000094624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4896775181684,
+                    37.5133679839828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "473 Westover Hills Blvd Apt 6",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000028809",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857411985113,
+                    37.5110991191209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "474 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000094697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897131701397,
+                    37.5132499329753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "474 Westover Hills Blvd Apt 203",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000117917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897131701397,
+                    37.5132499329753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "474 Westover Hills Blvd Apt 8",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000040985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4897131701397,
+                    37.5132499329753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "475 Westover Hills Blvd Apt 205",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000035588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4859446415452,
+                    37.5111156092573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "477 Westover Hills Blvd Apt 105",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000117153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4860967464211,
+                    37.511096262059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "480-572 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "261944-101000107363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4891961101401,
+                    37.513034733253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "485 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000073275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861863589522,
+                    37.5115896584153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "485 Westover Hills Blvd Apt 104",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000106949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861863589522,
+                    37.5115896584153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "491 Westover Hills Blvd Apt 206",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000045337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858789994183,
+                    37.5118643191335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "491 Westover Hills Blvd Apt 206",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000050872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858789994183,
+                    37.5118643191335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "493 Westover Hills Blvd Apt 106",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000105633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858922325618,
+                    37.51198243036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "499 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000013437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4860130447021,
+                    37.5123610483316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "551 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "260626-101000106525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.489088869131,
+                    37.5129302977202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000005245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885819667058,
+                    37.5137982100607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885819667058,
+                    37.5137982100607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885819667058,
+                    37.5137982100607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000016540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885819667058,
+                    37.5137982100607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 Westover Hills Blvd Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000015269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4885819667058,
+                    37.5137982100607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "603 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000039867",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4887999649838,
+                    37.5139508265569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "603 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000040856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4887999649838,
+                    37.5139508265569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "605 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000070646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4887349148879,
+                    37.5142062045726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000000338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000012969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000073386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "607 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000011271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4886241281523,
+                    37.514590912442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "609 Westover Hills Blvd Apt L",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000050328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.488427975437,
+                    37.5147750543159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000028743",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883916236096,
+                    37.5142067792936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000013765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883916236096,
+                    37.5142067792936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000000108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883916236096,
+                    37.5142067792936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000008770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883916236096,
+                    37.5142067792936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000105009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883916236096,
+                    37.5142067792936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "613 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000093258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882959387844,
+                    37.5144478743521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "613 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000099171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4882959387844,
+                    37.5144478743521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000019225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880774595836,
+                    37.5146563628567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000014458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880774595836,
+                    37.5146563628567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000015181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880774595836,
+                    37.5146563628567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "615 Westover Hills Blvd Apt L",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880774595466,
+                    37.514656365603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "617 Westover Hills Blvd Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880800157644,
+                    37.5141410138848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "617 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000047210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4880800157644,
+                    37.5141410138848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "619 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000008163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4879096111011,
+                    37.5143744558778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "619 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000013124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4879096111011,
+                    37.5143744558778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "619 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000007504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4879096111011,
+                    37.5143744558778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "619 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000007505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4879096111011,
+                    37.5143744558778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "621 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000005815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877832787732,
+                    37.5146047694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "621 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000004291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877832787732,
+                    37.5146047694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "623 Westover Hills Blvd Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4878857885013,
+                    37.5138465055642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "625 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000075215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877778463762,
+                    37.5140862074107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "625 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000004274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877778463762,
+                    37.5140862074107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000029990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000029992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000011079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000014122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "627 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4876459949155,
+                    37.5143064542409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "629 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000000231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875098498213,
+                    37.5145459121603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "629 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875098498213,
+                    37.5145459121603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "629 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875098498213,
+                    37.5145459121603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "635 Westover Hills Blvd Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4873363484287,
+                    37.5142717260771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "635 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000011049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4873363484287,
+                    37.5142717260771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "637 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872123987416,
+                    37.5145016611659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "637 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000016195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872123987416,
+                    37.5145016611659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "637 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000016201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872123987416,
+                    37.5145016611659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "637 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000108096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4872123987045,
+                    37.5145016639121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "639 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000014986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871966753845,
+                    37.5135775384879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "639 Westover Hills Blvd Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000103613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871966753845,
+                    37.5135775384879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000012485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "641 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000026446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4871288697121,
+                    37.513827206747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "643 Westover Hills Blvd Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000095930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4866334199177,
+                    37.5135310167931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "643 Westover Hills Blvd Apt L",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000109023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4866334199177,
+                    37.5135310167931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864693223983,
+                    37.5137541918599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864692879224,
+                    37.513754191565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000010241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864692879224,
+                    37.513754191565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000081003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864693223983,
+                    37.5137541918599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000001800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864692879224,
+                    37.513754191565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "645 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000005841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864692879224,
+                    37.513754191565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "647 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000012572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4868818685844,
+                    37.5142229243268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "647 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4868818685844,
+                    37.5142229243268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "649 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000088331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4865720586291,
+                    37.5141978167251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "649 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000002513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4865720586291,
+                    37.5141978167251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "649 Westover Hills Blvd Apt E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000021621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4865720586291,
+                    37.5141978167251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "649 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4865720586291,
+                    37.5141978167251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "649 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000009618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4865720586291,
+                    37.5141978167251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "651 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000074184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4862381155844,
+                    37.5141725046178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "651 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000113072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4862381155844,
+                    37.5141725046178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "651 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000113073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4862381155844,
+                    37.5141725046178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "653 Westover Hills Blvd Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000102961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4867133907107,
+                    37.5144717316504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "657 Westover Hills Blvd Apt F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000021438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4859441484955,
+                    37.5144683598893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "657 Westover Hills Blvd Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003397",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4859441484955,
+                    37.5144683598893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "659 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000056467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861633746483,
+                    37.5146370673921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "661 Westover Hills Blvd Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000028013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864930178081,
+                    37.5146848015751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "661 Westover Hills Blvd Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000003713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864930178081,
+                    37.5146848015751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "661 Westover Hills Blvd Apt D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000017423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864930178081,
+                    37.5146848015751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "661 Westover Hills Blvd Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000018744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4864930178081,
+                    37.5146848015751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000045322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4785583403874,
+                    37.5102071553656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ 46th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000034829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857907140396,
+                    37.5148567569561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ 46th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000034829",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857907140396,
+                    37.5148567569561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000097477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888408830551,
+                    37.5152130981868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000097477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888408830551,
+                    37.5152130981868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-2"
+            },
+            "id": "101000022832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888408830551,
+                    37.5152130981868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Bassett Ave @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000022832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4888408830551,
+                    37.5152130981868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Norcroft Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000118050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829703859024,
+                    37.511127468526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000062591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4751422930765,
+                    37.5121380557658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000062591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4751422930765,
+                    37.5121380557658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000084188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4751422930765,
+                    37.5121380557658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000084188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4751422930765,
+                    37.5121380557658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000053238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875164885498,
+                    37.5108237163634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Crutchfield St @ Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000119550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4875164885498,
+                    37.5108237163634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Darden Road @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "281559-101000119107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764692113635,
+                    37.5099934006132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dunston Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000110553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dunston Ave @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000110553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000072497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000072497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000114499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000114499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Wythemar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000032114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784737692857,
+                    37.5096383148749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Wythemar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000104224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784737692857,
+                    37.5096383148749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Midlothian Tpke @ Wythemar St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "253453-101000102591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784695995426,
+                    37.5096406986581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Northrop St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000032957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755358844791,
+                    37.5136177398271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Northrop St @ Roanoke St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000032957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4755358844791,
+                    37.5136177398271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Crutchfield St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "200443-101000057969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4751491844462,
+                    37.5121485028898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000060607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000060607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "215150-101000069288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "215150-101000069288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Dunston Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000116686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753589000938,
+                    37.5147487791303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "219104-101000072472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "219104-101000072472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000077407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000077407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000091684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000091684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000097291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000097291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000111068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000111068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000113722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Roanoke St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000113722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746571128016,
+                    37.5102964033109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Weaver Ct @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000086309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4782132195543,
+                    37.5096864818401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Weaver Ct @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000086309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4782132195543,
+                    37.5096864818401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wythemar St @ Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "2",
+                "NSA": "Old South-3"
+            },
+            "id": "101000063961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4784737692857,
+                    37.5096383148749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000089077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831013302626,
+                    37.5106587478852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000044721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831013302626,
+                    37.5106587478852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "621 Westover Hills Blvd Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000123185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877832787732,
+                    37.5146047694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "621 Westover Hills Blvd Apt I",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000123246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4877832787732,
+                    37.5146047694486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "459 Westover Hills Blvd Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000120744",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4866836311246,
+                    37.5117751190286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "491 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000121234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858789994183,
+                    37.5118643191335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "434 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000120374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4907476997056,
+                    37.5127384827795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4022 Northrop St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "287056-101000124078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4773869850025,
+                    37.5128939998982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15 Weaver Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "5",
+                "NEIGHBORHOOD": "Northrop",
+                "PRECINCT": "3",
+                "NSA": "Old South-3"
+            },
+            "id": "101000123218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781690077272,
+                    37.5109077610846
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

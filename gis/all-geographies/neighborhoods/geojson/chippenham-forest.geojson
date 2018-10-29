@@ -1,0 +1,5377 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5466365066122,
+        37.5289099576034,
+        -77.5287618604578,
+        37.537447432007
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2107 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000095408",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5370204942705,
+                    37.5312844249274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2111 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000019650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.544440837411,
+                    37.5289099576034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2112 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363866481056,
+                    37.530775616233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2115 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5361049683485,
+                    37.5303575960128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2119 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5372902821535,
+                    37.5313740414434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2121 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000058593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5359447754541,
+                    37.5304005812153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2135 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000022353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5356797179235,
+                    37.5306470062852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2137 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000085215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373541168497,
+                    37.5316085292876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2137 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373541168497,
+                    37.5316085292876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2139 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373573458078,
+                    37.5316337769772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2139 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373573458429,
+                    37.531633774231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2141 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000006328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373605223846,
+                    37.5316604222295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2143 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373689391953,
+                    37.531689911507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2143 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373689391953,
+                    37.531689911507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2145 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000018947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5356928330839,
+                    37.5308828375178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2148 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5366728216251,
+                    37.531289963164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2149 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5371897330833,
+                    37.5318089439651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2151 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000074601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5371544168808,
+                    37.5318170642617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2153 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5356944222604,
+                    37.5310385682682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2153 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5356944222604,
+                    37.5310385682682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2155 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5370822023904,
+                    37.5318248848161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2157 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5370522326783,
+                    37.5318302442974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2175 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358012156236,
+                    37.5315237398202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2200 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5452423409841,
+                    37.5289859476378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2201 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207259-101000063435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5448337323852,
+                    37.5289786704429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2202 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.537665192777,
+                    37.5321719779981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009519",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363835616779,
+                    37.5318074577646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.537674987708,
+                    37.5321962023367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2209 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.535842055904,
+                    37.5318351560486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2213 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000014818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358475666588,
+                    37.5319298466137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2216 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367289533833,
+                    37.5317513380382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2217 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358487547362,
+                    37.5320120025173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5455075478719,
+                    37.5294962507315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000089195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5455075478719,
+                    37.5294962507315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2220 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207260-101000063436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5455249958808,
+                    37.5294910025234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2224 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377496023691,
+                    37.5324589431749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2227 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358386410304,
+                    37.5322762142166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2227 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000049522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358386410304,
+                    37.5322762142166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2227 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358386410304,
+                    37.5322762142166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2227 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358386410304,
+                    37.5322762142166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2230 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000006197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5456449388657,
+                    37.5297465585992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2230 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5456449388657,
+                    37.5297465585992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2230 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000087340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5456449388657,
+                    37.5297465585992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2231 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5450445478009,
+                    37.5298557319159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2231 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207261-101000063437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5451812852179,
+                    37.5298614503756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2231 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207262-101000063439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5451812852179,
+                    37.5298614503756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2237 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5357490980766,
+                    37.5324572765272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2239 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000015638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5357544523955,
+                    37.5325050027436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2240 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5457870328613,
+                    37.5300095189927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2240 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5457870328613,
+                    37.5300095189927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2240 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "204413-101000061033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5455627462579,
+                    37.5300407403641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2242 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000023624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5366448929213,
+                    37.5322556665091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2243 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000031200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5452809878733,
+                    37.5303556579382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2243 StratfoRoad Rd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "207263-101000063440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5452809835139,
+                    37.5303560012202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433503812673,
+                    37.5297249393381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433503812673,
+                    37.5297249393381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433503812673,
+                    37.5297249393381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433503812673,
+                    37.5297249393381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2300 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433503812673,
+                    37.5297249393381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5431367607989,
+                    37.5300182180115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5431367607989,
+                    37.5300182180115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2301 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000043698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5431367607989,
+                    37.5300182180115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2306 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "234291-101000085340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5434722968773,
+                    37.5299224847185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000037564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000071412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000110586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433861214617,
+                    37.5302769276414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2307 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "216828-101000070628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5433514936082,
+                    37.5302933993133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2309 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5366400447022,
+                    37.5328843015483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2312 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363140770694,
+                    37.5330040294889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2312 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "213923-101000068483",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5440318048149,
+                    37.5300155001173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2313 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5436478052855,
+                    37.5304725383095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2313 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000094508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5436478052855,
+                    37.5304725383095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2313 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000036138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5436478052855,
+                    37.5304725383095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2313 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000039210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5436478052855,
+                    37.5304725383095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2315 Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5352228020392,
+                    37.5329064779824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2317 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000112951",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367039621571,
+                    37.5331149644157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2318 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000039525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.544321734611,
+                    37.5302192333958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363741612797,
+                    37.533243085005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2321 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000019620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5357682839231,
+                    37.5330668510837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2323 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5357762242822,
+                    37.5331146285398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2323 Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000115648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5352304979041,
+                    37.5330700255903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2329 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5357777671087,
+                    37.5332632343132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2330 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000041769",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377061572027,
+                    37.5330886326107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2330 Stratford Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5446083938357,
+                    37.530398215252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2332 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000068411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.537712996683,
+                    37.5331174306525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2343 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000082567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358717764965,
+                    37.5335407374189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2344 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5379370733316,
+                    37.5332356559805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2354 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000077898",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5381052819442,
+                    37.5332054056421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000012342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377198854027,
+                    37.5334630120182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377198854027,
+                    37.5334630120182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2401 Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5353354013688,
+                    37.5348044282908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2401 Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000000992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5353354013688,
+                    37.5348044282908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2402 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367499464283,
+                    37.5339700497189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2402 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367499464283,
+                    37.5339700497189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000115928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5360518335259,
+                    37.5337834933629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2403 Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000004757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5353331411772,
+                    37.5348461764952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2404 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5367009384376,
+                    37.5339834445866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2406 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377447784241,
+                    37.5335444566765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2406 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377447784241,
+                    37.5335444566765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2408 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "227599-101000080444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5462407040137,
+                    37.5307412991702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2408 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "227600-101000080445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5462407040137,
+                    37.5307412991702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2410 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000102726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5330358537941,
+                    37.5338958775052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2411 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5457227739261,
+                    37.531107918646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2412 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000092224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5372581614639,
+                    37.5340061590222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2412 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000092226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5372581614639,
+                    37.5340061590222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2413 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000014503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5368236624684,
+                    37.5341170748667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2413 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000019872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5368236624684,
+                    37.5341170748667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000008025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5463614912063,
+                    37.5310176524904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "198294-101000056223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5463610039707,
+                    37.5310180001273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2416 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "218082-101000071514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5462520801571,
+                    37.531037983715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2423 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000059843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358385110156,
+                    37.5342655364092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2424 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000045969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5465205544847,
+                    37.5312537005196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2426 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000019593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363658537613,
+                    37.5343243679041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2428 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5363795451091,
+                    37.5343621012736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2432 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5466365066122,
+                    37.5315633685576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2434 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109076",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373605441556,
+                    37.5344678979108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2435 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358403051595,
+                    37.53454245968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2437 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358397315332,
+                    37.5345871851259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2437 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358397315332,
+                    37.5345871851259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2439 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358391579063,
+                    37.5346319105713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2441 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358387208349,
+                    37.5346659888009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5333882258214,
+                    37.5356046015414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2500 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000053868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5374168336254,
+                    37.5346831342115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358557486103,
+                    37.5348334903041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358557486103,
+                    37.5348334903041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2503 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377232526448,
+                    37.5344663082715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2504 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5373216603057,
+                    37.534735666138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000010556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5358571111642,
+                    37.5348805330931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2505 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000052809",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377236157773,
+                    37.5344379394908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2507 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5366924847626,
+                    37.534522046058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2510 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5371948408148,
+                    37.5348004789022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2514 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000018805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5371077853005,
+                    37.5348358310849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2517 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000057601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5364452645799,
+                    37.5346109664209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2522 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000062853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5369214294293,
+                    37.5349362164803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2527 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5359306311055,
+                    37.5354408094017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2533 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383325968898,
+                    37.5341759454852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2533 S Kenmore Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5383325968898,
+                    37.5341759454852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2537 E Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5361664221704,
+                    37.5353235792537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2545 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000051498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5307761030918,
+                    37.5366593284746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2545 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000079775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5307761030918,
+                    37.5366593284746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2549 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5307549715968,
+                    37.5365568251929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2642-2698 Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "278565-101000116832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5330670281774,
+                    37.5368751943825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7501 Belfry Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000020123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534764495084,
+                    37.5350169662386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7504 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343352344583,
+                    37.5354979649194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7504 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5347385398347,
+                    37.5347229962023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7504 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5340376477601,
+                    37.5341808467968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7506 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000064790",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5340812307513,
+                    37.5341790321713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7506 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120076",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5340812307513,
+                    37.5341790321713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7508 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5341505869095,
+                    37.5341871887248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7510 Belfry Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350381444433,
+                    37.5353547193819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7511 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000077917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343019484427,
+                    37.5346874184369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7511 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5345845124248,
+                    37.5319754695852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7511 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5345845124248,
+                    37.5319754695852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7513 Belfry Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000014718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350742057087,
+                    37.5349958207525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7513 Belfry Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350742057087,
+                    37.5349958207525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7515 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000003656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343087331388,
+                    37.5329081177367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7516 Belfry Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000093688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5351869767952,
+                    37.5353378338791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7516 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000014074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343686331025,
+                    37.5341759520261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7516 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013818",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5344065473253,
+                    37.5337938273706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7517 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000011648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343057457955,
+                    37.5345287379248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7517 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5342963823373,
+                    37.5328574121361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7519 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000062864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5352229902847,
+                    37.5356625122575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7520 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346391787673,
+                    37.5338203750171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7520 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000084531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346391787673,
+                    37.5338203750171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7522 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343526141036,
+                    37.5359143799365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7522 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5343526141036,
+                    37.5359143799365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7523 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013821",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5353278434836,
+                    37.5356675430529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7523 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000072186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5334978913413,
+                    37.5340040057917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7524 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534748178813,
+                    37.5341307782738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7525 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000019554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5345036123814,
+                    37.5343674607401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7525 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534554791127,
+                    37.5322864159336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7530 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346515382297,
+                    37.5336206567551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7531 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346435763329,
+                    37.5343588559212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7531 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346435763329,
+                    37.5343588559212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7534 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346460201218,
+                    37.533542761182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7534 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534989618285,
+                    37.5327968853544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7537 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000075915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5336743899436,
+                    37.5337288902415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7538 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000022458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5347442315732,
+                    37.5360498316139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7538 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000075252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350971545047,
+                    37.5341295545161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7539 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000016085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5337261456467,
+                    37.5337271451177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7539 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5346984909072,
+                    37.5330099040386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7540 Ander Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000061694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5347896845564,
+                    37.5360501989642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7542 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534969800594,
+                    37.5346872899699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7543 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000021330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.534700682993,
+                    37.533091664379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7545 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000013969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350162739708,
+                    37.5343340460477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7546 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000001679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5349546375705,
+                    37.5334907772533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7547 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000010467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350599671214,
+                    37.5343344017236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7547 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000005823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5339332375466,
+                    37.5337201539732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7547 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000009534",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5339332375466,
+                    37.5337201539732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7549 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000046921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5339837107128,
+                    37.5337162257726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7549 Drumheller Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000047965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5339837107128,
+                    37.5337162257726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7549 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017506",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5349606188416,
+                    37.5331027510241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7550 Exmouth Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000007425",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5350718715511,
+                    37.533495623455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7551 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5351851777266,
+                    37.5324118139692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7551 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000017450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5351851777266,
+                    37.5324118139692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7553 Felixstowe Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000002964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5352324882881,
+                    37.532407008075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7557 Carnaby Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000004937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5353203826768,
+                    37.534340695991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7909 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000087778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5416334857359,
+                    37.5325571318862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7945 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5425756302948,
+                    37.5323924330223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7945 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000038407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5425756302948,
+                    37.5323924330223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7945 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5425756302948,
+                    37.5323924330223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carnaby Ct @ Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5355628910648,
+                    37.5345007984252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carnaby Ct @ Harrods Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000029839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5355628910648,
+                    37.5345007984252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "263704-101000108315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5288175367085,
+                    37.5324550237219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "202298-101000059465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5289922199185,
+                    37.5343828671834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "258529-101000105653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290001092219,
+                    37.5350537548674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "219320-101000072634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.528953014467,
+                    37.5351271329039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000066222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "219321-101000072633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ City Limits",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5287618604578,
+                    37.5319007055556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000034736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000101844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000048350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000060107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070391",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000072463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000096301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000105463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000106619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000110515",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000113304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000118536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Coleman Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5415788752353,
+                    37.5330939843945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000032612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000054644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000058582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000065436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000067773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000068222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000069690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000097277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000098468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000103020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000107073",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000108939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000109836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000117780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000082864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000108964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000063662",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5463710722245,
+                    37.5318528414247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kenmore Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000070044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5376669550185,
+                    37.5350572246032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kenmore Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000078155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5376669550185,
+                    37.5350572246032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sheila Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000055604",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sheila Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000073567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sheila Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000073631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Stratford Road @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000082448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5463710722245,
+                    37.5318528414247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Coleman Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.541550840227,
+                    37.5330422601553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Coleman Lane @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5415788752353,
+                    37.5330939843945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2432 Stratford Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5466365066122,
+                    37.5315633685576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2402 W Tremont Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000122045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5371929938993,
+                    37.5337140325841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7413 Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000123165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5341917376395,
+                    37.5365008365199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Sheila Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000120855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.533044410813,
+                    37.5369040462876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000121148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Forest Hill Ave @ Chippenham Pkwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000124956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000125010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chippenham Pkwy @ Forest Hill Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "4",
+                "NEIGHBORHOOD": "Chippenham Forest",
+                "PRECINCT": "3",
+                "NSA": "Huguenot-1"
+            },
+            "id": "101000125242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5290202361544,
+                    37.537447432007
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

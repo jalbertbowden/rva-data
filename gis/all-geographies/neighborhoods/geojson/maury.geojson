@@ -1,0 +1,1936 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4610836265457,
+        37.4941042743845,
+        -77.4458572561805,
+        37.5129796365357
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Holly Spring Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000003568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4598950853944,
+                    37.5025324442387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 Holly Spring Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000003569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4598950853944,
+                    37.5025324442387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 Thurman St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000043754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487177766845,
+                    37.5074114881141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 Thurman St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4487177766845,
+                    37.5074114881141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 Thurman St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000116449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4481695648911,
+                    37.5066886174659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "278332-101000116564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4471701677901,
+                    37.5031929690428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1305 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "195120-101000053551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4470282082961,
+                    37.5038004988442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1306 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000071316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473045776543,
+                    37.5033364555059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000074797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4468894314086,
+                    37.4997022016374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119372",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4466348103821,
+                    37.4984123605626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000105222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4471199682854,
+                    37.496775839793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000081534",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4463169859127,
+                    37.4954485345267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "209 A Brinser St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000054604",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4494798892307,
+                    37.5076215570903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2400 Maury St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000062710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4513520581035,
+                    37.5092839257355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2737-2893 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "210029-101000065708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4488771921585,
+                    37.5037045801324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2900 Maury St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000081071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572666558483,
+                    37.5067420388823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000099931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4539677301308,
+                    37.5024872857034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3605 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000102404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4568007279342,
+                    37.501801715658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4573798026477,
+                    37.4998168041503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 N Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4573798026477,
+                    37.4998168041503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "251334-101000101011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4488369918647,
+                    37.5120269007462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "278331-101000116562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4483936096889,
+                    37.5122843011788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000083185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4484187851773,
+                    37.5124096476898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 Perdue Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000055896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4515976380914,
+                    37.5077956125588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 Perdue Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4515976380914,
+                    37.5077956125588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "716 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000064339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480211670251,
+                    37.5096764724269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000033496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477442568891,
+                    37.508529398566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000033497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477442568891,
+                    37.508529398566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000055668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478919060011,
+                    37.5087574452798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000079904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478919060011,
+                    37.5087574452798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000116678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478919060011,
+                    37.5087574452798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "802 Holly Spring Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000106632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4610836265457,
+                    37.5040207836332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "818 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000022847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477669651894,
+                    37.5074953862118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "818 Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000093359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4477669651894,
+                    37.5074953862118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Albany Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000077433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4478894126302,
+                    37.5119939070908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000100590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000100590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000039602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000039602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000053135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cofer Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000053135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Edwards Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000090964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4474086791321,
+                    37.5078697574347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfax Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000095653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4472737635718,
+                    37.5066855157088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Halifax Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000024061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469941442978,
+                    37.504325117639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Halifax Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000024063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469941442978,
+                    37.504325117639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harwood St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000040717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44687225487,
+                    37.5032652841189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Harwood St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000040717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44687225487,
+                    37.5032652841189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Holly Springs Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000090261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457802418424,
+                    37.5002170490521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000023665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4470137079674,
+                    37.5037995103059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000053009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4470137079674,
+                    37.5037995103059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jeff Davis Hwy @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "210023-101000065706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4471832636227,
+                    37.5037153977131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Brinser St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000073634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4474324180393,
+                    37.5073240523452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Brinser St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000073658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4473499690956,
+                    37.5073299968909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Fairfax Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000094482",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4472737635718,
+                    37.5066855157088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000062154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469337243214,
+                    37.5038069376229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000062154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469337243214,
+                    37.5038069376229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Webber Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000076509",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4460681722081,
+                    37.4959846500282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Wright Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000111155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Wright Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000111155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000044637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480762374624,
+                    37.5129318109044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000044637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480762374624,
+                    37.5129318109044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000101370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000101370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000020966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000020966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000030034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000030034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000038160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000038160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000038373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000038373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000100894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000100894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000043739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000043739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000091402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000111604",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000111604",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000115150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Maury St @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-1"
+            },
+            "id": "101000115150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4480019198639,
+                    37.5129796365357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oakland Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000022099",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446163569236,
+                    37.4968472680432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Oakland Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.446163569236,
+                    37.4968472680432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Royall Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000103966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4459622858964,
+                    37.4950638618236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Webber Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119645",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4460681722081,
+                    37.4959846500282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000108805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4552868795549,
+                    37.4991464645209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44687225487,
+                    37.5032652841189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124890",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44687225487,
+                    37.5032652841189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 Perdue Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000120977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4515976380914,
+                    37.5077956125588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wright Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000123980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Wright Ave @ Jefferson Davis Hwy",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000123980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-1"
+            },
+            "id": "101000124775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4458572561805,
+                    37.4941042743845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469337243214,
+                    37.5038069376229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jefferson Davis Hwy @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4469337243214,
+                    37.5038069376229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "802 Holly Spring Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Maury",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000124320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4610836265457,
+                    37.5040207836332
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

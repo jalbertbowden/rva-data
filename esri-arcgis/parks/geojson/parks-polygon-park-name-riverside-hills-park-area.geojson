@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-riverside-hills-park-area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 12, "ParkName": "Riverside Hills Park Area", "ParkType": "open space", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244213054000.0, "EditBy": "waldrosr", "EditDate": 1244213054000.0, "Shape__Are": 8.80307053e-07, "Shape__Len": 0.0040876281600190001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4849672, 37.530321 ], [ -77.4854626, 37.5293942 ], [ -77.4856433, 37.5290577 ], [ -77.4862811, 37.5293866 ], [ -77.4854542, 37.5305264 ], [ -77.4852963, 37.5304694 ], [ -77.4851591, 37.530414 ], [ -77.4849672, 37.530321 ] ] ] } }
+]
+}

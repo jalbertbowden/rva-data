@@ -1,0 +1,5657 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4639879859889,
+        37.4906362859204,
+        -77.4547251249138,
+        37.4990275201078
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1305 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582274095061,
+                    37.4990275201078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1321 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000010514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587925934749,
+                    37.498619468059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1321 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4587925934749,
+                    37.498619468059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1331 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575006458758,
+                    37.4978635006677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000041481",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553412800936,
+                    37.4973345393306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582309385262,
+                    37.4980858302711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072635",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548620484446,
+                    37.4973118833515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000088733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548620484446,
+                    37.4973118833515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000088817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548620484446,
+                    37.4973118833515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548620484446,
+                    37.4973118833515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579038803429,
+                    37.4975022082909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579038803429,
+                    37.4975022082909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579038803429,
+                    37.4975022082909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1404 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583916659227,
+                    37.4976466337501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1404 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000079188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583916659227,
+                    37.4976466337501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1404 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583916659227,
+                    37.4976466337501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585256802926,
+                    37.497508310121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585256802926,
+                    37.497508310121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093940",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548154242761,
+                    37.4970080129002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4581238766387,
+                    37.4972265128883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107872",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4581238766387,
+                    37.4972265128883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1412 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586607507937,
+                    37.4973384868183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1413 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4548009821831,
+                    37.4968069508385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1416 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000067878",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4552938234325,
+                    37.4967876823793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1416 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108400",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588966846304,
+                    37.4972485167194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.458340595893,
+                    37.4969583248903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595780025701,
+                    37.4976044986406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595780025701,
+                    37.4976044986406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590733679329,
+                    37.4971206034182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586890774718,
+                    37.4965822552366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586890774718,
+                    37.4965822552366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586890774718,
+                    37.4965822552366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586890774718,
+                    37.4965822552366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586890774718,
+                    37.4965822552366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1435 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588497142951,
+                    37.4963683210439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1437 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599861798563,
+                    37.4971765995704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1437 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000104748",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599861798563,
+                    37.4971765995704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000112024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4593591862966,
+                    37.496375057416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4593591862966,
+                    37.496375057416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000091564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4593591862966,
+                    37.496375057416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000081514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601997226741,
+                    37.4967786152755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595163076673,
+                    37.4962032652481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000119679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547509212866,
+                    37.4963088856581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000004718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603904221199,
+                    37.496658955667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009604",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603904221199,
+                    37.496658955667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603904221199,
+                    37.496658955667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080074",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603904221199,
+                    37.496658955667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000004216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575723373089,
+                    37.4961332342275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1507 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000076555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575723373089,
+                    37.4961332342275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1513 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547366502315,
+                    37.4959789552771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1513 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547366502315,
+                    37.4959789552771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1513 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46052082875,
+                    37.4964894491429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1513 Hopkins Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000088378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46052082875,
+                    37.4964894491429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001613",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1515 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000076554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457641627129,
+                    37.4959366363329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1517 Bangle Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4547251249138,
+                    37.4958160881919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1523 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4576054778829,
+                    37.4956646755777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580441753617,
+                    37.4955444575415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580441753617,
+                    37.4955444575415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1524 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4580441753617,
+                    37.4955444575415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "196882-101000054755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604999941539,
+                    37.4962409999299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4596209209927,
+                    37.4953964629986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457594226601,
+                    37.4952801206274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601394639103,
+                    37.4955669336821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000075097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601394638723,
+                    37.4955669364284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "220185-101000073133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601573042144,
+                    37.4956029991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "220189-101000073136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601573042144,
+                    37.4956029991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457572734616,
+                    37.4950897744657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1612 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "235747-101000086900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603119012251,
+                    37.4954040996593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1612 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602738253602,
+                    37.4954054931252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4609148444674,
+                    37.4959804121472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4609148444674,
+                    37.4959804121472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4609148444674,
+                    37.4959804121472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4609148444674,
+                    37.4959804121472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575561415448,
+                    37.4949190463083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1613 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575561415448,
+                    37.4949190463083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612135570584,
+                    37.495664889283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1631 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4613766879611,
+                    37.4954569006985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011416",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616112965227,
+                    37.4950877206427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618287996012,
+                    37.4948388114497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618287996012,
+                    37.4948388114497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618287996012,
+                    37.4948388114497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000024295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618287996012,
+                    37.4948388114497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1655 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4619176411663,
+                    37.4946458376355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1655 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4619176411663,
+                    37.4946458376355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1655 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027626",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4619176411663,
+                    37.4946458376355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1706 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4614439743557,
+                    37.4939616459372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4575004874163,
+                    37.4943781192552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457968528187,
+                    37.4942443224286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457968528187,
+                    37.4942443224286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.457968528187,
+                    37.4942443224286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000029542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4615203123789,
+                    37.4938004478795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4615203123789,
+                    37.4938004478795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090070",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4615203124169,
+                    37.4938004451332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4615203124169,
+                    37.4938004451332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1713 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4622724081635,
+                    37.493832097708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579132017256,
+                    37.4940303821656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000026279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.46234454265,
+                    37.4936806181803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616002307942,
+                    37.4936295692279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4624175471609,
+                    37.4935110270085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1722 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578954657472,
+                    37.4938699546525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1725 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "203262-101000060202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4625236022905,
+                    37.4933319006827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000082295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612479483676,
+                    37.4931397257945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000082297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612479483676,
+                    37.4931397257945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1733 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000067741",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4626453390618,
+                    37.4930004514042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1737 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.461274712039,
+                    37.4929489684172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1737 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.461274712039,
+                    37.4929489684172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4628060304469,
+                    37.4926586945175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4628060304469,
+                    37.4926586945175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4628060304469,
+                    37.4926586945175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1741 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000067740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4628060304469,
+                    37.4926586945175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1748 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4617609571482,
+                    37.4927138464742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1753 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612735178328,
+                    37.4925661773527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1754 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000112684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4617458193304,
+                    37.4925244438854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1754 Gross Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4617458193304,
+                    37.4925244438854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 Yale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4578252725607,
+                    37.4933358266519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1905 Hopkins Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4624665881181,
+                    37.4914176743239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 Hopkins Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618734243489,
+                    37.4914707551795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Hopkins Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000010438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4621413701908,
+                    37.4911350942137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1909 Hopkins Road Apt C",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056641",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4621413701908,
+                    37.4911350942137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 Hopkins Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4614360912081,
+                    37.4913620245685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1917 Hopkins Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604682278909,
+                    37.4915981359684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1919 Hopkins Road Apt O",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605458733661,
+                    37.4912724623775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1923 Hopkins Road Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459523579417,
+                    37.4916830872551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1923 Hopkins Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459523579417,
+                    37.4916830872551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1923 Hopkins Road Apt Q",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459523579417,
+                    37.4916830872551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1923 Hopkins Road Apt S",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459523579417,
+                    37.4916830872551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1923 Hopkins Road Apt U",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459523579417,
+                    37.4916830872551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Hopkins Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589687308225,
+                    37.491550167156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Hopkins Road Apt J",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589687308605,
+                    37.4915501644098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Hopkins Road Apt L",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589687308605,
+                    37.4915501644098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1925 Hopkins Road Apt P",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589687308605,
+                    37.4915501644098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1927 Hopkins Road Apt O",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459300625059,
+                    37.4912323888964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1927 Hopkins Road Apt S",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459300625059,
+                    37.4912323888964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2940 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102558",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455091227775,
+                    37.4977084323847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000046651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4552109338015,
+                    37.4957864364195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4552109338015,
+                    37.4957864364195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553171643677,
+                    37.4977131850556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3000 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000004589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4553171643677,
+                    37.4977131850556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3010 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4555216639849,
+                    37.4957714139785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3010 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118057",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558117124339,
+                    37.4977079589958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455782801224,
+                    37.4957455935247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455782801224,
+                    37.4957455935247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3014 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.455782801224,
+                    37.4957455935247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3016 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000079469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4561641508032,
+                    37.4977136353384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3016 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "219064-101000072436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562047903051,
+                    37.4977611000312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3020 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000087652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562506569571,
+                    37.4966841921238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3020 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4562506569571,
+                    37.4966841921238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3022 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456188369882,
+                    37.4957424821411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3023 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564754763495,
+                    37.4973382280495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3024 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565219955348,
+                    37.4977371286443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3025 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564487594283,
+                    37.4962823457548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3025 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4564487594283,
+                    37.4962823457548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3027 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567701669076,
+                    37.4973417597587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3027 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4567701669076,
+                    37.4973417597587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3028 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.456735583913,
+                    37.4977448817361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3029 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070347",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4566582405796,
+                    37.4962603448026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3030 Culver Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4565914690275,
+                    37.4957136203594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579963989458,
+                    37.4950492044041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252422,
+                    37.4977702972812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252422,
+                    37.4977702972812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093748",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252422,
+                    37.4977702972812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252422,
+                    37.4977702972812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252041,
+                    37.4977703000274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4570739252422,
+                    37.4977702972812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572654842514,
+                    37.4973927487583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027367",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572654842514,
+                    37.4973927487583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572654842514,
+                    37.4973927487583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000044686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572654842514,
+                    37.4973927487583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Laurelbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4572654842514,
+                    37.4973927487583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583980536805,
+                    37.4933370680083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3104 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582275155464,
+                    37.4950377840639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3104 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582275155464,
+                    37.4950377840639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3104 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093351",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4582275155464,
+                    37.4950377840639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3104 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586128393805,
+                    37.493737966383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072096",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583641493598,
+                    37.4946029677896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583641493598,
+                    37.4946029677896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000081603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4583641493598,
+                    37.4946029677896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3108 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585175427545,
+                    37.4959998230042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4586657736695,
+                    37.4946302616152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588657092536,
+                    37.4946300769138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "197899-101000055855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589460152143,
+                    37.4955349994454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "250345-101000100259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589460152143,
+                    37.4955349994454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589355963017,
+                    37.4955505551864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589355963017,
+                    37.4955505551864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589355963017,
+                    37.4955505551864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4589355963017,
+                    37.4955505551864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3117 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4592993941541,
+                    37.4934315420952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459499361929,
+                    37.493817526526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3120 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459499361929,
+                    37.493817526526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590964154744,
+                    37.4946133338956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090367",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590964154744,
+                    37.4946133338956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Keyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "193773-101000052682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459118316864,
+                    37.4945999993826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4591736332874,
+                    37.4955373508405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4591736332874,
+                    37.4955373508405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595266025402,
+                    37.4934530824089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459731107305,
+                    37.4938500761414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3124 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000081489",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459731107267,
+                    37.4938500788877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032075",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459746881638,
+                    37.4934771734468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000037338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459746881638,
+                    37.4934771734468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459746881638,
+                    37.4934771734468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459746881638,
+                    37.4934771734468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3125 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459746881638,
+                    37.4934771734468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3129 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599723419408,
+                    37.493500507554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590363886977,
+                    37.4928358454167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000090691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590363886977,
+                    37.4928358454167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000071619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000087256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3134 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098374",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588869849482,
+                    37.4928539344798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3136 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603951659139,
+                    37.4939215209222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3137 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4585293320505,
+                    37.4919941856687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3141 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4606086165383,
+                    37.4935992280463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3147 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4588619369301,
+                    37.4919640264345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3150 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4598476695503,
+                    37.4927172212231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3200 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601623229576,
+                    37.4926792240046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3200 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000067236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595401168439,
+                    37.4949680525483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3201 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595530102018,
+                    37.4945867036265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3204 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052362",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603693993775,
+                    37.492660807226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3204 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603693993775,
+                    37.492660807226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3204 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603693993775,
+                    37.492660807226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3205 Cofer Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000085120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595300142627,
+                    37.4922171542892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3209 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599770131358,
+                    37.4945687228912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3212 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460785791712,
+                    37.4926165434899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3212 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460785791712,
+                    37.4926165434899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604751604899,
+                    37.4949250749974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3216 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604751604899,
+                    37.4949250749974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3219 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4599584045592,
+                    37.4921401716481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3219 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604854447733,
+                    37.4945101810569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3219 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000037820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604854448112,
+                    37.4945101783107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602640301821,
+                    37.4922887776175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3225 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602640301821,
+                    37.4922887776175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3228 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000096484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4610422612444,
+                    37.4946845789412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3229 Cofer Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000047992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602408212794,
+                    37.4921124903116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3237 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4608394558278,
+                    37.4941689116235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3237 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4608394558278,
+                    37.4941689116235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3237 Kenyon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4608394558278,
+                    37.4941689116235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3259 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4609835164566,
+                    37.4921297068326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3277 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4614125021443,
+                    37.4920793550651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3305 Cofer Road Apt G",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4616666682337,
+                    37.4919806266866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Cofer Road Apt H",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000060742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618622047802,
+                    37.4916642884111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Cofer Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618622047802,
+                    37.4916642884111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Cofer Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618622047802,
+                    37.4916642884111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Cofer Road Apt N",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054431",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618622047802,
+                    37.4916642884111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3307 Cofer Road Apt N",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618622047802,
+                    37.4916642884111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3315 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000037003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4623075476507,
+                    37.4920496110462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3315 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4623075476507,
+                    37.4920496110462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3316 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4625091628401,
+                    37.4924394610395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3337 Cofer Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4627277118928,
+                    37.49197145323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3337 Cofer Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4627277118928,
+                    37.49197145323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3345 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4626800095454,
+                    37.4916162289318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3347 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008089",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.462731401729,
+                    37.4916113972175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3349 Cofer Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000024914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4627811557676,
+                    37.4916078749933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3357 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631381335317,
+                    37.4915897604389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Chalfont Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Chalfont Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639879859889,
+                    37.4906362859204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Mcguire Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000089787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460814971076,
+                    37.4965074734629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Laurelbrook Dr @ Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579236277278,
+                    37.4976892018401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lost Lane @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055943",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4603657535921,
+                    37.4970844376241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lost Lane @ Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590907787805,
+                    37.4964180127521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lost Lane @ Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590907787805,
+                    37.4964180127521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mcguire Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000092764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460814971076,
+                    37.4965074734629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mcguire Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460814971076,
+                    37.4965074734629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mcguire Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115706",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460814971076,
+                    37.4965074734629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mcguire Dr @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.460814971076,
+                    37.4965074734629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Talbert Dr @ Lost Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590907787805,
+                    37.4964180127521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1927 Hopkins Road Apt K",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000124632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.459300625021,
+                    37.4912323916427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3315 Cofer Road Apt B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000122345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4623075476507,
+                    37.4920496110462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000123329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4590808352738,
+                    37.4934077097826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3132 Maurice Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601856573934,
+                    37.4938837212988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595163076673,
+                    37.4962032652481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1506 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4595163076673,
+                    37.4962032652481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3017 Hiden Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4560534130302,
+                    37.496308748528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1401 Talbert Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4579038803429,
+                    37.4975022082909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Cofer",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4618287996012,
+                    37.4948388114497
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

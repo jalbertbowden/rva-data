@@ -1,0 +1,5357 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4360004665954,
+        37.5327528620644,
+        -77.4307243996804,
+        37.5367278621012
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330618792739,
+                    37.5360475848708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322903863455,
+                    37.535264199907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327743330049,
+                    37.5339194482258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327743330049,
+                    37.5339194482258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000075137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327743330049,
+                    37.5339194482258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088881",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327743330049,
+                    37.5339194482258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327743330049,
+                    37.5339194482258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000081059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028094",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 S 15th St Apt 206",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314024817312,
+                    37.5336649296924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004447",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4340484271994,
+                    37.535185009545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000068192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "256205-101000104048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433184946047,
+                    37.5346375985564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "101 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "269340-101000111252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4315764053112,
+                    37.5332479282668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "101 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000066704",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337159842065,
+                    37.5350119988041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "104 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341288905899,
+                    37.5350634942581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "104 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044854",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341288905899,
+                    37.5350634942581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "104 Shockoe Slip Apt 2D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000005200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341288905899,
+                    37.5350634942581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "109 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432424111542,
+                    37.5339692018078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "109 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432424111542,
+                    37.5339692018078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "106 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "209428-101000065139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433702998715,
+                    37.5346338991162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "106 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "230578-101000082517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433702998715,
+                    37.5346338991162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "106 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000010765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4340458983474,
+                    37.5347333794154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.434211122641,
+                    37.5361187045478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000080029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.434211122641,
+                    37.5361187045478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4343923199981,
+                    37.5348788651943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 S 15th St Apt 302",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035478",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316580557518,
+                    37.5334264689448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "110 S 15th St Apt 310",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000071414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316580557518,
+                    37.5334264689448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "111 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "266160-101000109685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347955033057,
+                    37.5349568989121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "111 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000053465",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331553050395,
+                    37.5340407603385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "111 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000115983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331553050395,
+                    37.5340407603385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "111 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000116698",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331553050395,
+                    37.5340407603385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "114 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000099785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334088065039,
+                    37.5341862971473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "115 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000002446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338684347544,
+                    37.5342212373945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "115 Shockoe Slip",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000075578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338684347544,
+                    37.5342212373945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "117 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000018862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324931038502,
+                    37.533664646205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "117 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324931038112,
+                    37.5336646489512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "262603-101000107754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354357999185,
+                    37.5350426007189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354986642725,
+                    37.5336964400332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000011833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4344071127998,
+                    37.5358961542341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4344071127998,
+                    37.5358961542341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4344071127998,
+                    37.5358961542341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4344071127998,
+                    37.5358961542341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353931503447,
+                    37.5348954630332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "266702-101000110002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354402108574,
+                    37.5350453017564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345672821749,
+                    37.5356846689255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345672821749,
+                    37.5356846689255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "250822-101000100642",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339628317365,
+                    37.5364296631712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201-1299 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "264647-101000108937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4351378943357,
+                    37.5348100481663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201-1299 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "262473-101000107694",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4351013609332,
+                    37.5348155372116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201-1299 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "197454-101000055319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4351196142371,
+                    37.5348319993267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201-1299 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "198593-101000056291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435268724455,
+                    37.5349286226898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1207 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "216297-101000070201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338836518233,
+                    37.5360641491237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1209 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107055",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433534506533,
+                    37.5363850514835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1209 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046377",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433534506533,
+                    37.5363850514835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1211 E Main St Apt 10",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042763",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334665281683,
+                    37.5363435599768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1215 E Main St Apt 3A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105085",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333329575887,
+                    37.5362625785901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1215 E Main St Apt 4F",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000083724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333329575887,
+                    37.5362625785901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1218 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000073225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338003956266,
+                    37.5355362156775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1228 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349079722241,
+                    37.5349035082065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1228 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349079722241,
+                    37.5349035082065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "123 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000001101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325361321805,
+                    37.5335029118703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "125 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325612831557,
+                    37.5334173080251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "125 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000017161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325612831557,
+                    37.5334173080251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "125 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "223727-101000076249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432383812046,
+                    37.5335429007095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337840114101,
+                    37.5367278621012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1-3 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "215971-101000070059",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337893409385,
+                    37.5366341888878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1-3 S 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "200389-101000057958",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338302516251,
+                    37.5366630277672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000085722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4332521983863,
+                    37.5358287262188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13 S 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307243996804,
+                    37.5340448757936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037557",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336162003522,
+                    37.5353478608011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000084860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336162003522,
+                    37.5353478608011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000098432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336162003522,
+                    37.5353478608011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336162003522,
+                    37.5353478608011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "199451-101000057157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350280648492,
+                    37.5347404467226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "262751-101000107817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349894242689,
+                    37.5347559088205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "259672-101000106259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350047885418,
+                    37.5347644925569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336880196674,
+                    37.5351355323887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330131314528,
+                    37.5360630817019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1301-1323 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "198771-101000056456",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4349521404481,
+                    37.5347096869154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1308 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000014354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334379612517,
+                    37.535230813459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1308 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000014357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334379612517,
+                    37.535230813459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1308 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031543",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334379612517,
+                    37.535230813459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1308 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000120147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334379612906,
+                    37.5352308107128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000031122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161536,
+                    37.534983720264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161147,
+                    37.5349837230102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161536,
+                    37.534983720264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000039098",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161147,
+                    37.5349837230102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338911488524,
+                    37.5345578689911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338911488524,
+                    37.5345578689911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058456",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338911488524,
+                    37.5345578689911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "222271-101000074773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338911488524,
+                    37.5345578689911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000098702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338911488524,
+                    37.5345578689911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333736143164,
+                    37.5351935568028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1312 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333029730062,
+                    37.5351526564514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000018559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4332675038093,
+                    37.5349008366602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103058",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St Apt 103",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St Apt 207",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St Apt 207",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1313 E Main St Apt 318",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326601610299,
+                    37.5358514999774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1315 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000022503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433193281995,
+                    37.5348449242269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1315 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433193281956,
+                    37.5348449269731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1317 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "245689-101000096265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324909036298,
+                    37.5357698996636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1320 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329825385136,
+                    37.5350473859687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1320 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000116418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329825385136,
+                    37.5350473859687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1321 1/2 E Main St Apt 105",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000074589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4323603101444,
+                    37.5356518652756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1321 1/2 E Main St Apt 212",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000116894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4323603101444,
+                    37.5356518652756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1323 E Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "265801-101000109466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330565856173,
+                    37.5341290035254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1329 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000005745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326840417602,
+                    37.5345582043484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1331 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432632151184,
+                    37.5345109026139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1331 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "258492-101000105643",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324594279578,
+                    37.5345472828704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1386 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "258497-101000105644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324546030645,
+                    37.5341802921605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "139 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "237626-101000088932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433423813285,
+                    37.533711997906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433018619738,
+                    37.5362547454751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "13th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433018619738,
+                    37.5362547454751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "254265-101000103031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432374758649,
+                    37.535057080205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432374758649,
+                    37.535057080205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "140 Va-195",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "229200-101000081543",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334945737086,
+                    37.5335426328542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "140 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337825652898,
+                    37.5334375662781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000086621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4321681558753,
+                    37.5345283667501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400-1434 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "257800-101000105174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319270815361,
+                    37.5355497755394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1400-1498 Dock St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "249478-101000099518",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325004642273,
+                    37.5333163292327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 E Cary St Apt 204",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000053492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320784170105,
+                    37.5341858218269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1407 E Cary St Apt 304",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000059966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320784170105,
+                    37.5341858218269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320214448386,
+                    37.5341539509595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000049622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320214448386,
+                    37.5341539509595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "232324-101000083825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320214448386,
+                    37.5341539509595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319531791155,
+                    37.5341183198777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1411 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319531791155,
+                    37.5341183198777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1415 Davenport Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000068717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43210816571,
+                    37.5338275964693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1415 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000055008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314396776474,
+                    37.5350346775535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000059650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317601741841,
+                    37.5339995383861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1419 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057615",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316988520012,
+                    37.5339534311356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "228785-101000081237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317988620801,
+                    37.533713774014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Lombardy Al",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311661783425,
+                    37.5344594036283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Lombardy Al",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311661783425,
+                    37.5344594036283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Lombardy Al Apt 3D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000012554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311661783816,
+                    37.5344594008821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Lombardy Al Apt 3D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038371",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311661783816,
+                    37.5344594008821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1421 Lombardy Al Apt 3D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311661783816,
+                    37.5344594008821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314728384614,
+                    37.5342061219867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000043480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314728384614,
+                    37.5342061219867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044375",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312588192239,
+                    37.5348061886586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000055223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312588192239,
+                    37.5348061886586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "195678-101000053944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316251999499,
+                    37.5348282998184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1425 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "197974-101000055974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4316251999499,
+                    37.5348282998184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1430 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.431328809433,
+                    37.5340436411159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1437 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "229713-101000081882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308929285089,
+                    37.5345726003545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325342255478,
+                    37.5341423924197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000048039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325342255478,
+                    37.5341423924197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000020837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515891,
+                    37.5345053630651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000054043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267641,
+                    37.5355576880594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267641,
+                    37.5355576880594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000104229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000104229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500-1512 Dock St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "243682-101000094627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318681453824,
+                    37.5329277007688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500-1522 Dock St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "237258-101000088485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4315397730743,
+                    37.5328503065602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310712858253,
+                    37.5335579172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310712858253,
+                    37.5335579172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310712858253,
+                    37.5335579172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310712858253,
+                    37.5335579172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1501 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310712858253,
+                    37.5335579172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "15th St @ Dock St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319953305951,
+                    37.5329162509766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000002102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334242658585,
+                    37.5356126693388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000011105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334242658585,
+                    37.5356126693388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000048719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329751399977,
+                    37.5330658475633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000075003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329751399977,
+                    37.5330658475633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000086421",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329751399977,
+                    37.5330658475633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000091606",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329751399977,
+                    37.5330658475633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "200 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329751399977,
+                    37.5330658475633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "201396-101000058734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334115099814,
+                    37.5354640008866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335201454304,
+                    37.535515630517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335201454304,
+                    37.535515630517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335201454304,
+                    37.535515630517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000117372",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335201454304,
+                    37.535515630517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "23 S 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000119324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335201454304,
+                    37.535515630517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "25 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "199691-101000057378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320114637768,
+                    37.5350580099388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300368898,
+                    37.5329598235709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300368898,
+                    37.5329598235709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000043117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300368898,
+                    37.5329598235709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300368898,
+                    37.5329598235709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300368898,
+                    37.5329598235709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336300713743,
+                    37.5329598238811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1001",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000096052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1014",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000014275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1401",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1509",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000074775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1509",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000080811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1602",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000104041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1604",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334990890359,
+                    37.5328086415335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1709",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1709",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 602",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000073360",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 709",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000071339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 803",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 803",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 805",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 814",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000010918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "63-99 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "196846-101000054719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322514225338,
+                    37.5347730039756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322508882492,
+                    37.5353254057506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8 S 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000047926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322508882492,
+                    37.5353254057506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Byrd St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4360004665954,
+                    37.5343822948801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000071841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000110864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "197418-101000055295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325230959854,
+                    37.5342048013872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "194603-101000053017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325586287356,
+                    37.534211482418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "198568-101000056276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325586287356,
+                    37.534211482418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337931117952,
+                    37.5353567195582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000119156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337931117952,
+                    37.5353567195582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324290515501,
+                    37.5345053658113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311727072791,
+                    37.5337479166713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311727072791,
+                    37.5337479166713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cary St @ 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000119479",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311727072791,
+                    37.5337479166713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dock St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327458960702,
+                    37.5333230738038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dock St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327458960702,
+                    37.5333230738038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dock St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "223711-101000076238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327458960702,
+                    37.5333230738038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dock St @ 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319953305951,
+                    37.5329162509766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Dock St @ 15th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000029092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319953305951,
+                    37.5329162509766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy Al @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062840",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322025889459,
+                    37.5351515193248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy Al @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322025889459,
+                    37.5351515193248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy Al @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000072638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322025889459,
+                    37.5351515193248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lombardy Al @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000076177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322025889459,
+                    37.5351515193248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000041019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Main St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4319386267251,
+                    37.5355576908056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Shockoe Lane @ Canal St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "234946-101000086261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.434605379801,
+                    37.5344810226184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Virginia St @ Byrd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4340203852289,
+                    37.5327528620644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Virginia St @ Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329522994668,
+                    37.5348183794609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1417 E Cary St Apt 201",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317601741841,
+                    37.5339995383861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Virginia St Unit 1711",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334895871629,
+                    37.5328706477668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161536,
+                    37.534983720264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1309 E Cary St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000124338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334290161536,
+                    37.534983720264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Canal St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000125107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354693308516,
+                    37.535044555274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21 S 13th St Apt 502",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122592",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4334660875939,
+                    37.5355699519516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1321 E Main St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Shockoe Slip",
+                "PRECINCT": "1",
+                "NSA": "Downtown-2"
+            },
+            "id": "288285-101000125163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4321656587535,
+                    37.5355636884533
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

@@ -1,0 +1,1277 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4358271926602,
+        37.4980982572205,
+        -77.4305203759919,
+        37.5062038007137
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000030242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432397355484,
+                    37.5061857576927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000100468",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432397355484,
+                    37.5061857576927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000035727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432397355484,
+                    37.5061857576927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1300 Minefee St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000050025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355879525771,
+                    37.5037941799505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1310 Minefee St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000119735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355083525113,
+                    37.5034553462426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1312 Minefee St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000101166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4355056699014,
+                    37.5033988687848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1316 Minefee St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000037020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435496907033,
+                    37.5032872621297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1320 Minefee St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000029865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354827487469,
+                    37.5031866208149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000096454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4337487406766,
+                    37.506083247304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1409 Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000008596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335327385836,
+                    37.5042797730642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1414 Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000013210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433969060577,
+                    37.5061259916882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1514 Lone St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000109484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435065912159,
+                    37.5056015719278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 Lone St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000093932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352715881995,
+                    37.5053222219519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1528 Lone St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000052002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352715881995,
+                    37.5053222219519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000105244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341470371635,
+                    37.5060621470474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000111293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.431158787159,
+                    37.5061975920412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Lone St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000055385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4351699522408,
+                    37.5049716022718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1614 Rosecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000012384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.432960907845,
+                    37.5055055631023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 Elmdale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000083014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317487361811,
+                    37.5056816729087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000002361",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4346266682934,
+                    37.5052716751184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1623 Elmdale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000008733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322391413354,
+                    37.5053359470657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4346047787572,
+                    37.5050986877923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1625 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000031158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4346047787572,
+                    37.5050986877923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1635 Elmdale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000016405",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322312374598,
+                    37.5049431989734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1635 Elmdale Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000017383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322312374598,
+                    37.5049431989734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1636 Commerce Rod",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "236226-101000087548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4305203759919,
+                    37.5035968195216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1639 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000068359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4348598553014,
+                    37.5047465888653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1641 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000031828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310512209145,
+                    37.503374222305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1643 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000069091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309353013252,
+                    37.5028197882247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1649 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000069097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312879534327,
+                    37.5021545869576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1652 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000006410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339884967092,
+                    37.5047134898512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1660 Rosecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000092803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4328440587598,
+                    37.504493047054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1661 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000003337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4345056607266,
+                    37.5044416177087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1666 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000042415",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338099536548,
+                    37.5044867814119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 Rosecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000015402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326259889685,
+                    37.5039423530796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000116216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4352161681183,
+                    37.5037576965442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000046166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312436246677,
+                    37.5007641022378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000076768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312436247067,
+                    37.5007640994915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Rosecrest Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000075339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330574317808,
+                    37.5035961998275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1731 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000047566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353502960608,
+                    37.5028675132589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1735 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000035467",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353619221024,
+                    37.50267456006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1735 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000035469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4353619221024,
+                    37.50267456006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000100242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317638070834,
+                    37.4998561945548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000028273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317638070834,
+                    37.4998561945548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000037648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317638070834,
+                    37.4998561945548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1803 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000040054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4344298263899,
+                    37.5025330982501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000016870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4343979486592,
+                    37.5029483483904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1825 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000085418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433926485861,
+                    37.5022976457329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1829 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "219143-101000072525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4327918893398,
+                    37.4989251994687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1831 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000109624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433339228685,
+                    37.4980982572205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1833 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000058047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4339159552268,
+                    37.502478732446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1841 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000021539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335681194417,
+                    37.502463011987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1842 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000077477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433382191443,
+                    37.50291548686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1844 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000053117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333414026588,
+                    37.5029036664083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1844 Southlawn Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000053119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333414026588,
+                    37.5029036664083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Commerce Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000108003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325155455566,
+                    37.4983329757297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lone St @ Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000089886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435619973528,
+                    37.5062038007137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lone St @ Bruce St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000033619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.435619973528,
+                    37.5062038007137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lone St @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000089883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354307430925,
+                    37.50398423222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Lone St @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000033617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4354307430925,
+                    37.50398423222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Minefee St @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000097907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4358271926602,
+                    37.503961264111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Minefee St @ Harwood St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000028801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4358271926602,
+                    37.503961264111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1621 Glenfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Hillside Court",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000120629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4346186676661,
+                    37.5052134194929
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

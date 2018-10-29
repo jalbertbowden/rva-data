@@ -1,0 +1,617 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4336539120577,
+        37.4957533031503,
+        -77.4229965331721,
+        37.5173195851745
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000102276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306992285523,
+                    37.5093365680332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000047964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306992285523,
+                    37.5093365680332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000110612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306992285523,
+                    37.5093365680332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1408 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000111393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306992285523,
+                    37.5093365680332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1418 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "257355-101000104776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4308853008853,
+                    37.508968353263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000035149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307237250469,
+                    37.5089037568856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000102289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307237250469,
+                    37.5089037568856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000049816",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307237250469,
+                    37.5089037568856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1420 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000108910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307237250469,
+                    37.5089037568856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1422 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000096335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304277699656,
+                    37.5087023485068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1500 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000018785",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4303934283378,
+                    37.5079776868363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000005664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430315849676,
+                    37.506230396181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1618 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000009047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4299630237319,
+                    37.5050110324425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1636 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000110798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301111741613,
+                    37.5036922360944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1650 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000058693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293709398829,
+                    37.5022206151781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1654 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300963818652,
+                    37.5019790820953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1654 Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000049441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300963818652,
+                    37.5019790820953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "520 Gordon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000102163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309154923183,
+                    37.515546320274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Goodes St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000064348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301260549974,
+                    37.5108131471149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700-1400 Goodes St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "208148-101000064170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306523978705,
+                    37.5105058996158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "738 A Goodes St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000036300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4290033907346,
+                    37.5104452935355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000037448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4290471280432,
+                    37.5173195851745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000091443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4290471280432,
+                    37.5173195851745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Commerce Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000108003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4325155455566,
+                    37.4983329757297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Commerce Road @ Gordon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000104863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335417873073,
+                    37.5141200847349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Gordon Ave @ 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000113064",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302361655588,
+                    37.5162819759338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "252197-101000101891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4229965331721,
+                    37.5150527951679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Royall Ave @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000021466",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336539120577,
+                    37.4957533031503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Royall Ave @ Commerce Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "2",
+                "NSA": "Old South-4"
+            },
+            "id": "101000107127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4336539120577,
+                    37.4957533031503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "520 Gordon Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Ancarows Landing",
+                "PRECINCT": "1",
+                "NSA": "Old South-4"
+            },
+            "id": "101000120796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309154923183,
+                    37.515546320274
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

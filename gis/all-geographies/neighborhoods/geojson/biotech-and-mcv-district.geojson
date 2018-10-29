@@ -1,0 +1,5377 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.43743355747,
+        37.537486902146,
+        -77.4277697329564,
+        37.5482767078934
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000085893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310602157726,
+                    37.5419962617873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4310602157726,
+                    37.5419962617873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1000 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292869720956,
+                    37.5431191757445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1016 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000063359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4305028479171,
+                    37.5417171001459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302399605043,
+                    37.5431215879903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301866515957,
+                    37.5431760547412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "10th St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301866515957,
+                    37.5431760547412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000004386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038615",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000099124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103821",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1100 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000110500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300134752118,
+                    37.541677426669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000091288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4303161358759,
+                    37.5411718673517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1101 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "266385-101000109807",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293253615154,
+                    37.5423056545055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "11th St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312876819253,
+                    37.5405853937076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307254441169,
+                    37.539356860006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4307254441169,
+                    37.539356860006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293567210934,
+                    37.5409854763423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000032899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293567210934,
+                    37.5409854763423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000010498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302493359227,
+                    37.5401336610241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302493359227,
+                    37.5401336610241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000081047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302493359227,
+                    37.5401336610241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000084170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302493359227,
+                    37.5401336610241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1200 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302493359227,
+                    37.5401336610241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042774",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4295659783157,
+                    37.5407463382362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000059791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302845634853,
+                    37.5397887106579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1201 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302845634853,
+                    37.5397887106579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1217 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4297024305484,
+                    37.5394672852522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1222 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4294283880216,
+                    37.5404169551682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1222 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4294283880216,
+                    37.5404169551682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1222 E Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4294283880216,
+                    37.5404169551682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1224 Us-250",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "220807-101000073618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.429779504322,
+                    37.5384339201245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000024432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312508734895,
+                    37.5392902862002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000024922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312508734895,
+                    37.5392902862002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4296536697782,
+                    37.5409732246556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000005813",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304594011949,
+                    37.5401015978386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12th St @ Marshall St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000039928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304594011949,
+                    37.5401015978386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292525152475,
+                    37.5380267478542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 E Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "272709-101000113488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4285014271176,
+                    37.5375674915691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "203 E Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "237358-101000088561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4363555931991,
+                    37.5480117796636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000106138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43743355747,
+                    37.5474330882283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2nd St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000115994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.43743355747,
+                    37.5474330882283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "304 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000099963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362159666841,
+                    37.5468653813665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "304 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000099966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362159666841,
+                    37.5468653813665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "304 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4362159666841,
+                    37.5468653813665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "311 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.431493572731,
+                    37.5400972648362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000101864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357043662053,
+                    37.5477765757945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000101864",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357043662053,
+                    37.5477765757945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357043662053,
+                    37.5477765757945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000036033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4357043662053,
+                    37.5477765757945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4365317200413,
+                    37.5468835947888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3rd St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000077873",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4365317200413,
+                    37.5468835947888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000048996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000050273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000060272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000093393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4309112365022,
+                    37.5407693840292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347915052172,
+                    37.5472363496352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347915052172,
+                    37.5472363496352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000116411",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347915052172,
+                    37.5472363496352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4th St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000104583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356662450178,
+                    37.5463152085429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000023843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000033158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000033593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000037709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000039474",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000040780",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067667",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000074823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000080796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089430",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000094095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000097750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102379",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106414",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314526679518,
+                    37.5422031884046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "500 N 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000039517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4285776185262,
+                    37.5409335312606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "501 N 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "207462-101000063540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4317981979236,
+                    37.5425567008304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000008699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000012189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000081970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000089806",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "503 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4293263059394,
+                    37.5411157295095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "509 N 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4290364307871,
+                    37.5413892208344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000028709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000044675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000056132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000064127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000064808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000067316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000084845",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000095549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "513 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "251899-101000101757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4300124572271,
+                    37.5417489408176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "516 E Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "255133-101000103550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4330511246263,
+                    37.5462436383507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "521 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000088443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4295937099886,
+                    37.5420591921117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000025402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338908748571,
+                    37.5467029745476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061646",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335780553855,
+                    37.5455614885701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 N 5th St Unit P1",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000096254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4350540911881,
+                    37.5464884467875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000061209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318881137187,
+                    37.544601155578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "600 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000077629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4318881137187,
+                    37.544601155578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 E Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "246421-101000097035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4333648572461,
+                    37.5461730951249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "601 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000072221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4296823656418,
+                    37.543318249336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "603 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000014313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4368724463934,
+                    37.547689657036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "610 N 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "222070-101000074602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4298429955608,
+                    37.5439220129378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4360032938847,
+                    37.5471730900646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "253104-101000102442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4360199043633,
+                    37.5471839891704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "613 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000034180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366920345259,
+                    37.548006623703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "613 N 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000034183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366920345259,
+                    37.548006623703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "623 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "253101-101000102441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356918500445,
+                    37.5474205009012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "659 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304667699067,
+                    37.5456053725052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "659 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304667699067,
+                    37.5456053725052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "659 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304667699067,
+                    37.5456053725052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "659 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304667699067,
+                    37.5456053725052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Block N 3th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "202922-101000059952",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356164060795,
+                    37.5478980987621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "254877-101000103392",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4314299335463,
+                    37.5455809283963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326216963695,
+                    37.544859078443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "225960-101000078451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4313617834172,
+                    37.5457257007329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "225992-101000078521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4313617834172,
+                    37.5457257007329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000092794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356929451167,
+                    37.547998472284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000040130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356929451167,
+                    37.547998472284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000060077",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356929451167,
+                    37.547998472284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000064778",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356929451167,
+                    37.547998472284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "195933-101000054175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4346587155291,
+                    37.547877599178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433735438852,
+                    37.5471188262043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046090",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433735438852,
+                    37.5471188262043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433735438852,
+                    37.5471188262043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433735438852,
+                    37.5471188262043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430969605614,
+                    37.5457043591795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000052541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430969605614,
+                    37.5457043591795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "704 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000054672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4341580866928,
+                    37.5479184097296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "705 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4348324847693,
+                    37.5479131052063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "705 N 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4348324847693,
+                    37.5479131052063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "729 N 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000058947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335731232168,
+                    37.5478930063338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "199680-101000057370",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329462156496,
+                    37.5473085801182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000026572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329533010908,
+                    37.5474825506983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329533010908,
+                    37.5474825506983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000114263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329533010908,
+                    37.5474825506983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "7th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320813539037,
+                    37.545627889218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000003627",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000036674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000045901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000051737",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000057825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062958",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000068824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000069887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000070724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000078472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000079316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000079670",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000081056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000086336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000105889",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106797",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000106838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000006875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000092636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000093062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000115091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000118095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312663130103,
+                    37.5442596224223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "808 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000087196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4322055889014,
+                    37.5433295051626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000073111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331114038118,
+                    37.5430492132178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331114038118,
+                    37.5430492132178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Duval St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000109161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430075033307,
+                    37.5462655423398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "8th St @ Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320922519422,
+                    37.5441324833908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000038228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306462610168,
+                    37.5436549395808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "900 E Leigh St Apt 106",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000082634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4306462610168,
+                    37.5436549395808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "901 E Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "207461-101000063538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301990007139,
+                    37.5438110017821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "215516-101000069672",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312888082003,
+                    37.5392494846065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000021445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312508734895,
+                    37.5392902862002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102745",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292525152475,
+                    37.5380267478542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292525152475,
+                    37.5380267478542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ 14th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "252577-101000102171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292210880819,
+                    37.5380562010913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ College St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000073742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4297825507878,
+                    37.5383483398328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000090150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000090150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000042967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000042967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-3"
+            },
+            "id": "101000043243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "East-2"
+            },
+            "id": "101000043243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4283723378732,
+                    37.537486902146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Broad St @ I-95",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000042966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4295345249923,
+                    37.5382634479505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000022965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4313399198966,
+                    37.5420011125239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000029722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4313399198966,
+                    37.5420011125239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000009164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304607422421,
+                    37.5414618471708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000102249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304607422421,
+                    37.5414618471708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000046381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304607422421,
+                    37.5414618471708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000033350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331114038118,
+                    37.5430492132178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Clay St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000034146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4331114038118,
+                    37.5430492132178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "College St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000112932",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4297825507878,
+                    37.5383483398328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "College St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000113255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4297825507878,
+                    37.5383483398328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Duval St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430931236385,
+                    37.5468401456025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Duval St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430075033307,
+                    37.5462655423398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Duval St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000030686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.430075033307,
+                    37.5462655423398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Duval St Conn @ 13th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4277697329564,
+                    37.5418621171892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Governor St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000022034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312888082003,
+                    37.5392494846065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347915052172,
+                    37.5472363496352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107833",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4347915052172,
+                    37.5472363496352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000090078",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320813539037,
+                    37.545627889218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000035885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320813539037,
+                    37.545627889218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 7th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000096995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320813539037,
+                    37.545627889218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000108919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4311921918937,
+                    37.5450863594485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ Navy Hill Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000103899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329981406157,
+                    37.5461682902218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "251345-101000101021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4335643849484,
+                    37.5452169987884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000027356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4302399605043,
+                    37.5431215879903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000054593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301866515957,
+                    37.5431760547412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000075974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301866515957,
+                    37.5431760547412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 10th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "269829-101000111668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4301483851375,
+                    37.5432109011689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000111063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4365317200413,
+                    37.5468835947888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 3rd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000111063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4365317200413,
+                    37.5468835947888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 8th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000107987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4320922519422,
+                    37.5441324833908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000100865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312863732978,
+                    37.5435619973042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Leigh St @ 9th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "207460-101000063539",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4313010068112,
+                    37.5435687017468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000007127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312876819253,
+                    37.5405853937076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000062663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4312876819253,
+                    37.5405853937076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000065882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304594011949,
+                    37.5401015978386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Marshall St @ 12th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000066043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4304594011949,
+                    37.5401015978386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "North 4th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "269796-101000111624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4356212008641,
+                    37.5463513004758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "284943-101000122378",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4324132362211,
+                    37.5476964388402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "2",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000123987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366385740051,
+                    37.5482767078934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Jackson St @ 2nd St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-1"
+            },
+            "id": "101000123987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4366385740051,
+                    37.5482767078934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14th St @ Broad St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000123960",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4292525152475,
+                    37.5380267478542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "700 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000121528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.433735438852,
+                    37.5471188262043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "521 N 11th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4295937100277,
+                    37.5420591893655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "800 E Clay St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000123403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4326438450999,
+                    37.543190034261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5th St @ Jackson St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000122004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4338908748571,
+                    37.5467029745476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "737 N 5th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Biotech and MCV District",
+                "PRECINCT": "4",
+                "NSA": "Downtown-2"
+            },
+            "id": "101000120946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4329533010908,
+                    37.5474825506983
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

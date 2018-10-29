@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-huguenot-hs-ball-diamond",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 73, "ParkName": "Huguenot HS Ball Diamond", "ParkType": "sports complex", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244025753000.0, "EditBy": "waldrosr", "EditDate": 1244025753000.0, "Shape__Are": 1.030978341e-06, "Shape__Len": 0.0040524159465709997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5424594, 37.5298452 ], [ -77.5411615, 37.5299788 ], [ -77.5411331, 37.5298425 ], [ -77.5411296, 37.5297225 ], [ -77.5411359, 37.5296225 ], [ -77.5411624, 37.5295147 ], [ -77.541184, 37.5293988 ], [ -77.5412155, 37.529291 ], [ -77.5412416, 37.5292152 ], [ -77.5412875, 37.5291596 ], [ -77.5413837, 37.5290964 ], [ -77.5421947, 37.5289309 ], [ -77.5424594, 37.5298452 ] ] ] } }
+]
+}

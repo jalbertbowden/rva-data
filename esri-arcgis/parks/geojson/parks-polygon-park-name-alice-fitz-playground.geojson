@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-alice-fitz-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "ParkName": "Alice Fitz Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244160000000.0, "EditBy": "waldrosr", "EditDate": 1244160000000.0, "Shape__Are": 2.86743352e-07, "Shape__Len": 0.0022384218071580001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4482964, 37.5231891 ], [ -77.448412, 37.5233048 ], [ -77.4480536, 37.5235317 ], [ -77.447564, 37.523035 ], [ -77.4479189, 37.5228116 ], [ -77.4482623, 37.5231572 ], [ -77.4482964, 37.5231891 ] ] ] } }
+]
+}

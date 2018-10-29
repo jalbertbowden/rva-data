@@ -1,0 +1,735 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4861481402601,
+        37.4837613598147,
+        -77.4799589260752,
+        37.4880338325074
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1917 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000002638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858974615809,
+                    37.4860608855672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1917 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000040976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858974615809,
+                    37.4860608855672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1917 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000043301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858974615809,
+                    37.4860608855672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1919 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000010125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861481402601,
+                    37.4861018843658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1919 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861481402601,
+                    37.4861018843658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1919 Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000012682",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861481402601,
+                    37.4861018843658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4875 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805102790472,
+                    37.484778785384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4875 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000062125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805102790472,
+                    37.484778785384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4875 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805102790099,
+                    37.4847787881303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4893 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000059354",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4804660282709,
+                    37.4853125134157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4901 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000032876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805113626425,
+                    37.4854719637045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4901 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000088172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805113626053,
+                    37.4854719664507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4909 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805540200718,
+                    37.4856382106982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4917 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000051443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805438975722,
+                    37.4858535930296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4917 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000052591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805438975722,
+                    37.4858535930296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4925 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000070731",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4806275712531,
+                    37.4861546436706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5009 Fernbrook Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000047213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4851773544371,
+                    37.4871838823708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5009 Fernbrook Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000060583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4851773544371,
+                    37.4871838823708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5011 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000016449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4842464519074,
+                    37.4875947687986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5012 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4842506463461,
+                    37.4879146276147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5012 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000046225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4842506463461,
+                    37.4879146276147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5013 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000042528",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844006894304,
+                    37.4876590565311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5013 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000045846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844006894304,
+                    37.4876590565311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5014 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000020666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844048501756,
+                    37.4879789068033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5014 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000058448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844048501756,
+                    37.4879789068033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5014 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000064231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844048501756,
+                    37.4879789068033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5015 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000034300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4845459921861,
+                    37.4877111577996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5016 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000004067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4845470863957,
+                    37.4880309707864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5016 Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000085144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4845471208227,
+                    37.4880309738281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fernbrook Dr @ Fernbrook Pl",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4853149734809,
+                    37.4874197400347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fernbrook Dr @ Fernbrook Ter",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000087637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4849165801101,
+                    37.4880338325074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fernbrook Pl @ Fernbrook Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000109526",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4853149734809,
+                    37.4874197400347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Allwood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000024651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805139948358,
+                    37.4867731497809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Allwood Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000024651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4805139948358,
+                    37.4867731497809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4799589260752,
+                    37.4837613598147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "9",
+                "NEIGHBORHOOD": "Broad Rock Sports Complex",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000100853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4799589260752,
+                    37.4837613598147
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

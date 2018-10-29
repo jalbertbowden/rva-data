@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-federal-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 62, "ParkName": "Federal Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243958664000.0, "EditBy": "waldrosr", "EditDate": 1243958664000.0, "Shape__Are": 4.929316e-08, "Shape__Len": 0.0010433909745110001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4672562, 37.5505523 ], [ -77.4673445, 37.5503936 ], [ -77.4672585, 37.5503635 ], [ -77.4673116, 37.550263 ], [ -77.4675252, 37.5503344 ], [ -77.4673828, 37.550596 ], [ -77.4672562, 37.5505523 ] ] ] } }
+]
+}

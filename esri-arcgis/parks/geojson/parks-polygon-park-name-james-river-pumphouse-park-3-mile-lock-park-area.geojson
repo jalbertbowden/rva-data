@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-james-river-pumphouse-park-3-mile-lock-park-area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 108, "ParkName": "James River - Pumphouse Park (3 Mile Lock Park Area)", "ParkType": "regional park", "ParkOwner": "Utilities", "ParkMainta": "Parks", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244371198000.0, "EditBy": "waldrosr", "EditDate": 1244371198000.0, "Shape__Are": 3.268528722e-06, "Shape__Len": 0.011116494630974 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4902857, 37.5374247 ], [ -77.4901562, 37.5376434 ], [ -77.4893119, 37.537392 ], [ -77.4888555, 37.537345 ], [ -77.4883736, 37.5374079 ], [ -77.4865082, 37.5369172 ], [ -77.4864205, 37.5370121 ], [ -77.4863486, 37.53709 ], [ -77.4861756, 37.5371304 ], [ -77.4860563, 37.5372257 ], [ -77.4858932, 37.537356 ], [ -77.4854433, 37.5367407 ], [ -77.4856393, 37.5365055 ], [ -77.4862509, 37.5358689 ], [ -77.4892768, 37.5370357 ], [ -77.4892918, 37.537011 ], [ -77.4894005, 37.5370528 ], [ -77.4893855, 37.5370776 ], [ -77.4902857, 37.5374247 ] ] ] } }
+]
+}

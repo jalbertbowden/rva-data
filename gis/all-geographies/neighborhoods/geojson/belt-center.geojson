@@ -1,0 +1,4117 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4883349998544,
+        37.5010283860441,
+        -77.4710540148697,
+        37.5096164048008
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1 Westover Hills Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000051931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4866334547294,
+                    37.5096164048008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "100 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000029897",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4853112417085,
+                    37.5071978879101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1001 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "201806-101000059129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4817881129786,
+                    37.5047207001725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "101 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000023641",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857278340211,
+                    37.5079871571766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "102 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000031699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4862501625394,
+                    37.5073964618701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "103 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000036239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854921911425,
+                    37.5077845937729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "103 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000039117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854921911425,
+                    37.5077845937729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "112 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000004947",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4861028952197,
+                    37.5069399251245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "114 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000052617",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4848376899997,
+                    37.5069127205635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "114 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000052624",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4848376899626,
+                    37.5069127233097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "120 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000029541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858797938272,
+                    37.5066972187615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "120 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000048276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4858797938272,
+                    37.5066972187615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "124 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000113325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4857435893742,
+                    37.5065710154386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "128 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000082226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4856110724069,
+                    37.5064475131844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "132 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000015701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854748572241,
+                    37.5063221718692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "132 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000066021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854748572611,
+                    37.506322169123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "132 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000066113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854748572611,
+                    37.506322169123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "132 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000092387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854748572611,
+                    37.506322169123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000052196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd Unit 1B",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000061112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd Unit D",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000050359",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd Unit E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000044607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd Unit M",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000058971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 Belt Blvd Unit R",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000013871",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835685571337,
+                    37.5072169797838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "133 E Belt Blvd E",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "204584-101000061119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831145119376,
+                    37.5075881009064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "138 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "226377-101000078647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4849515928552,
+                    37.5057690001432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "138 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "227040-101000080269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4851532829132,
+                    37.5061186988838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "138 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000049496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4852622469686,
+                    37.506124976874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "140 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000006442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4851695974446,
+                    37.5060466285363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "140 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000092382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4851695974075,
+                    37.5060466312826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "144 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000117631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4850367890713,
+                    37.5059244194956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "146 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000015163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4833870094577,
+                    37.5064411011064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "160 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000004967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844920210568,
+                    37.5054271629016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "160 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000012697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4844920210568,
+                    37.5054271629016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "163 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000007946",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841445816486,
+                    37.5056356872206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "163 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000014005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841445816486,
+                    37.5056356872206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "163 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000014043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841445816486,
+                    37.5056356872206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "163 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000112755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841445816486,
+                    37.5056356872206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "163 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000112757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4841445816486,
+                    37.5056356872206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "164 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "247288-101000097787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4843675039087,
+                    37.5052961994007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "164 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000007981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4843591191226,
+                    37.5053018321604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "164 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000104937",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4843591191226,
+                    37.5053018321604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "168 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000023936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.484233170012,
+                    37.5051824769785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "180 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000032185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4816071178175,
+                    37.5059552914407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "201 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000014511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4806752306812,
+                    37.5061353255412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "201 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000032419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4806752306812,
+                    37.5061353255412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000014231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4839661753829,
+                    37.5049333508408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "204 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000068826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4839661753829,
+                    37.5049333508408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "205 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4836280063502,
+                    37.5054916905008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "205 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "207226-101000063406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835780103457,
+                    37.505612000907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "205 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "241466-101000092848",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835780103457,
+                    37.505612000907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "209 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000065914",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834135216222,
+                    37.5054438949662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "209 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000089002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834135216222,
+                    37.5054438949662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "216 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000050630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4835485517737,
+                    37.504564804766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "217 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831894898073,
+                    37.5047609906352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "217 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4831894898073,
+                    37.5047609906352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "217 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000077432",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830274237296,
+                    37.5053138990854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "220 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "237646-101000088974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4834278136626,
+                    37.504432499359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "221 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000080656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4828566097276,
+                    37.5052618356228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "221 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000107796",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4828566097276,
+                    37.5052618356228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "221 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000110429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4828566097276,
+                    37.5052618356228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "233311-101000084460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830270854193,
+                    37.5049309994376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "238974-101000090285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830270854193,
+                    37.5049309994376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000027815",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830145979763,
+                    37.50494682787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000027817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830145979763,
+                    37.50494682787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000081659",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830145979763,
+                    37.50494682787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000083111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830145979763,
+                    37.50494682787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "223 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000021614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829902861484,
+                    37.5045674385441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "223 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000054812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4829902861484,
+                    37.5045674385441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "224 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000037522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4832834635004,
+                    37.5043127023559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "225 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000011701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4800336069104,
+                    37.505851947493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "225 Plazaview Road Apt A",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000112440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482664470394,
+                    37.5051933675739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "228 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001750",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826876165441,
+                    37.5048356138873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "228 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4826876165441,
+                    37.5048356138873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "229 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000038841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482781942728,
+                    37.504422666404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "229 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000005341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824722297486,
+                    37.5051324129588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "232 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000034945",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796922413304,
+                    37.5053296511039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "232 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000048686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4796922413304,
+                    37.5053296511039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "233 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000004547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4822853377309,
+                    37.5050583835946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "233 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000010768",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4822853377309,
+                    37.5050583835946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "233 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000010769",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4822853377309,
+                    37.5050583835946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "234 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "260027-101000106429",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823993031745,
+                    37.5047051013253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "234 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "266368-101000109795",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823993031745,
+                    37.5047051013253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "234 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000108264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823995055224,
+                    37.5047334614151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "234 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "266391-101000109812",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4823379596029,
+                    37.5047798168307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "236 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000011386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4828647283866,
+                    37.5039299746627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "239 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "200528-101000057985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819336002165,
+                    37.5051383964347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaveiw Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "248862-101000099368",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821505140742,
+                    37.5046142996743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "259454-101000106109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821777266636,
+                    37.5044784572727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "200540-101000057989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482150514037,
+                    37.5046143024206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "207228-101000063407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821505140742,
+                    37.5046142996743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "208319-101000064279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482150514037,
+                    37.5046143024206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "249549-101000099651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821505140742,
+                    37.5046142996743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "257327-101000104736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821505139627,
+                    37.5046143079131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "248238-101000098666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821600886066,
+                    37.5046303010486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "218110-101000071527",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821397951971,
+                    37.5046369986517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "240 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000032740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4821470277446,
+                    37.50464263632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "241 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000017488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819058686376,
+                    37.5049381638119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "246 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000044901",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792852443319,
+                    37.5051320676181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "246 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000048599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792852443319,
+                    37.5051320676181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "246 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000102328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792852443319,
+                    37.5051320676181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000034752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4786492725581,
+                    37.5048904647547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "197279-101000055233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4827452865838,
+                    37.5037963008718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000072884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4827213865136,
+                    37.5038122345441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000072913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4827213865136,
+                    37.5038122345441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "300 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000088928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4827213865136,
+                    37.5038122345441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "301 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000003113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481533742745,
+                    37.5048282259104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "305 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000116976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481350283624,
+                    37.5047554028378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "308 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000000634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824007909436,
+                    37.5035759818878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "308 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000011332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824007909436,
+                    37.5035759818878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "308 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000011335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4824007909436,
+                    37.5035759818878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "310 Lordley Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000002995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4791850081082,
+                    37.5046429486795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "313 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000116166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.480971154039,
+                    37.5046205244914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "316 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000010998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4820369014877,
+                    37.503367387922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "316 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000016777",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4820369014877,
+                    37.503367387922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000020450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000053689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4818884118829,
+                    37.5032480836821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000055229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000055235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000077930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000088406",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000088412",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48188841192,
+                    37.5032480809359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Lordley Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000026716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792373121057,
+                    37.5040914452437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "320 Lordley Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000061966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4792373121057,
+                    37.5040914452437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "330 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000033277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4778979854952,
+                    37.5046816933363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "336 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000009005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775723509801,
+                    37.5045886838096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "336 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000037787",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775723509801,
+                    37.5045886838096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "336 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000047664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775723509801,
+                    37.5045886838096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "342 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000084320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775503437929,
+                    37.5042497425485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "342 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000108664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775503437929,
+                    37.5042497425485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "342 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000108665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4775503437929,
+                    37.5042497425485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "351 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000027302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764153402338,
+                    37.5046372627211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "351 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000027508",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764153402338,
+                    37.5046372627211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "351 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000034346",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764153402338,
+                    37.5046372627211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "351 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000080113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4764153402338,
+                    37.5046372627211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "351 E Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "227026-101000080254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4760816986044,
+                    37.5055959005491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000077441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4725650606292,
+                    37.5034129866524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3920 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000028571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4732873593253,
+                    37.502831494088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "400 Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "247689-101000098273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4817679935546,
+                    37.5031230851351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000050419",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746524477124,
+                    37.5019348903364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000061320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746524477124,
+                    37.5019348903364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4000 Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000112240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.474652447675,
+                    37.5019348930827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 Wharton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "204767-101000061363",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4802732877093,
+                    37.5034694005416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "401 Wharton Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "204752-101000061355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4807836617491,
+                    37.5040389676799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "405 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "206934-101000063153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4760816985297,
+                    37.5055959060416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "415 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000098179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756712560536,
+                    37.5044546152922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "415 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000111517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4756712560536,
+                    37.5044546152922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "415 E Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "277914-101000116150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4735776163976,
+                    37.5046796000603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4500 Millenbeck Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "225635-101000077955",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4809852077689,
+                    37.5042754012218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4500 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000032863",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4809657879787,
+                    37.5042685106044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4500 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "224206-101000076715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4809852077689,
+                    37.5042754012218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4504 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000113742",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4810402727046,
+                    37.5041145438439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4505 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "247566-101000098149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4817665028076,
+                    37.5043382987769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4505 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000008046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4818043491272,
+                    37.5043617968209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4507 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000018164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4808016799483,
+                    37.5037549677542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4508 Millenbeck Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "218855-101000072249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481170287539,
+                    37.5039739991076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4508 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000093216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4811584866386,
+                    37.5039696706644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4508 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000051109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4811584866386,
+                    37.5039696706644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4508 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000057176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4811584866386,
+                    37.5039696706644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4508 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "218615-101000072018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481170287539,
+                    37.5039739991076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4509 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000061838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819491493012,
+                    37.5042011470444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4509 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000074919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4819491493012,
+                    37.5042011470444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4509 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "205191-101000061757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.481944588357,
+                    37.5042018988708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4511 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "248863-101000099369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4809307169463,
+                    37.5036306004139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4513 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "233753-101000085014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482103087932,
+                    37.5041014011801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4513 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "235500-101000086784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.482103087932,
+                    37.5041014011801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4515 Millen Beck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "247567-101000098152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4810797885779,
+                    37.5035134996127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4515 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000112313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4811096323392,
+                    37.5035270908494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4519 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000011550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48126078819,
+                    37.5034240647034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4519 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000018365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.48126078819,
+                    37.5034240647034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4520 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000071247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4816461481179,
+                    37.5036076238169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4520 Millenbeck Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "233310-101000084461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4816520001545,
+                    37.5036210004809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4656 N Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000002091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4770965772677,
+                    37.5031471005248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4700 N Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000049675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4781812415804,
+                    37.5029128793137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4800 Old Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000100882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.483413527134,
+                    37.5084989295456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4800 Old Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000043650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.483413527134,
+                    37.5084989295456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4802 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000001435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4853085529972,
+                    37.5086824320387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4802 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000006072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4853085529972,
+                    37.5086824320387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4803 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "222583-101000075177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4860533227082,
+                    37.5094122585251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4806 Old Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000022725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4843675511662,
+                    37.5082182644593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5005 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000018634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883349998544,
+                    37.5093763503792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5005 Midlothian Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000065771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883349998544,
+                    37.5093763503792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "5005 Midlothian Tpke Apt Old",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "3",
+                "NSA": "Midlothian-2"
+            },
+            "id": "101000055532",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4883349998544,
+                    37.5093763503792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 E Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000026121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746518505578,
+                    37.5023150029884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 E Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000051021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746518505578,
+                    37.5023150029884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 E Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000052053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746518505578,
+                    37.5023150029884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "611 E Southside Plz",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000052056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4746518505578,
+                    37.5023150029884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000024697",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000044049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000082365",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000101973",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000114208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000114224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4736297573039,
+                    37.5021297275893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Belt Blvd @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000027201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4737202313305,
+                    37.502138902044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Greystone Ave @ Hull Street Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000037190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4753627341043,
+                    37.5010283860441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000111022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4737202313305,
+                    37.502138902044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "273015-101000113733",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4737403153831,
+                    37.5021425009782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Mcguire Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000068487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4710540148697,
+                    37.5037530459564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hull Street Road @ Spaine St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000068488",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4718877126594,
+                    37.5032475710922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Millenbeck Road @ Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000059844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4816951012393,
+                    37.5033505890527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Plazaview Road @ Brandon Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000022822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4839731735306,
+                    37.5051911215978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Hull St Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000123870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4725650606292,
+                    37.5034129866524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "103 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000124156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4854921911425,
+                    37.5077845937729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "4505 Berkley Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000122990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4818043491272,
+                    37.5043617968209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "222 Plazaview Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Belt Center",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-3"
+            },
+            "id": "101000124486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4830145979763,
+                    37.50494682787
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

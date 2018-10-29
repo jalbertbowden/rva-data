@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-mosby-court-community-center",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 153, "ParkName": "Mosby Court Community Center", "ParkType": "community center", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244117967000.0, "EditBy": "waldrosr", "EditDate": 1244117967000.0, "Shape__Are": 3.704698269e-06, "Shape__Len": 0.0081878524399870006 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4228743, 37.5412537 ], [ -77.422913, 37.5429559 ], [ -77.4229272, 37.5435805 ], [ -77.4226582, 37.5435942 ], [ -77.4223487, 37.5436099 ], [ -77.4220775, 37.5436247 ], [ -77.4219261, 37.5436346 ], [ -77.4217849, 37.5436618 ], [ -77.4216487, 37.5436936 ], [ -77.4215489, 37.543719 ], [ -77.4214596, 37.5437518 ], [ -77.4213372, 37.5429202 ], [ -77.4208319, 37.5426312 ], [ -77.4215438, 37.5418949 ], [ -77.4215519, 37.5412886 ], [ -77.4218666, 37.5412857 ], [ -77.4223801, 37.5412688 ], [ -77.4228743, 37.5412537 ] ] ] } }
+]
+}

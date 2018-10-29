@@ -1,0 +1,5917 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4687926189985,
+        37.4715492309872,
+        -77.4593961461336,
+        37.4836845407213
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2606 E Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "253634-101000102611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640884466602,
+                    37.4836845407213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2612 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057814",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4644578370732,
+                    37.4835882038033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2640 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "253636-101000102612",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639968947373,
+                    37.4832572935891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 A Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646158726541,
+                    37.4830517041076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641085457967,
+                    37.4830308853296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2700 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641085457967,
+                    37.4830308853296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4650496750093,
+                    37.4806205740955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2701 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4650496750093,
+                    37.4806205740955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000042747",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641335063113,
+                    37.4825422765096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641335063113,
+                    37.4825422765096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641335063113,
+                    37.4825422765096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641335063113,
+                    37.4825422765096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086841",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641335063113,
+                    37.4825422765096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4654606462569,
+                    37.4804165987243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4654606462569,
+                    37.4804165987243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4654606462569,
+                    37.4804165987243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2712 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4654606462569,
+                    37.4804165987243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2716 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463900582589,
+                    37.4824049946038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2720 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638248966599,
+                    37.4822348047918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2721 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000091938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677395043288,
+                    37.4800057428213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2724 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117079",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4637763941404,
+                    37.4820503397336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2725 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063369",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4648074010637,
+                    37.4800710889339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2728 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033399",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4637020412974,
+                    37.4818809991967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2732 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636450941109,
+                    37.481734148907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2732 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000029113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636450941109,
+                    37.481734148907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2732 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636450941109,
+                    37.481734148907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2732 Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636450941109,
+                    37.481734148907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2742 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000102166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4648301279876,
+                    37.4794062718442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2743 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000119915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4644474870467,
+                    37.479552888446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2755 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4642005036314,
+                    37.4792183639033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2801 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640820905976,
+                    37.4790577651253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2806 Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664601442527,
+                    37.4802945421306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639416680492,
+                    37.4788687332506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013839",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.467899854277,
+                    37.4795017701833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4678998543147,
+                    37.479501767437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4678998543147,
+                    37.479501767437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2813 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000109048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463764588972,
+                    37.4786137506985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2813 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000084876",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679593232445,
+                    37.4793120265069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2813 Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000041969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659359289707,
+                    37.4800770211327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2813 Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000096015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659359289707,
+                    37.4800770211327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664295832509,
+                    37.4798699327005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2818 Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045410",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664295832509,
+                    37.4798699327005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2819 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000034356",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680205688554,
+                    37.4791183651563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2900 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000095493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4648717948094,
+                    37.4777631631696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2906 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.464760731372,
+                    37.4775644131525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2907 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000095231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643642119852,
+                    37.4777184612925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2913 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4642617957898,
+                    37.4775225384844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2919 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4632198087606,
+                    37.4777392035739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2925 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631643237163,
+                    37.4775140630665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2925 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631643237163,
+                    37.4775140630665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2925 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.464194668302,
+                    37.4771415428736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2930 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048975",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636103703674,
+                    37.477382378334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2930 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000060024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636103703674,
+                    37.477382378334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2931 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000007396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641784357678,
+                    37.4769438247455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2937 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631369946668,
+                    37.4771239421729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2937 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4631369946668,
+                    37.4771239421729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2943 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463120664842,
+                    37.4769334850164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3001 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031835",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670050873064,
+                    37.4773938607909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3001 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670050873064,
+                    37.4773938607909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3001 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670050873064,
+                    37.4773938607909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3001 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670050873064,
+                    37.4773938607909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000042561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635451545998,
+                    37.4766127066258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3006 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4645768474949,
+                    37.4765192955431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681308215948,
+                    37.4774899790972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681308215948,
+                    37.4774899790972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681308215948,
+                    37.4774899790972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100534",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681308215948,
+                    37.4774899790972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000037191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681308215948,
+                    37.4774899790972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000059053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000096601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000112245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3007 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641508151935,
+                    37.4765720075806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3012 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673989138427,
+                    37.4769282756451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3012 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4645832774933,
+                    37.476305002112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3013 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630717805972,
+                    37.4763545145811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3013 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000067949",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4681060089514,
+                    37.4772888991961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3013 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641362757706,
+                    37.4763764877702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3018 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635175607342,
+                    37.4762391866054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3018 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000071849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635175607342,
+                    37.4762391866054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680812051796,
+                    37.4770871821484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "258665-101000105666",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4680796088318,
+                    37.4770904998571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3024 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043095",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634927312172,
+                    37.476037753864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3025 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630523655668,
+                    37.4759803601368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3025 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000085828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630523655668,
+                    37.4759803601368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3030 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634852371659,
+                    37.4758312707608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3030 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634852371281,
+                    37.4758312735071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3036 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635106530541,
+                    37.4756149104926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3037 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630642721047,
+                    37.4755815655101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3037 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111538",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630642721047,
+                    37.4755815655101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3042 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463551150974,
+                    37.4754269638661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3042 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463551150974,
+                    37.4754269638661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3042 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000021485",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463551150974,
+                    37.4754269638661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3042 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000047047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463551150974,
+                    37.4754269638661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3048 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4636188685749,
+                    37.4752644224347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000087825",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673427730875,
+                    37.4765190493314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463702367675,
+                    37.4750795024567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463702367675,
+                    37.4750795024567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3100 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000094154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4645632986947,
+                    37.4758861285044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3101 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035516",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4668950188746,
+                    37.4765726612542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013746",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466870168089,
+                    37.4763746211708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000019690",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466870168089,
+                    37.4763746211708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3107 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118656",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4633258253611,
+                    37.4747999604466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3112 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4672719508077,
+                    37.4760822812048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634116312886,
+                    37.4746252150053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634116312886,
+                    37.4746252150053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634116312886,
+                    37.4746252150053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634116312886,
+                    37.4746252150053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000113088",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4634116312508,
+                    37.4746252177515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640819596209,
+                    37.4755632517032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640819595831,
+                    37.4755632544495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3121 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679845175536,
+                    37.4762996581101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635933769667,
+                    37.4742654826577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3127 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000099261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4635933769667,
+                    37.4742654826577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3131 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002345",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4678754946002,
+                    37.4760798486884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3131 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080705",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4678754946002,
+                    37.4760798486884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3219 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000050857",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639743901779,
+                    37.4735119862351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3241 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.468201758115,
+                    37.4750969253875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000033062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3300 R St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116950",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4612633054452,
+                    37.4767267186521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3311 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605787147949,
+                    37.4760744503939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3311 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4605787147949,
+                    37.4760744503939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3313 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000076135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684871672254,
+                    37.4748335136233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602016466915,
+                    37.4743871702583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3501 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602016466915,
+                    37.4743871702583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3505 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4601137989148,
+                    37.4740633499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3507 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001503",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4600658050378,
+                    37.4738904944715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3600 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4602630746609,
+                    37.4730717822888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3601 Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "228808-101000081238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4607572250311,
+                    37.4715492309872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3613 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4650275377392,
+                    37.4808869125953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3615 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4593961461336,
+                    37.4726720289636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3615 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4593961461336,
+                    37.4726720289636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "198746-101000056417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.463994912316,
+                    37.4746243993276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3700 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036609",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653161136139,
+                    37.4799120345155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3701 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4642089347383,
+                    37.4742579720221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3707 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4647477958567,
+                    37.4787649152573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3707 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641872151549,
+                    37.4780483367324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3707 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000057602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4652989453229,
+                    37.4795340195072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3708 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000115051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4642626172107,
+                    37.4746967128055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3710 Platinum Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000117607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4604559236958,
+                    37.4718618715084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643879225725,
+                    37.4779788560635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643879225725,
+                    37.4779788560635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100417",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643879225347,
+                    37.4779788588098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031669",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659817578709,
+                    37.4810029261019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000064758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659817578709,
+                    37.4810029261019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465510131867,
+                    37.4794620988578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465510131867,
+                    37.4794620988578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3715 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649709614296,
+                    37.4787014389201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3716 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000015834",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646767378578,
+                    37.4782836076112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3718 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659652768147,
+                    37.4796920349819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3719 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662104628677,
+                    37.4810383537885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3719 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662104628677,
+                    37.4810383537885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3719 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662104628677,
+                    37.4810383537885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3721 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000116153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651744225613,
+                    37.4738191777634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3725 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000003522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466425296624,
+                    37.4810800018762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3725 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000031740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659617972944,
+                    37.479323343404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3725 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659617972944,
+                    37.479323343404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3737 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000052707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4668953769345,
+                    37.4811066933046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3738 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653259481954,
+                    37.4743781535746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3743 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671464237643,
+                    37.4811465739894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013752",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673274798111,
+                    37.4811306787367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673274798111,
+                    37.4811306787367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3749 Greenbay Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673274798111,
+                    37.4811306787367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3750 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000096838",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465675644553,
+                    37.4745527958086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649054191033,
+                    37.4750662969313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000091248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649054191033,
+                    37.4750662969313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651025683092,
+                    37.4781410206118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000018294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651025683092,
+                    37.4781410206118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658791672445,
+                    37.4746588116376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000061053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664526004027,
+                    37.4795918461974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000012222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4652842333029,
+                    37.4748052992928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000002735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646720217629,
+                    37.4767505803824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000048403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646720217629,
+                    37.4767505803824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000054757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646720217629,
+                    37.4767505803824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068693",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4646720217629,
+                    37.4767505803824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000005204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664455191549,
+                    37.4792317777291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664455191549,
+                    37.4792317777291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000084265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664455191926,
+                    37.4792317749828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000097853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4644941352227,
+                    37.4816072574732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3801 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4644941352227,
+                    37.4816072574732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000006315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651709225244,
+                    37.4751610370016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651709224867,
+                    37.4751610397479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000080989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651709225244,
+                    37.4751610370016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649710142798,
+                    37.4762451780552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000039219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.465334466968,
+                    37.4780688665115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000100355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4650170664156,
+                    37.4770937009412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4666976603391,
+                    37.4795628735512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4666976603391,
+                    37.4795628735512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000093788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4666976603391,
+                    37.4795628735512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3806 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000065784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4666976603391,
+                    37.4795628735512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3807 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000043137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658413877338,
+                    37.4784276971269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3807 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020473",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651321581739,
+                    37.4777487169307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3807 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000106809",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4651321581739,
+                    37.4777487169307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3808 Baronet",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "195102-101000053537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4665014963297,
+                    37.4756587986597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3810 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661246154894,
+                    37.4787558878649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3810 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661246154894,
+                    37.4787558878649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3811 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000030926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4667163924463,
+                    37.479202739145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3812 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056632",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653693950968,
+                    37.4752634637112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3812 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653693950968,
+                    37.4752634637112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3812 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000013242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4652655005814,
+                    37.4770719266532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3813 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4657204820729,
+                    37.4750339291694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3813 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000036256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653572782066,
+                    37.477673191177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3813 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653572782066,
+                    37.477673191177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3813 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4652737933738,
+                    37.4767220529516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3818 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000000127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4656075890625,
+                    37.4753794590774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3818 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4663897604668,
+                    37.4748943338634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3818 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000026418",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671493026966,
+                    37.4794106166374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3819 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000047316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653387189898,
+                    37.4758852689857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3819 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000069176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653387189898,
+                    37.4758852689857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3819 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105910",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653387189898,
+                    37.4758852689857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3819 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000118386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653387189898,
+                    37.4758852689857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3820 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664557348518,
+                    37.4748983428106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3820 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000110707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664557348518,
+                    37.4748983428106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3820 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000055170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4655801006409,
+                    37.4826749655274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3824 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000083303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658039972557,
+                    37.4754867394727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3824 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107472",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659902761339,
+                    37.4778731801051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3824 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000014317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4657432795236,
+                    37.4770381415158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3825 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000040909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4655800621678,
+                    37.4758776320143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3825 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000032535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4657636925569,
+                    37.4766838719612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3825 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000111265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4665761413949,
+                    37.4825658909011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659599467284,
+                    37.4761908114072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000072942",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4659599467284,
+                    37.4761908114072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000011389",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662680865947,
+                    37.4778455791797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662680865947,
+                    37.4778455791797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000016103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660054986988,
+                    37.477016354208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3830 Sunora Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000020471",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673872272074,
+                    37.4790326644303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3831 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000008115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658960520506,
+                    37.4758298209178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3831 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000045647",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658960520506,
+                    37.4758298209178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3831 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000077109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4658960520506,
+                    37.4758298209178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3835 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000058049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4663609315683,
+                    37.4774868550164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3836 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000062463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466212209449,
+                    37.4761334535098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3836 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "209484-101000065202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662509101557,
+                    37.4761586012509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3836 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000081524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4669160637841,
+                    37.4750576456047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3837 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4662433051905,
+                    37.4766443522201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3840 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000053994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466956031899,
+                    37.4752163517845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3841 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101653",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673241562396,
+                    37.4745385824972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3842 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "209485-101000065203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.466457791294,
+                    37.4758975988747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3842 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000009067",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4667717394395,
+                    37.4778102001657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3843 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000068628",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4667672298266,
+                    37.475568952324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3843 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000056954",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673734508404,
+                    37.4745425855861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3844 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000084086",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660322393341,
+                    37.4828943553832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3844 Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000087097",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4660322393341,
+                    37.4828943553832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3848 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000025912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670323311397,
+                    37.4777816150359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3848 Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000108619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4668528671012,
+                    37.4769217590362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3861 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679397842805,
+                    37.4746190182141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3861 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000105630",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679397842805,
+                    37.4746190182141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3900 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000017093",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4674679766702,
+                    37.4788116717518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3901 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675576904456,
+                    37.4784296503446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3901 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000001317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675576904833,
+                    37.4784296475983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3906 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000028233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677524408524,
+                    37.4787966799922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3907 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000047437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4677713262218,
+                    37.4784224814507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3912 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000049259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4679984902315,
+                    37.4788184565674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3918 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000027045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673398824831,
+                    37.4806138044655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3918 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000086240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4673398824454,
+                    37.4806138072117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3924 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000070153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675308414628,
+                    37.480637150631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3924 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000098012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675308414628,
+                    37.480637150631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3924 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000114464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4675308414628,
+                    37.480637150631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Baronet Dr @ Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000107063",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4672156057889,
+                    37.4775533097095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Baronet Dr @ Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000110464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671394629827,
+                    37.4767585153579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Glenan Dr @ Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000119358",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643666733693,
+                    37.4790993760474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Ct @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000023905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685026654863,
+                    37.4753620765773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Ct @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000023905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4685026654863,
+                    37.4753620765773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073477",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684347205218,
+                    37.4786938148146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000073536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684347205218,
+                    37.4786938148146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000063403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684669364871,
+                    37.4754544601798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000063403",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4684669364871,
+                    37.4754544601798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4682641026461,
+                    37.4766749299116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000101244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4669480299306,
+                    37.4829771981524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Terminal Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000051115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4669480299306,
+                    37.4829771981524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "196437-101000054457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687880845697,
+                    37.4740922136238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Hopkins Road @ Warwick Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "196437-101000054457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687880845697,
+                    37.4740922136238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Kelrae Dr @ Old Post Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000103062",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4644032662384,
+                    37.4769693481812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Sunora Dr @ Sunora Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000074786",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4661904951984,
+                    37.4794517102765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Terminal Ave @ Belt Blvd",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000022912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4630935656663,
+                    37.4816302144044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-4"
+            },
+            "id": "101000091277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687880845697,
+                    37.4740922136238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000091277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687880845697,
+                    37.4740922136238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Warwick Road @ Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000035891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4687926189985,
+                    37.4741611596344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3815 Guilder Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4663857826247,
+                    37.4744463901339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3800 Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000124836",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4649054191033,
+                    37.4750662969313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3241 Hopkins Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120654",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.468201758115,
+                    37.4750969253875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3113 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000125025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4640819595831,
+                    37.4755632544495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3819 Dylisdale Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4653387189898,
+                    37.4758852689857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3019 Kelrae Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4641234648734,
+                    37.4761805820638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Old Post Road @ Baronet Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000125175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4671394630204,
+                    37.4767585126117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3713 Grandel Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000121227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4643879225725,
+                    37.4779788560635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3820 Autumn Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000123748",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4664024967853,
+                    37.4787258729655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2807 Glenan Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000120383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4639416680492,
+                    37.4788687332506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3907 Ladbroke Ct",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "8",
+                "NEIGHBORHOOD": "Deerbourne",
+                "PRECINCT": "2",
+                "NSA": "Broad Rock-2"
+            },
+            "id": "101000124010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4670649654745,
+                    37.4800609742895
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

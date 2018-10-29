@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-westview-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 104, "ParkName": "Westview Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244368559000.0, "EditBy": "waldrosr", "EditDate": 1244368559000.0, "Shape__Are": 2.31320388e-07, "Shape__Len": 0.0022150612050109999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.5190112, 37.5772851 ], [ -77.5190074, 37.5772815 ], [ -77.5189835, 37.5772579 ], [ -77.5191542, 37.5766077 ], [ -77.5196997, 37.5771203 ], [ -77.5193159, 37.577179 ], [ -77.5190619, 37.5773334 ], [ -77.5190112, 37.5772851 ] ] ] } }
+]
+}

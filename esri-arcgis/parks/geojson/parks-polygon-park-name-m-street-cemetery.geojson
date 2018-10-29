@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-m-street-cemetery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 30, "ParkName": "M Street Cemetery", "ParkType": "cemetery", "ParkOwner": "Parks", "ParkMainta": "Cemeteries", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244045675000.0, "EditBy": "waldrosr", "EditDate": 1244045675000.0, "Shape__Are": 7.0862774e-08, "Shape__Len": 0.001374627622976 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4116162, 37.532236 ], [ -77.4116573, 37.5321934 ], [ -77.4116643, 37.5321862 ], [ -77.4117441, 37.5321036 ], [ -77.4117775, 37.532069 ], [ -77.4118587, 37.531985 ], [ -77.411885, 37.5319578 ], [ -77.4118959, 37.5319645 ], [ -77.411949, 37.5319095 ], [ -77.4120063, 37.5318502 ], [ -77.4121049, 37.5319103 ], [ -77.4119944, 37.5320245 ], [ -77.4119739, 37.5320457 ], [ -77.4119853, 37.5320525 ], [ -77.4119851, 37.5320527 ], [ -77.4117365, 37.5323097 ], [ -77.4116162, 37.532236 ] ] ] } }
+]
+}

@@ -1,0 +1,296 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.5457274881662,
+        37.5748681643194,
+        -77.5305205602941,
+        37.5816726676982
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "12 Richmond Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000117273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5396054717071,
+                    37.5788586662005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "14 Bostwick Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000110014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5329580744017,
+                    37.5805285339903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2 Boatwright Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "244900-101000095428",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5360412483758,
+                    37.5816726676982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "3 C Gateway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000055732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5377473970813,
+                    37.5761894097019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "43 Old Mill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000043171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5305205602941,
+                    37.5793315478293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "43 Old Mill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000045434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5305205602941,
+                    37.5793315478293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "43 Old Mill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000053434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5305205602941,
+                    37.5793315478293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "46 Crenshaw Way",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000026183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5457274881662,
+                    37.5748681643194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "55 Old Mill Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000022009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5313725406953,
+                    37.5797703175656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Campus Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "194998-101000053420",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5319794096036,
+                    37.579223099591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Campus Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "244679-101000095155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5359344507482,
+                    37.5815505990856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Campus Dr @ Gateway Road",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000105727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5345129383972,
+                    37.5794730963765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "College Road @ Boatwright Dr",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000061939",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5389144214433,
+                    37.5813996257622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": true,
+                "NEIGHBORHOOD": "University of Richmond",
+                "PRECINCT": "3",
+                "NSA": "Far West-1"
+            },
+            "id": "101000051499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5387910234644,
+                    37.5757854942742
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

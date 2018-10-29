@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4282201, 37.5349384]}, "properties": {"OBJECTID": 2, "Name": "Amtrak Thruway & Megabus Boarding and Drop Off", "Service": "Bus", "Documents": null, "WebSite": null, "GlobalID": "85b34200-e094-4b75-97c0-702465fdaff0"}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-77.4656905, 37.5718753]}, "properties": {"OBJECTID": 4, "Name": "Greyhound Boarding and Drop Off", "Service": "Bus", "Documents": null, "WebSite": null, "GlobalID": "fecbfd39-a5a0-47b8-b235-3de48d966e2b"}}
+]}

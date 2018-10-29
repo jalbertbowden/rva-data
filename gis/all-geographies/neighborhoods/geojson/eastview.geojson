@@ -1,0 +1,5917 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -77.4144381330696,
+        37.5482528515918,
+        -77.4074857328682,
+        37.553889146605
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Rogers",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "195401-101000053732",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134019857648,
+                    37.5490100000032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065404",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133641254833,
+                    37.5489897568846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133641254833,
+                    37.5489897568846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1600 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4133641254833,
+                    37.5489897568846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141171970303,
+                    37.5491939395736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4141171970303,
+                    37.5491939395736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130460691722,
+                    37.5489277490667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1601 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065407",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130460691722,
+                    37.5489277490667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "247054-101000097507",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121182482192,
+                    37.5489092611703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118948",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121182481795,
+                    37.5489092639165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072409",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1602 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108536",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4132867590287,
+                    37.5490917392068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1603 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000016253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118186476862,
+                    37.5487758465678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1604 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120677659399,
+                    37.5490484664304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1605 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4117620411755,
+                    37.548873404217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071402",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120157100623,
+                    37.5491772120291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000082618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116966862838,
+                    37.5489795359726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000097729",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128576111736,
+                    37.5492261880711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1607 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000098206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128576111736,
+                    37.5492261880711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000013168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119341622836,
+                    37.5492938519979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065431",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119341622836,
+                    37.5492938519979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1608 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413120658047,
+                    37.5493828332135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1609 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4139410772364,
+                    37.5493740640259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1609 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075349",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116433468337,
+                    37.5490706224255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1610 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130552576874,
+                    37.5494922117179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115658697623,
+                    37.5491991317298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127410484646,
+                    37.5494216773236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1611 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000071120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4127410484646,
+                    37.5494216773236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1612 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000060579",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4117862852302,
+                    37.5494838125044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1614 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4117191704868,
+                    37.5495923286101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1614 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000061336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129314584439,
+                    37.5497038670157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1616 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4128899849497,
+                    37.5497950847713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1617 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136373741039,
+                    37.5497484814727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1617 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105069",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136373741039,
+                    37.5497484814727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1617 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136373741039,
+                    37.5497484814727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1617 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000107438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114016150528,
+                    37.5494742168567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000020909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136329416351,
+                    37.5498928471069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136329416351,
+                    37.5498928471069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1619 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4136329416351,
+                    37.5498928471069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1621 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028484",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4124618468221,
+                    37.5498832645721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1627 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036645",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4134358379315,
+                    37.5502786694189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000042520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048636",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066616",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1700 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000066621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126136268077,
+                    37.550212701158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112593515864,
+                    37.5496694687061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1701 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112593515864,
+                    37.5496694687061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114782329464,
+                    37.5499433776291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114782329464,
+                    37.5499433776291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031355",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114782329464,
+                    37.5499433776291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000034908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114782329464,
+                    37.5499433776291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1702 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "210482-101000066230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116419943041,
+                    37.549985900961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1703 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110675487043,
+                    37.549767193466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1704 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000008031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114090796292,
+                    37.550090167484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121718523721,
+                    37.550339519914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1705 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121718523721,
+                    37.550339519914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1706 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4123946210342,
+                    37.5505740165282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050071",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4130566497036,
+                    37.5507078989374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000010908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111030281612,
+                    37.5499827074004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1707 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000078029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111030281612,
+                    37.5499827074004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1708 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108820",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112646775048,
+                    37.5503067624887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099769",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111872894947,
+                    37.5504528036844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051353",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111872894947,
+                    37.5504528036844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1710 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4122178616593,
+                    37.5508526409287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000075857",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129688947844,
+                    37.5510008754107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120863482601,
+                    37.5504910902117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000092380",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120863482601,
+                    37.5504910902117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000092965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120863482601,
+                    37.5504910902117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1711 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000092968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120863482601,
+                    37.5504910902117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1712 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036350",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4111634332126,
+                    37.5505850707713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1713 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129042205129,
+                    37.551095717395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1713 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129042205129,
+                    37.551095717395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1713 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000054001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4129042205129,
+                    37.551095717395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1713 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119704480681,
+                    37.5505809655346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1714 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "213961-101000068523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121487996495,
+                    37.5510741990539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1715 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000093875",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107798690085,
+                    37.550429744956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1715 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118944263592,
+                    37.5507089582868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1715 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118944263592,
+                    37.5507089582868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000005882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110334143196,
+                    37.550777885957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110334143196,
+                    37.550777885957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1716 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027826",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120699187741,
+                    37.5511875951377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107145580637,
+                    37.5505326548383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102847",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107145581035,
+                    37.5505326520921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1717 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076944",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118219849421,
+                    37.5508279146843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000033941",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4109680817326,
+                    37.5508822926509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039422",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4109680817326,
+                    37.5508822926509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119985443792,
+                    37.5512876403258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1718 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119985443792,
+                    37.5512876403258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1719 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126451981819,
+                    37.5514044595343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1719 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4126451981819,
+                    37.5514044595343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125815639226,
+                    37.5515108189909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072469",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410588696485,
+                    37.5507384578072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072471",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105886964452,
+                    37.5507384605534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116918486572,
+                    37.5510289252478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116918486572,
+                    37.5510289252478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116918486572,
+                    37.5510289252478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068423",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116918486572,
+                    37.5510289252478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000076504",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116918486572,
+                    37.5510289252478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1723 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027827",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4125197301064,
+                    37.5516119434914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4108270060671,
+                    37.5511214834575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4108270060671,
+                    37.5511214834575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000081791",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4108270060671,
+                    37.5511214834575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1800 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110472651859,
+                    37.5486338253461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4104373080179,
+                    37.5509845928622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1801 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106423747727,
+                    37.5485059088113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4109425701122,
+                    37.548781373422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1802 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056899",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.411781408566,
+                    37.551667104522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1803 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106037310567,
+                    37.548606424227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1803 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106037310567,
+                    37.548606424227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1803 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000022936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113819975958,
+                    37.551509786872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1804 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000043561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116965837464,
+                    37.5518073401766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000001709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412263564487,
+                    37.5520305544073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023729",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412263564487,
+                    37.5520305544073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412263564487,
+                    37.5520305544073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.412263564487,
+                    37.5520305544073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410379991214,
+                    37.5511475610446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112972777066,
+                    37.5516427393202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112972777066,
+                    37.5516427393202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1805 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084373",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112972777066,
+                    37.5516427393202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107941007104,
+                    37.5490002019589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107941007502,
+                    37.5490001992127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107941007104,
+                    37.5490002019589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000069537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4107941007502,
+                    37.5490001992127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116083180486,
+                    37.5519469399392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1806 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4116083180486,
+                    37.5519469399392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1807 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "225622-101000077938",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.411190298296,
+                    37.5517714992849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1807 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000063082",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112107269618,
+                    37.5517829862541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1807 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112107269618,
+                    37.5517829862541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1807 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112107269618,
+                    37.5517829862541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1807 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4112107269618,
+                    37.5517829862541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1808 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110637",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106965217402,
+                    37.5491089182874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1809 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410343439273,
+                    37.5490716658075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106440086886,
+                    37.5491976388577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1810 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100686",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4106440086886,
+                    37.5491976388577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1811 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002357",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4101877107261,
+                    37.5514420385785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1811 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000002009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4101877107261,
+                    37.5514420385785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000026194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4104047205426,
+                    37.5517832614978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099668",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4104047205426,
+                    37.5517832614978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000050480",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4104047205426,
+                    37.5517832614978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000041398",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105499144864,
+                    37.5494347918927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105499144864,
+                    37.5494347918927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114463003855,
+                    37.5521981696466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1900 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000111529",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114463003855,
+                    37.5521981696466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000107486",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099512719103,
+                    37.5517365080878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099512719103,
+                    37.5517365080878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000053258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099512719103,
+                    37.5517365080878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000099707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100790003607,
+                    37.5494468087006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000107487",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110651219989,
+                    37.5520394775323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110651219989,
+                    37.5520394775323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1901 Rogers St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000044140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4110651219989,
+                    37.5520394775323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1902 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000114916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103324685014,
+                    37.5519079563058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099071504959,
+                    37.551833954391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000028956",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100243546162,
+                    37.549539799533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000031555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100243546162,
+                    37.549539799533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100243546162,
+                    37.549539799533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000112822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100243546162,
+                    37.549539799533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1903 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000116810",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4100243546162,
+                    37.549539799533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1905 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "218768-101000072139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119272959905,
+                    37.5525013010954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1905 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120118676051,
+                    37.5525215640371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1905 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032689",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120118676051,
+                    37.5525215640371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1905 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000032691",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120118676051,
+                    37.5525215640371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1906 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040765",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103451110161,
+                    37.54971538888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "201858-101000059262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119545908709,
+                    37.5526009003456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1907 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "225376-101000077677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4119545908709,
+                    37.5526009003456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1908 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.410251112462,
+                    37.5498506668447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1910 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102008202033,
+                    37.550019308033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1910 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "216498-101000070285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102008202033,
+                    37.550019308033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1910 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102008202033,
+                    37.550019308033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1910 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4102008202033,
+                    37.550019308033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097013186212,
+                    37.5500446176666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097013186212,
+                    37.5500446176666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000039092",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097013186212,
+                    37.5500446176666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097013186212,
+                    37.5500446176666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1911 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097013186212,
+                    37.5500446176666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1912 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000035502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4101194394833,
+                    37.550169368539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1915 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115387745988,
+                    37.5532377258345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1916 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000090007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099780181492,
+                    37.5503704548211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1916 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000114072",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099780181492,
+                    37.5503704548211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1918 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056348",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099160970886,
+                    37.5504774164143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1918 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099160971285,
+                    37.5504774136681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1918 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "198104-101000056018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4099112068097,
+                    37.5504816011677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1920 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098507689069,
+                    37.5505814297928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1920 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "235243-101000086680",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4098645141917,
+                    37.5505874997447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "19th St @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000029219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4121808860624,
+                    37.5485308094977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000040491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097757458407,
+                    37.5507378326574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083734",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097757458407,
+                    37.5507378326574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000087629",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097757458407,
+                    37.5507378326574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2000 Phaup St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000117822",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4097821778943,
+                    37.5515405843517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2001 Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "198179-101000056106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4113345956142,
+                    37.553889146605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000614",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102753",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000011936",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000025525",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000049030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000064224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2003 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000118296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093480413355,
+                    37.5502368472289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2004 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000047287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4096009541639,
+                    37.55106084213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2006 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019633",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4093270045702,
+                    37.5497039183537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096882",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000048963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056531",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091425203934,
+                    37.5509680923983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2007 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000109387",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4089909520368,
+                    37.5501758647648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000762",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095355708943,
+                    37.5489454877104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095355708943,
+                    37.5489454877104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000051971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095355708943,
+                    37.5489454877104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000100040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095355708943,
+                    37.5489454877104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000000594",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091770264884,
+                    37.5496982374882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091770264884,
+                    37.5496982374882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2008 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000088251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091770264884,
+                    37.5496982374882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2009 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068533",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4091528116659,
+                    37.5491538205807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000042575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4092706796404,
+                    37.548788185838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000006715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4095659943855,
+                    37.5483369493078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000115239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088595360105,
+                    37.5496638074399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "200877-101000058261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088590157592,
+                    37.549664000405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2015 Carroll St Rear",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000019304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074950041812,
+                    37.5511624314078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2016 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "200880-101000058263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087619910815,
+                    37.5496439995765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2019 Selden St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000012904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4085041621887,
+                    37.5500645099766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2020 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000027996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4092631666728,
+                    37.5482528515918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2020 Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000077286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4092631666728,
+                    37.5482528515918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "199731-101000057426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4089184535582,
+                    37.5513535466631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023605",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408919205526,
+                    37.5513611560818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000062644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408919205526,
+                    37.5513611560818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2101 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070388",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.408919205526,
+                    37.5513611560818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000072115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088281352771,
+                    37.5514750036725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2103 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073928",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088281352373,
+                    37.5514750064187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2104 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000013830",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.409210021487,
+                    37.5516604721309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2104 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000015568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.409210021487,
+                    37.5516604721309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2104 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000110719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4092100215268,
+                    37.5516604693847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000023602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000030552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773829134,
+                    37.5515823750678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000033505",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000107855",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000036685",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000096147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773829134,
+                    37.5515823750678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000105366",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773829134,
+                    37.5515823750678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000106491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113060",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2105 N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113819",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087773828735,
+                    37.551582377814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 A N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046364",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090959652047,
+                    37.5516942492634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 A N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000089312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090959652047,
+                    37.5516942492634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 A N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000046367",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090959652047,
+                    37.5516942492634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 A N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000082054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090959652047,
+                    37.5516942492634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2106 A N 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000086344",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4090959652047,
+                    37.5516942492634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "21st St @ Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000055799",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4087325598803,
+                    37.5489054784492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2204 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000084688",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084385723892,
+                    37.5495949872326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2320 N 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000074619",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4078953804678,
+                    37.550730346653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4114953229865,
+                    37.5496470425536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ 20th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4103292178244,
+                    37.5494172923547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000080923",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4135261573584,
+                    37.5504333350351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000083759",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4135261573584,
+                    37.5504333350351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4135261573584,
+                    37.5504333350351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Carver St @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413526157398,
+                    37.5504333322889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cool Lane @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000103675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115866399246,
+                    37.5535843972504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cool Lane @ Whitcomb St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115866399246,
+                    37.5535843972504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Cool Lane @ Whitcomb St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104068",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115866399246,
+                    37.5535843972504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000057288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000065118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Fairfield Ave @ Mechanicsville Tpke",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000113152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413526157398,
+                    37.5504333322889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Carver St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.413526157398,
+                    37.5504333322889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Cool Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000102275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115866399246,
+                    37.5535843972504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000091267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000038204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000068788",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000070684",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000073994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Mechanicsville Tpke @ Fairfield Ave",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000108570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4144381330696,
+                    37.5489444497334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Newbourne St @ 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000024444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084708504232,
+                    37.5493486974453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Phaup St @ 21st St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000056436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4074857328682,
+                    37.5509079176342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "Whitcomb St @ Cool Lane",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "6",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000104061",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4115866399246,
+                    37.5535843972504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120157100623,
+                    37.5491772120291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1606 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4120157100623,
+                    37.5491772120291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1610 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000123571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4118294150671,
+                    37.5493831099417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "2014 Newbourne St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000121435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4088595360105,
+                    37.5496638074399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105886964452,
+                    37.5507384605534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADDRESS": "1721 N 19th St",
+                "City": "Richmond",
+                "State": "VA",
+                "COUNCIL": "7",
+                "NEIGHBORHOOD": "Eastview",
+                "PRECINCT": true,
+                "NSA": "East-1"
+            },
+            "id": "101000124295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4105886964452,
+                    37.5507384605534
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    }
+}

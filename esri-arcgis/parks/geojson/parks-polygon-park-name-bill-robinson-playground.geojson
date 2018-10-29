@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-bill-robinson-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 37, "ParkName": "Bill Robinson Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243853408000.0, "EditBy": "waldrosr", "EditDate": 1243853408000.0, "Shape__Are": 1.967777737e-06, "Shape__Len": 0.0063065152010280002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4054049, 37.5305152 ], [ -77.4037846, 37.5295211 ], [ -77.4046357, 37.5286247 ], [ -77.40588, 37.5293825 ], [ -77.4053408, 37.5299434 ], [ -77.4057374, 37.5301777 ], [ -77.4054049, 37.5305152 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-swansboro-playground",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 125, "ParkName": "Swansboro Playground", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244364477000.0, "EditBy": "waldrosr", "EditDate": 1244364477000.0, "Shape__Are": 1.632934945e-06, "Shape__Len": 0.0065431372299160004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4585907, 37.5077001 ], [ -77.4585424, 37.5076997 ], [ -77.4589216, 37.5074565 ], [ -77.4584316, 37.5069894 ], [ -77.458741, 37.506804 ], [ -77.4596136, 37.5067773 ], [ -77.4599931, 37.5067621 ], [ -77.4603061, 37.5065609 ], [ -77.4605883, 37.5068511 ], [ -77.4605774, 37.5071407 ], [ -77.4605577, 37.5075677 ], [ -77.4602968, 37.507735 ], [ -77.4599124, 37.5073629 ], [ -77.4594219, 37.5076785 ], [ -77.4587389, 37.5077007 ], [ -77.4585907, 37.5077001 ] ] ] } }
+]
+}

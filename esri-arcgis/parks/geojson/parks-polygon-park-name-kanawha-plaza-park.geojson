@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-kanawha-plaza-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 82, "ParkName": "Kanawha Plaza Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244038759000.0, "EditBy": "waldrosr", "EditDate": 1244038759000.0, "Shape__Are": 1.06163796e-06, "Shape__Len": 0.0050316114979790001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4385058, 37.5366485 ], [ -77.4387132, 37.5364161 ], [ -77.4387419, 37.5363833 ], [ -77.4388324, 37.536434 ], [ -77.4390656, 37.5364664 ], [ -77.4391833, 37.5363403 ], [ -77.4391794, 37.5360801 ], [ -77.4391323, 37.5360524 ], [ -77.4391823, 37.536006 ], [ -77.4393349, 37.5360984 ], [ -77.4399799, 37.5364903 ], [ -77.4403476, 37.5367114 ], [ -77.4399887, 37.5368317 ], [ -77.439876, 37.5369565 ], [ -77.4399474, 37.5370709 ], [ -77.4399062, 37.5371088 ], [ -77.4396895, 37.5373354 ], [ -77.4385058, 37.5366485 ] ] ] } }
+]
+}

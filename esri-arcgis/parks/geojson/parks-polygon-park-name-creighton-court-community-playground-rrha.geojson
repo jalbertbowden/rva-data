@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-creighton-court-community-playground-rrha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 52, "ParkName": "Creighton Court Community Playground - RRHA", "ParkType": "playground", "ParkOwner": "Parks", "ParkMainta": "Parks\/Sch\/RRHA", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1243951268000.0, "EditBy": "waldrosr", "EditDate": 1243951268000.0, "Shape__Are": 5.13921928e-07, "Shape__Len": 0.003472865818362 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.3985005, 37.5448254 ], [ -77.3977591, 37.5443412 ], [ -77.3979099, 37.5442214 ], [ -77.3978138, 37.5439264 ], [ -77.3982089, 37.5437159 ], [ -77.3984508, 37.5440744 ], [ -77.3984595, 37.5440872 ], [ -77.3985963, 37.5441813 ], [ -77.3985114, 37.5442577 ], [ -77.3984308, 37.5443299 ], [ -77.3986035, 37.544452 ], [ -77.3985905, 37.5444636 ], [ -77.398627, 37.5444894 ], [ -77.3984642, 37.5446355 ], [ -77.3986033, 37.5447338 ], [ -77.3985543, 37.5447775 ], [ -77.3985005, 37.5448254 ] ] ] } }
+]
+}

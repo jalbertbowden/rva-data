@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "parks-polygon-park-name-patrick-henry-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3, "ParkName": "Patrick Henry Park", "ParkType": "mini-park", "ParkOwner": "Parks", "ParkMainta": "Parks\/DPW", "Location": null, "CreatedBy": "waldrosr", "CreatedDat": 1244201411000.0, "EditBy": "waldrosr", "EditDate": 1244201411000.0, "Shape__Are": 3.59919574e-07, "Shape__Len": 0.0025932888399579999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4188329, 37.5322995 ], [ -77.4185081, 37.5320994 ], [ -77.4188198, 37.5317693 ], [ -77.4195377, 37.5322166 ], [ -77.4192471, 37.5325202 ], [ -77.4189155, 37.532314 ], [ -77.4188574, 37.5322777 ], [ -77.4188329, 37.5322995 ] ] ] } }
+]
+}
