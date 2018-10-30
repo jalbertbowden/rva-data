@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zoning-richmond-virginia-object-id-523",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 523, "Name": "R-7", "Ordinance": "2017-151", "OrdinanceP": "https:\/\/richmondva.legistar.com\/LegislationDetail.aspx?ID=3109859&GUID=AFD9C65F-6219-4582-BBFB-1D07CC23C2F3&Options=ID|Text|&Search=2017-151", "Conditiona": 0, "AdoptionDa": 1506297600000.0, "Comment": null, "EditBy": "mortonrf", "EditDate": 1507199555000.0, "ChangeDate": 253402214400000.0, "GlobalID": "9332832d-1b73-41b3-a376-c5a843162d8b", "Shape__Are": 3.25343303e-07, "Shape__Len": 0.0023193556761510001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4697046, 37.5655574 ], [ -77.4697259, 37.5655422 ], [ -77.4699997, 37.5657683 ], [ -77.4701164, 37.5658564 ], [ -77.4701963, 37.56592 ], [ -77.470164, 37.5659449 ], [ -77.4698082, 37.566205 ], [ -77.4697399, 37.5662559 ], [ -77.4694567, 37.5660169 ], [ -77.4692829, 37.5658702 ], [ -77.4693488, 37.5658175 ], [ -77.4697046, 37.5655574 ] ] ] } }
+]
+}

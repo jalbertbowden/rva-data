@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zoning-richmond-virginia-object-id-8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Name": "R-73", "Ordinance": null, "OrdinanceP": null, "Conditiona": 0, "AdoptionDa": 946684800000.0, "Comment": null, "EditBy": "rosewl", "EditDate": 1107186062000.0, "ChangeDate": 253402214400000.0, "GlobalID": "89ee338f-f59c-4de3-bfb4-f6ac73cc8f4e", "Shape__Are": 1.654078513e-06, "Shape__Len": 0.0051808185886720003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4738754, 37.5534165 ], [ -77.4736529, 37.5538124 ], [ -77.4734972, 37.554096 ], [ -77.4732493, 37.554538 ], [ -77.4725624, 37.5542917 ], [ -77.4720196, 37.5540979 ], [ -77.472331, 37.5535367 ], [ -77.4726065, 37.5530406 ], [ -77.4726434, 37.5529776 ], [ -77.4727162, 37.5530053 ], [ -77.4730998, 37.5531426 ], [ -77.4732601, 37.5531972 ], [ -77.4738099, 37.5533933 ], [ -77.4738754, 37.5534165 ] ] ] } }
+]
+}

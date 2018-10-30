@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zoning-richmond-virginia-object-id-186",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 186, "Name": "B-5", "Ordinance": "2005-347-2006-13", "OrdinanceP": "http:\/\/eservices\/services\/ordinances\/api\/pdf\/2005-347-2006-13", "Conditiona": 1, "AdoptionDa": 1136764800000.0, "Comment": null, "EditBy": "mortonrf", "EditDate": 1366883769000.0, "ChangeDate": 253402214400000.0, "GlobalID": "1eab47da-a81e-46e7-b0b1-db4dc7bfa6b4", "Shape__Are": 7.1172507e-08, "Shape__Len": 0.0010895966767360001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.4239455, 37.5319159 ], [ -77.4240834, 37.5317752 ], [ -77.4241929, 37.531842 ], [ -77.4242917, 37.5318993 ], [ -77.4242894, 37.5319017 ], [ -77.4240823, 37.5321166 ], [ -77.4238842, 37.5319953 ], [ -77.4238728, 37.5319883 ], [ -77.4239455, 37.5319159 ] ] ] } }
+]
+}
