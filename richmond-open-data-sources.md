@@ -79,3 +79,7 @@ via: [https://twitter.com/EventsPublic/status/1036985731326062593](https://twitt
 [2017 Service Area Report Card](https://camfound.org/wp-content/uploads/2018/03/2017-Report-Card-Summary-for-web-FINAL.pdf)  
 [About Us - The Cameron Foundation](https://camfound.org/about-us/publications)  
 
+
+
+[VCU Center for Urban and Regional Analysis (CURA) Reports](https://cura.vcu.edu/reports/)
+
