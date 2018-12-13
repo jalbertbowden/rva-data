@@ -82,4 +82,4 @@ via: [https://twitter.com/EventsPublic/status/1036985731326062593](https://twitt
 
 
 [VCU Center for Urban and Regional Analysis (CURA) Reports](https://cura.vcu.edu/reports/)
-
+[Metro View](https://cura.vcu.edu/ongoing-projects/metro-view/)
