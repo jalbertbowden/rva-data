@@ -1,23 +1,15 @@
-# City of Richmond, Virginia and Greater Metro Region Open Data Sources  
-
-[ftp://ftp.ci.richmond.va.us/GIS/](ftp://ftp.ci.richmond.va.us/GIS/)  
-pretty cool how github doesn't know about ftp...  
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
 [Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
 
-## ESRI/ArcGIS  
-### City of Richmond  
-[ArcGIS REST Services Directory](https://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)  
-[http://cor.maps.arcgis.com/home/index.html](http://cor.maps.arcgis.com/home/index.html)  
-[Richmond Maps and Apps](https://www.arcgis.com/home/group.html?id=466049e2e72b4a69947f99ea5591426c#overview)  
+
+
+
 
 
 [RVA Statistics](https://rvastatistics.com/)  
 
 
-[RVA ESRI](http://cor.maps.arcgis.com/home/index.html)
 
-[RVA DOT GOV ESRI ArcGIS Server](http://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)
 [Parcels](http://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services/Parcels/FeatureServer/0)
 
 [one dot one richmond map](https://blog.richmond.edu/sal/one-dot-richmond/)
@@ -25,23 +17,13 @@ pretty cool how github doesn't know about ftp...
 [https://www.arcgis.com/apps/Embed/index.html?webmap=1abaabc9cc4e44feab158646c292e066&extent=&theme=light&zoom=false&scale=false&disable_scroll=false&basemap_toggle=true&alt_basemap=imagery](https://www.arcgis.com/apps/Embed/index.html?webmap=1abaabc9cc4e44feab158646c292e066&extent=&theme=light&zoom=false&scale=false&disable_scroll=false&basemap_toggle=true&alt_basemap=imagery)  
 [https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/BlockGroups_RVA_2015_Race/FeatureServer/0?f=json](https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/BlockGroups_RVA_2015_Race/FeatureServer/0?f=json)  
 [https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/BlockGroups_RVA_2015_Race/FeatureServer/](https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/BlockGroups_RVA_2015_Race/FeatureServer/)  
-[University of Richmond's Spatial Analysis Lab (SAL) ArcGIS REST Services Directory](https://services.arcgis.com/ak2bo87wLfUpMrt1/ArcGIS/rest/services)   
+
 [East End Cemetary Search Map - https://blog.richmond.edu/sal/east-end-cemetery-search-map/](https://blog.richmond.edu/sal/east-end-cemetery-search-map/)  
 
-
-
-
-
-
-[Richmond Parcel Mapper](http://cor.maps.arcgis.com/apps/webappviewer/index.html?id=c3ed34c0fb38441fb95cd2d2d6a22d48/)  
+## City Departmental Data  
 [Richmond Property Search](http://eservices.ci.richmond.va.us/applications/propertysearch/Search.aspx)  
-
-
-[Search for ""](http://www.arcgis.com/home/search.html?q=richmond&start=1&sortOrder=desc&sortField=relevance)  
-[https://www.arcgis.com/home/user.html?user=richmondvagis](https://www.arcgis.com/home/user.html?user=richmondvagis)  
-
-
 [City of Richmond Foreclosures](http://idx.richmondvamls.net/i/Foreclosures_City_of_Richmond)  
+
 
 [Richmond's Watersheds](http://www.rvah2o.org/richmonds-watersheds/)  
 
@@ -52,8 +34,7 @@ pretty cool how github doesn't know about ftp...
 [](https://www.huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf)  
 [](http://www.institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf)  
 
-## Criminal Justice Data  
-[VCU Police Data](https://police.vcu.edu/facts/)  
+
 
 ### Active Live Events  
 [Active Live Events Feed](http://www.richmondgov.com/content/EmergencyCommunications/ActiveLiveEventFeed.aspx)  
@@ -79,7 +60,47 @@ via: [https://twitter.com/EventsPublic/status/1036985731326062593](https://twitt
 [2017 Service Area Report Card](https://camfound.org/wp-content/uploads/2018/03/2017-Report-Card-Summary-for-web-FINAL.pdf)  
 [About Us - The Cameron Foundation](https://camfound.org/about-us/publications)  
 
+## Events  
+[Richmond, VA - Citywide Common Items - Calendar](http://www.richmondgov.com/common/calendar.aspx)  
+
+[This link value is where you go after clicking on the add to google calendar button - https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com](https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com)  
 
 
-[VCU Center for Urban and Regional Analysis (CURA) Reports](https://cura.vcu.edu/reports/)
-[Metro View](https://cura.vcu.edu/ongoing-projects/metro-view/)
+
+## Traffic & Transportation Data  
+
+[Pedestrian, Bicycling And Trails](http://www.richmondgov.com/BikePed/index.aspx)  
+[City of Richmond Virginia GRTC Pulse: Citizen Feedback](https://cor.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d009e99d528a48ddbdddcddeecfbef6d)  
+
+
+
+
+[City News - Richmond, Virginia City Announcements - Feed](http://richmondvaannouncements.blogspot.com/feeds/posts/default)  
+[City News - Richmond, Virginia City Announcements](http://richmondvaannouncements.blogspot.com/)  
+[Traffic Advisories in Richmond, Virginia Feed](http://richmondvastreetcloser.blogspot.com/feeds/posts/default)  
+[Traffic Advisories in Richmond, Virginia](http://richmondvastreetcloser.blogspot.com/)  
+
+
+
+
+[Traffic Advisories Blog](http://richmondvastreetcloser.blogspot.com/)  
+We could scrape,  
+or  
+[pull in feed](http://richmondvastreetcloser.blogspot.com/feeds/posts/default)  
+
+[Geographic Information System (GIS)](http://www.richmondgov.com/PublicWorks/GISteam.aspx)  
+
+
+[Richmond Public Agencies | NextDoor](https://nextdoor.com/agency-city/va/richmond/)  
+  
+
+## CSO Events  
+
+[Combined Sewer Overflow (CSO) Project](http://www.richmondgov.com/publicutilities/projectCombinedSewerOverflow.aspx)  
+[Subscribe CSOevents@richmondgov.com](mailto:CSOevents@richmondgov.com)
+[Combined Sewer Overflow (CSO) Water Conditions](http://www.richmondgov.com/PublicUtilities/projectCombinedSewerOverflowWaterConditions.aspx)  
+[Combined Sewer Overflow (CSO) Water Conditions JPG - Doesn't Change](http://www.richmondgov.com/PublicUtilities/images/CSONotification.jpg)  
+
+
+
+[Waste Water Connect Rates - 404s (2018-11-09)](http://eservices.ci.richmond.va.us/APPLICATIONS/CSOSUBSCRIPTION/error.htm?aspxerrorpath=/applications/CSOSubscription/csoregister.aspx)  
