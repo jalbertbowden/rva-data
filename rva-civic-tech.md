@@ -48,26 +48,9 @@ Virginia Rules is a law-themed educational program for Virginia middle and high 
 [Media Pong](https://mediapond.com/)  
 [Bike Walk RVA](https://www.sportsbackers.org/program/bike-walk-rva/)  
 [The Legacy Academy](https://www.thelegacyacademy.org/)  
+[Connect VA](https://www.connectva.org/)  
 
 
-## Possible Projects  
-[crowdsourced data and social media in participatory urban planning with @openstreetmaps](https://www.cogitatiopress.com/urbanplanning/issue/viewIssue/85/pdf85)   
-[boston.gov/innovation-and-technology/open-data-open-knowledge](https://www.boston.gov/innovation-and-technology/open-data-open-knowledge)  
-[youth coding[](https://www.codeclub.org.uk/)  
-
-### Dashboards  
-[Devon County Council: https://github.com/Devon-County-Council/](https://github.com/Devon-County-Council/)  
-[Housing Insights](http://housinginsights.org/)  
-
-### Civic Switchboard  
-[Civic Switchboard - Connecting Libraries and Community Information Networks](https://civic-switchboard.github.io/)  
-[Introduction to Civic Data Ecosystems](https://civic-switchboard.github.io/updates/post_4)  
-[streamdata.io/blog/streaming-data-apis-github-repositories/](https://streamdata.io/blog/streaming-data-apis-github-repositories/)  
-[machine-learning-models-311-511-911-city-data](https://streamdata.io/blog/machine-learning-models-311-511-911-city-data/)  
-[email: civic-switchboard@pitt.edu](mailto:civic-switchboard@pitt.edu)  
-[Civic Switchboard](https://civic-switchboard.github.io/)  
-[https://medium.com/civic-tech-data-collaborative/ctdc-blogs-51aedee20fe0](https://medium.com/civic-tech-data-collaborative/ctdc-blogs-51aedee20fe0)  
-[https://data.wprdc.org/group/transportation](https://data.wprdc.org/group/transportation)  
 
 ## Code for RVA  
 [https://github.com/codeforamerica/rva-screening](https://github.com/codeforamerica/rva-screening)  
@@ -78,9 +61,4 @@ Virginia Rules is a law-themed educational program for Virginia middle and high 
 [https://github.com/codeforamerica/rva-screening-ui-prototypes](https://github.com/codeforamerica/rva-screening-ui-prototypes)  
 [https://github.com/codeforamerica/rva](https://github.com/codeforamerica/rva)  
 [http://rva.codeforamerica.org/end-of-year-report/index.html](http://rva.codeforamerica.org/end-of-year-report/index.html)  
-
-
-
-
-
-
+[Code for RVA Drive Directory](https://drive.google.com/drive/folders/1bbbsJQVi6Ev7Bt1E8goN-CAEvXOnyiPL?usp=sharing)  

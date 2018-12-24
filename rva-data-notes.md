@@ -1,5 +1,6 @@
 # RVA Data Notes  
 
+## Note 01  
 [from this map: http://map.richmondgov.com/](http://map.richmondgov.com/)  
 
 clicking on:  
@@ -10,3 +11,10 @@ clicking on:
 [JSON URL for 807 N. Robinson Street is: http://gis.richmondgov.com/ArcGIS/rest/services/WebMercator/Parcels/MapServer/identify?f=json&tolerance=3&returnGeometry=true&imageDisplay=1440%2C680%2C96&geometry=%7B%22x%22%3A-8623637.337309053%2C%22y%22%3A4517456.733260631%7D&geometryType=esriGeometryPoint&sr=102100&mapExtent=-8623890.53496517%2C4517416.72325365%2C-8623460.576681199%2C4517549.890888824&layers=all%3A2%2C1&callback=dojo.io.script.jsonp_dojoIoScript14._jsonpCallback](http://gis.richmondgov.com/ArcGIS/rest/services/WebMercator/Parcels/MapServer/identify?f=json&tolerance=3&returnGeometry=true&imageDisplay=1440%2C680%2C96&geometry=%7B%22x%22%3A-8623637.337309053%2C%22y%22%3A4517456.733260631%7D&geometryType=esriGeometryPoint&sr=102100&mapExtent=-8623890.53496517%2C4517416.72325365%2C-8623460.576681199%2C4517549.890888824&layers=all%3A2%2C1&callback=dojo.io.script.jsonp_dojoIoScript14._jsonpCallback)  
 
 
+## Note 02 - Geo  
+[GeoHack - Richmond, Virginia](https://tools.wmflabs.org/geohack/geohack.php?language=en&pagename=Richmond%2C_Virginia&params=37_32_N_77_28_W__globe:export&title=Richmond%2C%20Virginia)  
+Dublin Core:  
+<pre><code>
+&#60;meta name="DC.Coverage.Spatial.Lat" content="37.533333" /&#62;
+&#60;meta name="DC.Coverage.Spatial.Long" content="-77.466667" /&#62;
+</code></pre>
