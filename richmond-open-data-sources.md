@@ -1,3 +1,5 @@
+# Richmond, Virginia Open Data Sources  
+
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
 [Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
 
@@ -32,13 +34,6 @@ City of Richmond CSO Event Has Occurred message sent by email.
 [Richmond's Watersheds](http://www.rvah2o.org/richmonds-watersheds/)  
 
 
-## Data Dump - Needs to be curated!  
-[](https://community-wealth.org/content/richmond-virginia)  
-[](https://cura.vcu.edu/media/cura/pdfs/cura-documents/Richmond_VA_Downtown_Profile_FINALE.pdf)  
-[](https://www.huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf)  
-[](http://www.institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf)  
-
-
 
 ### Active Live Events  
 [Active Live Events Feed](http://www.richmondgov.com/content/EmergencyCommunications/ActiveLiveEventFeed.aspx)  
@@ -64,21 +59,10 @@ via: [https://twitter.com/EventsPublic/status/1036985731326062593](https://twitt
 [2017 Service Area Report Card](https://camfound.org/wp-content/uploads/2018/03/2017-Report-Card-Summary-for-web-FINAL.pdf)  
 [About Us - The Cameron Foundation](https://camfound.org/about-us/publications)  
 
-## Events  
-[Richmond, VA - Citywide Common Items - Calendar](http://www.richmondgov.com/common/calendar.aspx)  
-
-[This link value is where you go after clicking on the add to google calendar button - https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com](https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com)  
-
-
-
 ## Traffic & Transportation Data  
 
 [Pedestrian, Bicycling And Trails](http://www.richmondgov.com/BikePed/index.aspx)  
 [City of Richmond Virginia GRTC Pulse: Citizen Feedback](https://cor.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=d009e99d528a48ddbdddcddeecfbef6d)  
-
-
-
-
 [City News - Richmond, Virginia City Announcements - Feed](http://richmondvaannouncements.blogspot.com/feeds/posts/default)  
 [City News - Richmond, Virginia City Announcements](http://richmondvaannouncements.blogspot.com/)  
 [Traffic Advisories in Richmond, Virginia Feed](http://richmondvastreetcloser.blogspot.com/feeds/posts/default)  
@@ -108,3 +92,14 @@ or
 
 
 [Waste Water Connect Rates - 404s (2018-11-09)](http://eservices.ci.richmond.va.us/APPLICATIONS/CSOSUBSCRIPTION/error.htm?aspxerrorpath=/applications/CSOSubscription/csoregister.aspx)  
+
+
+
+
+## Data Dump - Needs to be curated!  
+[community-wealth.org/content/richmond-virginia](https://community-wealth.org/content/richmond-virginia)  
+[cura.vcu.edu/media/cura/pdfs/cura-documents/Richmond_VA_Downtown_Profile_FINALE.pdf](https://cura.vcu.edu/media/cura/pdfs/cura-documents/Richmond_VA_Downtown_Profile_FINALE.pdf)  
+[huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf](https://www.huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf)  
+[institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf](http://www.institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf)  
+
+

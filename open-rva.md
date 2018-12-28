@@ -15,6 +15,7 @@
 
 ### Civic Switchboard  
 [Civic Switchboard - Connecting Libraries and Community Information Networks](https://civic-switchboard.github.io/)  
+[Public Libraries as Platforms for Civic Engagement](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/41877/CivLib.pdf)
 [Introduction to Civic Data Ecosystems](https://civic-switchboard.github.io/updates/post_4)  
 [email: civic-switchboard@pitt.edu](mailto:civic-switchboard@pitt.edu)  
 [Civic Switchboard](https://civic-switchboard.github.io/)  

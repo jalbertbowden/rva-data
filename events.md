@@ -1,4 +1,4 @@
-## Events  
+# Events  
 [Richmond, VA - Citywide Common Items - Calendar](http://www.richmondgov.com/common/calendar.aspx)  
 [This link value is where you go after clicking on the add to google calendar button - https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com](https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com)  
 
@@ -16,3 +16,13 @@
             </div>   
         </div>
 </code></pre>
+
+
+## Events  
+[Richmond, VA - Citywide Common Items - Calendar](http://www.richmondgov.com/common/calendar.aspx)  
+
+[This link value is where you go after clicking on the add to google calendar button - https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com](https://calendar.google.com/calendar/r?cid=mkb1i16qfd3n4rrf3j22glgqd4@group.calendar.google.com)  
+
+
+## Miscellaneous  
+[RVA Events - Thriving Cities Group](https://www.thrivingcitiesgroup.com/rva-events)  
