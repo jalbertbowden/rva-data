@@ -8,12 +8,12 @@
 Daily Neighborhood Watch Report - Crimes within 5.0 miles of Richmond, Virginia - Past 24 Hours
 [Crime Radius Map](https://communitycrimemap.com/?address=(37.54072570800781,-77.43605041503906)&radius=5.0)  
 
-[City of Richmond CSO Events]http://www.richmondgov.com/PublicUtilities/projectCombinedSewerOverflowWaterConditions.aspx)  
+[City of Richmond CSO Events](http://www.richmondgov.com/PublicUtilities/projectCombinedSewerOverflowWaterConditions.aspx)  
 City of Richmond CSO Event Has Occurred message sent by email.  
-
 
 [RVA Statistics](https://rvastatistics.com/)  
 
+[Integrating Satellite and Ground Measurements for Predicting Locations of Extreme Urban Heat - Science Museum of Virginia](https://www.mdpi.com/2225-1154/7/1/5)  
 
 
 [Parcels](http://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services/Parcels/FeatureServer/0)
