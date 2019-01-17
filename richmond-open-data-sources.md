@@ -101,5 +101,6 @@ or
 [cura.vcu.edu/media/cura/pdfs/cura-documents/Richmond_VA_Downtown_Profile_FINALE.pdf](https://cura.vcu.edu/media/cura/pdfs/cura-documents/Richmond_VA_Downtown_Profile_FINALE.pdf)  
 [huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf](https://www.huduser.gov/portal/publications/pdf/RichmondVA-comp-16.pdf)  
 [institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf](http://www.institutephi.org/wp-content/uploads/2017/02/Richmond-City-Food-Policy-Recommendations-Report-FINAL.pdf)  
+[Richmond, VA Urban Heat Island Assessment July 2017](https://osf.io/f9nhg/)  
 
 
