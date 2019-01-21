@@ -3,7 +3,8 @@
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
 [Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
 
-
+## Redistricting Datasets  
+[Richmond FTP 2011 Redistrictin Data](ftp://ftp.ci.richmond.va.us/Redistricting2011/)  
 
 Daily Neighborhood Watch Report - Crimes within 5.0 miles of Richmond, Virginia - Past 24 Hours
 [Crime Radius Map](https://communitycrimemap.com/?address=(37.54072570800781,-77.43605041503906)&radius=5.0)  
