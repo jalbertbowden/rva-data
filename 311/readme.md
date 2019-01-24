@@ -9,3 +9,11 @@
 
 Data Source:  [View All Requests RVA311.com](https://www.rva311.com/rvaone/requests/viewallrequest)  
 
+## References and Resources  
+
+[Two million calls to 311](http://www.residentmar.io/2017/02/13/311.html)
+[Inbound 911 Calls](https://data.richmondgov.com/Community-Safety-and-Well-Being/Inbound-911-Calls/wp89-nyra)  
+[rva 311 view all requests](https://www.rva311.com/rvaone/requests/viewallrequest)  
+[311 Launches in Richmond, Va., Along with a New City Department to Manage It](http://www.govtech.com/dc/articles/311-Launches-in-Richmond-Va-Along-with-a-New-City-Department-to-Manage-It.html)  
+
+
