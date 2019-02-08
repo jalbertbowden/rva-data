@@ -2,6 +2,7 @@
 
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
 [Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
+[City ESRI ArcGIS REST Services Directory](https://services.arcgis.com/ak2bo87wLfUpMrt1/ArcGIS/rest/services)  
 
 ## Redistricting Datasets  
 [Richmond FTP 2011 Redistricting Data - ftp://ftp.ci.richmond.va.us/Redistricting2011/](ftp://ftp.ci.richmond.va.us/Redistricting2011/)  
