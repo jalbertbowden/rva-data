@@ -5,6 +5,10 @@
 [City ESRI ArcGIS REST Services Directory](https://services.arcgis.com/ak2bo87wLfUpMrt1/ArcGIS/rest/services)  
 [william.palmquist_cor ESRI ArcGIS REST Services Directory](https://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)  
 [City of Richmond GIS Team ESRI ArcGIS Profile](https://cor.maps.arcgis.com/home/user.html?user=richmondvagis)  
+[ABC License Report](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/reportABC_License_Review.pdf)
+[Tree Canopy Chart 2002](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/TreeCanopyChart.pdf)  
+[Art Map](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/artsdistrictmap2.pdf)  
+
 
 ## [Vacant Buildings](http://www.richmondgov.com/PlanningAndDevelopmentReview/VacantBuildingRegistry.aspx)  
 [Vacant Building List](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/listVacantBuildinglist.pdf)  
