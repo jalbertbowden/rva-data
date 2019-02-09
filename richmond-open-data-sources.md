@@ -1,8 +1,13 @@
 # Richmond, Virginia Open Data Sources  
 
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
-[Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)
+[Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)  
 [City ESRI ArcGIS REST Services Directory](https://services.arcgis.com/ak2bo87wLfUpMrt1/ArcGIS/rest/services)  
+[william.palmquist_cor ESRI ArcGIS REST Services Directory](https://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)  
+[City of Richmond GIS Team ESRI ArcGIS Profile](https://cor.maps.arcgis.com/home/user.html?user=richmondvagis)  
+
+## UofR ESRI  
+[taylor.holden_urichmond ESRI ArcGIS Items](http://www.arcgis.com/home/search.html?q=owner%3Ataylor.holden_urichmond&restrict=false&start=1&sortOrder=true&sortField=relevance)  
 
 ## Redistricting Datasets  
 [Richmond FTP 2011 Redistricting Data - ftp://ftp.ci.richmond.va.us/Redistricting2011/](ftp://ftp.ci.richmond.va.us/Redistricting2011/)  
