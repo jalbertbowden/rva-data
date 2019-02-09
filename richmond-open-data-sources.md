@@ -12,7 +12,7 @@
 [Vacant Buildings 2011-08](http://web.archive.org/web/20111119055029/http://www.richmondgov.com/planninganddevelopmentreview/documents/listVacantBuildingRegistry.pdf)  
 [Vacant Building List - 2015-10](http://web.archive.org/web/20160207052813/http://www.richmondgov.com/planninganddevelopmentreview/documents/listVacantBuildingRegistry.pdf)  
 [Vacant Building List 2013-12](http://web.archive.org/web/20150910095803/http://www.richmondgov.com/planninganddevelopmentreview/documents/listVacantBuildingRegistry.pdf)  
-
+[Vacant Building List 2011-08](http://web.archive.org/web/20111119055029/http://www.richmondgov.com/planninganddevelopmentreview/documents/listVacantBuildingRegistry.pdf)  
 
 ## UofR ESRI  
 [taylor.holden_urichmond ESRI ArcGIS Items](http://www.arcgis.com/home/search.html?q=owner%3Ataylor.holden_urichmond&restrict=false&start=1&sortOrder=true&sortField=relevance)  
