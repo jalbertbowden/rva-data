@@ -6,6 +6,11 @@
 [william.palmquist_cor ESRI ArcGIS REST Services Directory](https://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)  
 [City of Richmond GIS Team ESRI ArcGIS Profile](https://cor.maps.arcgis.com/home/user.html?user=richmondvagis)  
 
+## Vacant Buildings  
+[Vacant Building List](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/listVacantBuildinglist.pdf)  
+[Vacant Building List 2017-06](http://web.archive.org/web/20171028155024/http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/listVacantBuildinglist.pdf)  
+
+
 ## UofR ESRI  
 [taylor.holden_urichmond ESRI ArcGIS Items](http://www.arcgis.com/home/search.html?q=owner%3Ataylor.holden_urichmond&restrict=false&start=1&sortOrder=true&sortField=relevance)  
 
