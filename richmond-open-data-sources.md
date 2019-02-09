@@ -6,7 +6,7 @@
 [william.palmquist_cor ESRI ArcGIS REST Services Directory](https://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services)  
 [City of Richmond GIS Team ESRI ArcGIS Profile](https://cor.maps.arcgis.com/home/user.html?user=richmondvagis)  
 
-## Vacant Buildings  
+## [Vacant Buildings](http://www.richmondgov.com/PlanningAndDevelopmentReview/VacantBuildingRegistry.aspx)  
 [Vacant Building List](http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/listVacantBuildinglist.pdf)  
 [Vacant Building List 2017-06](http://web.archive.org/web/20171028155024/http://www.richmondgov.com/PlanningAndDevelopmentReview/documents/listVacantBuildinglist.pdf)  
 [Vacant Buildings 2011-08](http://web.archive.org/web/20111119055029/http://www.richmondgov.com/planninganddevelopmentreview/documents/listVacantBuildingRegistry.pdf)  
