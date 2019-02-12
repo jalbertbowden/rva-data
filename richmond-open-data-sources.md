@@ -1,5 +1,8 @@
 # Richmond, Virginia Open Data Sources  
 
+## [Open Data Portal](https://data.richmondgov.com/)  
+[City launches online data portal](https://www.richmond.com/news/local/city-of-richmond/city-launches-online-data-portal/article_bd1a6031-ce75-5630-af21-f425d7166836.html)  
+
 [https://data.richmondgov.com/resource/jde6-giuc.json](https://data.richmondgov.com/resource/jde6-giuc.json)  
 [Refuse Collection GeoJSON](https://data.richmondgov.com/api/geospatial/tnpy-mt5v?method=export&format=GeoJSON)  
 [City ESRI ArcGIS REST Services Directory](https://services.arcgis.com/ak2bo87wLfUpMrt1/ArcGIS/rest/services)  
