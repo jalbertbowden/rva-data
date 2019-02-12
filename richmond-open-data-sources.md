@@ -37,6 +37,8 @@ City of Richmond CSO Event Has Occurred message sent by email.
 
 [Integrating Satellite and Ground Measurements for Predicting Locations of Extreme Urban Heat - Science Museum of Virginia](https://www.mdpi.com/2225-1154/7/1/5)  
 
+## [Richmond Data & Statistics - Richmond Area Research Guide - LibGuides at University of Richmond](http://libguides.richmond.edu/c.php?g=41847&p=3332027)  
+
 
 [Parcels](http://services1.arcgis.com/k3vhq11XkBNeeOfM/ArcGIS/rest/services/Parcels/FeatureServer/0)
 
