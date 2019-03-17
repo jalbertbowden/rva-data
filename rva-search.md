@@ -28,3 +28,16 @@
 [#VolunteerVCU](https://www.linkedin.com/feed/hashtag/?keywords=%23VolunteerVCU)  
 [#RVAx](https://www.linkedin.com/feed/hashtag/?keywords=%23RVAx)  
 [#richmondva](https://www.linkedin.com/feed/hashtag/?keywords=%23richmondva)  
+
+## RVA TechComm: User Groups, Meetups, etc.  
+
+[@TableauRVA](https://twitter.com/TableauRVA)  
+[Central Virginia TUG - Tableau User Group](https://usergroups.tableau.com/centralvirginiatug)  
+[@RichmondSQL](https://twitter.com/RichmondSQL)  
+[rva.pass.org/default.aspx](https://rva.pass.org/default.aspx)  
+[@RVATechEvents](https://twitter.com/RVATechEvents)  
+[Subscribe to Richmond Tech Events Mailing List](https://techeventsnetwork.us13.list-manage.com/subscribe/post?u=cf75f40d0e0438abbbcb0345d&id=09c1a505bf)  
+[Richmond, Virginia - The Tech Events Network](https://techeventsnetwork.com/cities/richmond/)  
+[techeventsnetwork.com/cities/richmond/]](https://techeventsnetwork.com/cities/richmond/
+[Virginia SUG]](https://vasug.org/)  
+[Richmond Java Users Group - JUG]](https://www.meetup.com/Richmond-Java-Users-Group/)  
