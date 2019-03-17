@@ -4,7 +4,7 @@
 
 [#BestInRVa](https://twitter.com/hashtag/BestInRVa)  
 [#SQLSatRVA](https://twitter.com/hashtag/SQLSatRVA)  
-[#richmond](https://twitter.com/hashtag/richmond\)  
+[#richmond](https://twitter.com/hashtag/richmond)  
 [#richmondva](https://twitter.com/hashtag/richmondva)  
 [#RiverCity](https://twitter.com/hashtag/RiverCity)  
 [#RPSBoard](https://twitter.com/hashtag/RPSBoard)  
