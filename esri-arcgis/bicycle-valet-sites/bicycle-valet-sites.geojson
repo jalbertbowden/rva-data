@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-77.4347637, 37.5438671]}, "type": "Feature", "properties": {"WebSite": null, "Sept_19": null, "Sept_18": null, "Capacity": null, "GlobalID": "c627ef37-af95-4d0e-b79f-9dccdc62a7e4", "OBJECTID": 4, "EventVenue": null, "Sept_22": null, "Sept_23": null, "Sept_20": null, "Sept_21": null, "Sept_26": null, "Sept_27": null, "Sept_24": null, "Sept_25": null, "Documents": null}},
+{"geometry": {"type": "Point", "coordinates": [-77.4175063, 37.5266431]}, "type": "Feature", "properties": {"WebSite": null, "Sept_19": null, "Sept_18": null, "Capacity": null, "GlobalID": "544a9874-faa4-4724-8f31-2c0506834aa2", "OBJECTID": 6, "EventVenue": null, "Sept_22": null, "Sept_23": null, "Sept_20": null, "Sept_21": null, "Sept_26": null, "Sept_27": null, "Sept_24": null, "Sept_25": null, "Documents": null}}
+]}
